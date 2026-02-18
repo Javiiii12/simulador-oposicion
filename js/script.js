@@ -1,154 +1,253 @@
-// State
-let questions = [];
-let currentQuestionIndex = 0;
-let userAnswers = {}; // Map: index -> selectedOptionKey (e.g., 'a')
+// Estado Global
+let allQuestions = []; // Todar las preguntas cargadas
+let currentQuestions = []; // Preguntas del juego actual
+let currentIndex = 0;
 let score = 0;
+let userAnswers = {}; // Map: index -> respuesta
 
-// DOM Elements
-const loadingEl = document.getElementById('loading');
-const quizArea = document.getElementById('quiz-area');
-const footerNav = document.getElementById('footer-nav');
+// Elementos DOM - Vistas
+const views = {
+    menu: document.getElementById('view-menu'),
+    topics: document.getElementById('view-topics'),
+    random: document.getElementById('view-random'),
+    game: document.getElementById('view-game'),
+    results: document.getElementById('view-results')
+};
 
-const topicBadge = document.getElementById('topic-badge');
-const questionText = document.getElementById('question-text');
-const optionsContainer = document.getElementById('options-container');
+// Carga Inicial
+document.addEventListener('DOMContentLoaded', loadData);
 
-const feedbackArea = document.getElementById('feedback-area');
-const feedbackTitle = document.getElementById('feedback-title');
-const explanationBox = document.getElementById('explanation-box');
-
-const currentQNumEl = document.getElementById('current-q-num');
-const totalQNumEl = document.getElementById('total-q-num');
-const progressBar = document.getElementById('progress-bar');
-const scoreEl = document.getElementById('score');
-
-const prevBtn = document.getElementById('prev-btn');
-const nextBtn = document.getElementById('next-btn');
-
-// Init
-document.addEventListener('DOMContentLoaded', () => {
-    loadQuestions();
-});
-
-async function loadQuestions() {
+async function loadData() {
     try {
-        const response = await fetch('data/preguntas.json');
-        if (!response.ok) throw new Error('No se pudo cargar el archivo');
+        const res = await fetch('data/preguntas.json');
+        if (!res.ok) throw new Error('Error cargando datos');
+        allQuestions = await res.json();
+        console.log(`Cargadas ${allQuestions.length} preguntas.`);
 
-        questions = await response.json();
+        // Actualizar UI de configuración aleatoria
+        const maxSpan = document.getElementById('max-questions-count');
+        if (maxSpan) maxSpan.textContent = allQuestions.length;
 
-        if (!questions || questions.length === 0) {
-            loadingEl.textContent = 'No hay preguntas disponibles.';
-            return;
-        }
-
-        // Randomize questions (optional - uncomment if desired)
-        // questions.sort(() => Math.random() - 0.5);
-
-        totalQNumEl.textContent = questions.length;
-        loadingEl.style.display = 'none';
-        quizArea.style.display = 'flex';
-        footerNav.style.display = 'flex';
-
-        renderQuestion(0);
-    } catch (error) {
-        console.error(error);
-        loadingEl.innerHTML = `Error al cargar preguntas: ${error.message}.<br><br>Asegúrate de que 'preguntas.json' está en la misma carpeta y estás usando un servidor web (o GitHub Pages).`;
+    } catch (err) {
+        console.error(err);
+        alert("Error cargando las preguntas. Asegúrate de iniciar con un servidor local o en GitHub Pages.");
     }
 }
 
-function renderQuestion(index) {
-    const q = questions[index];
-    currentQuestionIndex = index;
+// --- NAVEGACIÓN SPA ---
 
-    // Update Header
-    currentQNumEl.textContent = index + 1;
-    const progressPercent = ((index + 1) / questions.length) * 100;
-    progressBar.style.width = `${progressPercent}%`;
-
-    // Content
-    topicBadge.textContent = q.tema || 'General';
-    questionText.textContent = q.pregunta;
-
-    // Options
-    optionsContainer.innerHTML = '';
-    const existingAnswer = userAnswers[index];
-    const isAnswered = existingAnswer !== undefined;
-
-    Object.entries(q.opciones).forEach(([key, value]) => {
-        const btn = document.createElement('button');
-        btn.className = 'option-btn';
-        btn.innerHTML = `<span class="option-letter">${key.toUpperCase()}</span> ${value}`;
-        btn.onclick = () => selectAnswer(key);
-
-        // If already answered, apply styles
-        if (isAnswered) {
-            btn.disabled = true;
-            if (key === q.correcta) {
-                btn.classList.add('correct');
-            } else if (key === existingAnswer) {
-                btn.classList.add('incorrect');
-            }
+function showView(viewName) {
+    // Ocultar todas
+    Object.values(views).forEach(el => {
+        if (el) {
+            el.classList.remove('active');
+            el.classList.add('hidden');
         }
+    });
+    // Mostrar la deseada
+    const target = views[viewName];
+    if (target) {
+        target.classList.remove('hidden');
+        target.classList.add('active');
+    }
+}
 
-        optionsContainer.appendChild(btn);
+window.showMenu = function () {
+    showView('menu');
+}
+
+window.showRandomConfig = function () {
+    showView('random');
+}
+
+// --- LÓGICA DE TEMAS ---
+
+window.showTopics = function (category) {
+    if (category === 'CSIF') {
+        alert("🚧 Test CSIF disponible próximamente.");
+        return;
+    }
+
+    // Filtrar preguntas por categoría (si tuviéramos campo 'categoria')
+    // Por ahora asumimos que todas son MAD o Generales
+    let filtered = allQuestions;
+
+    if (category === 'EXAMENES') {
+        // Simulación: Si tuviéramos examenes por año.
+        // Como no hay metadatos de año, mostramos un mensaje o filtramos por algo específico
+        alert("📂 Sección de Exámenes Anteriores en construcción (se requieren más datos).");
+        return;
+    }
+
+    // Extraer temas únicos
+    const temas = [...new Set(filtered.map(q => q.tema || "General"))].sort();
+
+    const container = document.getElementById('topics-list');
+    container.innerHTML = '';
+    document.getElementById('topic-title').textContent = category === 'MAD' ? 'Temas MAD' : 'Temas';
+
+    temas.forEach(tema => {
+        const btn = document.createElement('button');
+        btn.className = 'btn-topic';
+        // Contar preguntas de este tema
+        const count = filtered.filter(q => (q.tema || "General") === tema).length;
+        btn.innerHTML = `<strong>${tema}</strong> <br><small>${count} preguntas</small>`;
+        btn.onclick = () => startTopicGame(tema);
+        container.appendChild(btn);
     });
 
-    // Feedback / Explanation
-    if (isAnswered) {
-        feedbackArea.style.display = 'block';
-        explanationBox.textContent = q.explicacion;
+    showView('topics');
+}
 
-        const isCorrect = existingAnswer === q.correcta;
-        if (isCorrect) {
-            feedbackTitle.innerHTML = '<span style="color:var(--success-color)">✔ ¡Correcto!</span>';
-            feedbackTitle.style.color = 'var(--success-color)';
-        } else {
-            feedbackTitle.innerHTML = '<span style="color:var(--error-color)">✖ Incorrecto</span>';
-            feedbackTitle.style.color = 'var(--error-color)';
+function startTopicGame(tema) {
+    const questions = allQuestions.filter(q => (q.tema || "General") === tema);
+    startGame(questions);
+}
+
+// --- LÓGICA ALEATORIA ---
+
+window.startRandomGame = function () {
+    const input = document.getElementById('random-count');
+    let count = parseInt(input.value) || 20;
+
+    // Validar
+    if (count < 1) count = 1;
+    if (count > allQuestions.length) count = allQuestions.length;
+
+    // Barajar y cortar
+    const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
+    const selected = shuffled.slice(0, count);
+
+    startGame(selected);
+}
+
+// --- MOTOR DEL JUEGO ---
+
+function startGame(questionsSet) {
+    if (questionsSet.length === 0) {
+        alert("No hay preguntas disponibles en esta selección.");
+        return;
+    }
+    currentQuestions = questionsSet;
+    currentIndex = 0;
+    score = 0;
+    userAnswers = {};
+
+    showView('game');
+    renderQuestion();
+}
+
+function renderQuestion() {
+    const q = currentQuestions[currentIndex];
+
+    // Header Info
+    document.getElementById('question-counter').textContent = `${currentIndex + 1}/${currentQuestions.length}`;
+    document.getElementById('score-badge').textContent = `Aciertos: ${score}`;
+
+    // Barra de progreso
+    const pct = ((currentIndex + 1) / currentQuestions.length) * 100;
+    document.getElementById('progress-bar').style.width = `${pct}%`;
+
+    // Card Content
+    document.getElementById('tema-tag').textContent = q.tema || 'General';
+    document.getElementById('pregunta-texto').textContent = q.pregunta;
+
+    const optionsDiv = document.getElementById('opciones-container');
+    optionsDiv.innerHTML = '';
+
+    const feedbackDiv = document.getElementById('feedback');
+    feedbackDiv.classList.add('hidden');
+
+    const nextBtn = document.getElementById('btn-next');
+    nextBtn.classList.add('hidden');
+
+    // Render Opciones
+    const letters = ['a', 'b', 'c', 'd'];
+    letters.forEach(letter => {
+        if (!q.opciones[letter]) return; // Si no existe la opción d, por ejemplo
+
+        const btn = document.createElement('button');
+        btn.className = 'btn-option';
+        btn.innerHTML = `<strong>${letter.toUpperCase()})</strong> ${q.opciones[letter]}`;
+        btn.onclick = () => handleAnswer(letter);
+
+        // Estado si ya fue respondida
+        if (userAnswers[currentIndex]) {
+            btn.disabled = true;
+            if (letter === q.correcta) btn.classList.add('correct');
+            else if (letter === userAnswers[currentIndex]) btn.classList.add('incorrect');
         }
-    } else {
-        feedbackArea.style.display = 'none';
-    }
 
-    // Navigation Buttons
-    prevBtn.disabled = index === 0;
-    if (index === questions.length - 1) {
-        nextBtn.textContent = 'Finalizar';
-    } else {
-        nextBtn.textContent = 'Siguiente';
+        optionsDiv.appendChild(btn);
+    });
+
+    // Mostrar feedback si ya respondió
+    if (userAnswers[currentIndex]) {
+        showFeedback(q, nextBtn);
     }
 }
 
-function selectAnswer(selectedKey) {
-    if (userAnswers[currentQuestionIndex] !== undefined) return; // Prevent re-answering
+function handleAnswer(selected) {
+    if (userAnswers[currentIndex]) return; // Ya respondida
 
-    const q = questions[currentQuestionIndex];
-    userAnswers[currentQuestionIndex] = selectedKey;
+    userAnswers[currentIndex] = selected;
+    const q = currentQuestions[currentIndex];
 
-    // Check correctness
-    const isCorrect = selectedKey === q.correcta;
-    if (isCorrect) {
+    if (selected === q.correcta) {
         score++;
-        scoreEl.textContent = score;
-        // Trigger confetti or sound here if desired
+        // Efecto visual simple (opcional)
     }
 
-    // Re-render to show styles and feedback
-    renderQuestion(currentQuestionIndex);
+    renderQuestion(); // Re-render para mostrar colores
 }
 
-// Make functions available globally for HTML onClick
-window.nextQuestion = function () {
-    if (currentQuestionIndex < questions.length - 1) {
-        renderQuestion(currentQuestionIndex + 1);
+function showFeedback(q, nextBtn) {
+    const feedbackDiv = document.getElementById('feedback');
+    const explicacionP = document.getElementById('explicacion');
+
+    feedbackDiv.classList.remove('hidden');
+
+    const esCorrecta = userAnswers[currentIndex] === q.correcta;
+    const textoResultado = esCorrecta ? '✅ ¡Correcto!' : '❌ Incorrecto';
+    const textoExplicacion = q.explicacion ? `<br><br>💡 ${q.explicacion}` : '';
+
+    explicacionP.innerHTML = `<strong>${textoResultado}</strong> - La respuesta correcta es la <strong>${q.correcta.toUpperCase()}</strong>.${textoExplicacion}`;
+
+    // Configurar botón Siguiente
+    nextBtn.classList.remove('hidden');
+    if (currentIndex === currentQuestions.length - 1) {
+        nextBtn.textContent = "Ver Resultados 🏁";
     } else {
-        alert(`¡Examen finalizado! Tu puntuación final es: ${score} de ${questions.length}`);
+        nextBtn.textContent = "Siguiente ➡";
     }
 }
 
-window.prevQuestion = function () {
-    if (currentQuestionIndex > 0) {
-        renderQuestion(currentQuestionIndex - 1);
+window.nextQuestion = function () {
+    if (currentIndex < currentQuestions.length - 1) {
+        currentIndex++;
+        renderQuestion();
+    } else {
+        finishGame();
     }
+}
+
+window.quitGame = function () {
+    if (confirm("¿Seguro que quieres salir? Se perderá el progreso.")) {
+        showMenu();
+    }
+}
+
+function finishGame() {
+    showView('results');
+    document.getElementById('final-score').textContent = score;
+    document.getElementById('final-total').textContent = `/ ${currentQuestions.length}`;
+
+    const pct = (score / currentQuestions.length) * 100;
+    let msg = "";
+    if (pct === 100) msg = "¡Perfecto! 🏆";
+    else if (pct >= 80) msg = "¡Excelente trabajo! 🌟";
+    else if (pct >= 50) msg = "Aprobado, pero se puede mejorar. 👍";
+    else msg = "hay que estudiar más... 📚";
+
+    document.getElementById('final-message').textContent = msg;
 }
