@@ -266,6 +266,12 @@ function handleAnswer(selected) {
     if (selected === currentQuestions[currentIndex].correcta) score++;
 
     renderQuestion();
+
+    // Auto-scroll al botón siguiente para asegurar que se ve
+    setTimeout(() => {
+        const btnNext = document.getElementById('btn-next');
+        if (btnNext) btnNext.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }, 100);
 }
 
 function showFeedback(q) {
