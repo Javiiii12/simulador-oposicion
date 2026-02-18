@@ -200,6 +200,21 @@ input[type="number"] {
     margin-bottom: 20px;
 }
 
+.btn-back {
+    background: none;
+    border: none;
+    font-size: 1.8rem;
+    cursor: pointer;
+    color: var(--text);
+    padding: 0 10px;
+    transition: transform 0.2s;
+}
+
+.btn-back:hover {
+    transform: translateX(-3px);
+    color: var(--primary);
+}
+
 .tag {
     background: #e3f2fd;
     color: #1565c0;

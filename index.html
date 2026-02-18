@@ -30,7 +30,7 @@
                 </button>
                 <button class="btn-menu" onclick="showTopics('OTRAS_COMUNIDADES')">
                     🌍 Otras Comunidades
-                    <span class="badge">Simulacros</span>
+                    <span class="badge">Próximamente</span>
                 </button>
                 <button class="btn-menu special" onclick="showRandomConfig()">
                     🎲 Modo Aleatorio
@@ -59,7 +59,8 @@
             <div class="config-box">
                 <label>¿Cuántas preguntas quieres?</label>
                 <input type="number" id="random-count" min="1" max="100" value="20">
-                <p class="info-text">Máximo disponible: <span id="max-questions-count">---</span></p>
+                <!-- Removed max text as requested -->
+                <br><br>
                 <button class="btn-primary" onclick="startRandomGame()">Comenzar Test</button>
             </div>
         </div>
@@ -67,7 +68,7 @@
         <!-- VISTA: JUEGO (SIMULADOR) -->
         <div id="view-game" class="view hidden">
             <header class="game-header">
-                <button class="btn-small" onclick="quitGame()">⛔ Salir</button>
+                <button class="btn-back" onclick="quitGame()">⬅</button>
                 <div class="progress-container">
                     <div id="progress-bar" class="progress-bar"></div>
                 </div>
