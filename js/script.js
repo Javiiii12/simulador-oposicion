@@ -84,10 +84,11 @@ function showTopics(category) {
     // Usamos Set para únicos
     const temasRaw = [...new Set(allQuestions.map(q => q.tema))];
 
-    // Ordenar numéricamente
+    // Ordenar numéricamente (Tema 1, Tema 2...)
     const temas = temasRaw.sort((a, b) => {
-        const numA = parseInt(a.match(/Tema (\d+)/)?.[1] || 999);
-        const numB = parseInt(b.match(/Tema (\d+)/)?.[1] || 999);
+        // Extraer numero: "Tema 1" -> 1
+        const numA = parseInt(a.replace("Tema ", ""));
+        const numB = parseInt(b.replace("Tema ", ""));
         return numA - numB;
     });
 
@@ -99,7 +100,7 @@ function showTopics(category) {
     const especificos = [];
 
     temas.forEach(tema => {
-        const num = parseInt(tema.match(/Tema (\d+)/)?.[1] || 999);
+        const num = parseInt(tema.replace("Tema ", ""));
         if (num <= 6) generales.push(tema);
         else especificos.push(tema);
     });
@@ -133,6 +134,26 @@ function showTopics(category) {
     showView('topics');
 }
 
+// Mapa de Títulos Oficiales (Hardcoded para limpieza total)
+const TOPIC_TITLES = {
+    "Tema 1": "La Constitución Española de 1978",
+    "Tema 2": "Estatuto de Autonomía de Castilla-La Mancha",
+    "Tema 3": "Ley General de Sanidad y Servicio de Salud de CLM",
+    "Tema 4": "Ley 41/2002: Autonomía del paciente e información",
+    "Tema 5": "Igualdad efectiva, Violencia de género y Discapacidad",
+    "Tema 6": "Régimen Jurídico del Personal Estatutario",
+    "Tema 7": "Plan de autoprotección y prevención de incendios",
+    "Tema 8": "Ley de Prevención de Riesgos Laborales",
+    "Tema 9": "Gestión de residuos sanitarios y medio ambiente",
+    "Tema 10": "Distribución del trabajo en cocina",
+    "Tema 11": "Los alimentos: clasificación y características",
+    "Tema 12": "Autocontrol y Seguridad Alimentaria (APPCC)",
+    "Tema 13": "Manipulación de alimentos y formación",
+    "Tema 14": "Tecnología culinaria: cocción y conservación",
+    "Tema 15": "Cocina Hospitalaria: sistemas y emplatado",
+    "Tema 16": "Protección medioambiental y eficiencia"
+};
+
 function createTopicButton(tema) {
     const btn = document.createElement('button');
     btn.className = 'btn-topic';
@@ -140,8 +161,18 @@ function createTopicButton(tema) {
     // Calcular preguntas
     const count = allQuestions.filter(q => q.tema === tema).length;
 
-    // Dejar el título tal cual viene del JSON (ej: "Tema 1: La Constitución...")
-    btn.innerHTML = `<strong>${tema}</strong> <br><small>${count} preguntas</small>`;
+    // Usar título oficial o fallback
+    // Si tema es "Tema 1", buscamos en el mapa.
+    const titulo = TOPIC_TITLES[tema] || tema;
+
+    // Formato bonito:
+    // Título Principal: "Tema 1"
+    // Subtítulo: "La Constitución Española..."
+    btn.innerHTML = `
+        <strong>${tema}</strong><br>
+        <span style="font-size:0.9em; color:#555;">${titulo}</span><br>
+        <small>${count} preguntas</small>
+    `;
 
     btn.addEventListener('click', () => startTopicGame(tema));
     return btn;

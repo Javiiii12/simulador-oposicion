@@ -30,7 +30,7 @@ def extractor_final(file_path):
         preguntas = []
         current_pregunta = None
         # Tema por defecto inicial
-        current_tema = "Tema 1: Constitución"
+        current_tema = "Tema 1"
         
         # Regex para detectar cabeceras de Tema
         # 1. Con separador: "TEST h.°1", "Test n.º 16"
@@ -74,20 +74,8 @@ def extractor_final(file_path):
                         if not (1 <= int(num_tema) <= 16):
                             continue
 
-                        raw_title = match_header.group(2).strip() or ""
-                        
-                        # Limpieza del título
-                        clean_title = re.sub(r'[|{}\[\],]', '', raw_title).strip()
-                        if clean_title.startswith('.'): clean_title = clean_title[1:].strip()
-                        if clean_title.startswith('°'): clean_title = clean_title[1:].strip()
-                        
-                        titulo_tema = clean_title if len(clean_title) > 4 else ""
-
-                        # Asignar nombre bonito si es posible
-                        if num_tema == "1": titulo_tema = "Constitución"
-
+                        # Normalizamos a "Tema X" puro para agrupar correctamente
                         current_tema = f"Tema {num_tema}"
-                        if titulo_tema: current_tema += f": {titulo_tema}"
                         
                         print(f"📑 Detectado ({current_tema}) en: {text[:50]}...")
                         continue
