@@ -4,49 +4,110 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulador de Examen</title>
+    <title>Simulador OPE Pinche</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-
     <div class="container">
-        <header>
-            <div style="flex: 1;">
-                <h1>Simulador de Oposición</h1>
+        <!-- VISTA: MENÚ PRINCIPAL -->
+        <div id="view-menu" class="view active">
+            <h1>Simulador OPE Pinche</h1>
+            <p style="text-align:center; margin-bottom:20px; color:#666;">Selecciona un modo de estudio:</p>
+
+            <div class="menu-grid">
+                <button class="btn-menu" onclick="showTopics('MAD')">
+                    📚 Test MAD
+                    <span class="badge">Por Temas</span>
+                </button>
+                <button class="btn-menu" onclick="showTopics('CSIF')">
+                    🏥 Test CSIF
+                    <span class="badge">Próximamente</span>
+                </button>
+                <button class="btn-menu" onclick="showTopics('EXAMENES')">
+                    📝 Exámenes Anteriores
+                    <span class="badge">Repaso</span>
+                </button>
+                <button class="btn-menu" onclick="showTopics('OTRAS_COMUNIDADES')">
+                    🌍 Otras Comunidades
+                    <span class="badge">Simulacros</span>
+                </button>
+                <button class="btn-menu special" onclick="showRandomConfig()">
+                    🎲 Modo Aleatorio
+                    <span class="badge">Rápido</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- VISTA: SELECCIÓN DE TEMAS -->
+        <div id="view-topics" class="view hidden">
+            <header class="view-header">
+                <button class="btn-icon" onclick="showMenu()">⬅</button>
+                <h2 id="topic-title">Temas</h2>
+            </header>
+            <div id="topics-list" class="topics-grid">
+                <!-- Se rellena con JS -->
+            </div>
+        </div>
+
+        <!-- VISTA: CONFIGURACIÓN ALEATORIA -->
+        <div id="view-random" class="view hidden">
+            <header class="view-header">
+                <button class="btn-icon" onclick="showMenu()">⬅</button>
+                <h2>Modo Aleatorio</h2>
+            </header>
+            <div class="config-box">
+                <label>¿Cuántas preguntas quieres?</label>
+                <input type="number" id="random-count" min="1" max="100" value="20">
+                <p class="info-text">Máximo disponible: <span id="max-questions-count">---</span></p>
+                <button class="btn-primary" onclick="startRandomGame()">Comenzar Test</button>
+            </div>
+        </div>
+
+        <!-- VISTA: JUEGO (SIMULADOR) -->
+        <div id="view-game" class="view hidden">
+            <header class="game-header">
+                <button class="btn-small" onclick="quitGame()">⛔ Salir</button>
                 <div class="progress-container">
-                    <div class="progress-bar" id="progress-bar"></div>
+                    <div id="progress-bar" class="progress-bar"></div>
+                </div>
+                <div class="counters">
+                    <span id="question-counter">1/--</span>
+                    <span id="score-badge" class="badge-score">Aciertos: 0</span>
+                </div>
+            </header>
+
+            <div class="card">
+                <div class="card-header">
+                    <span id="tema-tag" class="tag">Tema</span>
+                </div>
+                <div class="card-body">
+                    <h2 id="pregunta-texto">Cargando...</h2>
+                    <div id="opciones-container" class="options-grid"></div>
+                </div>
+                <div id="feedback" class="feedback hidden">
+                    <p id="explicacion"></p>
                 </div>
             </div>
-            <div class="stats">
-                <span>Pregunta <span id="current-q-num">1</span>/<span id="total-q-num">?</span></span>
-                <span class="score-badge">Aciertos: <span id="score">0</span></span>
+
+            <div class="controls">
+                <button id="btn-next" class="btn-primary hidden" onclick="nextQuestion()">Siguiente ➡</button>
             </div>
-        </header>
+        </div>
 
-        <div id="loading">Cargando preguntas...</div>
-
-        <main id="quiz-area" class="card" style="display: none;">
-            <!-- Question content injected here by JS -->
-            <div id="question-header">
-                <span class="topic-badge" id="topic-badge">Tema</span>
-                <h2 class="question-text" id="question-text">¿Pregunta?</h2>
+        <!-- VISTA: RESULTADOS -->
+        <div id="view-results" class="view hidden">
+            <div class="card" style="text-align:center;">
+                <h2>Resultados</h2>
+                <div class="score-circle">
+                    <span id="final-score">0</span>
+                    <span class="total" id="final-total">/ 0</span>
+                </div>
+                <p id="final-message">¡Bien hecho!</p>
+                <button class="btn-primary" onclick="showMenu()">Volver al Menú</button>
             </div>
+        </div>
 
-            <div class="options-grid" id="options-container">
-                <!-- Options injected here -->
-            </div>
-
-            <div class="feedback-area" id="feedback-area">
-                <div class="feedback-title" id="feedback-title"></div>
-                <div class="explanation-box" id="explanation-box"></div>
-            </div>
-        </main>
-
-        <footer id="footer-nav" style="display: none;">
-            <button class="nav-btn" id="prev-btn" onclick="prevQuestion()">Anterior</button>
-            <button class="nav-btn primary" id="next-btn" onclick="nextQuestion()">Siguiente</button>
-        </footer>
     </div>
 
     <script src="js/script.js"></script>
