@@ -19,29 +19,22 @@ def ingest_manual_data():
     # Solution: "Solución: x"
     re_sol = re.compile(r'Solución:\s*([a-d])', re.IGNORECASE)
 
-    current_tema = "Tema 1" # Default
-    current_q = None
-    questions = []
+    # Force everything to Tema 1 as requested by User
+    current_tema = "Tema 1"
     
-    # Mapping Bloque Titles to Themes if needed, or just relying on "Bloque I" -> Tema 1 logic
-    bloque_map = {
-        "I": "Tema 1",
-        "II": "Tema 5" # Equality is usually Tema 5 in this syllabus
-    }
+    # regex patterns...
+    # ...
+    # We can ignore 'Bloque' headers or just print them.
 
     lines = text.split('\n')
     for line in lines:
         line = line.strip()
         if not line: continue
 
-        # Check Topic Change
+        # Check Topic Change (detect headers but DO NOT change current_tema)
         match_bloque = re_bloque.match(line)
         if match_bloque:
-            roman = match_bloque.group(1).upper()
-            title = match_bloque.group(2)
-            if roman in bloque_map:
-                current_tema = bloque_map[roman]
-            print(f"🔹 Cambio de bloque detected: {roman} -> {current_tema}")
+            print(f"🔹 Bloque detectado (ignoring change, keeping {current_tema}): {match_bloque.group(0)}")
             continue
 
         # Check Question
@@ -117,7 +110,14 @@ def ingest_manual_data():
     # If I keep the bad ones, the user might still see them.
     # DECISION: I will overwite `preguntas.json` with ONLY the manual data + the existing data that is NOT Tema 1 or Tema 5, to "clean" those topics.
     
+    # Determine which topics are completely replaced by manual entry
+    # In this case, since we forced everything to "Tema 1", we replace "Tema 1".
     themes_updating = {q['tema'] for q in questions}
+    # ALSO, since user said "PONLAS SOLO EN EL TEMA1" and these questions cover what might have been Tema 5,
+    # we should probably NOT remove Tema 5 if it exists separate (unless these *are* Tema 5).
+    # But current_tema is strictly "Tema 1".
+    # So we only scrub "Tema 1" from existing.
+    
     print(f"Reemplazando temas: {themes_updating}")
     
     clean_existing = [q for q in existing if q['tema'] not in themes_updating]
