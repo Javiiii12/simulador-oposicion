@@ -1,11 +1,11 @@
 // Estado Global
-let allQuestions = []; // Todar las preguntas cargadas
-let currentQuestions = []; // Preguntas del juego actual
+let allQuestions = [];
+let currentQuestions = [];
 let currentIndex = 0;
 let score = 0;
-let userAnswers = {}; // Map: index -> respuesta
+let userAnswers = {};
 
-// Elementos DOM - Vistas
+// Elementos DOM - Cache
 const views = {
     menu: document.getElementById('view-menu'),
     topics: document.getElementById('view-topics'),
@@ -14,8 +14,32 @@ const views = {
     results: document.getElementById('view-results')
 };
 
-// Carga Inicial
-document.addEventListener('DOMContentLoaded', loadData);
+// Inicialización
+document.addEventListener('DOMContentLoaded', () => {
+    loadData();
+    setupEventListeners();
+});
+
+function setupEventListeners() {
+    // Menú Principal
+    document.getElementById('btn-mad').addEventListener('click', () => showTopics('MAD'));
+    document.getElementById('btn-csif').addEventListener('click', () => alert("🏥 Test CSIF disponible próximamente."));
+    document.getElementById('btn-examenes').addEventListener('click', () => alert("📂 Sección de Exámenes Anteriores en construcción."));
+    document.getElementById('btn-otras').addEventListener('click', () => alert("🌍 Próximamente: Simulacros de otras comunidades."));
+    document.getElementById('btn-random').addEventListener('click', showRandomConfig);
+
+    // Navegación
+    document.getElementById('btn-back-topics').addEventListener('click', showMenu);
+    document.getElementById('btn-back-random').addEventListener('click', showMenu);
+    document.getElementById('btn-quit-game').addEventListener('click', showMenu);
+    document.getElementById('btn-home-results').addEventListener('click', showMenu);
+
+    // Configuración Aleatoria
+    document.getElementById('btn-start-random').addEventListener('click', startRandomGame);
+
+    // Juego
+    document.getElementById('btn-next').addEventListener('click', nextQuestion);
+}
 
 async function loadData() {
     try {
@@ -23,28 +47,20 @@ async function loadData() {
         if (!res.ok) throw new Error('Error cargando datos');
         allQuestions = await res.json();
         console.log(`Cargadas ${allQuestions.length} preguntas.`);
-
-        // Actualizar UI de configuración aleatoria
-        const maxSpan = document.getElementById('max-questions-count');
-        if (maxSpan) maxSpan.textContent = allQuestions.length;
-
     } catch (err) {
         console.error(err);
-        alert("Error cargando las preguntas. Asegúrate de iniciar con un servidor local o en GitHub Pages.");
+        alert("Error cargando las preguntas.");
     }
 }
 
 // --- NAVEGACIÓN SPA ---
-
 function showView(viewName) {
-    // Ocultar todas
     Object.values(views).forEach(el => {
         if (el) {
             el.classList.remove('active');
             el.classList.add('hidden');
         }
     });
-    // Mostrar la deseada
     const target = views[viewName];
     if (target) {
         target.classList.remove('hidden');
@@ -52,108 +68,201 @@ function showView(viewName) {
     }
 }
 
-window.showMenu = function () {
+function showMenu() {
     showView('menu');
 }
 
-window.showRandomConfig = function () {
+function showRandomConfig() {
     showView('random');
 }
 
 // --- LÓGICA DE TEMAS ---
+function showTopics(category) {
+    if (category !== 'MAD') return;
 
-window.showTopics = function (category) {
-    if (category === 'CSIF') {
-        alert("🏥 Test CSIF disponible próximamente.");
-        return;
-    }
+    // Filtrar temas válidos (Tema 1 a 16)
+    // Usamos Set para únicos
+    const temasRaw = [...new Set(allQuestions.map(q => q.tema))];
 
-    if (category === 'OTRAS_COMUNIDADES') {
-        alert("🗓️ Próximamente: Simulacros de otras comunidades.");
-        return;
-    }
-
-    // Filtrar preguntas
-    let filtered = allQuestions;
-
-    if (category === 'EXAMENES') {
-        alert("📂 Sección de Exámenes Anteriores en construcción.");
-        return;
-    }
-
-    // Ordenar temas numéricamente si es posible
-    const temas = [...new Set(filtered.map(q => q.tema || "General"))].sort((a, b) => {
-        const numA = parseInt(a.match(/\d+/)) || 999;
-        const numB = parseInt(b.match(/\d+/)) || 999;
+    // Ordenar numéricamente
+    const temas = temasRaw.sort((a, b) => {
+        const numA = parseInt(a.match(/Tema (\d+)/)?.[1] || 999);
+        const numB = parseInt(b.match(/Tema (\d+)/)?.[1] || 999);
         return numA - numB;
     });
 
-    const container = document.getElementById('topics-list');
+    const container = document.getElementById('topics-container');
     container.innerHTML = '';
 
-    // Título dinámico
-    const titleMap = {
-        'MAD': 'Test MAD',
-        'EXAMENES': 'Exámenes'
-    };
-    document.getElementById('topic-title').textContent = titleMap[category] || 'Temas';
+    // Agrupar en Generales (1-6) y Específicos (7-16)
+    const generales = [];
+    const especificos = [];
 
     temas.forEach(tema => {
-        const btn = document.createElement('button');
-        btn.className = 'btn-topic';
-        const count = filtered.filter(q => (q.tema || "General") === tema).length;
-
-        let label = tema;
-        // Decoración para MAD
-        if (category === 'MAD') {
-            if (tema.includes("Tema 1") || tema.includes("Tema 2") || tema.includes("Tema 3") ||
-                tema.includes("Tema 4") || tema.includes("Tema 5") || tema.includes("Tema 6")) {
-                label = `📘 ${tema}`; // Generales
-            } else {
-                label = `📙 ${tema}`; // Específicos
-            }
-        }
-
-        btn.innerHTML = `<strong>${label}</strong> <br><small>${count} preguntas</small>`;
-        btn.onclick = () => startTopicGame(tema);
-        container.appendChild(btn);
+        const num = parseInt(tema.match(/Tema (\d+)/)?.[1] || 999);
+        if (num <= 6) generales.push(tema);
+        else especificos.push(tema);
     });
+
+    // Renderizar Grupo: Generales
+    if (generales.length > 0) {
+        const h3 = document.createElement('h3');
+        h3.textContent = "📘 Temas Generales";
+        h3.style.color = 'var(--primary)';
+        h3.style.borderBottom = '2px solid var(--primary)';
+        h3.style.paddingBottom = '5px';
+        h3.style.marginTop = '0';
+        container.appendChild(h3);
+
+        generales.forEach(tema => container.appendChild(createTopicButton(tema)));
+    }
+
+    // Renderizar Grupo: Específicos
+    if (especificos.length > 0) {
+        const h3 = document.createElement('h3');
+        h3.textContent = "📙 Temas Específicos";
+        h3.style.color = 'var(--secondary)'; // Usamos secondary color
+        h3.style.borderBottom = '2px solid var(--secondary)';
+        h3.style.paddingBottom = '5px';
+        h3.style.marginTop = '30px';
+        container.appendChild(h3);
+
+        especificos.forEach(tema => container.appendChild(createTopicButton(tema)));
+    }
 
     showView('topics');
 }
 
+function createTopicButton(tema) {
+    const btn = document.createElement('button');
+    btn.className = 'btn-topic';
+
+    // Calcular preguntas
+    const count = allQuestions.filter(q => q.tema === tema).length;
+
+    // Dejar el título tal cual viene del JSON (ej: "Tema 1: La Constitución...")
+    btn.innerHTML = `<strong>${tema}</strong> <br><small>${count} preguntas</small>`;
+
+    btn.addEventListener('click', () => startTopicGame(tema));
+    return btn;
+}
+
 function startTopicGame(tema) {
-    const questions = allQuestions.filter(q => (q.tema || "General") === tema);
+    const questions = allQuestions.filter(q => q.tema === tema);
     startGame(questions);
 }
 
 // --- LÓGICA ALEATORIA ---
-
-window.startRandomGame = function () {
+function startRandomGame() {
     const input = document.getElementById('random-count');
     let count = parseInt(input.value) || 20;
 
-    // Validación
     if (count < 1) count = 1;
-    if (count > 100) count = 100; // Tope máximo solicitado
-
-    // Si pide más de las disponibles, usamos todas
+    if (count > 100) count = 100;
     if (count > allQuestions.length) count = allQuestions.length;
 
-    // Barajar
     const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
     const selected = shuffled.slice(0, count);
 
     startGame(selected);
 }
 
-// ... (startGame engine)
+// --- MOTOR DEL JUEGO ---
+function startGame(questionsSet) {
+    if (questionsSet.length === 0) {
+        alert("No hay preguntas disponibles.");
+        return;
+    }
+    currentQuestions = questionsSet;
+    currentIndex = 0;
+    score = 0;
+    userAnswers = {};
 
-// ...
+    showView('game');
+    renderQuestion();
+}
 
-window.quitGame = function () {
-    // Salir directamente sin confirmar, como pidió ("flecha atrás")
-    showMenu();
+function renderQuestion() {
+    const q = currentQuestions[currentIndex];
+
+    // Info Header
+    document.getElementById('question-counter').textContent = `${currentIndex + 1}/${currentQuestions.length}`;
+    document.getElementById('score-badge').textContent = `Aciertos: ${score}`;
+
+    // Progreso
+    const pct = ((currentIndex + 1) / currentQuestions.length) * 100;
+    document.getElementById('progress-bar').style.width = `${pct}%`;
+
+    // Contenido
+    // Extraer solo "Tema X" para el tag
+    const temaMatch = q.tema.match(/Tema \d+/);
+    document.getElementById('tema-tag').textContent = temaMatch ? temaMatch[0] : 'General';
+
+    document.getElementById('pregunta-texto').textContent = q.pregunta;
+
+    const optionsDiv = document.getElementById('opciones-container');
+    optionsDiv.innerHTML = '';
+    document.getElementById('feedback').classList.add('hidden');
+    document.getElementById('btn-next').classList.add('hidden');
+
+    // Opciones
+    ['a', 'b', 'c', 'd'].forEach(letter => {
+        if (!q.opciones[letter]) return;
+
+        const btn = document.createElement('button');
+        btn.className = 'btn-option';
+        btn.innerHTML = `<strong>${letter.toUpperCase()})</strong> ${q.opciones[letter]}`;
+
+        // Listener con cierre para capturar 'letter'
+        btn.addEventListener('click', () => handleAnswer(letter));
+
+        if (userAnswers[currentIndex]) {
+            btn.disabled = true;
+            if (letter === q.correcta) btn.classList.add('correct');
+            else if (letter === userAnswers[currentIndex]) btn.classList.add('incorrect');
+        }
+
+        optionsDiv.appendChild(btn);
+    });
+
+    if (userAnswers[currentIndex]) showFeedback(q);
+}
+
+function handleAnswer(selected) {
+    if (userAnswers[currentIndex]) return;
+
+    userAnswers[currentIndex] = selected;
+    if (selected === currentQuestions[currentIndex].correcta) score++;
+
+    renderQuestion();
+}
+
+function showFeedback(q) {
+    const feedbackDiv = document.getElementById('feedback');
+    const explicacionP = document.getElementById('explicacion');
+    const nextBtn = document.getElementById('btn-next');
+
+    feedbackDiv.classList.remove('hidden');
+
+    const esCorrecta = userAnswers[currentIndex] === q.correcta;
+    const icon = esCorrecta ? '✅' : '❌';
+    explicacionP.innerHTML = `<strong>${icon} ${esCorrecta ? '¡Correcto!' : 'Incorrecto'}</strong><br>La respuesta correcta es la <strong>${q.correcta.toUpperCase()}</strong>.`;
+
+    nextBtn.classList.remove('hidden');
+    if (currentIndex === currentQuestions.length - 1) {
+        nextBtn.textContent = "Ver Resultados 🏁";
+    } else {
+        nextBtn.textContent = "Siguiente ➡";
+    }
+}
+
+function nextQuestion() {
+    if (currentIndex < currentQuestions.length - 1) {
+        currentIndex++;
+        renderQuestion();
+    } else {
+        finishGame();
+    }
 }
 
 function finishGame() {
@@ -162,11 +271,11 @@ function finishGame() {
     document.getElementById('final-total').textContent = `/ ${currentQuestions.length}`;
 
     const pct = (score / currentQuestions.length) * 100;
-    let msg = "";
+    let msg = "¡Sigue así!";
     if (pct === 100) msg = "¡Perfecto! 🏆";
-    else if (pct >= 80) msg = "¡Excelente trabajo! 🌟";
-    else if (pct >= 50) msg = "Aprobado, pero se puede mejorar. 👍";
-    else msg = "hay que estudiar más... 📚";
+    else if (pct >= 80) msg = "¡Excelente! 🌟";
+    else if (pct >= 50) msg = "Aprobado 👍";
+    else msg = "A repasar... 📚";
 
     document.getElementById('final-message').textContent = msg;
 }
