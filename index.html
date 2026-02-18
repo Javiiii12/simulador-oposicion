@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Examen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <div style="flex: 1;">
+                <h1>Simulador de Oposición</h1>
+                <div class="progress-container">
+                    <div class="progress-bar" id="progress-bar"></div>
+                </div>
+            </div>
+            <div class="stats">
+                <span>Pregunta <span id="current-q-num">1</span>/<span id="total-q-num">?</span></span>
+                <span class="score-badge">Aciertos: <span id="score">0</span></span>
+            </div>
+        </header>
+
+        <div id="loading">Cargando preguntas...</div>
+
+        <main id="quiz-area" class="card" style="display: none;">
+            <!-- Question content injected here by JS -->
+            <div id="question-header">
+                <span class="topic-badge" id="topic-badge">Tema</span>
+                <h2 class="question-text" id="question-text">¿Pregunta?</h2>
+            </div>
+
+            <div class="options-grid" id="options-container">
+                <!-- Options injected here -->
+            </div>
+
+            <div class="feedback-area" id="feedback-area">
+                <div class="feedback-title" id="feedback-title"></div>
+                <div class="explanation-box" id="explanation-box"></div>
+            </div>
+        </main>
+
+        <footer id="footer-nav" style="display: none;">
+            <button class="nav-btn" id="prev-btn" onclick="prevQuestion()">Anterior</button>
+            <button class="nav-btn primary" id="next-btn" onclick="nextQuestion()">Siguiente</button>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
