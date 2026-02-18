@@ -13,26 +13,26 @@
         <!-- VISTA: MENÚ PRINCIPAL -->
         <div id="view-menu" class="view active">
             <h1>Simulador OPE Pinche</h1>
-            <p style="text-align:center; margin-bottom:20px; color:#666;">Selecciona un modo de estudio:</p>
+            <p class="subtitle">Selecciona un modo de estudio</p>
 
             <div class="menu-grid">
-                <button class="btn-menu" onclick="showTopics('MAD')">
+                <button id="btn-mad" class="btn-menu">
                     📚 Test MAD
                     <span class="badge">Por Temas</span>
                 </button>
-                <button class="btn-menu" onclick="showTopics('CSIF')">
+                <button id="btn-csif" class="btn-menu">
                     🏥 Test CSIF
                     <span class="badge">Próximamente</span>
                 </button>
-                <button class="btn-menu" onclick="showTopics('EXAMENES')">
+                <button id="btn-examenes" class="btn-menu">
                     📝 Exámenes Anteriores
                     <span class="badge">Repaso</span>
                 </button>
-                <button class="btn-menu" onclick="showTopics('OTRAS_COMUNIDADES')">
+                <button id="btn-otras" class="btn-menu">
                     🌍 Otras Comunidades
                     <span class="badge">Próximamente</span>
                 </button>
-                <button class="btn-menu special" onclick="showRandomConfig()">
+                <button id="btn-random" class="btn-menu special">
                     🎲 Modo Aleatorio
                     <span class="badge">Rápido</span>
                 </button>
@@ -42,33 +42,33 @@
         <!-- VISTA: SELECCIÓN DE TEMAS -->
         <div id="view-topics" class="view hidden">
             <header class="view-header">
-                <button class="btn-icon" onclick="showMenu()">⬅</button>
+                <button id="btn-back-topics" class="btn-icon">⬅</button>
                 <h2 id="topic-title">Temas</h2>
             </header>
-            <div id="topics-list" class="topics-grid">
-                <!-- Se rellena con JS -->
+
+            <div id="topics-container" class="topics-wrapper">
+                <!-- Se rellena con JS: Generales y Específicos -->
             </div>
         </div>
 
         <!-- VISTA: CONFIGURACIÓN ALEATORIA -->
         <div id="view-random" class="view hidden">
             <header class="view-header">
-                <button class="btn-icon" onclick="showMenu()">⬅</button>
+                <button id="btn-back-random" class="btn-icon">⬅</button>
                 <h2>Modo Aleatorio</h2>
             </header>
             <div class="config-box">
                 <label>¿Cuántas preguntas quieres?</label>
                 <input type="number" id="random-count" min="1" max="100" value="20">
-                <!-- Removed max text as requested -->
                 <br><br>
-                <button class="btn-primary" onclick="startRandomGame()">Comenzar Test</button>
+                <button id="btn-start-random" class="btn-primary">Comenzar Test</button>
             </div>
         </div>
 
         <!-- VISTA: JUEGO (SIMULADOR) -->
         <div id="view-game" class="view hidden">
             <header class="game-header">
-                <button class="btn-back" onclick="quitGame()">⬅</button>
+                <button id="btn-quit-game" class="btn-back">⬅</button>
                 <div class="progress-container">
                     <div id="progress-bar" class="progress-bar"></div>
                 </div>
@@ -92,7 +92,7 @@
             </div>
 
             <div class="controls">
-                <button id="btn-next" class="btn-primary hidden" onclick="nextQuestion()">Siguiente ➡</button>
+                <button id="btn-next" class="btn-primary hidden">Siguiente ➡</button>
             </div>
         </div>
 
@@ -105,7 +105,7 @@
                     <span class="total" id="final-total">/ 0</span>
                 </div>
                 <p id="final-message">¡Bien hecho!</p>
-                <button class="btn-primary" onclick="showMenu()">Volver al Menú</button>
+                <button id="btn-home-results" class="btn-primary">Volver al Menú</button>
             </div>
         </div>
 

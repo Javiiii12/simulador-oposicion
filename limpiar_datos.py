@@ -17,7 +17,6 @@ def limpiar_datos():
     keywords_constitucion = ['constitución', 'derecho', 'estado', 'funda', 'española', 'título']
     keywords_estatuto = ['estatuto', 'autonomía', 'castilla', 'mancha', 'cortes', 'junta']
     keywords_igualdad = ['igualdad', 'género', 'mujer', 'violencia', 'discriminación']
-    keywords_celador = ['celador', 'movilización', 'paciente', 'cama', 'aseo']
     keywords_cocina = ['cocina', 'alimento', 'dieta', 'nutrición', 'bromatología', 'conservación', 'refrigeración']
 
     for p in datos:
@@ -42,8 +41,7 @@ def limpiar_datos():
             tema_asignado = "Tema 2: Estatuto Autonomía"
         elif any(w in texto_lower for w in keywords_igualdad):
             tema_asignado = "Tema 3: Igualdad y Género"
-        elif any(w in texto_lower for w in keywords_celador):
-            tema_asignado = "Tema: Celador"
+        # Celador removed
         elif any(w in texto_lower for w in keywords_cocina):
             tema_asignado = "Tema: Cocina y Alimentos"
         
