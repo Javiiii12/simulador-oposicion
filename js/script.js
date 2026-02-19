@@ -35,6 +35,7 @@ function setupEventListeners() {
     document.getElementById('btn-back-menu').addEventListener('click', () => showView('roleSelection'));
 
     document.getElementById('btn-mad').addEventListener('click', () => showTopics('MAD'));
+    document.getElementById('btn-csif').addEventListener('click', () => alert("🏥 Test CSIF en proceso de digitalización."));
     document.getElementById('btn-failures').addEventListener('click', startFailureTest);
     document.getElementById('btn-random').addEventListener('click', showRandomConfig);
     document.getElementById('btn-progress').addEventListener('click', showProgress);
@@ -224,13 +225,35 @@ function prepareModeSelection(title, generatorFn) {
     pendingGameGenerator = generatorFn;
 
     document.getElementById('mode-topic-title').textContent = title;
+    // Resetear visibilidad de botones por si acaso
+    document.getElementById('btn-mode-training').style.display = 'flex';
+    document.getElementById('btn-mode-exam').style.display = 'flex';
+
     showView('modeSelection');
 }
 
 function executeGameStart(mode) {
-    if (!pendingGameGenerator) return;
-    const questions = pendingGameGenerator(); // Generar las preguntas (filtrar, random, etc)
-    startGame(questions, mode, pendingTopicTitle);
+    console.log("Ejecutando inicio de juego:", mode);
+    if (!pendingGameGenerator) {
+        console.error("No hay generador de juego pendiente.");
+        alert("Error interno: No se pudo iniciar el test. Intenta recargar.");
+        return;
+    }
+
+    try {
+        const questions = pendingGameGenerator(); // Generar las preguntas (filtrar, random, etc)
+        console.log("Preguntas generadas:", questions ? questions.length : 0);
+
+        if (!questions || questions.length === 0) {
+            alert("Este tema no tiene preguntas disponibles aún.");
+            return;
+        }
+
+        startGame(questions, mode, pendingTopicTitle);
+    } catch (e) {
+        console.error("Error al generar preguntas:", e);
+        alert("Ocurrió un error al preparar las preguntas.");
+    }
 }
 
 // --- LOGICA DE FALLOS Y PROGRESO ---
