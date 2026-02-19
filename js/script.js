@@ -139,6 +139,19 @@ function setupEventListeners() {
             showProgress(); // Refrescar
         }
     });
+
+    // NAVIGATION & EXAM FEATURES
+    document.getElementById('btn-prev').addEventListener('click', prevQuestion);
+    document.getElementById('btn-show-grid').addEventListener('click', showGrid);
+    document.getElementById('btn-close-grid').addEventListener('click', () => {
+        document.getElementById('nav-grid-overlay').classList.add('hidden');
+    });
+
+    // Review Buttons - Logic bound in finishGame but we can init here too
+    // But specific logic depends on state, so finishGame handles onclick assignment usually.
+    // However, better to have a static listener if we can.
+    // Let's rely on finishGame to bind/unbind or check state.
+    // Actually, finishGame re-assigns onclick. That's fine.
 }
 
 async function loadData() {
@@ -676,10 +689,23 @@ function finishGame() {
         document.getElementById('final-total').textContent = "/ 10";
 
         // Show Review Button
+        // Show Review Buttons
         const btnReview = document.getElementById('btn-review-exam');
+        const btnReviewFailed = document.getElementById('btn-review-failed');
+
         if (btnReview) {
             btnReview.classList.remove('hidden');
-            btnReview.onclick = () => startReviewMode(); // Bind logic
+            btnReview.onclick = () => startReviewMode(false);
+        }
+
+        if (btnReviewFailed) {
+            // Only show if there are errors or unanswered
+            if (fallos > 0 || blancas > 0) {
+                btnReviewFailed.classList.remove('hidden');
+                btnReviewFailed.onclick = () => startReviewMode(true);
+            } else {
+                btnReviewFailed.classList.add('hidden');
+            }
         }
 
     } else {
@@ -691,14 +717,82 @@ function finishGame() {
     document.getElementById('final-message').textContent = message;
 }
 
-function startReviewMode() {
-    // Preserve current state
-    const answersToReview = { ...userAnswers };
-    const questionsToReview = currentQuestions;
+function prevQuestion() {
+    if (currentIndex > 0) {
+        currentIndex--;
+        renderQuestion();
+    }
+}
+
+function showGrid() {
+    const overlay = document.getElementById('nav-grid-overlay');
+    const container = document.getElementById('grid-buttons');
+    document.getElementById('grid-total').textContent = currentQuestions.length;
+
+    container.innerHTML = '';
+
+    currentQuestions.forEach((q, index) => {
+        const btn = document.createElement('button');
+        btn.className = 'btn-grid-number';
+        btn.textContent = index + 1;
+
+        // Estado
+        const answer = userAnswers[index];
+        if (index === currentIndex) btn.classList.add('current');
+        if (answer) btn.classList.add('answered');
+
+        // Mark correct/incorrect if in review or training (and answered)
+        if (currentMode !== 'exam' && answer) {
+            if (answer === q.correcta) btn.style.borderColor = "var(--success)";
+            else btn.style.borderColor = "var(--error)";
+        }
+
+        btn.onclick = () => {
+            currentIndex = index;
+            renderQuestion();
+            overlay.classList.add('hidden');
+        };
+
+        container.appendChild(btn);
+    });
+
+    overlay.classList.remove('hidden');
+}
+
+function startReviewMode(onlyFailures = false) {
+    let questionsToReview = currentQuestions;
+    let answersToReview = { ...userAnswers };
     const topicToReview = currentTopicName;
 
-    startGame(questionsToReview, 'review', topicToReview);
-    // Restore answers because startGame clears them
+    if (onlyFailures) {
+        // Filter: Failures AND Unanswered
+        const indicesToKeep = currentQuestions.map((q, i) => i).filter(i => {
+            const ans = userAnswers[i];
+            return !ans || ans !== currentQuestions[i].correcta;
+        });
+
+        if (indicesToKeep.length === 0) {
+            alert("¡No tienes fallos para revisar! 🏆");
+            return;
+        }
+
+        const newQuestions = indicesToKeep.map(i => currentQuestions[i]);
+        const newAnswers = {};
+
+        // Remap answers to new indices
+        indicesToKeep.forEach((oldIndex, newIndex) => {
+            if (userAnswers[oldIndex]) {
+                newAnswers[newIndex] = userAnswers[oldIndex];
+            }
+        });
+
+        questionsToReview = newQuestions;
+        answersToReview = newAnswers;
+    }
+
+    startGame(questionsToReview, 'review', topicToReview + (onlyFailures ? ' (Solo Fallos)' : ' (Completo)'));
+
+    // Restore answers
     userAnswers = answersToReview;
-    renderQuestion(); // Re-render with answers
+    renderQuestion();
 }
