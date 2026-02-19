@@ -1198,71 +1198,6 @@
     "explicacion": ""
   },
   {
-    "id": 81,
-    "tema": "Tema 5",
-    "pregunta": "La ley que regula a nivel estatal la igualdad efectiva de mujeres y hombres es:",
-    "opciones": {
-      "a": "La Ley 3/2007, de 12 de marzo.",
-      "b": "La Ley Orgánica 22/2007, de 3 de abril.",
-      "c": "La Ley Orgánica 3/2007, de 22 de marzo.",
-      "d": "El Decreto Legislativo 7/2003, de 23 de mayo."
-    },
-    "correcta": "c",
-    "explicacion": ""
-  },
-  {
-    "id": 82,
-    "tema": "Tema 5",
-    "pregunta": "¿Qué título de la Ley para la Igualdad efectiva de Mujeres y Hombres se refiere a las políticas públicas para la igualdad?",
-    "opciones": {
-      "a": "El Título II.",
-      "b": "El Título III.",
-      "c": "El Título IV.",
-      "d": "El Título V."
-    },
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 84,
-    "tema": "Tema 5",
-    "pregunta": "Todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad constituye:",
-    "opciones": {
-      "a": "Acoso sexual.",
-      "b": "Acoso por razón de sexo.",
-      "c": "Discriminación directa por razón de sexo.",
-      "d": "Discriminación indirecta por razón de sexo."
-    },
-    "correcta": "c",
-    "explicacion": ""
-  },
-  {
-    "id": 89,
-    "tema": "Tema 5",
-    "pregunta": "Se entenderá por composición equilibrada la presencia de mujeres y hombres de forma que las personas de cada sexo:",
-    "opciones": {
-      "a": "Tengan la misma representación (50%).",
-      "b": "No superen el 60 % ni sean menos del 40 %.",
-      "c": "No superen el 70 % ni sean menos del 30 %.",
-      "d": "No sean menos del 10 %."
-    },
-    "correcta": "b",
-    "explicacion": ""
-  },
-  {
-    "id": 113,
-    "tema": "Tema 5",
-    "pregunta": "El importe de la ayuda de pago único a víctimas de violencia de género con dificultades para obtener empleo será equivalente:",
-    "opciones": {
-      "a": "Al de 3 meses de subsidio por desempleo.",
-      "b": "Al de 6 meses de subsidio por desempleo.",
-      "c": "Al de 9 meses de subsidio por desempleo.",
-      "d": "Al de 12 meses de subsidio por desempleo."
-    },
-    "correcta": "b",
-    "explicacion": ""
-  },
-  {
     "id": 1,
     "tema": "Tema 1",
     "pregunta": "¿En qué se fundamenta la Constitución Española?",
@@ -4158,6 +4093,552 @@
       "d": "Todas las respuestas anteriores son correctas."
     },
     "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 5",
+    "pregunta": "No es un principio básico de la provisión de plazas del personal estatutario:",
+    "opciones": {
+      "a": "Igualdad, mérito, capacidad y publicidad en la selección.",
+      "b": "Movilidad del personal en el conjunto de las Administraciones Públicas.",
+      "c": "Coordinación, cooperación y mutua información entre las Administraciones sanitarias públicas.",
+      "d": "Integración en el régimen organizativo y funcional del servicio de salud y de sus centros."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 5",
+    "pregunta": "La provisión de plazas de personal estatutario se realizará por los sistemas de:",
+    "opciones": {
+      "a": "Selección de personal y movilidad únicamente.",
+      "b": "Selección de personal, promoción interna y movilidad.",
+      "c": "Selección de personal y provisión de puestos.",
+      "d": "Selección de personal, de promoción interna y de movilidad, así como por reingreso al servicio activo."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 5",
+    "pregunta": "En las convocatorias para la selección se reservará un cupo para personas con discapacidad no inferior al:",
+    "opciones": {
+      "a": "Tres por ciento.",
+      "b": "Cinco por ciento.",
+      "c": "Siete por ciento.",
+      "d": "Diez por ciento."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 5",
+    "pregunta": "La selección del personal estatutario se efectuará mediante procedimientos que garanticen:",
+    "opciones": {
+      "a": "Los principios de igualdad y mérito únicamente.",
+      "b": "Los principios de igualdad, mérito y celeridad.",
+      "c": "Los principios de igualdad, mérito y competencia.",
+      "d": "Los principios de igualdad, mérito, capacidad y competencia."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 5",
+    "pregunta": "La selección del personal estatutario fijo se efectuará con carácter general a través del sistema de:",
+    "opciones": {
+      "a": "Oposición.",
+      "b": "Concurso-oposición.",
+      "c": "Concurso de méritos.",
+      "d": "Libre designación."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 5",
+    "pregunta": "Los miembros de los órganos de selección deberán:",
+    "opciones": {
+      "a": "Ostentar la condición de personal estatutario fijo.",
+      "b": "Ostentar la condición de personal estatutario o laboral.",
+      "c": "Ostentar la condición de funcionario de carrera o estatutario fijo o laboral de centros vinculados al SNS.",
+      "d": "Ostentar la condición de personal funcionario, estatutario o laboral del SNS."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 5",
+    "pregunta": "La selección del personal estatutario temporal se efectuará a través de:",
+    "opciones": {
+      "a": "Los mismos procedimientos que el personal fijo.",
+      "b": "Procedimientos que permitan la máxima agilidad en la selección.",
+      "c": "Procedimientos que permitan la máxima objetividad en la selección.",
+      "d": "Procedimientos que permitan la máxima celeridad y seguridad."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 5",
+    "pregunta": "El período de prueba del personal estatutario temporal con formación universitaria no podrá ser superior a:",
+    "opciones": {
+      "a": "Un mes.",
+      "b": "Dos meses.",
+      "c": "Tres meses.",
+      "d": "Seis meses."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 5",
+    "pregunta": "Los aspirantes seleccionados deberán superar un período formativo o de prácticas:",
+    "opciones": {
+      "a": "En todo caso.",
+      "b": "Si así se establece en la convocatoria, y como parte del proceso selectivo.",
+      "c": "Si así se establece en la convocatoria pero sin formar parte del proceso.",
+      "d": "Si así lo estima el Tribunal de Selección."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 5",
+    "pregunta": "Para acceder mediante promoción interna será exigible siempre:",
+    "opciones": {
+      "a": "Ser personal estatutario fijo.",
+      "b": "Haber prestado servicios durante dos años en la categoría de origen.",
+      "c": "Ambas son correctas.",
+      "d": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 5",
+    "pregunta": "Cuando de un procedimiento de movilidad voluntaria se derive cambio en el servicio de salud de destino, el plazo de toma de posesión será de:",
+    "opciones": {
+      "a": "3 días hábiles.",
+      "b": "15 días hábiles.",
+      "c": "Un mes.",
+      "d": "30 días hábiles."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 5",
+    "pregunta": "¿Cuándo podrá ser cubierta una plaza en comisión de servicios?",
+    "opciones": {
+      "a": "Por necesidades del servicio en cualquier momento.",
+      "b": "Cuando se encuentre vacante o temporalmente desatendida.",
+      "c": "Por necesidades del servicio y cuando se encuentre vacante o desatendida.",
+      "d": "Cuando la solicita un interesado y exista vacante."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 5",
+    "pregunta": "El Estatuto Marco es aplicable al personal estatutario de:",
+    "opciones": {
+      "a": "Los centros e instituciones sanitarias de los Servicios de Salud de las CCAA únicamente.",
+      "b": "Los centros e instituciones sanitarias de las CCAA y de la Administración General del Estado.",
+      "c": "Los centros de las CCAA, la Administración del Estado y centros privados.",
+      "d": "Exclusivamente al personal funcionario que trabaje en hospitales."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 5",
+    "pregunta": "Son principios y criterios por los que se rige la ordenación del personal estatutario:",
+    "opciones": {
+      "a": "Sometimiento pleno a la ley y al derecho.",
+      "b": "Libre circulación del personal en el conjunto del SNS.",
+      "c": "Planificación eficiente de las necesidades de recursos humanos.",
+      "d": "Los tres anteriores lo son."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 5",
+    "pregunta": "Es personal estatutario sanitario:",
+    "opciones": {
+      "a": "El que ejerce una profesión o especialidad sanitaria.",
+      "b": "El que ostenta nombramiento para el ejercicio de una profesión o especialización sanitaria.",
+      "c": "El que desempeña una categoría clasificada como sanitaria.",
+      "d": "Quien ejerza una profesión sanitaria sin ser funcionario."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 5",
+    "pregunta": "El personal estatutario de Gestión y Servicios se clasifica en función de:",
+    "opciones": {
+      "a": "El sueldo que perciben.",
+      "b": "La peligrosidad del puesto.",
+      "c": "El título exigido para el ingreso.",
+      "d": "El tiempo trabajado en el hospital."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 5",
+    "pregunta": "Se expedirá nombramiento estatutario temporal con carácter eventual:",
+    "opciones": {
+      "a": "Para cargos de confianza.",
+      "b": "Para atender funciones durante períodos de vacaciones.",
+      "c": "Para la prestación de servicios de naturaleza temporal, coyuntural o extraordinaria.",
+      "d": "Para el desempeño de una plaza vacante."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 5",
+    "pregunta": "El objetivo de promover el desarrollo armónico de los recursos humanos del SNS se articula a través de:",
+    "opciones": {
+      "a": "El Consejo Interterritorial del SNS.",
+      "b": "La Comisión de Recursos Humanos del SNS.",
+      "c": "La Consejería de Salud de la Comunidad Autónoma.",
+      "d": "El Foro Marco para el Diálogo Social."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 5",
+    "pregunta": "No constituye un derecho individual del personal estatutario:",
+    "opciones": {
+      "a": "La estabilidad en el empleo.",
+      "b": "La movilidad voluntaria.",
+      "c": "El descanso necesario.",
+      "d": "La negociación colectiva."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 5",
+    "pregunta": "El régimen de derechos del personal estatutario será aplicable al personal temporal:",
+    "opciones": {
+      "a": "En la medida en que la naturaleza del derecho lo permita.",
+      "b": "En todo caso.",
+      "c": "En ningún caso.",
+      "d": "Solo cuando así se establezca en su nombramiento."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 5",
+    "pregunta": "La condición de personal estatutario fijo se adquiere:",
+    "opciones": {
+      "a": "Por la superación de las pruebas de selección y contrato firmado.",
+      "b": "Por la publicación de la designación en el boletín oficial.",
+      "c": "Por la superación de la prueba selectiva, nombramiento conferido e incorporación a la plaza.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 5",
+    "pregunta": "Quienes no acrediten los requisitos exigidos tras superar el proceso selectivo:",
+    "opciones": {
+      "a": "No podrán ser nombrados hasta que subsanen el defecto.",
+      "b": "No podrán ser nombrados y quedarán sin efecto sus actuaciones.",
+      "c": "Podrán ser nombrados de forma condicional.",
+      "d": "Se les nombra y se les da un año de margen."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 5",
+    "pregunta": "No es causa de extinción de la condición de personal estatutario fijo:",
+    "opciones": {
+      "a": "La renuncia.",
+      "b": "La jubilación.",
+      "c": "La sanción disciplinaria firme de separación del servicio.",
+      "d": "La incapacidad temporal."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 5",
+    "pregunta": "La incapacidad permanente total para la profesión habitual produce:",
+    "opciones": {
+      "a": "Da derecho a la reserva del puesto.",
+      "b": "Produce la suspensión de la condición.",
+      "c": "Produce la pérdida de la condición de personal estatutario.",
+      "d": "No afecta a la condición si es menor de 60 años."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 5",
+    "pregunta": "La recuperación de la condición de personal estatutario supondrá:",
+    "opciones": {
+      "a": "La simultánea declaración del interesado en la situación de excedencia voluntaria.",
+      "b": "La reincorporación inmediata a su puesto anterior.",
+      "c": "El pago de una indemnización por el tiempo perdido.",
+      "d": "La obligación de repetir la oposición."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 5",
+    "pregunta": "Es un deber del personal estatutario:",
+    "opciones": {
+      "a": "Ejercer la profesión con lealtad y respeto a los fines de la institución.",
+      "b": "Cumplir el régimen sobre incompatibilidades.",
+      "c": "Mantener actualizados sus conocimientos y formación.",
+      "d": "Todas las anteriores son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 5",
+    "pregunta": "El personal estatutario tiene derecho a la carrera profesional, que consiste en:",
+    "opciones": {
+      "a": "El ascenso de categoría cada 5 años.",
+      "b": "El derecho al progreso individualizado en conocimientos, formación y objetivos.",
+      "c": "El aumento automático de sueldo por antigüedad.",
+      "d": "El derecho a elegir el turno de trabajo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 5",
+    "pregunta": "La renuncia a la condición de personal estatutario tiene un plazo de preaviso de:",
+    "opciones": {
+      "a": "3 días.",
+      "b": "15 días.",
+      "c": "Un mes.",
+      "d": "No tiene plazo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 5",
+    "pregunta": "El personal de Gestión y Servicios de formación profesional se divide en:",
+    "opciones": {
+      "a": "Técnicos superiores y Técnicos.",
+      "b": "Auxiliares y Celadores.",
+      "c": "Jefes y Subalternos.",
+      "d": "Fijos y Eventuales."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 5",
+    "pregunta": "El nombramiento de interinidad se acuerda para:",
+    "opciones": {
+      "a": "Sustituir a un trabajador de baja.",
+      "b": "Atender un exceso de trabajo en urgencias.",
+      "c": "El desempeño de una plaza vacante cuando no sea posible por personal fijo.",
+      "d": "Cubrir las vacaciones del personal titular."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 31,
+    "tema": "Tema 5",
+    "pregunta": "El período de prueba para el personal de gestión y servicios (no universitario) es de:",
+    "opciones": {
+      "a": "15 días.",
+      "b": "Un mes.",
+      "c": "Dos meses.",
+      "d": "No tiene período de prueba."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 32,
+    "tema": "Tema 5",
+    "pregunta": "La pérdida de la nacionalidad española o de un estado de la UE conlleva:",
+    "opciones": {
+      "a": "Una sanción económica.",
+      "b": "El paso a la situación de excedencia.",
+      "c": "La pérdida de la condición de personal estatutario.",
+      "d": "No afecta si ya se tiene la plaza fija."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 5",
+    "pregunta": "Un derecho individual del personal es la formación continuada, que se realizará:",
+    "opciones": {
+      "a": "Solo fuera de la jornada de trabajo.",
+      "b": "Preferentemente dentro de la jornada de trabajo.",
+      "c": "Si el trabajador paga el curso.",
+      "d": "Únicamente durante el período de prácticas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 34,
+    "tema": "Tema 5",
+    "pregunta": "La jubilación forzosa se declara al cumplir la edad de:",
+    "opciones": {
+      "a": "60 años.",
+      "b": "65 años (o la edad legal vigente).",
+      "c": "70 años sin excepción.",
+      "d": "67 años fijos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 35,
+    "tema": "Tema 5",
+    "pregunta": "El personal estatutario puede ser declarado en suspensión de funciones:",
+    "opciones": {
+      "a": "Por enfermedad común de larga duración.",
+      "b": "Como consecuencia de una sanción disciplinaria firme.",
+      "c": "Por falta de presupuesto en el hospital.",
+      "d": "Al cumplir los 10 años de servicio."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 36,
+    "tema": "Tema 5",
+    "pregunta": "El sistema de selección de \"Oposición\" consiste en:",
+    "opciones": {
+      "a": "Valorar solo los años trabajados.",
+      "b": "La celebración de pruebas para determinar la capacidad de los aspirantes.",
+      "c": "Una entrevista personal con el Gerente.",
+      "d": "La entrega de títulos y méritos sin examen."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 37,
+    "tema": "Tema 5",
+    "pregunta": "Los \"objetivos básicos\" del personal estatutario incluyen:",
+    "opciones": {
+      "a": "La mejora de la salud de la población.",
+      "b": "La eficacia y eficiencia del sistema sanitario.",
+      "c": "La satisfacción de los usuarios.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 38,
+    "tema": "Tema 5",
+    "pregunta": "La condición de personal estatutario temporal se pierde por:",
+    "opciones": {
+      "a": "Incorporación del personal fijo a la plaza.",
+      "b": "Extinción de la causa que motivó el nombramiento.",
+      "c": "Renuncia o jubilación.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 39,
+    "tema": "Tema 5",
+    "pregunta": "El derecho a la huelga del personal estatutario está condicionado por:",
+    "opciones": {
+      "a": "La prohibición total en centros sanitarios.",
+      "b": "El mantenimiento de los servicios esenciales para la población.",
+      "c": "La autorización previa del Director del Hospital.",
+      "d": "El pago de una tasa de huelga."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 40,
+    "tema": "Tema 5",
+    "pregunta": "El personal estatutario tiene el deber de sigilo respecto a:",
+    "opciones": {
+      "a": "Su sueldo mensual.",
+      "b": "Los datos de salud y la intimidad de los pacientes.",
+      "c": "El nombre de sus compañeros de turno.",
+      "d": "Las órdenes de sus superiores siempre."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 41,
+    "tema": "Tema 5",
+    "pregunta": "La carrera profesional es un derecho de:",
+    "opciones": {
+      "a": "El personal fijo únicamente.",
+      "b": "El personal temporal únicamente.",
+      "c": "Todo el personal (fijo y temporal según jurisprudencia actual).",
+      "d": "Solo los médicos."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 42,
+    "tema": "Tema 5",
+    "pregunta": "El nombramiento de sustitución se utiliza para:",
+    "opciones": {
+      "a": "Cubrir plazas vacantes.",
+      "b": "Atender picos de actividad.",
+      "c": "Atender las funciones de personal con derecho a reserva de plaza.",
+      "d": "Contratar a personal jubilado."
+    },
+    "correcta": "c",
     "explicacion": ""
   }
 ]

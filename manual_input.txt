@@ -1,300 +1,508 @@
-Test n.º 4: Ordenación Sanitaria y SESCAM (25 preguntas)
-1. De las siguientes competencias, corresponde al Consejo de Gobierno de Castilla-La Mancha:
+Test n.º 5: Estatuto Marco (I) completo
 
-a) Elaborar el reglamento de composición y funcionamiento del Servicio de Salud de Castilla-La Mancha para su remisión al Consejo de Gobierno.
+📝 Test n.º 5: Estatuto Marco del Personal Estatutario (Parte I)
+Temario: Normas generales, clasificación, derechos, deberes, adquisición y pérdida de la condición, selección y movilidad.
 
-b) Nombrar y cesar a la persona que ocupe la Dirección-Gerencia del Servicio de Salud de Castilla-La Mancha.
+1. No es un principio básico de la provisión de plazas del personal estatutario:
 
-c) Programar, ejecutar y evaluar las directrices y los criterios generales de la política y la planificación sanitarias en Castilla-La Mancha.
+a) Igualdad, mérito, capacidad y publicidad en la selección.
 
-d) Aprobar la delimitación, dentro de las Áreas de Salud, de las Zonas Básicas de Salud y de cualquier otra ordenación.
+b) Movilidad del personal en el conjunto de las Administraciones Públicas.
 
-Solución: b
+c) Coordinación, cooperación y mutua información entre las Administraciones sanitarias públicas.
 
-2. Señala cuál de las siguientes competencias se atribuye a la Consejería competente en materia de sanidad de Castilla-La Mancha:
-
-a) Aprobar el Plan de Salud de Castilla-La Mancha.
-
-b) Autorizar la celebración de convenios con otras Administraciones públicas para la prestación de servicios sanitarios.
-
-c) Controlar e inspeccionar las actividades del Sistema Sanitario de Castilla-La Mancha y su adecuación al Plan de Salud.
-
-d) Establecer las directrices y los criterios generales de la política sanitaria en Castilla-La Mancha.
-
-Solución: c
-
-3. Corresponde a las Corporaciones locales, en el marco del Plan de Salud y de las directrices regionales, las siguientes funciones (señala la opción de respuesta INCORRECTA):
-
-a) Formar parte de los órganos del Sistema Sanitario Público de Castilla-La Mancha.
-
-b) Ejercer las competencias que en materia de salud pública les atribuye la legislación de régimen local.
-
-c) Elaborar el Registro de Asociaciones Científicas de carácter sanitario de Castilla-La Mancha.
-
-d) Colaborar en la construcción, remodelación y equipamiento de Centros y Servicios sanitarios, así como en su conservación y mantenimiento.
-
-Solución: c
-
-4. Los Ayuntamientos tendrán las siguientes responsabilidades respecto al cumplimiento de las normas y planes sanitarios (señala la respuesta INCORRECTA):
-
-a) Control sanitario de edificios y lugares de vivienda y convivencia humana (centros de alimentación, peluquerías, hoteles, etc.).
-
-b) Control sanitario de la distribución y suministro de alimentos, bebidas y demás productos, EXCEPTO sus medios de transporte.
-
-c) Control sanitario de industrias, actividades y servicios, transportes, ruidos y vibraciones.
-
-d) Control sanitario de los cementerios y de la sanidad mortuoria.
+d) Integración en el régimen organizativo y funcional del servicio de salud y de sus centros.
 
 Solución: b
 
-5. Sobre el Servicio de Salud de Castilla-La Mancha (SESCAM), señala cuál de los siguientes enunciados NO es correcto:
+2. La provisión de plazas de personal estatutario se realizará por los sistemas de:
 
-a) Es una autoridad administrativa independiente dotada de personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines.
+a) Selección de personal y movilidad únicamente.
 
-b) Se crea con el fin de proveer los servicios y gestionar los centros y establecimientos destinados a la atención sanitaria.
+b) Selección de personal, promoción interna y movilidad.
 
-c) Entre sus funciones se encuentra la de estimular a la formación continuada, a la docencia y a la investigación científica.
+c) Selección de personal y provisión de puestos.
 
-d) Podrá gestionar los centros, servicios y establecimientos sanitarios de asistencia sanitaria propios de la Administración Regional.
-
-Solución: a
-
-6. Señala cuál de las siguientes funciones NO es propia del Servicio de Salud de Castilla-La Mancha:
-
-a) La gestión de los recursos humanos, materiales y financieros que le sean asignados.
-
-b) La gestión de las prestaciones farmacéuticas.
-
-c) La ejecución y gestión de las prestaciones sanitarias.
-
-d) Elaborar y proponer al órgano competente el Plan de Salud.
+d) Selección de personal, de promoción interna y de movilidad, así como por reingreso al servicio activo.
 
 Solución: d
 
-7. La Dirección General de Asistencia Sanitaria:
+3. En las convocatorias para la selección se reservará un cupo para personas con discapacidad no inferior al:
 
-a) Es un órgano periférico del Servicio de Salud de Castilla-La Mancha.
+a) Tres por ciento.
 
-b) Es un órgano central del Servicio de Salud de Castilla-La Mancha adscrito a su Consejo de Administración.
+b) Cinco por ciento.
 
-c) Es una Viceconsejería bajo la dirección de la Dirección-Gerencia del Servicio de Salud de Castilla-La Mancha.
+c) Siete por ciento.
+
+d) Diez por ciento.
+
+Solución: b
+
+4. La selección del personal estatutario se efectuará mediante procedimientos que garanticen:
+
+a) Los principios de igualdad y mérito únicamente.
+
+b) Los principios de igualdad, mérito y celeridad.
+
+c) Los principios de igualdad, mérito y competencia.
+
+d) Los principios de igualdad, mérito, capacidad y competencia.
+
+Solución: d
+
+5. La selección del personal estatutario fijo se efectuará con carácter general a través del sistema de:
+
+a) Oposición.
+
+b) Concurso-oposición.
+
+c) Concurso de méritos.
+
+d) Libre designación.
+
+Solución: b
+
+6. Los miembros de los órganos de selección deberán:
+
+a) Ostentar la condición de personal estatutario fijo.
+
+b) Ostentar la condición de personal estatutario o laboral.
+
+c) Ostentar la condición de funcionario de carrera o estatutario fijo o laboral de centros vinculados al SNS.
+
+d) Ostentar la condición de personal funcionario, estatutario o laboral del SNS.
+
+Solución: c
+
+7. La selección del personal estatutario temporal se efectuará a través de:
+
+a) Los mismos procedimientos que el personal fijo.
+
+b) Procedimientos que permitan la máxima agilidad en la selección.
+
+c) Procedimientos que permitan la máxima objetividad en la selección.
+
+d) Procedimientos que permitan la máxima celeridad y seguridad.
+
+Solución: c
+
+8. El período de prueba del personal estatutario temporal con formación universitaria no podrá ser superior a:
+
+a) Un mes.
+
+b) Dos meses.
+
+c) Tres meses.
+
+d) Seis meses.
+
+Solución: c
+
+9. Los aspirantes seleccionados deberán superar un período formativo o de prácticas:
+
+a) En todo caso.
+
+b) Si así se establece en la convocatoria, y como parte del proceso selectivo.
+
+c) Si así se establece en la convocatoria pero sin formar parte del proceso.
+
+d) Si así lo estima el Tribunal de Selección.
+
+Solución: b
+
+10. Para acceder mediante promoción interna será exigible siempre:
+
+a) Ser personal estatutario fijo.
+
+b) Haber prestado servicios durante dos años en la categoría de origen.
+
+c) Ambas son correctas.
 
 d) Ninguna de las respuestas anteriores es correcta.
 
 Solución: c
 
-8. El Consejo de Administración del Servicio de Salud de Castilla-La Mancha estará integrado por:
+11. Cuando de un procedimiento de movilidad voluntaria se derive cambio en el servicio de salud de destino, el plazo de toma de posesión será de:
 
-a) 5 miembros en representación de las Corporaciones Locales, Organizaciones Sindicales, Empresariales, Consumidores y Vecinos.
+a) 3 días hábiles.
 
-b) La Presidencia, sus delegados provinciales, el Director-Gerente y un máximo de diez representantes de la Administración Regional.
+b) 15 días hábiles.
 
-c) Las respuestas a) y b) son correctas.
+c) Un mes.
 
-d) Ninguna de las respuestas anteriores es correcta.
-
-Solución: d
-
-9. ¿Quién es el representante legal del Servicio de Salud de Castilla-La Mancha?
-
-a) La persona que ocupe la Presidencia del Consejo de Administración.
-
-b) El Consejo de Administración.
-
-c) La persona que ocupe la Dirección-Gerencia.
-
-d) La persona que ocupe la Secretaría General.
+d) 30 días hábiles.
 
 Solución: c
 
-10. A la Secretaría General del Servicio de Salud de Castilla-La Mancha le corresponde:
+12. ¿Cuándo podrá ser cubierta una plaza en comisión de servicios?
 
-a) La toma de decisiones sobre los recursos sanitarios destinados a urgencias, emergencias y catástrofes.
+a) Por necesidades del servicio en cualquier momento.
 
-b) El análisis, propuesta y gestión del modelo retributivo del personal del SESCAM.
+b) Cuando se encuentre vacante o temporalmente desatendida.
 
-c) La gestión de la prestación farmacéutica y productos dietéticos.
+c) Por necesidades del servicio y cuando se encuentre vacante o desatendida.
 
-d) La gestión de los servicios generales de los Servicios Centrales del SESCAM, incluida la coordinación administrativa y contratación necesaria.
-
-Solución: d
-
-11. La promoción de la mejora continua de la práctica clínica y la excelencia en la gestión de procesos en los centros del SESCAM es una función que corresponde a:
-
-a) Dirección General de Cuidados y Calidad.
-
-b) La Dirección General de Recursos Humanos.
-
-c) La Secretaría General.
-
-d) La Dirección General de Atención Primaria.
-
-Solución: a
-
-12. La Dirección General de Recursos Humanos desarrollará las siguientes funciones (señala la respuesta INCORRECTA):
-
-a) La elaboración de la normativa e instrucciones en materia de recursos humanos.
-
-b) La propuesta de realización de contratos, conciertos y convenios con centros y servicios ajenos.
-
-c) La planificación y coordinación de programas de actuación preventiva y salud laboral.
-
-d) Las relaciones con las organizaciones sindicales y la negociación colectiva.
-
-Solución: b
-
-13. Los órganos de dirección y gestión de los recursos y centros de atención primaria y especializada que les sean asignados son:
-
-a) Las gerencias de atención especializada.
-
-b) Las gerencias de ámbito regional.
-
-c) Las gerencias de atención primaria.
-
-d) Las gerencias de atención integrada.
-
-Solución: d
-
-14. La Gerencia de Urgencias, Emergencias y Transporte Sanitario:
-
-a) Es una gerencia de atención especializada.
-
-b) Es una gerencia de ámbito regional.
-
-c) Es una gerencia de atención primaria.
-
-d) Es una gerencia de atención integrada.
-
-Solución: b
-
-15. El derecho a la libre elección de profesional, segunda opinión médica y garantía de tiempos máximos se califican en la Ley 5/2010 como:
-
-a) Derechos relativos a la autonomía de la voluntad.
-
-b) Derechos relativos a la documentación sanitaria.
-
-c) Derechos relacionados con los servicios asistenciales.
-
-d) Derechos relativos a la información sanitaria.
+d) Cuando la solicita un interesado y exista vacante.
 
 Solución: c
 
-16. En relación con los derechos relativos a la intimidad y la confidencialidad, es correcto que:
+13. El Estatuto Marco es aplicable al personal estatutario de:
 
-a) Los centros vigilarán que se guarde la confidencialidad de los datos referidos a ideología, religión, creencias, origen racial, vida sexual o malos tratos.
+a) Los centros e instituciones sanitarias de los Servicios de Salud de las CCAA únicamente.
 
-b) Las personas con acceso a análisis genéticos podrán quedar sujetas al deber de secreto.
+b) Los centros e instituciones sanitarias de las CCAA y de la Administración General del Estado.
 
-c) El derecho de confidencialidad no comprende la información del patrimonio genético.
+c) Los centros de las CCAA, la Administración del Estado y centros privados.
 
-d) Se informará a familiares sin consultar al Comité de Ética Asistencial.
+d) Exclusivamente al personal funcionario que trabaje en hospitales.
 
-Solución: a
+Solución: b
 
-17. Sobre el derecho a la información asistencial, señala la respuesta INCORRECTA:
+14. Son principios y criterios por los que se rige la ordenación del personal estatutario:
 
-a) Deberá respetarse la voluntad del paciente de no ser informado. La renuncia podrá formularse por cualquier medio que permita dejar constancia.
+a) Sometimiento pleno a la ley y al derecho.
 
-b) El titular del derecho es el paciente. Se informará a familiares solo si el paciente lo permite.
+b) Libre circulación del personal en el conjunto del SNS.
 
-c) En menores de 16 años no emancipados se informará también a los padres o tutores.
+c) Planificación eficiente de las necesidades de recursos humanos.
 
-d) Todas las respuestas anteriores son correctas.
-
-Solución: a
-
-18. La autonomía de la voluntad del paciente comprende:
-
-a) La libertad para negarse a recibir un procedimiento diagnóstico o terapéutico.
-
-b) La libertad para revocar una decisión anterior sobre su propia salud.
-
-c) La libertad para elegir entre las distintas opciones expuestas por el profesional.
-
-d) Todas las respuestas anteriores son correctas.
+d) Los tres anteriores lo son.
 
 Solución: d
 
-19. El consentimiento informado:
+15. Es personal estatutario sanitario:
 
-a) Se prestará por escrito, por regla general.
+a) El que ejerce una profesión o especialidad sanitaria.
 
-b) Será verbal en los procedimientos invasores.
+b) El que ostenta nombramiento para el ejercicio de una profesión o especialización sanitaria.
 
-c) Se prestará por escrito en los procedimientos que impliquen riesgos o inconvenientes de notoria repercusión negativa sobre la salud.
+c) El que desempeña una categoría clasificada como sanitaria.
 
-d) Será verbal en todos los casos.
+d) Quien ejerza una profesión sanitaria sin ser funcionario.
+
+Solución: b
+
+16. El personal estatutario de Gestión y Servicios se clasifica en función de:
+
+a) El sueldo que perciben.
+
+b) La peligrosidad del puesto.
+
+c) El título exigido para el ingreso.
+
+d) El tiempo trabajado en el hospital.
 
 Solución: c
 
-20. Sobre la Declaración de Voluntades Anticipadas, es correcto que:
+17. Se expedirá nombramiento estatutario temporal con carácter eventual:
 
-a) Toda persona mayor de edad, libre y no incapacitada judicialmente podrá formularla.
+a) Para cargos de confianza.
 
-b) Contiene los cuidados deseados o no, y el destino del cuerpo y órganos tras el fallecimiento.
+b) Para atender funciones durante períodos de vacaciones.
 
-c) Obliga al médico, al equipo sanitario y a quienes deban ejecutar lo dispuesto.
+c) Para la prestación de servicios de naturaleza temporal, coyuntural o extraordinaria.
 
-d) Todas las respuestas anteriores son correctas.
+d) Para el desempeño de una plaza vacante.
 
-Solución: d
+Solución: c
 
-21. El conjunto de documentos que contienen los datos e informaciones sobre la evolución clínica de un paciente se denomina:
+18. El objetivo de promover el desarrollo armónico de los recursos humanos del SNS se articula a través de:
 
-a) Voluntad anticipada.
+a) El Consejo Interterritorial del SNS.
 
-b) Historia Clínica.
+b) La Comisión de Recursos Humanos del SNS.
 
-c) Consentimiento informado.
+c) La Consejería de Salud de la Comunidad Autónoma.
 
-d) Testamento vital.
-
-Solución: b
-
-22. ¿Cuál de los siguientes derechos NO se encuentra especialmente reconocido en la Ley de Ordenación Sanitaria de CLM?
-
-a) Derecho a la obtención de los medicamentos.
-
-b) Derecho a la garantía de tiempos máximos de respuesta.
-
-c) Derecho al acompañamiento.
-
-d) Derecho a la libre elección del procedimiento quirúrgico a emplear de entre los disponibles.
+d) El Foro Marco para el Diálogo Social.
 
 Solución: d
 
-23. ¿Cuál de los siguientes es un deber de los profesionales de los centros sanitarios?
+19. No constituye un derecho individual del personal estatutario:
 
-a) Guardar secreto sobre toda la información y documentación clínica de los pacientes.
+a) La estabilidad en el empleo.
 
-b) Renunciar a prestar atención sanitaria en situaciones de injuria si no conlleva desatención.
+b) La movilidad voluntaria.
 
-c) La autonomía científica sin más limitaciones que las establecidas por la ley.
+c) El descanso necesario.
 
-d) Recibir apoyo profesional en situaciones problemáticas.
+d) La negociación colectiva.
+
+Solución: d (Es un derecho de ejercicio colectivo)
+
+20. El régimen de derechos del personal estatutario será aplicable al personal temporal:
+
+a) En la medida en que la naturaleza del derecho lo permita.
+
+b) En todo caso.
+
+c) En ningún caso.
+
+d) Solo cuando así se establezca en su nombramiento.
 
 Solución: a
 
-24. Es constitutiva de una infracción administrativa MUY GRAVE:
+21. La condición de personal estatutario fijo se adquiere:
 
-a) La utilización indebida o irresponsable de los recursos que no respondan a una necesidad objetiva.
+a) Por la superación de las pruebas de selección y contrato firmado.
 
-b) La agresión física a profesionales de los centros sanitarios, pacientes o acompañantes.
+b) Por la publicación de la designación en el boletín oficial.
 
-c) La falta de respeto o amenazas contra los profesionales.
+c) Por la superación de la prueba selectiva, nombramiento conferido e incorporación a la plaza.
 
-d) Las respuestas b) y c) son correctas.
+d) Ninguna es correcta.
+
+Solución: c
+
+22. Quienes no acrediten los requisitos exigidos tras superar el proceso selectivo:
+
+a) No podrán ser nombrados hasta que subsanen el defecto.
+
+b) No podrán ser nombrados y quedarán sin efecto sus actuaciones.
+
+c) Podrán ser nombrados de forma condicional.
+
+d) Se les nombra y se les da un año de margen.
 
 Solución: b
 
-25. ¿Cómo pueden sancionarse las infracciones calificadas como muy graves?
+23. No es causa de extinción de la condición de personal estatutario fijo:
 
-a) Con multa de hasta 15.000€.
+a) La renuncia.
 
-b) Con la inhabilitación para el ejercicio de la profesión por un período de uno a cinco años.
+b) La jubilación.
 
-c) Con el cierre definitivo del establecimiento en el caso de centros privados.
+c) La sanción disciplinaria firme de separación del servicio.
 
-d) Todas las respuestas anteriores son correctas.
+d) La incapacidad temporal.
+
+Solución: d
+
+24. La incapacidad permanente total para la profesión habitual produce:
+
+a) Da derecho a la reserva del puesto.
+
+b) Produce la suspensión de la condición.
+
+c) Produce la pérdida de la condición de personal estatutario.
+
+d) No afecta a la condición si es menor de 60 años.
+
+Solución: c
+
+25. La recuperación de la condición de personal estatutario supondrá:
+
+a) La simultánea declaración del interesado en la situación de excedencia voluntaria.
+
+b) La reincorporación inmediata a su puesto anterior.
+
+c) El pago de una indemnización por el tiempo perdido.
+
+d) La obligación de repetir la oposición.
+
+Solución: a
+
+26. Es un deber del personal estatutario:
+
+a) Ejercer la profesión con lealtad y respeto a los fines de la institución.
+
+b) Cumplir el régimen sobre incompatibilidades.
+
+c) Mantener actualizados sus conocimientos y formación.
+
+d) Todas las anteriores son correctas.
+
+Solución: d
+
+27. El personal estatutario tiene derecho a la carrera profesional, que consiste en:
+
+a) El ascenso de categoría cada 5 años.
+
+b) El derecho al progreso individualizado en conocimientos, formación y objetivos.
+
+c) El aumento automático de sueldo por antigüedad.
+
+d) El derecho a elegir el turno de trabajo.
 
 Solución: b
+
+28. La renuncia a la condición de personal estatutario tiene un plazo de preaviso de:
+
+a) 3 días.
+
+b) 15 días.
+
+c) Un mes.
+
+d) No tiene plazo.
+
+Solución: b
+
+29. El personal de Gestión y Servicios de formación profesional se divide en:
+
+a) Técnicos superiores y Técnicos.
+
+b) Auxiliares y Celadores.
+
+c) Jefes y Subalternos.
+
+d) Fijos y Eventuales.
+
+Solución: a
+
+30. El nombramiento de interinidad se acuerda para:
+
+a) Sustituir a un trabajador de baja.
+
+b) Atender un exceso de trabajo en urgencias.
+
+c) El desempeño de una plaza vacante cuando no sea posible por personal fijo.
+
+d) Cubrir las vacaciones del personal titular.
+
+Solución: c
+
+31. El período de prueba para el personal de gestión y servicios (no universitario) es de:
+
+a) 15 días.
+
+b) Un mes.
+
+c) Dos meses.
+
+d) No tiene período de prueba.
+
+Solución: c (Nota: varía según la categoría, pero el estándar EM es 2 meses para el grupo C2/D/E)
+
+32. La pérdida de la nacionalidad española o de un estado de la UE conlleva:
+
+a) Una sanción económica.
+
+b) El paso a la situación de excedencia.
+
+c) La pérdida de la condición de personal estatutario.
+
+d) No afecta si ya se tiene la plaza fija.
+
+Solución: c
+
+33. Un derecho individual del personal es la formación continuada, que se realizará:
+
+a) Solo fuera de la jornada de trabajo.
+
+b) Preferentemente dentro de la jornada de trabajo.
+
+c) Si el trabajador paga el curso.
+
+d) Únicamente durante el período de prácticas.
+
+Solución: b
+
+34. La jubilación forzosa se declara al cumplir la edad de:
+
+a) 60 años.
+
+b) 65 años (o la edad legal vigente).
+
+c) 70 años sin excepción.
+
+d) 67 años fijos.
+
+Solución: b
+
+35. El personal estatutario puede ser declarado en suspensión de funciones:
+
+a) Por enfermedad común de larga duración.
+
+b) Como consecuencia de una sanción disciplinaria firme.
+
+c) Por falta de presupuesto en el hospital.
+
+d) Al cumplir los 10 años de servicio.
+
+Solución: b
+
+36. El sistema de selección de "Oposición" consiste en:
+
+a) Valorar solo los años trabajados.
+
+b) La celebración de pruebas para determinar la capacidad de los aspirantes.
+
+c) Una entrevista personal con el Gerente.
+
+d) La entrega de títulos y méritos sin examen.
+
+Solución: b
+
+37. Los "objetivos básicos" del personal estatutario incluyen:
+
+a) La mejora de la salud de la población.
+
+b) La eficacia y eficiencia del sistema sanitario.
+
+c) La satisfacción de los usuarios.
+
+d) Todas las anteriores.
+
+Solución: d
+
+38. La condición de personal estatutario temporal se pierde por:
+
+a) Incorporación del personal fijo a la plaza.
+
+b) Extinción de la causa que motivó el nombramiento.
+
+c) Renuncia o jubilación.
+
+d) Todas las anteriores.
+
+Solución: d
+
+39. El derecho a la huelga del personal estatutario está condicionado por:
+
+a) La prohibición total en centros sanitarios.
+
+b) El mantenimiento de los servicios esenciales para la población.
+
+c) La autorización previa del Director del Hospital.
+
+d) El pago de una tasa de huelga.
+
+Solución: b
+
+40. El personal estatutario tiene el deber de sigilo respecto a:
+
+a) Su sueldo mensual.
+
+b) Los datos de salud y la intimidad de los pacientes.
+
+c) El nombre de sus compañeros de turno.
+
+d) Las órdenes de sus superiores siempre.
+
+Solución: b
+
+41. La carrera profesional es un derecho de:
+
+a) El personal fijo únicamente.
+
+b) El personal temporal únicamente.
+
+c) Todo el personal (fijo y temporal según jurisprudencia actual).
+
+d) Solo los médicos.
+
+Solución: a (Según el texto original de la Ley 55/2003, aunque los tribunales lo han ampliado).
+
+42. El nombramiento de sustitución se utiliza para:
+
+a) Cubrir plazas vacantes.
+
+b) Atender picos de actividad.
+
+c) Atender las funciones de personal con derecho a reserva de plaza.
+
+d) Contratar a personal jubilado.
+
+Solución: c
