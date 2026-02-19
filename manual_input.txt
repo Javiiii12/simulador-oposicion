@@ -1,396 +1,360 @@
-Test n.º 6: Estatuto Marco del Personal Estatutario (Parte II)
-1. La pena de inhabilitación especial para la correspondiente profesión supondrá la pérdida de la condición de personal estatutario:
+Test n.º 7: Asistencia Especializada y Hospitales
+1. ¿En qué se diferencia la Atención Especializada de la Atención Primaria?
 
-a) Si excede de 10 años.
+a) En que la Atención Especializada se presta en régimen ambulatorio y la Primaria no.
 
-b) Si excede de 6 años.
+b) En que la Atención Especializada se presta en régimen de urgencias y la Primaria no.
 
-c) Si excede de 1 año.
+c) En que sólo la Atención Especializada ofrece la asistencia en régimen de internamiento.
 
-d) No supone tal pérdida.
-
-Solución: b
-
-2. El sistema retributivo del personal estatutario responde:
-
-a) A los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo común en relación con las retribuciones básicas.
-
-b) A los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo común en relación con las retribuciones básicas y complementarias.
-
-c) A los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo homogéneo en relación con las retribuciones básicas.
-
-d) A los principios de capacidad y profesionalidad y asegura el mantenimiento de un modelo común en relación con las retribuciones básicas.
-
-Solución: a
-
-3. Sin perjuicio de la sanción disciplinaria que corresponda, la parte de jornada no realizada por causas imputables al interesado:
-
-a) Dará lugar a la deducción proporcional de haberes y tendrá carácter sancionador.
-
-b) Dará lugar a la deducción proporcional de haberes, que no tendrá carácter sancionador.
-
-c) No dará lugar a la deducción proporcional de haberes, aunque tendrá carácter sancionador.
-
-d) No será recuperable.
-
-Solución: b
-
-4. Las retribuciones básicas son:
-
-a) El sueldo, los trienios y las pagas extraordinarias.
-
-b) El salario base, los trienios y las pagas extras.
-
-c) El sueldo, los quinquenios y las pagas extraordinarias.
-
-d) Ninguna es correcta.
-
-Solución: a
-
-5. El importe de las pagas extraordinarias:
-
-a) Será como mínimo de una mensualidad del sueldo y trienios al que se añadirá la catorceava parte del importe anual del complemento de destino.
-
-b) Será igual a una mensualidad de sueldo, trienios y complementos.
-
-c) Será como mínimo de una mensualidad de sueldos y trienios.
-
-d) Será al menos igual a la mensualidad percibida el mes anterior.
-
-Solución: b
-
-6. No es una retribución complementaria:
-
-a) El complemento de destino.
-
-b) El complemento específico.
-
-c) El complemento de productividad.
-
-d) El complemento de antigüedad.
-
-Solución: d
-
-7. El personal estatutario temporal percibirá:
-
-a) Las mismas retribuciones que el personal fijo excepto los trienios.
-
-b) Las mismas retribuciones que el personal fijo salvo en complemento específico.
-
-c) La totalidad de las retribuciones básicas y complementarias que corresponda a su nombramiento.
-
-d) Ninguna de las anteriores es correcta.
+d) Todas las respuestas son correctas.
 
 Solución: c
 
-8. La retribución de los aspirantes en prácticas ascenderá, como mínimo a:
+2. ¿Cuál es la estructura física fundamental de la Atención Especializada?
 
-a) Las mismas retribuciones que el personal fijo excepto los trienios.
+a) El Centro de Salud.
 
-b) Las mismas retribuciones que el personal fijo salvo en complemento específico.
+b) El Ambulatorio.
 
-c) La totalidad de las retribuciones básicas y complementarias correspondientes.
+c) El Consultorio.
 
-d) Las retribuciones básicas, excluidos trienios, del grupo al que aspiren ingresar.
+d) El Hospital.
 
 Solución: d
 
-9. La jornada ordinaria de trabajo del personal estatutario en los centros sanitarios:
+3. Uno de los objetivos de la Atención Especializada es:
 
-a) Se determinará en las normas dictadas por la administración.
+a) Prestar asistencia ambulatoria especializada.
 
-b) Se determinará en los pactos o acuerdos alcanzados.
+b) Posibilitar la hospitalización de los pacientes que lo precisen.
 
-c) Se determinará en las normas, pactos o acuerdos, según proceda.
+c) Poner sus Centros e Instituciones a disposición de la investigación y docencia.
 
-d) Se pactará individualmente con cada trabajador.
+d) Todas las respuestas son correctas.
+
+Solución: d
+
+4. Conforme al artículo 65 de la Ley General de Sanidad, los hospitales quedan adscritos a:
+
+a) Un Distrito Sanitario.
+
+b) Una Zona de Salud.
+
+c) Un Área de Salud.
+
+d) Una Demarcación Médica.
 
 Solución: c
 
-10. Se entiende por tiempo de trabajo:
+5. Los Servicios Jerarquizados de Especialidades que deban prestar asistencia a más de un Área de Salud se denominan:
 
-a) El período en el que el personal permanece en el centro sanitario, a disposición del mismo y en ejercicio efectivo de su actividad y funciones.
+a) Servicios de referencia.
 
-b) El período en el que el personal permanece en el centro sanitario.
+b) Servicios comunes.
 
-c) El período que el personal dedica al ejercicio efectivo de su actividad y funciones.
+c) Servicios de área.
 
-d) Ninguna es correcta.
-
-Solución: a
-
-11. El Personal Estatutario tendrá derecho a una vacación retribuida:
-
-a) No inferior a 30 días naturales.
-
-b) A un mínimo de 22 días hábiles.
-
-c) A un mes.
-
-d) A 30 días hábiles.
+d) Servicios base.
 
 Solución: a
 
-12. El objeto perseguido por el Estatuto Marco en materia de tiempo de trabajo y régimen de descansos es:
+6. Los hospitales tienen como función primordial la de:
 
-a) El establecimiento de las disposiciones mínimas para la protección de la seguridad y salud del personal.
+a) Prestación de asistencia especializada.
 
-b) El establecimiento de las disposiciones mínimas para la organización de los servicios.
+b) Promoción de la salud.
 
-c) Garantizar en todo momento las necesidades asistenciales.
+c) Prevención de las enfermedades.
 
-d) Todas son correctas.
+d) Todas las respuestas son correctas.
 
-Solución: a
+Solución: d
 
-13. Deberá establecerse un período de descanso durante la jornada no inferior a 15 minutos:
+7. Las Gerencias de Atención Especializada del SESCAM se crean por:
 
-a) Siempre que la duración de la misma exceda de ocho horas continuadas.
+a) Ley de la Asamblea de Castilla-La Mancha.
 
-b) Siempre que la duración de la misma exceda de seis horas continuadas u ocho discontinuas.
+b) Decreto del Consejo de Gobierno de Castilla-La Mancha.
 
-c) Siempre que la duración de la misma exceda de seis horas continuadas.
+c) Orden del titular de la Consejería competente en materia de atención sanitaria.
 
-d) Siempre que la duración de la misma no exceda de seis horas continuadas.
+d) Resolución del Director-Gerente del SESCAM.
 
 Solución: c
 
-14. La duración máxima conjunta de los tiempos de trabajo (jornada ordinaria + complementaria) será de:
+8. El acceso a los servicios hospitalarios se efectuará cuando las posibilidades de primaria hayan sido superadas, salvo:
 
-a) 48 horas continuadas.
+a) Que así lo autorice expresamente la dirección del centro.
 
-b) 48 horas semanales.
+b) En los casos de fuerza mayor.
 
-c) 12 horas continuadas.
+c) En los casos de urgencia vital.
 
-d) 12 horas diarias en el cómputo total del semestre.
-
-Solución: b
-
-15. El período mínimo de descanso ininterrumpido entre el fin de una jornada y el comienzo de la siguiente es de:
-
-a) 8 horas.
-
-b) 12 horas.
-
-c) 24 horas.
-
-d) 9 horas.
-
-Solución: b
-
-16. El tiempo de trabajo correspondiente a la jornada ordinaria no excederá:
-
-a) De 12 horas ininterrumpidas.
-
-b) De 24 horas de forma no continuada.
-
-c) De 8 horas continuadas.
-
-d) De 16 horas diarias en jornada partida.
-
-Solución: a
-
-17. No es una situación administrativa propia del personal estatutario la de:
-
-a) Servicios especiales.
-
-b) Excedencia forzosa.
-
-c) Excedencia voluntaria.
-
-d) Excedencia por servicios en el sector público.
-
-Solución: b
-
-18. Para que el personal estatutario fijo sea declarado en la situación de servicios de gestión clínica, debía encontrarse en la situación de:
-
-a) Servicios especiales.
-
-b) Servicios bajo otro régimen jurídico.
-
-c) Excedencia voluntaria.
-
-d) Excedencia por servicios en el sector público.
-
-Solución: b
-
-19. El personal estatutario será declarado en situación de servicios especiales:
-
-a) Cuando acceda a plaza de formación sanitaria especializada mediante residencia.
-
-b) En los supuestos establecidos con carácter general para los funcionarios.
-
-c) Cuando sea autorizado a colaborar con ONGs.
-
-d) Todas las opciones son correctas.
-
-Solución: d
-
-20. Un trabajador que incumpla la obligación de solicitar el reingreso al servicio activo tras finalizar la causa que motivó su situación:
-
-a) Pasará a la situación de reingreso provisional en otro destino.
-
-b) Será declarado de oficio en excedencia voluntaria.
-
-c) Pasará a la situación de servicios especiales.
-
-d) Seguirá su reingreso provisional en el mismo destino.
-
-Solución: b
-
-21. La suspensión firme determinará:
-
-a) La pérdida del puesto de trabajo cuando exceda de 1 año.
-
-b) El cambio de destino cuando exceda de 6 meses.
-
-c) La pérdida del puesto de trabajo cuando exceda de 6 meses.
-
-d) La pérdida automática del puesto de trabajo.
-
-Solución: a
-
-22. El régimen disciplinario responderá a los principios de:
-
-a) Legalidad, eficacia y proporcionalidad.
-
-b) Tipicidad, eficacia y proporcionalidad.
-
-c) Tipicidad, eficacia y congruencia.
-
-d) Tipicidad, justicia y proporcionalidad.
-
-Solución: b
-
-23. El abuso de autoridad en el ejercicio de sus funciones es:
-
-a) Una falta muy grave.
-
-b) Una falta grave.
-
-c) Una falta leve.
-
-d) No es una falta.
-
-Solución: b
-
-24. Las faltas muy graves prescribirán:
-
-a) A los 4 años.
-
-b) A los dos años.
-
-c) A los 6 años.
-
-d) No prescriben.
-
-Solución: a
-
-25. La sanción de traslado forzoso:
-
-a) Solo podrá imponerse por faltas muy graves.
-
-b) Podrá imponerse por faltas graves y muy graves.
-
-c) No podrá imponerse por faltas leves.
-
-d) Podrá imponerse por faltas muy graves cualificadas.
-
-Solución: a
-
-26. No será preceptiva la previa instrucción del procedimiento disciplinario:
-
-a) Para la imposición de sanciones por faltas leves, salvo el trámite de audiencia.
-
-b) Para la imposición de faltas leves y graves.
-
-c) Siempre es necesario un procedimiento previo.
-
-d) Ninguna es correcta.
-
-Solución: a
-
-27. Podrá acordarse la suspensión provisional de funciones como medida cautelar en caso de:
-
-a) Faltas muy graves.
-
-b) Faltas graves.
-
-c) Expediente judicial.
-
-d) Todos los supuestos anteriores.
-
-Solución: d
-
-28. La percepción de pensión de jubilación pública será compatible con:
-
-a) La situación del personal emérito.
-
-b) Las retribuciones derivadas de una actividad a tiempo parcial.
-
-c) Con ambos supuestos anteriores.
-
-d) Es incompatible.
-
-Solución: d (Nota: regla general de incompatibilidad, salvo excepciones muy específicas).
-
-29. En las mesas de negociación, los representantes pueden concertar:
-
-a) Pactos y convenios.
-
-b) Convenios y resoluciones.
-
-c) Una Mesa sectorial.
-
-d) Pactos y acuerdos.
-
-Solución: d
-
-30. No es materia objeto de negociación en la Mesa sectorial:
-
-a) Regulación de jornada laboral y descansos.
-
-b) Régimen de permisos y licencias.
-
-c) Decisiones del servicio de salud que afecten a derechos de los ciudadanos.
-
-d) Determinación de las retribuciones del personal.
+d) No caben excepciones a esta norma.
 
 Solución: c
 
-31. Las anotaciones por sanciones disciplinarias firmes de carácter LEVE se cancelarán en:
+9. Los servicios y actividades de los hospitales se agrupan en las siguientes Divisiones:
 
-a) Seis años.
+a) Gerencia, División Médica, División de Enfermería y División de Gestión y Servicios Generales.
 
-b) Cuatro años.
+b) Secretaría, División Médica, División de Enfermería y División de Gestión.
 
-c) Dos años.
+c) Secretaría División Técnica, División Médica y División de Enfermería.
 
-d) Dos meses.
-
-Solución: c
-
-32. El régimen retributivo del personal estatutario se concreta anualmente por:
-
-a) Cada comunidad autónoma respecto del personal a su servicio.
-
-b) El Gobierno del Estado respecto de todo el personal.
-
-c) El convenio colectivo estatal respecto de todo el personal.
-
-d) Las mesas sectoriales.
+d) Gerencia, Secretaría, División Médica y División de Gestión y Servicios Generales.
 
 Solución: a
 
-33. En comisión de servicios, el personal estatutario percibirá las retribuciones:
+10. Constituye el marco fundamental para el desarrollo de los programas de promoción de la salud y prevención de la enfermedad:
 
-a) Correspondientes a las funciones especiales que realice.
+a) El Área de Salud.
 
-b) De su plaza o puesto de origen.
+b) La Zona Básica de Salud.
 
-c) Proporcional a cada Centro.
+c) El Centro de Salud.
 
-d) Correspondientes a la plaza desempeñada, salvo que sean inferiores a las de origen.
+d) El Hospital.
+
+Solución: a
+
+11. ¿Cuál es el órgano unipersonal de dirección y gestión de cada División?
+
+a) El Director Técnico General de la División.
+
+b) El Director de la División.
+
+c) El Gerente.
+
+d) El Secretario.
+
+Solución: b
+
+12. ¿De quién dependen orgánica y funcionalmente los Directores de las Divisiones Médica, Enfermería y Gestión?
+
+a) Del Director Gerente.
+
+b) Del Secretario General.
+
+c) Del Director Médico del Área de Salud.
+
+d) Del Subdirector Técnico General.
+
+Solución: a
+
+13. ¿A quién corresponde la representación del hospital y la superior autoridad dentro del mismo?
+
+a) Al Director Gerente.
+
+b) Al Director Médico.
+
+c) Al Director de Gestión y Personal.
+
+d) Al Director de Enfermería.
+
+Solución: a
+
+14. ¿Cuál de las siguientes áreas de actividad NO queda adscrita a la Gerencia del hospital?
+
+a) Control de gestión.
+
+b) Admisión.
+
+c) Recepción e información.
+
+d) Estadística.
 
 Solución: d
+
+15. ¿A quién corresponde asegurar el desarrollo del Programa de Actividad y Control Asistencial de Enfermería?
+
+a) Al Director Gerente.
+
+b) Al Director Médico.
+
+c) Al Director de Enfermería.
+
+d) Al Director de Gestión y Personal.
+
+Solución: c
+
+16. Corresponde al Director de Gestión y Servicios Generales el ejercicio de la siguiente función:
+
+a) Desarrollar las funciones de gestión de personal.
+
+b) Asegurar el desarrollo del Programa de Actividad de Enfermería.
+
+c) Definir los objetivos de la Enfermería del Hospital.
+
+d) Todas las respuestas son correctas.
+
+Solución: a
+
+17. ¿A qué División queda adscrita el área de orden interno, seguridad, obras y mantenimiento?
+
+a) A la División de Gestión y Servicios Generales.
+
+b) A la División de Enfermería.
+
+c) A la División Médica.
+
+d) A la Gerencia.
+
+Solución: a
+
+18. ¿Quién preside la Comisión de Dirección en los hospitales donde no existe Director Gerente?
+
+a) El Director de Enfermería.
+
+b) El Director Médico.
+
+c) El Director de Personal.
+
+d) El Subdirector Gerente.
+
+Solución: b
+
+19. ¿Con qué periodicidad se reúne la Comisión de Dirección?
+
+a) Anualmente.
+
+b) Semestralmente.
+
+c) Trimestralmente.
+
+d) Semanalmente.
+
+Solución: d
+
+20. ¿Cuál es el órgano colegiado de asesoramiento de la Comisión de Dirección relativo a la actividad asistencial?
+
+a) La Comisión de Bienestar Social.
+
+b) La Junta Técnico-Asistencial.
+
+c) La Comisión Central de Garantía de la Calidad.
+
+d) El Consejo Nacional de Asistencia Sanitaria.
+
+Solución: b
+
+21. ¿Cuántos vocales en representación de los órganos de participación social integran la Comisión de Bienestar Social?
+
+a) Ocho.
+
+b) Seis.
+
+c) Cinco.
+
+d) Tres.
+
+Solución: a
+
+22. Señale la respuesta correcta respecto a la Comisión Central de Garantía de la Calidad:
+
+a) Los miembros de las Comisiones Clínicas no deben superar el número de seis.
+
+b) Son nombrados por la Junta Técnico Asistencial a propuesta de Enfermería.
+
+c) Es el organismo técnico de elaboración y trabajo en las áreas de Calidad Asistencial y Adecuación Tecnológica.
+
+d) Actúa como órgano de asesoramiento temporal a la Dirección Médica.
+
+Solución: c
+
+23. ¿Cuántos vocales en representación de los órganos de participación social integran la Comisión de Bienestar Social?
+
+a) Ocho.
+
+b) Seis.
+
+c) Cinco.
+
+d) Tres.
+
+Solución: a
+
+24. Los responsables de las unidades asistenciales con rango inferior al de Servicio tienen la denominación de:
+
+a) Supervisores.
+
+b) Encargados de Sección.
+
+c) Jefes de Sección.
+
+d) Delegados de División.
+
+Solución: c
+
+25. ¿Quién organiza las guardias médicas estableciendo los criterios funcionales de presencia física o localizada?
+
+a) El Director Gerente.
+
+b) El Director Médico.
+
+c) El Director de Enfermería.
+
+d) El Director de Personal.
+
+Solución: a
+
+26. Según el Reglamento de Instituciones Sanitarias, ¿cuál NO es una institución "abierta"?
+
+a) Ambulatorios.
+
+b) Consultorios de Medicina General.
+
+c) Centros de Diagnóstico y Tratamiento.
+
+d) Ciudades Sanitarias.
+
+Solución: d
+
+27. ¿Cuál de las siguientes es una Institución Sanitaria clasificada como "cerrada"?
+
+a) Ambulatorios.
+
+b) Consultorios de Medicina General.
+
+c) Centros de Diagnóstico y Tratamiento.
+
+d) Residencias sanitarias comarcales.
+
+Solución: d
+
+28. Las instituciones donde se presta asistencia en régimen de internamiento, ambulatorio y de urgencias se denominan:
+
+a) Ambulatorios.
+
+b) Centros de Diagnóstico y Tratamiento.
+
+c) Hospitales.
+
+d) Unidades de Salud Especializada.
+
+Solución: c
+
+29. La Ley 37/62 cataloga a los hospitales, por razón de su ámbito, en:
+
+a) Nacionales, regionales, provinciales y locales.
+
+b) Hospitales generales y especiales.
+
+c) Básicos, generales y especiales.
+
+d) Comarcales, locales, zonales y regionales.
+
+Solución: a
+
+30. Prestar atención médica especializada por equipos multidisciplinarios en la casa del paciente es:
+
+a) Atención domiciliaria.
+
+b) Hospitalización domiciliaria.
+
+c) Atención hospitalaria.
+
+d) Prevención hospitalaria en domicilio.
+
+Solución: b

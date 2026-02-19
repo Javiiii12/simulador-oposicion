@@ -5069,5 +5069,395 @@
     },
     "correcta": "d",
     "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 7",
+    "pregunta": "¿En qué se diferencia la Atención Especializada de la Atención Primaria?",
+    "opciones": {
+      "a": "En que la Atención Especializada se presta en régimen ambulatorio y la Primaria no.",
+      "b": "En que la Atención Especializada se presta en régimen de urgencias y la Primaria no.",
+      "c": "En que sólo la Atención Especializada ofrece la asistencia en régimen de internamiento.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 7",
+    "pregunta": "¿Cuál es la estructura física fundamental de la Atención Especializada?",
+    "opciones": {
+      "a": "El Centro de Salud.",
+      "b": "El Ambulatorio.",
+      "c": "El Consultorio.",
+      "d": "El Hospital."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 7",
+    "pregunta": "Uno de los objetivos de la Atención Especializada es:",
+    "opciones": {
+      "a": "Prestar asistencia ambulatoria especializada.",
+      "b": "Posibilitar la hospitalización de los pacientes que lo precisen.",
+      "c": "Poner sus Centros e Instituciones a disposición de la investigación y docencia.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 7",
+    "pregunta": "Conforme al artículo 65 de la Ley General de Sanidad, los hospitales quedan adscritos a:",
+    "opciones": {
+      "a": "Un Distrito Sanitario.",
+      "b": "Una Zona de Salud.",
+      "c": "Un Área de Salud.",
+      "d": "Una Demarcación Médica."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 7",
+    "pregunta": "Los Servicios Jerarquizados de Especialidades que deban prestar asistencia a más de un Área de Salud se denominan:",
+    "opciones": {
+      "a": "Servicios de referencia.",
+      "b": "Servicios comunes.",
+      "c": "Servicios de área.",
+      "d": "Servicios base."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 7",
+    "pregunta": "Los hospitales tienen como función primordial la de:",
+    "opciones": {
+      "a": "Prestación de asistencia especializada.",
+      "b": "Promoción de la salud.",
+      "c": "Prevención de las enfermedades.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 7",
+    "pregunta": "Las Gerencias de Atención Especializada del SESCAM se crean por:",
+    "opciones": {
+      "a": "Ley de la Asamblea de Castilla-La Mancha.",
+      "b": "Decreto del Consejo de Gobierno de Castilla-La Mancha.",
+      "c": "Orden del titular de la Consejería competente en materia de atención sanitaria.",
+      "d": "Resolución del Director-Gerente del SESCAM."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 7",
+    "pregunta": "El acceso a los servicios hospitalarios se efectuará cuando las posibilidades de primaria hayan sido superadas, salvo:",
+    "opciones": {
+      "a": "Que así lo autorice expresamente la dirección del centro.",
+      "b": "En los casos de fuerza mayor.",
+      "c": "En los casos de urgencia vital.",
+      "d": "No caben excepciones a esta norma."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 7",
+    "pregunta": "Los servicios y actividades de los hospitales se agrupan en las siguientes Divisiones:",
+    "opciones": {
+      "a": "Gerencia, División Médica, División de Enfermería y División de Gestión y Servicios Generales.",
+      "b": "Secretaría, División Médica, División de Enfermería y División de Gestión.",
+      "c": "Secretaría División Técnica, División Médica y División de Enfermería.",
+      "d": "Gerencia, Secretaría, División Médica y División de Gestión y Servicios Generales."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 7",
+    "pregunta": "Constituye el marco fundamental para el desarrollo de los programas de promoción de la salud y prevención de la enfermedad:",
+    "opciones": {
+      "a": "El Área de Salud.",
+      "b": "La Zona Básica de Salud.",
+      "c": "El Centro de Salud.",
+      "d": "El Hospital."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 7",
+    "pregunta": "¿Cuál es el órgano unipersonal de dirección y gestión de cada División?",
+    "opciones": {
+      "a": "El Director Técnico General de la División.",
+      "b": "El Director de la División.",
+      "c": "El Gerente.",
+      "d": "El Secretario."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 7",
+    "pregunta": "¿De quién dependen orgánica y funcionalmente los Directores de las Divisiones Médica, Enfermería y Gestión?",
+    "opciones": {
+      "a": "Del Director Gerente.",
+      "b": "Del Secretario General.",
+      "c": "Del Director Médico del Área de Salud.",
+      "d": "Del Subdirector Técnico General."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 7",
+    "pregunta": "¿A quién corresponde la representación del hospital y la superior autoridad dentro del mismo?",
+    "opciones": {
+      "a": "Al Director Gerente.",
+      "b": "Al Director Médico.",
+      "c": "Al Director de Gestión y Personal.",
+      "d": "Al Director de Enfermería."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 7",
+    "pregunta": "¿Cuál de las siguientes áreas de actividad NO queda adscrita a la Gerencia del hospital?",
+    "opciones": {
+      "a": "Control de gestión.",
+      "b": "Admisión.",
+      "c": "Recepción e información.",
+      "d": "Estadística."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 7",
+    "pregunta": "¿A quién corresponde asegurar el desarrollo del Programa de Actividad y Control Asistencial de Enfermería?",
+    "opciones": {
+      "a": "Al Director Gerente.",
+      "b": "Al Director Médico.",
+      "c": "Al Director de Enfermería.",
+      "d": "Al Director de Gestión y Personal."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 7",
+    "pregunta": "Corresponde al Director de Gestión y Servicios Generales el ejercicio de la siguiente función:",
+    "opciones": {
+      "a": "Desarrollar las funciones de gestión de personal.",
+      "b": "Asegurar el desarrollo del Programa de Actividad de Enfermería.",
+      "c": "Definir los objetivos de la Enfermería del Hospital.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 7",
+    "pregunta": "¿A qué División queda adscrita el área de orden interno, seguridad, obras y mantenimiento?",
+    "opciones": {
+      "a": "A la División de Gestión y Servicios Generales.",
+      "b": "A la División de Enfermería.",
+      "c": "A la División Médica.",
+      "d": "A la Gerencia."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 7",
+    "pregunta": "¿Quién preside la Comisión de Dirección en los hospitales donde no existe Director Gerente?",
+    "opciones": {
+      "a": "El Director de Enfermería.",
+      "b": "El Director Médico.",
+      "c": "El Director de Personal.",
+      "d": "El Subdirector Gerente."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 7",
+    "pregunta": "¿Con qué periodicidad se reúne la Comisión de Dirección?",
+    "opciones": {
+      "a": "Anualmente.",
+      "b": "Semestralmente.",
+      "c": "Trimestralmente.",
+      "d": "Semanalmente."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 7",
+    "pregunta": "¿Cuál es el órgano colegiado de asesoramiento de la Comisión de Dirección relativo a la actividad asistencial?",
+    "opciones": {
+      "a": "La Comisión de Bienestar Social.",
+      "b": "La Junta Técnico-Asistencial.",
+      "c": "La Comisión Central de Garantía de la Calidad.",
+      "d": "El Consejo Nacional de Asistencia Sanitaria."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 7",
+    "pregunta": "¿Cuántos vocales en representación de los órganos de participación social integran la Comisión de Bienestar Social?",
+    "opciones": {
+      "a": "Ocho.",
+      "b": "Seis.",
+      "c": "Cinco.",
+      "d": "Tres."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 7",
+    "pregunta": "Señale la respuesta correcta respecto a la Comisión Central de Garantía de la Calidad:",
+    "opciones": {
+      "a": "Los miembros de las Comisiones Clínicas no deben superar el número de seis.",
+      "b": "Son nombrados por la Junta Técnico Asistencial a propuesta de Enfermería.",
+      "c": "Es el organismo técnico de elaboración y trabajo en las áreas de Calidad Asistencial y Adecuación Tecnológica.",
+      "d": "Actúa como órgano de asesoramiento temporal a la Dirección Médica."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 7",
+    "pregunta": "¿Cuántos vocales en representación de los órganos de participación social integran la Comisión de Bienestar Social?",
+    "opciones": {
+      "a": "Ocho.",
+      "b": "Seis.",
+      "c": "Cinco.",
+      "d": "Tres."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 7",
+    "pregunta": "Los responsables de las unidades asistenciales con rango inferior al de Servicio tienen la denominación de:",
+    "opciones": {
+      "a": "Supervisores.",
+      "b": "Encargados de Sección.",
+      "c": "Jefes de Sección.",
+      "d": "Delegados de División."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 7",
+    "pregunta": "¿Quién organiza las guardias médicas estableciendo los criterios funcionales de presencia física o localizada?",
+    "opciones": {
+      "a": "El Director Gerente.",
+      "b": "El Director Médico.",
+      "c": "El Director de Enfermería.",
+      "d": "El Director de Personal."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 7",
+    "pregunta": "Según el Reglamento de Instituciones Sanitarias, ¿cuál NO es una institución \"abierta\"?",
+    "opciones": {
+      "a": "Ambulatorios.",
+      "b": "Consultorios de Medicina General.",
+      "c": "Centros de Diagnóstico y Tratamiento.",
+      "d": "Ciudades Sanitarias."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 7",
+    "pregunta": "¿Cuál de las siguientes es una Institución Sanitaria clasificada como \"cerrada\"?",
+    "opciones": {
+      "a": "Ambulatorios.",
+      "b": "Consultorios de Medicina General.",
+      "c": "Centros de Diagnóstico y Tratamiento.",
+      "d": "Residencias sanitarias comarcales."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 7",
+    "pregunta": "Las instituciones donde se presta asistencia en régimen de internamiento, ambulatorio y de urgencias se denominan:",
+    "opciones": {
+      "a": "Ambulatorios.",
+      "b": "Centros de Diagnóstico y Tratamiento.",
+      "c": "Hospitales.",
+      "d": "Unidades de Salud Especializada."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 7",
+    "pregunta": "La Ley 37/62 cataloga a los hospitales, por razón de su ámbito, en:",
+    "opciones": {
+      "a": "Nacionales, regionales, provinciales y locales.",
+      "b": "Hospitales generales y especiales.",
+      "c": "Básicos, generales y especiales.",
+      "d": "Comarcales, locales, zonales y regionales."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 7",
+    "pregunta": "Prestar atención médica especializada por equipos multidisciplinarios en la casa del paciente es:",
+    "opciones": {
+      "a": "Atención domiciliaria.",
+      "b": "Hospitalización domiciliaria.",
+      "c": "Atención hospitalaria.",
+      "d": "Prevención hospitalaria en domicilio."
+    },
+    "correcta": "b",
+    "explicacion": ""
   }
 ]
