@@ -1,360 +1,624 @@
-Test n.º 7: Asistencia Especializada y Hospitales
-1. ¿En qué se diferencia la Atención Especializada de la Atención Primaria?
+Test n.º 8: Prevención de Riesgos Laborales y Plan Perseo
+1. Los representantes de los trabajadores con competencia en materia de prevención de riesgos laborales son:
 
-a) En que la Atención Especializada se presta en régimen ambulatorio y la Primaria no.
+a) Los miembros de la Junta de personal, Junta Facultativo y Junta de Enfermería.
 
-b) En que la Atención Especializada se presta en régimen de urgencias y la Primaria no.
+b) Los técnicos de prevención de riesgos laborales.
 
-c) En que sólo la Atención Especializada ofrece la asistencia en régimen de internamiento.
+c) El Servicio de Medicina Preventiva.
 
-d) Todas las respuestas son correctas.
-
-Solución: c
-
-2. ¿Cuál es la estructura física fundamental de la Atención Especializada?
-
-a) El Centro de Salud.
-
-b) El Ambulatorio.
-
-c) El Consultorio.
-
-d) El Hospital.
+d) Los delegados de prevención.
 
 Solución: d
 
-3. Uno de los objetivos de la Atención Especializada es:
+2. ¿Qué se entiende por “riesgo laboral”?
 
-a) Prestar asistencia ambulatoria especializada.
+a) La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.
 
-b) Posibilitar la hospitalización de los pacientes que lo precisen.
+b) La posibilidad de que un trabajador sufra una enfermedad en el trabajo.
 
-c) Poner sus Centros e Instituciones a disposición de la investigación y docencia.
+c) La posibilidad de que un trabajador sufra acoso.
 
-d) Todas las respuestas son correctas.
+d) El riesgo que supone el ir a trabajar.
+
+Solución: a
+
+3. ¿Quién debe garantizar a los trabajadores la vigilancia periódica de su estado de salud?
+
+a) La Inspección de Trabajo.
+
+b) El propio trabajador.
+
+c) El empresario.
+
+d) Las secciones sindicales.
+
+Solución: c
+
+4. Indica cuál es la definición de prevención:
+
+a) La probabilidad racional de que un riesgo se materialice de forma inminente.
+
+b) El estudio de los procesos potencialmente peligrosos para el trabajo.
+
+c) Conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos.
+
+d) Posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.
+
+Solución: c
+
+5. ¿Cuál es la vigente Ley de Prevención de Riesgos Laborales?
+
+a) Ley 32/1995, de 8 de noviembre.
+
+b) Ley 30/1996, de 8 de noviembre.
+
+c) Ley 31/1995, de 6 de noviembre.
+
+d) Ley 31/1995, de 8 de noviembre.
 
 Solución: d
 
-4. Conforme al artículo 65 de la Ley General de Sanidad, los hospitales quedan adscritos a:
+6. Entre los principios de la acción preventiva (art. 15 LPRL), NO figura:
 
-a) Un Distrito Sanitario.
+a) Evitar los riesgos.
 
-b) Una Zona de Salud.
+b) Evaluar los riesgos que se puedan evitar. (Nota: se evalúan los que NO se pueden evitar).
 
-c) Un Área de Salud.
+c) Tener en cuenta la evolución de la técnica.
 
-d) Una Demarcación Médica.
-
-Solución: c
-
-5. Los Servicios Jerarquizados de Especialidades que deban prestar asistencia a más de un Área de Salud se denominan:
-
-a) Servicios de referencia.
-
-b) Servicios comunes.
-
-c) Servicios de área.
-
-d) Servicios base.
-
-Solución: a
-
-6. Los hospitales tienen como función primordial la de:
-
-a) Prestación de asistencia especializada.
-
-b) Promoción de la salud.
-
-c) Prevención de las enfermedades.
-
-d) Todas las respuestas son correctas.
-
-Solución: d
-
-7. Las Gerencias de Atención Especializada del SESCAM se crean por:
-
-a) Ley de la Asamblea de Castilla-La Mancha.
-
-b) Decreto del Consejo de Gobierno de Castilla-La Mancha.
-
-c) Orden del titular de la Consejería competente en materia de atención sanitaria.
-
-d) Resolución del Director-Gerente del SESCAM.
-
-Solución: c
-
-8. El acceso a los servicios hospitalarios se efectuará cuando las posibilidades de primaria hayan sido superadas, salvo:
-
-a) Que así lo autorice expresamente la dirección del centro.
-
-b) En los casos de fuerza mayor.
-
-c) En los casos de urgencia vital.
-
-d) No caben excepciones a esta norma.
-
-Solución: c
-
-9. Los servicios y actividades de los hospitales se agrupan en las siguientes Divisiones:
-
-a) Gerencia, División Médica, División de Enfermería y División de Gestión y Servicios Generales.
-
-b) Secretaría, División Médica, División de Enfermería y División de Gestión.
-
-c) Secretaría División Técnica, División Médica y División de Enfermería.
-
-d) Gerencia, Secretaría, División Médica y División de Gestión y Servicios Generales.
-
-Solución: a
-
-10. Constituye el marco fundamental para el desarrollo de los programas de promoción de la salud y prevención de la enfermedad:
-
-a) El Área de Salud.
-
-b) La Zona Básica de Salud.
-
-c) El Centro de Salud.
-
-d) El Hospital.
-
-Solución: a
-
-11. ¿Cuál es el órgano unipersonal de dirección y gestión de cada División?
-
-a) El Director Técnico General de la División.
-
-b) El Director de la División.
-
-c) El Gerente.
-
-d) El Secretario.
+d) Dar las debidas instrucciones a los trabajadores.
 
 Solución: b
 
-12. ¿De quién dependen orgánica y funcionalmente los Directores de las Divisiones Médica, Enfermería y Gestión?
+7. Según la LPRL, se constituirá un Comité de Seguridad y Salud en centros que cuenten con:
 
-a) Del Director Gerente.
+a) 30 o más trabajadores.
 
-b) Del Secretario General.
+b) 50 o más trabajadores.
 
-c) Del Director Médico del Área de Salud.
+c) 75 o más trabajadores.
 
-d) Del Subdirector Técnico General.
-
-Solución: a
-
-13. ¿A quién corresponde la representación del hospital y la superior autoridad dentro del mismo?
-
-a) Al Director Gerente.
-
-b) Al Director Médico.
-
-c) Al Director de Gestión y Personal.
-
-d) Al Director de Enfermería.
-
-Solución: a
-
-14. ¿Cuál de las siguientes áreas de actividad NO queda adscrita a la Gerencia del hospital?
-
-a) Control de gestión.
-
-b) Admisión.
-
-c) Recepción e información.
-
-d) Estadística.
-
-Solución: d
-
-15. ¿A quién corresponde asegurar el desarrollo del Programa de Actividad y Control Asistencial de Enfermería?
-
-a) Al Director Gerente.
-
-b) Al Director Médico.
-
-c) Al Director de Enfermería.
-
-d) Al Director de Gestión y Personal.
-
-Solución: c
-
-16. Corresponde al Director de Gestión y Servicios Generales el ejercicio de la siguiente función:
-
-a) Desarrollar las funciones de gestión de personal.
-
-b) Asegurar el desarrollo del Programa de Actividad de Enfermería.
-
-c) Definir los objetivos de la Enfermería del Hospital.
-
-d) Todas las respuestas son correctas.
-
-Solución: a
-
-17. ¿A qué División queda adscrita el área de orden interno, seguridad, obras y mantenimiento?
-
-a) A la División de Gestión y Servicios Generales.
-
-b) A la División de Enfermería.
-
-c) A la División Médica.
-
-d) A la Gerencia.
-
-Solución: a
-
-18. ¿Quién preside la Comisión de Dirección en los hospitales donde no existe Director Gerente?
-
-a) El Director de Enfermería.
-
-b) El Director Médico.
-
-c) El Director de Personal.
-
-d) El Subdirector Gerente.
+d) 100 o más trabajadores.
 
 Solución: b
 
-19. ¿Con qué periodicidad se reúne la Comisión de Dirección?
+8. Entre las obligaciones de los trabajadores, NO figura:
 
-a) Anualmente.
+a) Informar directamente al empresario de cualquier situación que entrañe riesgo.
 
-b) Semestralmente.
+b) Contribuir al cumplimiento de las obligaciones establecidas por la autoridad.
+
+c) Cooperar con el empresario para garantizar condiciones seguras.
+
+d) Utilizar correctamente los medios y equipos de protección facilitados.
+
+Solución: a (Nota: la obligación es informar al superior jerárquico directo y a los trabajadores designados).
+
+9. El órgano paritario y colegiado destinado a la consulta regular de prevención es:
+
+a) El Comité de Empresa.
+
+b) El Consejo de Vigilancia de la Prevención.
+
+c) La Comisión de Evaluación de Riesgos Laborales.
+
+d) El Comité de Seguridad y Salud.
+
+Solución: d
+
+10. La evaluación de los riesgos laborales es:
+
+a) Un proceso técnico en la organización del trabajo.
+
+b) Un proceso dirigido a estimar la magnitud de los riesgos que no hayan podido evitarse.
+
+c) Un procedimiento estático.
+
+d) Una práctica para el control y la protección de los trabajadores.
+
+Solución: b
+
+11. Según el art. 4 de la LPRL, se define como "daños derivados del trabajo":
+
+a) La posibilidad de que un trabajador sufra un daño.
+
+b) El riesgo inminente y grave.
+
+c) Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.
+
+d) Cualquier máquina o instalación utilizada.
+
+Solución: c
+
+12. La paralización de la actividad ante riesgo grave e inminente será adoptada por:
+
+a) Acuerdo por mayoría absoluta de los representantes (plazo 48h).
+
+b) Acuerdo por mayoría de 2/3 (plazo 24h).
+
+c) Acuerdo por mayoría (plazo 48h).
+
+d) Acuerdo por mayoría de sus miembros. Comunicado de inmediato a empresa y autoridad laboral (plazo 24h).
+
+Solución: d
+
+13. De la documentación que el empresario debe conservar, NO está incluido:
+
+a) El Plan de prevención de riesgos laborales.
+
+b) Evaluación de los riesgos para la seguridad.
+
+c) La planificación de la actividad laboral. (Nota: es la planificación de la actividad preventiva).
+
+d) La relación de accidentes de trabajo y enfermedades profesionales.
+
+Solución: c
+
+14. NO se considera una obligación del trabajador (art. 29 LPRL):
+
+a) Utilizar correctamente los equipos de protección.
+
+b) Usar adecuadamente máquinas, herramientas y sustancias peligrosas.
+
+c) Informar de inmediato a su superior jerárquico directo y a los trabajadores designados para actualizaciones del EPI.
+
+d) No poner fuera de funcionamiento los dispositivos de seguridad.
+
+Solución: c
+
+15. Señale la afirmación INCORRECTA sobre el art. 35 LPRL:
+
+a) Los Delegados de Prevención son los representantes con funciones específicas.
+
+b) Son designados por y entre los representantes del personal.
+
+c) En una empresa de 2.500 trabajadores existirán 6 Delegados de Prevención.
+
+d) En las empresas de 31 trabajadores el Delegado de Prevención será el Delegado de Personal.
+
+Solución: d (Nota: en empresas de hasta 30 trabajadores el Delegado de Personal es el de Prevención).
+
+16. Los instrumentos esenciales para la gestión del Plan de prevención son:
+
+a) La evaluación de riesgos y la planificación de la actividad preventiva.
+
+b) La evaluación inicial y la formación.
+
+c) La planificación y la gestión.
+
+d) La identificación y la evaluación.
+
+Solución: a
+
+17. El posible cambio de puesto de trabajo para una trabajadora embarazada:
+
+a) Deberá realizarse en caso de imposibilidad de adaptación del propio puesto.
+
+b) Se hará previo informe del Servicio de Prevención.
+
+c) Se determinará por el empresario con información a representantes.
+
+d) Se extenderá al período de lactancia.
+
+Solución: a
+
+18. La prevención de riesgos laborales deberá integrarse en la gestión a través de:
+
+a) La política preventiva.
+
+b) El plan de prevención.
+
+c) El consenso de las partes.
+
+d) El poder de decisión del empresario.
+
+Solución: b
+
+19. La acción preventiva en la empresa se planificará por:
+
+a) El Comité de Seguridad y Salud.
+
+b) Los Delegados de Prevención.
+
+c) El empresario a partir de una evaluación inicial de riesgos.
+
+d) Los Delegados de Personal.
+
+Solución: c
+
+20. ¿Debe el trabajador prestar su consentimiento para la vigilancia de la salud?
+
+a) No.
+
+b) Sí. (Regla general de voluntariedad, salvo excepciones).
+
+c) Depende del número de trabajadores.
+
+d) Solo para personal fijo.
+
+Solución: b
+
+21. ¿En qué casos se podrán constituir los Comités de Seguridad y Salud?
+
+a) En cualquier empresa.
+
+b) No existen.
+
+c) En centros con 100 o más trabajadores.
+
+d) En centros que cuenten con 50 o más trabajadores.
+
+Solución: d
+
+22. La formación teórica y práctica en materia preventiva deberá:
+
+a) Impartirse en horario dentro de la jornada de trabajo.
+
+b) Impartirse por igual dentro y fuera.
+
+c) Impartirse, siempre que sea posible, dentro de la jornada o con descuento del tiempo invertido.
+
+d) Teórica dentro y práctica fuera.
+
+Solución: c
+
+23. ¿Cuál de los siguientes principios de la acción preventiva es INCORRECTO?
+
+a) Evaluar los riesgos que no se pueden evitar.
+
+b) Priorizar medidas individuales a las colectivas. (Nota: se prioriza la protección colectiva a la individual).
+
+c) Combatir los riesgos en su origen.
+
+d) Tener en cuenta la evolución de la técnica.
+
+Solución: b
+
+24. Cualquier característica del trabajo que pueda tener influencia en la generación de riesgos es:
+
+a) Una condición de trabajo.
+
+b) Un factor de riesgo.
+
+c) Un proceso peligroso.
+
+d) Una zona peligrosa.
+
+Solución: a
+
+25. El acceso a la información médica de carácter personal de la vigilancia de salud:
+
+a) Se limitará al empresario y al Servicio de Prevención.
+
+b) Se limitará al Jefe inmediato.
+
+c) Solo será accesible al propio trabajador.
+
+d) Se limitará al personal médico y a las autoridades sanitarias.
+
+Solución: d
+
+26. En relación a la vigilancia de la salud, NO es cierto que:
+
+a) Puede prolongarse tras la finalización de la relación laboral.
+
+b) Las medidas se llevarán a cabo por personal sanitario.
+
+c) Los resultados de la vigilancia de la salud serán comunicados a los representantes de los trabajadores. (Nota: solo se les comunica la aptitud/conclusiones, no los datos médicos).
+
+d) Se optará por las pruebas que causen las menores molestias.
+
+Solución: c
+
+27. El Plan de prevención de riesgos laborales debe ser aprobado por:
+
+a) La dirección de la empresa.
+
+b) La autoridad sanitaria.
+
+c) Los representantes de los trabajadores.
+
+d) Todos los trabajadores.
+
+Solución: a
+
+28. La actividad preventiva deberá planificarse:
+
+a) Para un período determinado.
+
+b) Para un período ilimitado.
+
+c) Anualmente.
+
+d) Para un período máximo de 3 años.
+
+Solución: a
+
+29. ¿Cuál de los siguientes departamentos forma parte de la Comisión Gestora de Seguridad del SESCAM?
+
+a) Sociedades científicas.
+
+b) Atención sanitaria.
+
+c) Inspección médica.
+
+d) Colegios profesionales.
+
+Solución: c
+
+30. ¿Cuál de los siguientes lidera y difunde la política de seguridad del SESCAM?
+
+a) El consejero de Sanidad.
+
+b) La secretaría general del SESCAM.
+
+c) El servicio jurídico del SESCAM.
+
+d) La Comisión Gestora de Seguridad del SESCAM.
+
+Solución: b
+
+31. En relación al Plan Perseo, corresponde al Director de Seguridad:
+
+a) Elaborar un Sistema de Información Regional.
+
+b) Liderar la difusión de campañas informativas.
+
+c) Realización de Expedientes disciplinarios.
+
+d) Asesoramiento para la elaboración de un mapa de riesgos.
+
+Solución: d
+
+32. El SESCAM asume la acción preventiva basada en el principio de:
+
+a) Transparencia.
+
+b) Descentralización.
+
+c) Universalidad.
+
+d) Mejora continua.
+
+Solución: d
+
+33. La estrategia de prevención del SESCAM se basará en un Sistema de Gestión basado en:
+
+a) Cartas de servicio.
+
+b) Compromisos de calidad.
+
+c) Normas UNE.
+
+d) Reglamentos comunitarios.
+
+Solución: c
+
+34. Es un objetivo general del Plan General de Prevención de Riesgos del SESCAM:
+
+a) Promover actividades destinadas a eliminar o minimizar los riesgos, incluidos los medioambientales.
+
+b) Planificar la prevención.
+
+c) Armonizar criterios y actuaciones.
+
+d) Control y evaluación de planes.
+
+Solución: a
+
+35. Órgano responsable de establecer un Sistema Integrado de Información en Salud Laboral:
+
+a) Al Consejero de Sanidad.
+
+b) Al Director General de Recursos Humanos.
+
+c) Al Director-Gerente del SESCAM.
+
+d) Al Servicio de Salud Laboral.
+
+Solución: b
+
+36. Es una función del Servicio de Prevención:
+
+a) Elaborar la política de prevención.
+
+b) Participar con voz y voto en los Comités.
+
+c) Planificar y evaluar el Plan General.
+
+d) Planificar, coordinar, ejecutar y evaluar los programas específicos de acción.
+
+Solución: d
+
+37. Órganos responsables de garantizar al personal la seguridad y salud en su puesto:
+
+a) Las Direcciones-Gerencias.
+
+b) Las Comisiones de Área.
+
+c) Las Comisiones Técnicas.
+
+d) Los Servicios de Prevención.
+
+Solución: a
+
+38. Las Comisiones Técnicas de Trabajo o Equipos de Mejora:
+
+a) Ejercen funciones ilimitadas.
+
+b) Estarán constituidas por profesionales encargados de trabajar en la mejora de un aspecto concreto.
+
+c) Supervisan el cumplimiento de instrucciones.
+
+d) Proporcionan medios para la evaluación.
+
+Solución: b
+
+39. NO es un deber de los trabajadores del SESCAM:
+
+a) Declarar incidentes y accidentes.
+
+b) Cumplir las instrucciones de trabajo.
+
+c) Difundir la política de prevención del SESCAM. (Nota: esto es función de la Secretaría General).
+
+d) Colaborar en la gestión identificando riesgos.
+
+Solución: c
+
+40. Órgano paritario de coordinación y control respecto a los Comités de Seguridad y Salud:
+
+a) El Servicio de Prevención.
+
+b) El Consejo del Área de Salud.
+
+c) La Comisión Central de Seguridad y Salud.
+
+d) La Inspección de Seguridad y Salud.
+
+Solución: c
+
+41. Los Comités de Seguridad y Salud del SESCAM deberán reunirse al menos:
+
+a) Quincenalmente.
+
+b) Mensualmente.
 
 c) Trimestralmente.
 
-d) Semanalmente.
+d) Semestralmente.
+
+Solución: c
+
+42. En relación a los Comités de Seguridad y Salud del SESCAM, es cierto que:
+
+a) Formados por Delegados Sindicales y Gerente en número igual.
+
+b) Los Delegados de Prevención participan con voz pero sin voto.
+
+c) Elaboran la memoria anual de actividades.
+
+d) Son los órganos paritarios y colegiados de participación destinados a la consulta regular y periódica.
 
 Solución: d
 
-20. ¿Cuál es el órgano colegiado de asesoramiento de la Comisión de Dirección relativo a la actividad asistencial?
+43. Los Delegados de Prevención en el SESCAM son:
 
-a) La Comisión de Bienestar Social.
+a) Los designados por las organizaciones sindicales presentes en Mesa Sectorial.
 
-b) La Junta Técnico-Asistencial.
+b) Los Técnicos de Seguridad.
 
-c) La Comisión Central de Garantía de la Calidad.
+c) Los Inspectores de Seguridad y Salud.
 
-d) El Consejo Nacional de Asistencia Sanitaria.
+d) Los Delegados Sindicales.
+
+Solución: a
+
+44. Es una función de la Comisión Central de Seguridad y Salud:
+
+a) Establecer la estructura y Sistema de Gestión.
+
+b) Participar y difundir la política de prevención y favorecer la ejecución del Plan.
+
+c) Proporcionar los medios para la evaluación.
+
+d) Comunicar los riesgos detectados por trabajadores.
 
 Solución: b
 
-21. ¿Cuántos vocales en representación de los órganos de participación social integran la Comisión de Bienestar Social?
+45. El Plan General de Prevención del SESCAM se revisará con carácter general:
 
-a) Ocho.
+a) Anualmente.
 
-b) Seis.
+b) Cada dos años.
 
-c) Cinco.
+c) Cada tres años.
 
-d) Tres.
-
-Solución: a
-
-22. Señale la respuesta correcta respecto a la Comisión Central de Garantía de la Calidad:
-
-a) Los miembros de las Comisiones Clínicas no deben superar el número de seis.
-
-b) Son nombrados por la Junta Técnico Asistencial a propuesta de Enfermería.
-
-c) Es el organismo técnico de elaboración y trabajo en las áreas de Calidad Asistencial y Adecuación Tecnológica.
-
-d) Actúa como órgano de asesoramiento temporal a la Dirección Médica.
+d) Cada cuatro años.
 
 Solución: c
 
-23. ¿Cuántos vocales en representación de los órganos de participación social integran la Comisión de Bienestar Social?
+46. La fase de establecimiento de prioridades de acción en el Plan General se realiza en:
 
-a) Ocho.
+a) Fase Previa.
 
-b) Seis.
+b) Fase I.
 
-c) Cinco.
+c) Fase II.
 
-d) Tres.
-
-Solución: a
-
-24. Los responsables de las unidades asistenciales con rango inferior al de Servicio tienen la denominación de:
-
-a) Supervisores.
-
-b) Encargados de Sección.
-
-c) Jefes de Sección.
-
-d) Delegados de División.
+d) Fase III.
 
 Solución: c
 
-25. ¿Quién organiza las guardias médicas estableciendo los criterios funcionales de presencia física o localizada?
+47. Los instrumentos operativos que desarrollan el Plan General se concretan en:
 
-a) El Director Gerente.
+a) Planes mensuales.
 
-b) El Director Médico.
+b) Programas específicos.
 
-c) El Director de Enfermería.
+c) Medidas de actuación.
 
-d) El Director de Personal.
-
-Solución: a
-
-26. Según el Reglamento de Instituciones Sanitarias, ¿cuál NO es una institución "abierta"?
-
-a) Ambulatorios.
-
-b) Consultorios de Medicina General.
-
-c) Centros de Diagnóstico y Tratamiento.
-
-d) Ciudades Sanitarias.
-
-Solución: d
-
-27. ¿Cuál de las siguientes es una Institución Sanitaria clasificada como "cerrada"?
-
-a) Ambulatorios.
-
-b) Consultorios de Medicina General.
-
-c) Centros de Diagnóstico y Tratamiento.
-
-d) Residencias sanitarias comarcales.
-
-Solución: d
-
-28. Las instituciones donde se presta asistencia en régimen de internamiento, ambulatorio y de urgencias se denominan:
-
-a) Ambulatorios.
-
-b) Centros de Diagnóstico y Tratamiento.
-
-c) Hospitales.
-
-d) Unidades de Salud Especializada.
-
-Solución: c
-
-29. La Ley 37/62 cataloga a los hospitales, por razón de su ámbito, en:
-
-a) Nacionales, regionales, provinciales y locales.
-
-b) Hospitales generales y especiales.
-
-c) Básicos, generales y especiales.
-
-d) Comarcales, locales, zonales y regionales.
-
-Solución: a
-
-30. Prestar atención médica especializada por equipos multidisciplinarios en la casa del paciente es:
-
-a) Atención domiciliaria.
-
-b) Hospitalización domiciliaria.
-
-c) Atención hospitalaria.
-
-d) Prevención hospitalaria en domicilio.
+d) Objetivos generales.
 
 Solución: b
+
+48. La ejecución de las evaluaciones internas del Sistema de Gestión se realizará según la Norma:
+
+a) UNE 81900.
+
+b) UNE 1980.
+
+c) UNE 918.
+
+d) UNE 98001.
+
+Solución: a
+
+49. Para prevenir en la Cocina el contacto térmico (quemaduras) se propone:
+
+a) Orientar los mangos de cacerolas al exterior.
+
+b) Cambiar el aceite en caliente.
+
+c) Llenar los recipientes en su totalidad.
+
+d) Comprobar el termostato de la freidora antes de introducir los alimentos.
+
+Solución: d (Nota: orientar mangos al interior y llenar solo hasta 2/3).
+
+50. En caso de evacuación por incendio se recomienda:
+
+a) Bajar por el ascensor.
+
+b) Salir corriendo.
+
+c) Dejar el puesto de trabajo en las mejores condiciones de seguridad (llaves cerradas, máquinas desconectadas).
+
+d) Abrir bien las ventanas.
+
+Solución: c
+
+51. Es una manera correcta de proceder con extintores portátiles:
+
+a) Descolgar el extintor y dejarlo sobre el suelo en horizontal.
+
+b) Aproximarse al fuego hasta un máximo de 20 cm.
+
+c) Sacar el pasador de seguridad sin tirar de la anilla.
+
+d) Presionar la palanca y realizar una pequeña descarga de comprobación.
+
+Solución: d
+
+52. Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materia de:
+
+a) Negociación salarial.
+
+b) Formación continua.
+
+c) Prevención de riesgos en el trabajo.
+
+d) Gestión de turnos.
+
+Solución: c
