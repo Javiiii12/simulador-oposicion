@@ -10,8 +10,10 @@ def ingest_manual_data():
         text = f.read()
 
     # Regex patterns
-    # Bloque Header: "Bloque I: La Constitución..."
-    re_bloque = re.compile(r'Bloque ([IVX]+): (.*)', re.IGNORECASE)
+    # Header: "Test n.º 11: ..." or "Test n.º 12: ..." or "Test n.º 14..."
+    # We look for "Test n.º" followed by a number.
+    re_header = re.compile(r'Test n\.º\s+(\d+)', re.IGNORECASE)
+    
     # Question: "1. ¿Pregunta?"
     re_preg = re.compile(r'^(\d+)\.\s+(.*)')
     # Option: "a) Texto"
@@ -19,24 +21,21 @@ def ingest_manual_data():
     # Solution: "Solución: x"
     re_sol = re.compile(r'Solución:\s*([a-d])', re.IGNORECASE)
 
-    # Force everything to Tema 11 as requested by User
-    current_tema = "Tema 11"
+    current_tema = "Tema 11" # Default to Tema 11 for the first block if no header is found immediately
     current_q = None
     questions = []
     
-    # regex patterns...
-    # ...
-    # We can ignore 'Bloque' headers or just print them.
-
     lines = text.split('\n')
     for line in lines:
         line = line.strip()
         if not line: continue
 
-        # Check Topic Change (detect headers but DO NOT change current_tema)
-        match_bloque = re_bloque.match(line)
-        if match_bloque:
-            print(f"🔹 Bloque detectado (ignoring change, keeping {current_tema}): {match_bloque.group(0)}")
+        # Check Topic Change
+        match_header = re_header.search(line)
+        if match_header:
+            tema_num = match_header.group(1)
+            current_tema = f"Tema {tema_num}"
+            print(f"🔹 Cambio de tema detectado: {current_tema}")
             continue
 
         # Check Question
@@ -77,61 +76,50 @@ def ingest_manual_data():
     if current_q:
         questions.append(current_q)
 
-    print(f"✅ Procesadas {len(questions)} preguntas manuales.")
-    
-    # Load existing JSON if exists (to merge or replace?)
-    # User said: "Te paso el primero para ver como sale" -> Probably replace to be clean, or merge.
-    # Safe strategy: Load existing, filter out these IDs/Topics, and append new.
-    # BUT existing data is messy ("Tema 1: 'i 1l").
-    # Let's clean replace for the demo topics (Tema 1 & Tema 5).
+    print(f"✅ Procesadas {len(questions)} preguntas manuales totales.")
     
     existing = []
     if os.path.exists(output_file):
         with open(output_file, 'r', encoding='utf-8') as f:
-            existing = json.load(f)
+            try:
+                existing = json.load(f)
+            except json.JSONDecodeError:
+                existing = []
     
-    # Filter out existing questions for the themes we are updating
-    # themes_to_replace = ["Tema 1", "Tema 5"]
-    # filtered_existing = [q for q in existing if q['tema'] not in themes_to_replace]
-    
-    # OR better: Start fresh with ONLY valid data to show the user "PERFECTION".
-    # User said "questions are wrong". Mixing bad data with good might confuse.
-    # I will create a hybrid: Keep specific topics I haven't touched, but RELY on this manual data for what I have.
-    # Actually, for the "Demo", let's prioritize the manual data.
-    
-    # Let's MERGE. If we have manual data, use it.
-    
-    final_data = []
-    # Add manual questions first (top priority)
-    final_data.extend(questions)
-    
-    # Add existing questions ONLY if they are NOT from the manual topics? 
-    # Or just add them all? The manual IDs are 1..10 and 81..113.
-    # Let's just keep the manual ones at the top and maybe keep the others for "bulk".
-    # But wait, User complained about bad questions preventing "Next".
-    # If I keep the bad ones, the user might still see them.
-    # DECISION: I will overwite `preguntas.json` with ONLY the manual data + the existing data that is NOT Tema 1 or Tema 5, to "clean" those topics.
-    
-    # Determine which topics are completely replaced by manual entry
-    # In this case, since we forced everything to "Tema 1", we replace "Tema 1".
+    # Identify topics present in the new set
     themes_updating = {q['tema'] for q in questions}
-    # ALSO, since user said "PONLAS SOLO EN EL TEMA1" and these questions cover what might have been Tema 5,
-    # we should probably NOT remove Tema 5 if it exists separate (unless these *are* Tema 5).
-    # But current_tema is strictly "Tema 1".
-    # So we only scrub "Tema 1" from existing.
-    
     print(f"Reemplazando temas: {themes_updating}")
     
-    clean_existing = [q for q in existing if q['tema'] not in themes_updating]
+    # Remove OLD data for these topics implies we keep everything ELSE.
+    final_dataset = [q for q in existing if q['tema'] not in themes_updating]
     
-    final_dataset = clean_existing + questions
+    # Add new questions
+    final_dataset.extend(questions)
     
-    # Re-sort/Index if needed? Not strictly necessary.
+    # Sort by Tema number
+    def sort_key(q):
+        try:
+            # Extract number from "Tema X"
+            return int(q['tema'].replace("Tema ", ""))
+        except:
+            return 999
+
+    final_dataset.sort(key=sort_key)
     
+    # Print stats
+    stats = {}
+    for q in final_dataset:
+        t = q['tema']
+        stats[t] = stats.get(t, 0) + 1
+    
+    print("📊 Estadísticas finales de preguntas:")
+    for t, count in stats.items():
+        print(f"  - {t}: {count} preguntas")
+
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(final_dataset, f, indent=2, ensure_ascii=False)
         
-    print(f"💾 Guardado {output_file} con {len(final_dataset)} preguntas.")
+    print(f"💾 Guardado {output_file} con {len(final_dataset)} preguntas totales.")
 
 if __name__ == "__main__":
     ingest_manual_data()
