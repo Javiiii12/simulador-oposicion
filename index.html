@@ -68,19 +68,31 @@
                     <span class="badge">Pronto</span>
                 </button>
                 <!-- Exámenes OPE 2020 -->
-                <div style="grid-column: 1 / -1; display:flex; gap:10px; flex-wrap:wrap;">
-                    <button id="btn-2020-ord" class="btn-menu" style="flex:1;">
-                        📅 OPE 2020 (Examen 2021) <br><small>Turno Ordinario</small>
-                        <span class="badge">Disponible</span>
-                    </button>
-                    <button id="btn-2020-extra" class="btn-menu" style="flex:1;">
-                        📅 OPE 2020 (Examen 2022) <br><small>Turno Extraordinario</small>
-                        <span class="badge">Disponible</span>
-                    </button>
-                </div>
+                <button id="btn-ope-2020" class="btn-menu">
+                    📅 Exámenes OPE 2020
+                    <span class="badge">2 Exámenes</span>
+                </button>
             </div>
             <p style="text-align:center; color:#999; margin-top:20px; font-size:0.8rem;">Más funciones próximamente...
             </p>
+        </div>
+
+        <!-- VISTA: MENÚ EXÁMENES OPE 2020 -->
+        <div id="view-exams-menu" class="view hidden">
+            <header class="view-header">
+                <button id="btn-back-exams" class="btn-icon">⬅</button>
+                <h2>Exámenes OPE 2020</h2>
+            </header>
+            <div class="menu-grid">
+                <button id="btn-2020-ord" class="btn-menu">
+                    📅 OPE 2020 (Examen 2021) <br><small>Turno Ordinario</small>
+                    <span class="badge">Disponible</span>
+                </button>
+                <button id="btn-2020-extra" class="btn-menu">
+                    📅 OPE 2020 (Examen 2022) <br><small>Turno Extraordinario</small>
+                    <span class="badge">Disponible</span>
+                </button>
+            </div>
         </div>
 
         <!-- VISTA: SELECCIÓN DE MODALIDAD (Entrenamiento vs Examen) -->

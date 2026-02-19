@@ -13,6 +13,7 @@ const views = {
     roleSelection: document.getElementById('view-role-selection'),
     topics: document.getElementById('view-topics'),
     random: document.getElementById('view-random'),
+    examsMenu: document.getElementById('view-exams-menu'),
     modeSelection: document.getElementById('view-mode-selection'),
     progress: document.getElementById('view-progress'),
     game: document.getElementById('view-game'),
@@ -54,21 +55,39 @@ function setupEventListeners() {
     // Botones Extras
     document.getElementById('btn-examenes').addEventListener('click', () => alert("📝 Estamos recopilando exámenes oficiales. ¡Pronto!"));
     document.getElementById('btn-academia').addEventListener('click', () => alert("🎓 La Academia Test abrirá sus puertas próximamente."));
-    document.getElementById('btn-2020').addEventListener('click', () => {
-        // Iniciar directamente Examen 2020 en modo EXAMEN (Simulacro)
-        const questions = allQuestions.filter(q => q.tema === "Examen 2020");
+
+    // Navegación Menú OPE 2020
+    document.getElementById('btn-ope-2020').addEventListener('click', () => showView('examsMenu'));
+    document.getElementById('btn-back-exams').addEventListener('click', () => showView('menu'));
+
+    // Examen Ordinario
+    document.getElementById('btn-2020-ord').addEventListener('click', () => {
+        const questions = allQuestions.filter(q => q.tema === "Examen 2020 (Ordinario)");
         if (questions.length === 0) {
-            alert("Error: No se han cargado las preguntas del Examen 2020.");
+            alert("Error: No se han cargado las preguntas del Examen Ordinario.");
             return;
         }
-        // Orden natural (1, 2, 3...)
         questions.sort((a, b) => {
-            const na = parseInt(a.id.split('_')[1]);
-            const nb = parseInt(b.id.split('_')[1]);
+            const na = parseInt(a.id.split('_')[1] || 0);
+            const nb = parseInt(b.id.split('_')[1] || 0);
             return na - nb;
         });
+        startGame(questions, 'exam', 'Examen OPE 2020 (Ordinario 2021)');
+    });
 
-        startGame(questions, 'exam', 'Examen Oficial 2020 (Pinche CLM)');
+    // Examen Extraordinario
+    document.getElementById('btn-2020-extra').addEventListener('click', () => {
+        const questions = allQuestions.filter(q => q.tema === "Examen 2020 (Extraordinario)");
+        if (questions.length === 0) {
+            alert("🚧 Este examen aún no está disponible. Estamos trabajando en ello.");
+            return;
+        }
+        questions.sort((a, b) => {
+            const na = parseInt(a.id.split('_')[1] || 0);
+            const nb = parseInt(b.id.split('_')[1] || 0);
+            return na - nb;
+        });
+        startGame(questions, 'exam', 'Examen OPE 2020 (Extraordinario 2022)');
     });
 
     // Navegación (Volver)
