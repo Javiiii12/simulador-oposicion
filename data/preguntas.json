@@ -2703,5 +2703,746 @@
     },
     "correcta": "b",
     "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 2",
+    "pregunta": "El Estatuto de Autonomía de Castilla-La Mancha, fue aprobado por:",
+    "opciones": {
+      "a": "Ley Orgánica 9/1982, de 10 de agosto.",
+      "b": "Ley Orgánica 8/1982, de 10 de agosto.",
+      "c": "Ley Orgánica 9/1983, de 15 de agosto.",
+      "d": "Ley Orgánica 9/1982, de 30 de septiembre."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 2",
+    "pregunta": "El Estatuto de Autonomía de Castilla-La Mancha:",
+    "opciones": {
+      "a": "Consta de 64 artículos y se estructura en un Título Preliminar, 6 Títulos, 2 disposiciones adicionales, seis disposiciones transitorias y una disposición final.",
+      "b": "Consta de 54 artículos y se estructura en un Título Preliminar 6 Títulos, 3 disposiciones adicionales, seis disposiciones transitorias y una disposición final.",
+      "c": "Consta de 54 artículos y se estructura en un Título Preliminar, 6 Títulos, 3 disposiciones adicionales, siete disposiciones transitorias y una disposición final.",
+      "d": "Consta de 64 artículos y se estructura en un Título Preliminar, 6 Títulos, 2 disposiciones adicionales, siete disposiciones transitorias y una disposición final."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 2",
+    "pregunta": "El Título Preliminar comprende los:",
+    "opciones": {
+      "a": "Seis primeros artículos del Estatuto.",
+      "b": "Siete primeros artículos del Estatuto.",
+      "c": "Nueve primeros artículos del Estatuto.",
+      "d": "Once primeros artículos del Estatuto."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 2",
+    "pregunta": "La Junta de Comunidades ejercerá sus poderes los objetivos básicos establecidos en el:",
+    "opciones": {
+      "a": "Artículo 3.",
+      "b": "Artículo 4.",
+      "c": "Artículo 5.",
+      "d": "Artículo 6."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 2",
+    "pregunta": "La Ley del Gobierno y del Consejo Consultivo de Castilla-La Mancha es la:",
+    "opciones": {
+      "a": "Ley 10/2003, de 25 de septiembre.",
+      "b": "Ley 11/2003, de 25 de septiembre.",
+      "c": "Ley 11/2006, de 25 de septiembre.",
+      "d": "Ley 11/2003, de 26 de septiembre."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 2",
+    "pregunta": "Los ex-Presidentes tendrán el tratamiento de:",
+    "opciones": {
+      "a": "Ilustrísima.",
+      "b": "Excelencia.",
+      "c": "Excelentísimo.",
+      "d": "Presidente."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 2",
+    "pregunta": "Las Cortes de Castilla-La Mancha aprobarán una Ley del Gobierno y del Consejo Consultivo, en la que se incluirá la limitación de los mandatos del Presidente, por mayoría:",
+    "opciones": {
+      "a": "Simple de los miembros del Pleno de la Cámara.",
+      "b": "Absoluta de los miembros del Pleno de la Cámara.",
+      "c": "De dos tercios de los miembros del Pleno de la Cámara.",
+      "d": "De tres quintos de los miembros del Pleno de la Cámara."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 2",
+    "pregunta": "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría:",
+    "opciones": {
+      "a": "Simple de los Diputados.",
+      "b": "Absoluta de los Diputados.",
+      "c": "De dos tercios de los Diputados.",
+      "d": "De tres quintos de los Diputados."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 2",
+    "pregunta": "Si el Presidente plantease la cuestión de confianza sobre un proyecto de Ley, éste se considerará aprobado siempre que vote a favor la mayoría:",
+    "opciones": {
+      "a": "Simple de los Diputados.",
+      "b": "Absoluta de los Diputados.",
+      "c": "De dos tercios de los Diputados.",
+      "d": "De tres quintos de los Diputados."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 2",
+    "pregunta": "La moción de censura deberá ser propuesta al menos por el:",
+    "opciones": {
+      "a": "10% de los Diputados.",
+      "b": "15% de los Diputados.",
+      "c": "20% de los Diputados.",
+      "d": "5% de los Diputados."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 2",
+    "pregunta": "El Presidente no podrá acordar la disolución de las Cortes:",
+    "opciones": {
+      "a": "Durante el cuarto período de sesiones de la legislatura, cuando reste menos de un año para su terminación.",
+      "b": "Cuando se esté planteando una cuestión de confianza.",
+      "c": "Antes de que transcurra el plazo de dos años desde la última disolución por este procedimiento.",
+      "d": "Cuando se encuentre convocado un proceso electoral estatal."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 2",
+    "pregunta": "La Ley del Gobierno y del Consejo Consultivo de CLM trata del Consejo de Gobierno en su:",
+    "opciones": {
+      "a": "Título I.",
+      "b": "Título II.",
+      "c": "Título III.",
+      "d": "Título IV."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 2",
+    "pregunta": "Corresponde, en todo caso, al Consejo de Gobierno:",
+    "opciones": {
+      "a": "Aprobar los Proyectos de Ley para su remisión a las Cortes y acordar retirarlos.",
+      "b": "Dictar los Decretos Legislativos.",
+      "c": "Aprobar las normas reglamentarias de desarrollo de las leyes.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 2",
+    "pregunta": "La válida constitución del Consejo de Gobierno requiere la asistencia del Presidente y de, al menos:",
+    "opciones": {
+      "a": "Un tercio de los restantes miembros.",
+      "b": "Dos tercios de los restantes miembros.",
+      "c": "La mitad de los restantes miembros.",
+      "d": "Tres quintos de los restantes miembros."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 2",
+    "pregunta": "Las decisiones y acuerdos del Consejo de Gobierno se adoptan mediante deliberación y:",
+    "opciones": {
+      "a": "Tras votación formal.",
+      "b": "Sin votación formal.",
+      "c": "Sin necesidad de votación.",
+      "d": "Por acuerdos de unanimidad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 2",
+    "pregunta": "En las reuniones del Consejo de Gobierno:",
+    "opciones": {
+      "a": "Los documentos presentados tendrán carácter reservado hasta su publicación y las deliberaciones serán secretas.",
+      "b": "Las deliberaciones serán reservadas y los documentos secretos.",
+      "c": "Los documentos serán reservados y las deliberaciones secretas.",
+      "d": "Los documentos serán secretos y las deliberaciones privadas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 2",
+    "pregunta": "Las actas de las sesiones del Consejo de Gobierno:",
+    "opciones": {
+      "a": "Son públicas.",
+      "b": "Serán publicadas.",
+      "c": "Son públicas salvo datos que afecten a la intimidad.",
+      "d": "No son públicas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 2",
+    "pregunta": "Las delegaciones legislativas otorgadas por las Cortes mientras el Gobierno esté en funciones:",
+    "opciones": {
+      "a": "Permanecerán en vigor.",
+      "b": "Permanecerán en vigor salvo acuerdo en contrario.",
+      "c": "Precisarán la ratificación de aquéllas cuando la causa de cese sea la celebración de elecciones regionales.",
+      "d": "Quedarán en todo caso en suspenso."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 2",
+    "pregunta": "Los miembros del Gobierno pueden ejercer administración del patrimonio personal salvo participación superior al:",
+    "opciones": {
+      "a": "10% en empresas que tengan conciertos con la Junta.",
+      "b": "15% en empresas similares.",
+      "c": "20% en dichas empresas.",
+      "d": "25% en dichas empresas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 2",
+    "pregunta": "No podrán realizar actividades privadas relacionadas con expedientes resueltos en el cargo:",
+    "opciones": {
+      "a": "Durante el año siguiente al cese.",
+      "b": "Durante los dos años siguientes al cese.",
+      "c": "Durante los tres años siguientes al cese.",
+      "d": "Durante los cuatro años siguientes al cese."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 2",
+    "pregunta": "Obligación de presentar declaración de actividades, bienes y rentas:",
+    "opciones": {
+      "a": "En el plazo de un mes desde el nombramiento o cese.",
+      "b": "En el plazo de tres meses.",
+      "c": "En el plazo de dos meses.",
+      "d": "En el plazo de veinte días."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 2",
+    "pregunta": "No corresponde a los Consejeros:",
+    "opciones": {
+      "a": "Formular programas de actuación de su Consejería.",
+      "b": "Desarrollar la acción de gobierno en su área.",
+      "c": "Dictar los Decretos Legislativos.",
+      "d": "Ejercer la superior jefatura de su Consejería."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 2",
+    "pregunta": "No son órganos de apoyo a los miembros del Consejo de Gobierno:",
+    "opciones": {
+      "a": "El Secretario General de la Presidencia.",
+      "b": "Los Viceconsejeros.",
+      "c": "Los Delegados Provinciales de la Junta de Comunidades.",
+      "d": "Los Delegados Provinciales de las Consejerías."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 2",
+    "pregunta": "Son órganos directivos de la Administración de la Junta de Comunidades de CLM:",
+    "opciones": {
+      "a": "Los Directores Generales.",
+      "b": "Los Secretarios Generales Técnicos y Secretarios Generales.",
+      "c": "Los Delegados Provinciales de la Junta.",
+      "d": "Todos ellos."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 2",
+    "pregunta": "El Consejo de Gobierno:",
+    "opciones": {
+      "a": "Ejerce la iniciativa legislativa mediante Proyectos de Ley.",
+      "b": "Ejerce la iniciativa mediante Decretos.",
+      "c": "Ejerce la iniciativa mediante Decretos-Ley.",
+      "d": "No puede ejercer la iniciativa legislativa."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 2",
+    "pregunta": "El ejercicio de la potestad reglamentaria requiere que la iniciativa sea autorizada por:",
+    "opciones": {
+      "a": "El Presidente o el Consejero competente.",
+      "b": "La Junta.",
+      "c": "El Presidente.",
+      "d": "No es necesaria autorización."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 2",
+    "pregunta": "El Estatuto trata de las competencias de la Junta en los artículos:",
+    "opciones": {
+      "a": "Del 21 al 42.",
+      "b": "Del 31 al 42.",
+      "c": "Del artículo 31 al 40.",
+      "d": "Del artículo 31 al 43."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 2",
+    "pregunta": "Las competencias exclusivas se establecen en el:",
+    "opciones": {
+      "a": "Artículo 21.",
+      "b": "Artículo 31.",
+      "c": "Artículo 32.",
+      "d": "Artículo 33."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 2",
+    "pregunta": "La Junta asume las siguientes competencias exclusivas:",
+    "opciones": {
+      "a": "Régimen local.",
+      "b": "Montes y aprovechamientos forestales.",
+      "c": "Sanidad e higiene.",
+      "d": "Caza y pesca fluvial. Acuicultura."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 2",
+    "pregunta": "No son competencias exclusivas:",
+    "opciones": {
+      "a": "Cajas de Ahorros.",
+      "b": "Promoción del deporte.",
+      "c": "Ordenación farmacéutica.",
+      "d": "Espectáculos públicos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 31,
+    "tema": "Tema 2",
+    "pregunta": "Son competencias de ejecución:",
+    "opciones": {
+      "a": "Asociaciones.",
+      "b": "Ferias internacionales.",
+      "c": "Pesas y medidas.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 32,
+    "tema": "Tema 2",
+    "pregunta": "Como órganos directivos de la Vicepresidencia se encuentran:",
+    "opciones": {
+      "a": "Dirección General de Información.",
+      "b": "Dirección General de Relaciones con la Administración Central.",
+      "c": "Dirección General de Relaciones Internacionales.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 2",
+    "pregunta": "Entre los órganos adscritos a la Vicepresidencia NO se encuentra:",
+    "opciones": {
+      "a": "El Instituto de Empleo.",
+      "b": "La Oficina de Transparencia.",
+      "c": "Radio Televisión CLM.",
+      "d": "El Gabinete Jurídico."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 34,
+    "tema": "Tema 2",
+    "pregunta": "¿Cuál es un órgano central de la Consejería de Economía, Empresas y Empleo?",
+    "opciones": {
+      "a": "La Secretaría General.",
+      "b": "Viceconsejería de Empleo.",
+      "c": "Dirección General de Turismo.",
+      "d": "Todos lo son."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 35,
+    "tema": "Tema 2",
+    "pregunta": "La Dirección General de la Función Pública está adscrita a la Consejería de:",
+    "opciones": {
+      "a": "Hacienda y Administraciones Públicas.",
+      "b": "Economía.",
+      "c": "Vicepresidencia.",
+      "d": "Fomento."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 36,
+    "tema": "Tema 2",
+    "pregunta": "Una de las siguientes NO es una Consejería de Castilla-La Mancha:",
+    "opciones": {
+      "a": "Consejería de Fomento.",
+      "b": "Consejería de Sanidad.",
+      "c": "Consejería de Turismo.",
+      "d": "Consejería de Educación."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 37,
+    "tema": "Tema 2",
+    "pregunta": "¿Qué órganos centrales componen la Consejería de Bienestar Social?",
+    "opciones": {
+      "a": "Secretaría General.",
+      "b": "Dirección General de Juventud.",
+      "c": "Dirección General de la Infancia y Familia.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 38,
+    "tema": "Tema 2",
+    "pregunta": "¿Cuál es el órgano superior de CLM en materia de transparencia y buen gobierno?",
+    "opciones": {
+      "a": "La Comisión Ejecutiva Regional de Transparencia.",
+      "b": "El Consejo Consultivo Regional de Transparencia.",
+      "c": "El Consejo Regional de Transparencia y Buen Gobierno.",
+      "d": "La Junta Regional de Transparencia."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 39,
+    "tema": "Tema 2",
+    "pregunta": "¿Cuál fue la primera ley en la universalización del derecho de acceso a la información?",
+    "opciones": {
+      "a": "La Ley 38/1995, de 12 de diciembre.",
+      "b": "La Ley 37/2007.",
+      "c": "La Ley 27/2006.",
+      "d": "La Ley 11/2007."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 40,
+    "tema": "Tema 2",
+    "pregunta": "¿Qué artículo del Estatuto impone el deber de promover libertad e igualdad?",
+    "opciones": {
+      "a": "El artículo 4.2.",
+      "b": "El artículo 5.1.",
+      "c": "El artículo 5.3.",
+      "d": "El artículo 9.3."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 41,
+    "tema": "Tema 2",
+    "pregunta": "¿Mediante qué norma se reconoció el derecho a conocer actuaciones que atañen a las personas?",
+    "opciones": {
+      "a": "Ley 4/2016.",
+      "b": "Ley 6/1994.",
+      "c": "Mediante la Ley 19/2002, de 24 de octubre.",
+      "d": "Mediante la Ley 11/2003."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 42,
+    "tema": "Tema 2",
+    "pregunta": "¿Qué Título de la Ley 4/2016 contiene normas sobre buen gobierno y gobierno abierto?",
+    "opciones": {
+      "a": "El título I.",
+      "b": "El título II.",
+      "c": "El título III.",
+      "d": "El título V."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 43,
+    "tema": "Tema 2",
+    "pregunta": "¿Cómo denomina la Ley 4/2016 a las unidades para velar por publicidad activa?",
+    "opciones": {
+      "a": "Unidades de acceso.",
+      "b": "Unidades de transparencia.",
+      "c": "Unidades de acceso público.",
+      "d": "Unidades de Transparencia y Buen Gobierno."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 44,
+    "tema": "Tema 2",
+    "pregunta": "¿Cuáles son los dos órganos colegiados que componen el Consejo Regional de Transparencia?",
+    "opciones": {
+      "a": "El Consejo Consultivo y la Comisión Técnica.",
+      "b": "El Consejo Ejecutivo y la Junta Consultiva.",
+      "c": "La Comisión Ejecutiva y la Comisión Consultiva.",
+      "d": "La Comisión Disciplinaria y la Comisión Técnica."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 45,
+    "tema": "Tema 2",
+    "pregunta": "¿En qué órgano del Consejo Regional están representadas Cortes, Administración, FEMP y Universidad?",
+    "opciones": {
+      "a": "En la Comisión Consultiva.",
+      "b": "En la Junta Consultiva.",
+      "c": "En la Comisión Ejecutiva.",
+      "d": "En el Consejo Consultivo."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 46,
+    "tema": "Tema 2",
+    "pregunta": "¿Quiénes forman la Comisión Ejecutiva del Consejo Regional de Transparencia?",
+    "opciones": {
+      "a": "La Presidencia, Secretaría General y tres Adjuntías.",
+      "b": "La Presidencia y dos Adjuntías.",
+      "c": "La Presidencia y tres Adjuntías.",
+      "d": "La Presidencia, Secretaría General y dos Adjuntías."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 47,
+    "tema": "Tema 2",
+    "pregunta": "¿Qué artículo de la CE remite a la regulación del acceso a archivos y registros?",
+    "opciones": {
+      "a": "El artículo 93.3.",
+      "b": "El artículo 97.1.",
+      "c": "El artículo 103.2.",
+      "d": "El artículo 105 b)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 48,
+    "tema": "Tema 2",
+    "pregunta": "¿Dónde se regula el régimen de solicitudes en trámite hasta la creación de unidades de transparencia?",
+    "opciones": {
+      "a": "En el Título II.",
+      "b": "En el Título IV.",
+      "c": "En sus disposiciones transitorias.",
+      "d": "En sus disposiciones adicionales."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 49,
+    "tema": "Tema 2",
+    "pregunta": "Señala la respuesta incorrecta respecto al Consejo Regional de Transparencia:",
+    "opciones": {
+      "a": "Tiene personalidad jurídica propia.",
+      "b": "Se trata de un órgano dependiente de las Cortes de CLM.",
+      "c": "Cuenta con autonomía orgánica y funcional.",
+      "d": "Desarrolla su actividad con independencia."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 50,
+    "tema": "Tema 2",
+    "pregunta": "¿A quién atribuye la Ley 4/2016 el diseño y evaluación de las políticas sobre transparencia?",
+    "opciones": {
+      "a": "A la Oficina de Transparencia y Buen Gobierno.",
+      "b": "A la Secretaría de Transparencia.",
+      "c": "A la Intervención General de Transparencia.",
+      "d": "A la Oficina de Transparencia."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 51,
+    "tema": "Tema 2",
+    "pregunta": "¿En qué título de la Ley se establece el entramado institucional?",
+    "opciones": {
+      "a": "En el título III.",
+      "b": "En el título IV.",
+      "c": "En el título V.",
+      "d": "En el título VII."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 52,
+    "tema": "Tema 2",
+    "pregunta": "Señala la respuesta incorrecta respecto al título IV de la Ley 4/2016:",
+    "opciones": {
+      "a": "Dividido en cuatro capítulos (infracciones, responsabilidad...).",
+      "b": "Distingue las de naturaleza disciplinaria de las que no.",
+      "c": "Hace una tipificación de las infracciones en muy graves, graves, menos graves y leves.",
+      "d": "Regula el régimen de responsabilidad por incumplimiento."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 53,
+    "tema": "Tema 2",
+    "pregunta": "La Ley 4/2016 de Transparencia de CLM se compone de:",
+    "opciones": {
+      "a": "5 títulos, 6 adicionales, 2 transitorias...",
+      "b": "5 títulos, 8 disposiciones adicionales, 2 disposiciones transitorias, 1 derogatoria y 2 finales.",
+      "c": "6 títulos, 2 adicionales, 8 transitorias...",
+      "d": "7 títulos, 5 adicionales, 2 transitorias..."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 54,
+    "tema": "Tema 2",
+    "pregunta": "La Ley 4/2016 tiene por objeto regular e impulsar:",
+    "opciones": {
+      "a": "Principios para código de buen gobierno.",
+      "b": "Régimen de garantías y responsabilidades.",
+      "c": "Transparencia y publicidad activa.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 55,
+    "tema": "Tema 2",
+    "pregunta": "¿Qué Directiva impone la obligación de autorizar la reutilización de documentos?",
+    "opciones": {
+      "a": "Directiva 2015/77/UE.",
+      "b": "Directiva 2014/J 2/UE.",
+      "c": "La Directiva 2013/37/UE, de 26 de junio de 2013.",
+      "d": "Directiva 2003/98/CE."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 56,
+    "tema": "Tema 2",
+    "pregunta": "¿En qué artículos de la Carta de Derechos Fundamentales UE se reconoce buena administración y acceso?",
+    "opciones": {
+      "a": "En los artículos 41 y 42.",
+      "b": "En los artículos 47 y 48.",
+      "c": "En los artículos 55 y 56.",
+      "d": "En los artículos 74 y 75."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 57,
+    "tema": "Tema 2",
+    "pregunta": "¿Qué ley reconoció la necesidad de un punto de acceso general sencillo?",
+    "opciones": {
+      "a": "La Ley 11/2007, de 22 de junio, de acceso electrónico.",
+      "b": "La Ley 30/1992.",
+      "c": "La Ley 38/1995.",
+      "d": "La Ley 37/2007."
+    },
+    "correcta": "a",
+    "explicacion": ""
   }
 ]

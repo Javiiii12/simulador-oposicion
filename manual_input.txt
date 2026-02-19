@@ -1,1442 +1,741 @@
-Bloque I: La Constitución Española de 1978
-1. ¿En qué se fundamenta la Constitución Española? 
+Test n.º 2: Estatuto de Autonomía y Administración de CLM
+1. El Estatuto de Autonomía de Castilla-La Mancha, fue aprobado por: 
 
-a) En un Estado social y democrático de Derecho. 
+a) Ley Orgánica 9/1982, de 10 de agosto. 
 
-b) En la indisoluble unidad de la Nación española. 
+b) Ley Orgánica 8/1982, de 10 de agosto. 
 
-c) En la independencia de los poderes del Estado. 
+c) Ley Orgánica 9/1983, de 15 de agosto. 
 
-d) En la organización territorial del Estado. 
-
-
-Solución: b 
-
-2. Según el artículo 3 de la CE, el castellano es la lengua oficial del Estado y todos los españoles: 
-
-a) Tienen el deber de usar y el derecho de conocer el castellano. 
-
-b) Tienen el derecho y el deber de conocer el castellano. 
-
-c) Tienen el deber de conocer y el derecho de usar el castellano. 
-
-d) Tienen el derecho de conocer y usar el castellano. 
-
-
-Solución: c 
-
-3. La Constitución Española reconoce y garantiza el derecho a la autonomía: 
-
-a) De las nacionalidades que la integran. 
-
-b) De las regiones que la integran. 
-
-c) De las Comunidades Autónomas que la integran. 
-
-d) De las nacionalidades y regiones que la integran. 
-
-
-Solución: d 
-
-4. El Preámbulo de la Constitución: 
-
-a) Tiene en sí carácter de norma jurídica. 
-
-b) Es una declaración de intenciones, destinada a interpretar lo que se quiere alcanzar con el contenido normativo de la Constitución. 
-
-c) Se trata de un texto sin fuerza jurídica de obligar. 
-
-d) Las respuestas b) y c) son correctas. 
-
-
-Solución: d 
-
-5. Señala la afirmación correcta, respecto de la aprobación, ratificación y publicación de la Constitución Española: 
-
-a) Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en referéndum el 6 de diciembre de 1978 y publicada el 29 de diciembre de 1978. 
-
-b) Aprobada por las Cortes el 30 de octubre de 1978, ratificada por el pueblo en referéndum el 6 de diciembre de 1978 y publicada el 27 de diciembre de 1978. 
-
-c) Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en referéndum el 16 de diciembre de 1978 y publicada el 29 de diciembre de 1978. 
-
-d) Aprobada por las Cortes el 10 de octubre de 1978, ratificada por el pueblo en referéndum el 26 de diciembre de 1978 y publicada el 30 de diciembre de 1978. 
+d) Ley Orgánica 9/1982, de 30 de septiembre. 
 
 
 Solución: a 
 
-6. ¿En qué parte de la Carta Magna se establece la exposición de motivos que impulsan la norma constitucional y los objetivos que con ella se pretenden alcanzar? 
+2. El Estatuto de Autonomía de Castilla-La Mancha: 
 
-a) En el Título preliminar. 
+a) Consta de 64 artículos y se estructura en un Título Preliminar, 6 Títulos, 2 disposiciones adicionales, seis disposiciones transitorias y una disposición final. 
 
-b) En el Preámbulo. 
+b) Consta de 54 artículos y se estructura en un Título Preliminar 6 Títulos, 3 disposiciones adicionales, seis disposiciones transitorias y una disposición final. 
 
-c) En el Título I. 
+c) Consta de 54 artículos y se estructura en un Título Preliminar, 6 Títulos, 3 disposiciones adicionales, siete disposiciones transitorias y una disposición final. 
 
-d) En el Título II. 
+d) Consta de 64 artículos y se estructura en un Título Preliminar, 6 Títulos, 2 disposiciones adicionales, siete disposiciones transitorias y una disposición final. 
+
+
+Solución: c 
+
+3. El Título Preliminar comprende los: 
+
+a) Seis primeros artículos del Estatuto. 
+
+b) Siete primeros artículos del Estatuto. 
+
+c) Nueve primeros artículos del Estatuto. 
+
+d) Once primeros artículos del Estatuto. 
 
 
 Solución: b 
 
-7. La Constitución Española fue sancionada por: 
+4. La Junta de Comunidades ejercerá sus poderes los objetivos básicos establecidos en el: 
 
-a) El Rey. 
+a) Artículo 3. 
 
-b) El Presidente del Congreso. 
+b) Artículo 4. 
 
-c) Las Cortes Generales. 
+c) Artículo 5. 
 
-d) El Presidente del Gobierno. 
+d) Artículo 6. 
 
 
-Solución: a 
+Solución: b 
 
-8. ¿Cuáles de los siguientes españoles de origen pueden ser privados de su nacionalidad? 
+5. La Ley del Gobierno y del Consejo Consultivo de Castilla-La Mancha es la: 
 
-a) Exclusivamente los miembros de grupos terroristas. 
+a) Ley 10/2003, de 25 de septiembre. 
 
-b) Los miembros de grupos terroristas y los que atenten contra el Rey u otro miembro de la Casa Real. 
+b) Ley 11/2003, de 25 de septiembre. 
 
-c) Los que atenten contra un miembro de la Familia Real o del Gobierno de la Nación. 
+c) Ley 11/2006, de 25 de septiembre. 
 
-d) Ningún español de origen podrá ser privado de su nacionalidad. 
+d) Ley 11/2003, de 26 de septiembre. 
+
+
+Solución: b 
+
+6. Los ex-Presidentes tendrán el tratamiento de: 
+
+a) Ilustrísima. 
+
+b) Excelencia. 
+
+c) Excelentísimo. 
+
+d) Presidente. 
+
+
+Solución: b 
+
+7. Las Cortes de Castilla-La Mancha aprobarán una Ley del Gobierno y del Consejo Consultivo, en la que se incluirá la limitación de los mandatos del Presidente, por mayoría: 
+
+a) Simple de los miembros del Pleno de la Cámara. 
+
+b) Absoluta de los miembros del Pleno de la Cámara. 
+
+c) De dos tercios de los miembros del Pleno de la Cámara. 
+
+d) De tres quintos de los miembros del Pleno de la Cámara. 
 
 
 Solución: d 
 
-9. Según la CE son fundamentos del orden político y la paz social: 
+8. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría: 
 
-a) La dignidad de la persona, los derechos violables que les son inherentes y el respeto a la ley. 
+a) Simple de los Diputados. 
 
-b) La dignidad de la persona, el desarrollo limitado de la personalidad y el respeto a la ley. 
+b) Absoluta de los Diputados. 
 
-c) El respeto a la ley, a los reglamentos administrativos y demás disposiciones legales. 
+c) De dos tercios de los Diputados. 
 
-d) La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de su personalidad, el respeto a la ley y a los derechos de los demás. 
-
-
-Solución: d 
-
-10. ¿Cuál de los siguientes es considerado por la CE como uno de los valores superiores del ordenamiento jurídico? 
-
-a) La jerarquía normativa. 
-
-b) El pluralismo político. 
-
-c) La publicidad normativa. 
-
-d) La equidad. 
-
-
-Solución: b 
-
-11. La forma política del Estado español es: 
-
-a) Democracia parlamentaria. 
-
-b) Gobierno parlamentario. 
-
-c) Monarquía parlamentaria. 
-
-d) República democrática. 
-
-
-Solución: c 
-
-12. La parte de la CE que regula la estructura de los principales órganos del Estado recibe el nombre de: 
-
-a) Parte dogmática. 
-
-b) Parte orgánica. 
-
-c) Parte estatal. 
-
-d) Parte estructural. 
-
-
-Solución: b 
-
-13. Según la CE, la soberanía nacional: 
-
-a) Corresponde a las Cortes Generales, al estar compuestas por los representantes del pueblo. 
-
-b) Corresponde al Rey. 
-
-c) Reside en el pueblo español. 
-
-d) Corresponde al Gobierno de la Nación elegido directamente por el pueblo. 
-
-
-Solución: c 
-
-14. El derecho a la propiedad en nuestra Constitución es un Derecho: 
-
-a) Inherente a la condición humana. 
-
-b) Absoluto. 
-
-c) Limitado por la función social de la misma. 
-
-d) Ninguna de las respuestas anteriores es correcta. 
-
-
-Solución: c 
-
-15. ¿En qué parte de la Carta Magna se señalan los valores superiores del ordenamiento jurídico? 
-
-a) En el Preámbulo. 
-
-b) En el Título Preliminar. 
-
-c) En el Título I. 
-
-d) Ninguna respuesta es correcta. 
-
-
-Solución: b 
-
-16. ¿Cuál de las siguientes es una de las características de nuestra Constitución de 1978? 
-
-a) Consensuada. 
-
-b) Corta. 
-
-c) Conservadora. 
-
-d) Originalidad. 
+d) De tres quintos de los Diputados. 
 
 
 Solución: a 
 
-17. Son el fundamento del orden político y de la paz social: 
+9. Si el Presidente plantease la cuestión de confianza sobre un proyecto de Ley, éste se considerará aprobado siempre que vote a favor la mayoría: 
 
-a) El libre desarrollo de la personalidad. 
+a) Simple de los Diputados. 
 
-b) Los derechos inviolables que les son inherentes. 
+b) Absoluta de los Diputados. 
 
-c) El respeto a la ley y a los derechos de los demás. 
+c) De dos tercios de los Diputados. 
 
-d) Todas las respuestas son correctas. 
+d) De tres quintos de los Diputados. 
+
+
+Solución: b 
+
+10. La moción de censura deberá ser propuesta al menos por el: 
+
+a) 10% de los Diputados. 
+
+b) 15% de los Diputados. 
+
+c) 20% de los Diputados. 
+
+d) 5% de los Diputados. 
+
+
+Solución: b 
+
+11. El Presidente no podrá acordar la disolución de las Cortes: 
+
+a) Durante el cuarto período de sesiones de la legislatura, cuando reste menos de un año para su terminación. 
+
+b) Cuando se esté planteando una cuestión de confianza. 
+
+c) Antes de que transcurra el plazo de dos años desde la última disolución por este procedimiento. 
+
+d) Cuando se encuentre convocado un proceso electoral estatal. 
 
 
 Solución: d 
 
-18. ¿Qué quedará excluido de extradición? 
+12. La Ley del Gobierno y del Consejo Consultivo de CLM trata del Consejo de Gobierno en su: 
 
-a) Los delitos criminales. 
+a) Título I. 
 
-b) Los delitos políticos. 
+b) Título II. 
 
-c) Los actos de terrorismo. 
+c) Título III. 
 
-d) Ninguno. 
-
-
-Solución: b 
-
-19. ¿Qué debe ser democrático en los sindicatos de trabajadores y las asociaciones empresariales? 
-
-a) Su funcionamiento. 
-
-b) Su estructura interna. 
-
-c) Su funcionamiento y estructura interna. 
-
-d) Sus órganos asamblearios. 
-
-
-Solución: c 
-
-20. ¿De cuántos Capítulos consta el Título I de la CE de 1978? 
-
-a) De tres. 
-
-b) De cinco. 
-
-c) De dos. 
-
-d) De cuatro. 
+d) Título IV. 
 
 
 Solución: b 
 
-21. El sistema tributario justo se inspira en los principios de: 
+13. Corresponde, en todo caso, al Consejo de Gobierno: 
 
-a) Legalidad y equidad. 
+a) Aprobar los Proyectos de Ley para su remisión a las Cortes y acordar retirarlos. 
 
-b) Igualdad y progresividad. 
+b) Dictar los Decretos Legislativos. 
 
-c) Publicidad y legalidad. 
+c) Aprobar las normas reglamentarias de desarrollo de las leyes. 
 
-d) Eficacia y sostenibilidad. 
-
-
-Solución: b 
-
-22. Las primeras elecciones democráticas celebradas en España tras la muerte de Franco tuvieron lugar en: 
-
-a) 1975. 
-
-b) 1976. 
-
-c) 1977. 
-
-d) 1978. 
-
-
-Solución: c (1977) 
-
-23. El referéndum en el que se aprobó popularmente la Constitución se llevó a efecto el: 
-
-a) 27 de diciembre de 1978. 
-
-b) 6 de diciembre de 1978. 
-
-c) 31 de octubre de 1978. 
-
-d) 29 de diciembre de 1979. 
-
-
-Solución: b 
-
-24. La ponencia encargada de redactar el borrador de la Constitución se constituyó en el: 
-
-a) Senado. 
-
-b) Senado y Congreso de los Diputados. 
-
-c) Congreso de los Diputados. 
-
-d) Gobierno de la Nación. 
-
-
-Solución: c 
-
-25. Si un poder público, en su actuación, infringe lo dispuesto en el Preámbulo de la Constitución: 
-
-a) Incurre en nulidad. 
-
-b) Incurre en inconstitucionalidad. 
-
-c) No pasa nada salvo que se infrinja un artículo de la propia Constitución. 
-
-d) Nada de lo anterior es cierto. 
-
-
-Solución: c 
-
-26. El principio en virtud del cual el ciudadano está amparado por una legislación no sujeta a continuos vaivenes es el de: 
-
-a) Legalidad. 
-
-b) Publicidad normativa. 
-
-c) Seguridad jurídica. 
-
-d) Jerarquía normativa. 
-
-
-Solución: c 
-
-27. El principio en virtud del cual un Reglamento no puede contradecir una ley es el de: 
-
-a) Legalidad. 
-
-b) Jerarquía normativa. 
-
-c) Las respuestas a) y b) son correctas. 
-
-d) Seguridad jurídica. 
-
-
-Solución: c 
-
-28. Según la Constitución, una norma que imponga una nueva pena más leve para un delito: 
-
-a) No se aplica retroactivamente. 
-
-b) Puede aplicarse retroactivamente. 
-
-c) Ha de ser reglamentaria. 
-
-d) Atenta contra el principio de legalidad penal si se aplica retroactivamente. 
-
-
-Solución: b 
-
-29. Todos los españoles, respecto al castellano, tienen el: 
-
-a) Derecho-deber de conocerlo. 
-
-b) Derecho de usar y deber de conocerlo. 
-
-c) Derecho-deber de usarlo. 
-
-d) Nada de lo anterior. 
-
-
-Solución: b 
-
-30. La capital del Estado en España es: 
-
-a) La propia de cada Comunidad Autónoma. 
-
-b) La villa de Madrid. 
-
-c) Aquella donde se establezca el Gobierno de la Nación. 
-
-d) Aquella en la que resida generalmente el Rey. 
-
-
-Solución: b 
-
-31. El Título de la Constitución que trata de la reforma constitucional es el: 
-
-a) Primero. 
-
-b) Décimo. 
-
-c) Noveno. 
-
-d) Undécimo. 
-
-
-Solución: b 
-
-32. El Defensor del Pueblo se regula en el siguiente Título y Capítulo: 
-
-a) Preliminar y 1.º 
-
-b) Segundo y 4.º 
-
-c) Segundo y 3.º 
-
-d) Primero y 4.º 
+d) Todas las anteriores. 
 
 
 Solución: d 
 
-33. El Título que trata del Gobierno y la Administración es el: 
+14. La válida constitución del Consejo de Gobierno requiere la asistencia del Presidente y de, al menos: 
 
-a) Tercero. 
+a) Un tercio de los restantes miembros. 
 
-b) Cuarto. 
+b) Dos tercios de los restantes miembros. 
 
-c) Quinto. 
+c) La mitad de los restantes miembros. 
 
-d) Sexto. 
-
-
-Solución: b 
-
-34. Los principios rectores de la política social y económica se regulan en el: 
-
-a) Segundo del Primero. 
-
-b) Tercero del Primero. 
-
-c) Tercero del Preliminar. 
-
-d) Primero del Séptimo. 
-
-
-Solución: b 
-
-35. La derogación de una norma preconstitucional contraria a la Constitución se efectúa por: 
-
-a) Propia Constitución. 
-
-b) Tribunal Constitucional. 
-
-c) Cortes Generales. 
-
-d) Gobierno de la Nación. 
-
-
-Solución: a 
-
-36. El pluralismo político, para nuestra Constitución, es un/una: 
-
-a) Principio General del ordenamiento político. 
-
-b) Valor superior del ordenamiento jurídico. 
-
-c) Principio rector de la política social y económica. 
-
-d) Derecho fundamental. 
-
-
-Solución: b 
-
-37. La forma política del Estado español es: 
-
-a) Unitaria y regionalizada. 
-
-b) Federal. 
-
-c) La Monarquía Parlamentaria. 
-
-d) La propia de un Estado Social y Democrático. 
+d) Tres quintos de los restantes miembros. 
 
 
 Solución: c 
 
-38. La justicia, según nuestra Constitución, es un/una: 
+15. Las decisiones y acuerdos del Consejo de Gobierno se adoptan mediante deliberación y: 
 
-a) Principio de nuestro ordenamiento jurídico. 
+a) Tras votación formal. 
 
-b) Valor superior del anterior. 
+b) Sin votación formal. 
 
-c) Manifestación del Estado democrático. 
+c) Sin necesidad de votación. 
 
-d) Todo lo anterior. 
-
-
-Solución: b 
-
-39. Un español de origen puede perder esta nacionalidad: 
-
-a) Por sanción administrativa. 
-
-b) Cuando libremente renuncie a la misma. 
-
-c) Por condena penal. 
-
-d) En ningún caso. 
+d) Por acuerdos de unanimidad. 
 
 
 Solución: b 
 
-40. Constituye el fundamento del orden público y de la paz social: 
+16. En las reuniones del Consejo de Gobierno: 
 
-a) Derechos inviolables inherentes a la persona. 
+a) Los documentos presentados tendrán carácter reservado hasta su publicación y las deliberaciones serán secretas. 
 
-b) Estado social y democrático de Derecho. 
+b) Las deliberaciones serán reservadas y los documentos secretos. 
 
-c) Seguridad jurídica. 
+c) Los documentos serán reservados y las deliberaciones secretas. 
 
-d) Justicia. 
+d) Los documentos serán secretos y las deliberaciones privadas. 
 
 
 Solución: a 
 
-41. Las Comunidades Autónomas deben usar o instalar la bandera española: 
+17. Las actas de las sesiones del Consejo de Gobierno: 
 
-a) En sus edificios. 
+a) Son públicas. 
 
-b) En los actos oficiales. 
+b) Serán publicadas. 
 
-c) Cuando lo solicite el Delegado del Gobierno.
+c) Son públicas salvo datos que afecten a la intimidad. 
 
-d) Cuando lo estimen oportuno. 
+d) No son públicas. 
 
 
-Solución: b  (Nota: la CE indica edificios y actos oficiales)
+Solución: d 
 
-42. Deben tener una estructura interna y un funcionamiento democrático los/las: 
+18. Las delegaciones legislativas otorgadas por las Cortes mientras el Gobierno esté en funciones: 
 
-a) Partidos Políticos. 
+a) Permanecerán en vigor. 
 
-b) Colegios Profesionales. 
+b) Permanecerán en vigor salvo acuerdo en contrario. 
 
-c) Organizaciones Profesionales. 
+c) Precisarán la ratificación de aquéllas cuando la causa de cese sea la celebración de elecciones regionales. 
+
+d) Quedarán en todo caso en suspenso. 
+
+
+Solución: c 
+
+19. Los miembros del Gobierno pueden ejercer administración del patrimonio personal salvo participación superior al: 
+
+a) 10% en empresas que tengan conciertos con la Junta. 
+
+b) 15% en empresas similares. 
+
+c) 20% en dichas empresas. 
+
+d) 25% en dichas empresas. 
+
+
+Solución: a 
+
+20. No podrán realizar actividades privadas relacionadas con expedientes resueltos en el cargo: 
+
+a) Durante el año siguiente al cese. 
+
+b) Durante los dos años siguientes al cese. 
+
+c) Durante los tres años siguientes al cese. 
+
+d) Durante los cuatro años siguientes al cese. 
+
+
+Solución: b 
+
+21. Obligación de presentar declaración de actividades, bienes y rentas: 
+
+a) En el plazo de un mes desde el nombramiento o cese. 
+
+b) En el plazo de tres meses. 
+
+c) En el plazo de dos meses. 
+
+d) En el plazo de veinte días. 
+
+
+Solución: a 
+
+22. No corresponde a los Consejeros: 
+
+a) Formular programas de actuación de su Consejería. 
+
+b) Desarrollar la acción de gobierno en su área. 
+
+c) Dictar los Decretos Legislativos. 
+
+d) Ejercer la superior jefatura de su Consejería. 
+
+
+Solución: c 
+
+23. No son órganos de apoyo a los miembros del Consejo de Gobierno: 
+
+a) El Secretario General de la Presidencia. 
+
+b) Los Viceconsejeros. 
+
+c) Los Delegados Provinciales de la Junta de Comunidades. 
+
+d) Los Delegados Provinciales de las Consejerías. 
+
+
+Solución: c 
+
+24. Son órganos directivos de la Administración de la Junta de Comunidades de CLM: 
+
+a) Los Directores Generales. 
+
+b) Los Secretarios Generales Técnicos y Secretarios Generales. 
+
+c) Los Delegados Provinciales de la Junta. 
 
 d) Todos ellos. 
 
 
 Solución: d 
 
-43. La defensa de la integridad territorial de España se atribuye a: 
+25. El Consejo de Gobierno: 
 
-a) Fuerzas y Cuerpos de Seguridad. 
+a) Ejerce la iniciativa legislativa mediante Proyectos de Ley. 
 
-b) Fuerzas Armadas. 
+b) Ejerce la iniciativa mediante Decretos. 
 
-c) Gobierno de la Nación. 
+c) Ejerce la iniciativa mediante Decretos-Ley. 
+
+d) No puede ejercer la iniciativa legislativa. 
+
+
+Solución: a 
+
+26. El ejercicio de la potestad reglamentaria requiere que la iniciativa sea autorizada por: 
+
+a) El Presidente o el Consejero competente. 
+
+b) La Junta. 
+
+c) El Presidente. 
+
+d) No es necesaria autorización. 
+
+
+Solución: a 
+
+27. El Estatuto trata de las competencias de la Junta en los artículos: 
+
+a) Del 21 al 42. 
+
+b) Del 31 al 42. 
+
+c) Del artículo 31 al 40. 
+
+d) Del artículo 31 al 43. 
+
+
+Solución: c 
+
+28. Las competencias exclusivas se establecen en el: 
+
+a) Artículo 21. 
+
+b) Artículo 31. 
+
+c) Artículo 32. 
+
+d) Artículo 33. 
+
+
+Solución: b 
+
+29. La Junta asume las siguientes competencias exclusivas: 
+
+a) Régimen local. 
+
+b) Montes y aprovechamientos forestales. 
+
+c) Sanidad e higiene. 
+
+d) Caza y pesca fluvial. Acuicultura. 
+
+
+Solución: d 
+
+30. No son competencias exclusivas: 
+
+a) Cajas de Ahorros. 
+
+b) Promoción del deporte. 
+
+c) Ordenación farmacéutica. 
+
+d) Espectáculos públicos. 
+
+
+Solución: c 
+
+31. Son competencias de ejecución: 
+
+a) Asociaciones. 
+
+b) Ferias internacionales. 
+
+c) Pesas y medidas. 
 
 d) Todas las anteriores. 
 
 
-Solución: b 
+Solución: d 
 
-44. El Título de la Constitución que trata de las relaciones entre el Gobierno y las Cortes Generales es el: 
+32. Como órganos directivos de la Vicepresidencia se encuentran: 
 
-a) Cuarto. 
+a) Dirección General de Información. 
 
-b) Quinto. 
+b) Dirección General de Relaciones con la Administración Central. 
 
-c) Sexto. 
+c) Dirección General de Relaciones Internacionales. 
 
-d) Tercero. 
-
-
-Solución: b 
-
-45. La Constitución entró en vigor: 
-
-a) Al día siguiente de su publicación en el BOE. 
-
-b) El 27 de diciembre de 1978. 
-
-c) El 29 de diciembre de 1978. 
-
-d) Al ser aprobada en sesión conjunta por el Congreso y el Senado. 
-
-
-Solución: c 
-
-46. ¿En qué artículos de nuestra CE se recogen los derechos fundamentales y las libertades públicas? 
-
-a) En los artículos 10 a 43. 
-
-b) En los artículos 25 a 38. 
-
-c) En los artículos 31 a 45. 
-
-d) En los artículos 15 a 29. 
+d) Ninguna es correcta. 
 
 
 Solución: d 
 
-47. Además de en la vida económica y política, los poderes públicos deben fomentar la participación de los ciudadanos en la vida: 
+33. Entre los órganos adscritos a la Vicepresidencia NO se encuentra: 
 
-a) Cultural. 
+a) El Instituto de Empleo. 
 
-b) Social. 
+b) La Oficina de Transparencia. 
 
-d) Las respuestas a) y b) son correctas. 
+c) Radio Televisión CLM. 
+
+d) El Gabinete Jurídico. 
+
+
+Solución: a 
+
+34. ¿Cuál es un órgano central de la Consejería de Economía, Empresas y Empleo? 
+
+a) La Secretaría General. 
+
+b) Viceconsejería de Empleo. 
+
+c) Dirección General de Turismo. 
+
+d) Todos lo son. 
 
 
 Solución: d 
 
-48. Según la Constitución, el Estado es: 
+35. La Dirección General de la Función Pública está adscrita a la Consejería de: 
 
-a) Apolítico. 
+a) Hacienda y Administraciones Públicas. 
 
-b) Aconfesional. 
+b) Economía. 
 
-c) De bienestar social. 
+c) Vicepresidencia. 
 
-d) Federal. 
+d) Fomento. 
 
 
-Solución: b 
+Solución: a 
 
-49. El derecho a la vida se consagra en el siguiente artículo de la Constitución: 
+36. Una de las siguientes NO es una Consejería de Castilla-La Mancha: 
 
-a) 10. 
+a) Consejería de Fomento. 
 
-b) 16. 
+b) Consejería de Sanidad. 
 
-c) 15. 
+c) Consejería de Turismo. 
 
-d) 24. 
+d) Consejería de Educación. 
 
 
 Solución: c 
 
-50. La pena de muerte en España: 
+37. ¿Qué órganos centrales componen la Consejería de Bienestar Social? 
 
-a) Ha quedado abolida. 
+a) Secretaría General. 
 
-b) Puede aplicarse en cualquier momento. 
+b) Dirección General de Juventud. 
 
-c) Solo se aplicará en tiempo de guerra a los militares. 
+c) Dirección General de la Infancia y Familia. 
 
-d) Rige solo en el ámbito civil. 
-
-
-Solución: a 
-
-51. La inmediata puesta a disposición judicial derivada del habeas corpus se produce por: 
-
-a) Detención ilegal. 
-
-b) Prisión ilegal. 
-
-c) Prisión preventiva. 
-
-d) Detención preventiva. 
-
-
-Solución: a 
-
-52. El proceso en el que se enjuicie a un presunto delincuente debe: 
-
-a) Ser sumario. 
-
-b) No dilatarse. 
-
-c) Entorpecer los instrumentos probatorios. 
-
-d) Nada de lo anterior es cierto. 
-
-
-Solución: b 
-
-53. La entrada en un domicilio en caso de flagrante delito, sin autorización: 
-
-a) Puede dar lugar a la aplicación del habeas corpus. 
-
-b) Requiere autorización previa de la autoridad judicial. 
-
-c) Puede efectuarse en todo momento. 
-
-d) No puede realizarse en momento alguno. 
+d) Todas son correctas. 
 
 
 Solución: c 
 
-54. Cuando se acude a un domicilio para detener a una persona: 
+38. ¿Cuál es el órgano superior de CLM en materia de transparencia y buen gobierno? 
 
-a) Está obligada a franquear la entrada. 
+a) La Comisión Ejecutiva Regional de Transparencia. 
 
-b) Se necesitará autorización judicial si no da su consentimiento. 
+b) El Consejo Consultivo Regional de Transparencia. 
 
-c) Pese a que no dé su consentimiento, se puede entrar. 
+c) El Consejo Regional de Transparencia y Buen Gobierno. 
 
-d) Nada de lo anterior es correcto. 
-
-
-Solución: b 
-
-55. La autorización previa para celebrar una manifestación pública: 
-
-a) La da el Subdelegado del Gobierno en la Provincia. 
-
-b) Es ineludible. 
-
-c) Sería inconstitucional. 
-
-d) Se da cuando no se prevean alteraciones al orden público. 
+d) La Junta Regional de Transparencia. 
 
 
 Solución: c 
 
-56. El tipo de sufragio que consagra la Constitución es el: 
+39. ¿Cuál fue la primera ley en la universalización del derecho de acceso a la información? 
 
-a) Proporcional. 
+a) La Ley 38/1995, de 12 de diciembre. 
 
-b) Universal. 
+b) La Ley 37/2007. 
 
-c) Censitario. 
+c) La Ley 27/2006. 
 
-d) Las respuestas a) y b) son correctas. 
+d) La Ley 11/2007. 
 
 
-Solución: b 
+Solución: a 
 
-57. Además de la no autoinculpación, la Constitución prevé que no se está obligado a declarar sobre un hecho presuntamente delictivo en caso de: 
+40. ¿Qué artículo del Estatuto impone el deber de promover libertad e igualdad? 
 
-a) Parentesco y afinidad. 
+a) El artículo 4.2. 
 
-b) Cláusula de conciencia. 
+b) El artículo 5.1. 
 
-c) Secreto profesional. 
+c) El artículo 5.3. 
 
-d) Las respuestas a) y b) son correctas. 
+d) El artículo 9.3. 
+
+
+Solución: a 
+
+41. ¿Mediante qué norma se reconoció el derecho a conocer actuaciones que atañen a las personas? 
+
+a) Ley 4/2016. 
+
+b) Ley 6/1994. 
+
+c) Mediante la Ley 19/2002, de 24 de octubre. 
+
+d) Mediante la Ley 11/2003. 
 
 
 Solución: c 
 
-58. Los Tribunales de Honor están prohibidos respecto de los/la/las: 
+42. ¿Qué Título de la Ley 4/2016 contiene normas sobre buen gobierno y gobierno abierto? 
 
-a) Sindicatos y Organizaciones Profesionales. 
+a) El título I. 
 
-b) Administración Civil y Militar. 
+b) El título II. 
 
-c) Organizaciones Profesionales y la Administración Civil. 
+c) El título III. 
 
-d) Todas las respuestas anteriores son correctas. 
-
-
-Solución: c 
-
-59. El secreto profesional, constitucionalmente, sirve para: 
-
-a) Ejercer con libertad una profesión titulada. 
-
-b) La libertad de creación científica y técnica. 
-
-c) No declarar sobre hechos presuntamente delictivos. 
-
-d) Todo lo anterior. 
+d) El título V. 
 
 
 Solución: c 
 
-60. La fundación de una Internacional Sindical por un sindicato español: 
+43. ¿Cómo denomina la Ley 4/2016 a las unidades para velar por publicidad activa? 
 
-a) Es libre. 
+a) Unidades de acceso. 
 
-b) Está prohibida. 
+b) Unidades de transparencia. 
 
-c) Debe plasmarse en un Tratado Internacional. 
+c) Unidades de acceso público. 
 
-d) Nada de lo anterior es cierto. 
-
-
-Solución: a 
-
-61. El ejercicio del derecho de petición a través de una manifestación ciudadana: 
-
-a) No se admite. 
-
-b) Se admite en algún caso. 
-
-c) Se admite, salvo para los militares. 
-
-d) Ni se admite ni se prohíbe. 
-
-
-Solución: a 
-
-62. Nuestra Constitución trata de los derechos y deberes fundamentales en su Título I, denominado: 
-
-a) De los derechos y deberes fundamentales. 
-
-b) De los deberes de los españoles. 
-
-c) De los derechos de los españoles. 
-
-d) De los derechos y deberes principales de los españoles. 
-
-
-Solución: a 
-
-63. Las Fundaciones son: 
-
-a) Entidades constituidas para fines de interés general. 
-
-b) Administración Corporativa. 
-
-c) Entidades privadas con fines de carácter privado. 
-
-d) Asociaciones de personas para fines de interés general. 
-
-
-Solución: a 
-
-64. La asistencia de todo orden a los hijos habidos extraconyugalmente: 
-
-a) No está prevista en la Constitución. 
-
-b) Es un deber de los padres. 
-
-c) Se dispensará por Instituciones de Beneficencia. 
-
-d) Se dispensa solo a los que tengan discapacidad. 
+d) Unidades de Transparencia y Buen Gobierno. 
 
 
 Solución: b 
 
-65. La especulación urbanística, según la Constitución: 
+44. ¿Cuáles son los dos órganos colegiados que componen el Consejo Regional de Transparencia? 
 
-a) Debe evitarse. 
+a) El Consejo Consultivo y la Comisión Técnica. 
 
-b) Está permitida. 
+b) El Consejo Ejecutivo y la Junta Consultiva. 
 
-c) Genera plusvalías para la colectividad. 
+c) La Comisión Ejecutiva y la Comisión Consultiva. 
 
-d) Pueden hacerla los poderes públicos. 
+d) La Comisión Disciplinaria y la Comisión Técnica. 
+
+
+Solución: c 
+
+45. ¿En qué órgano del Consejo Regional están representadas Cortes, Administración, FEMP y Universidad? 
+
+a) En la Comisión Consultiva. 
+
+b) En la Junta Consultiva. 
+
+c) En la Comisión Ejecutiva. 
+
+d) En el Consejo Consultivo. 
 
 
 Solución: a 
 
-66. No es susceptible de recurso de amparo el derecho a la/de: 
+46. ¿Quiénes forman la Comisión Ejecutiva del Consejo Regional de Transparencia? 
 
-a) Sindicación. 
+a) La Presidencia, Secretaría General y tres Adjuntías. 
 
-b) Investigación científica. 
+b) La Presidencia y dos Adjuntías. 
 
-c) Secreto de las comunicaciones. 
+c) La Presidencia y tres Adjuntías. 
 
-d) Lo son todos ellos. 
-
-
-Solución: b 
-
-67. Tampoco lo es el derecho de: 
-
-a) Libertad de cátedra. 
-
-b) Negociación colectiva. 
-
-c) Manifestación. 
-
-d) Huelga. 
+d) La Presidencia, Secretaría General y dos Adjuntías. 
 
 
 Solución: b 
 
-68. Y sí lo está el derecho de/a la: 
+47. ¿Qué artículo de la CE remite a la regulación del acceso a archivos y registros? 
 
-a) Libre sindicación. 
+a) El artículo 93.3. 
 
-b) Petición. 
+b) El artículo 97.1. 
 
-c) Cláusula de conciencia. 
+c) El artículo 103.2. 
 
-d) Lo están todos ellos. 
+d) El artículo 105 b). 
 
 
 Solución: d 
 
-69. Una vez declarado el estado de excepción no se puede suspender el derecho/libertad de: 
-
-a) Huelga. 
-
-b) Enseñanza. 
-
-c) Adopción de medidas de conflicto colectivo. 
-
-d) Libertad de circulación. 
-
-
-Solución: b 
-
-70. Durante el estado de excepción, un detenido conserva el derecho de/a: 
-
-a) Setenta y dos horas para ser puesto a disposición judicial. 
-
-b) Secreto de comunicaciones. 
-
-c) Asistencia de Letrado. 
-
-d) Ninguno de ellos. 
-
-
-Solución: c 
-
-71. Se puede suspender, por investigaciones de bandas armadas, el derecho de: 
-
-a) Huelga. 
-
-b) Inviolabilidad del domicilio. 
-
-c) Libertad de circulación. 
-
-d) Las respuestas b) y c) son correctas. 
-
-
-Solución: b  (Nota: también el secreto de comunicaciones)
-
-72. ¿En qué fecha aprobaron las Cortes Generales la Constitución Española? 
-
-a) El 31 de octubre de 1978. 
-
-b) El 6 de diciembre de 1978. 
-
-c) El 27 de diciembre de 1978. 
-
-d) El 29 de diciembre de 1978. 
-
-
-Solución: a 
-
-73. ¿Cuál de las siguientes no es una característica de la Carta Magna? 
-
-a) Su rigidez. 
-
-b) El establecimiento de la monarquía hereditaria. 
-
-c) Su codificación en un solo texto. 
-
-d) Su extensión. 
-
-
-Solución: b 
-
-74. ¿De cuántos artículos consta la Constitución Española de 1978? 
-
-a) De 154. 
-
-b) De 163. 
-
-c) De 169. 
-
-d) De 171. 
-
-
-Solución: c 
-
-75. ¿Cuál no es uno de los valores superiores de nuestro ordenamiento? 
-
-a) El pluralismo político. 
-
-b) La solidaridad. 
-
-c) La libertad. 
-
-d) La igualdad. 
-
-
-Solución: b 
-
-76. A tenor del artículo 11, los españoles de origen podrán ser privados de su nacionalidad: 
-
-a) Cuando así lo determinen las leyes. 
-
-b) Cuando entren al servicio de las armas en el extranjero. 
-
-c) Cuando lo apruebe el Consejo de Ministros. 
-
-d) En ningún caso. 
-
-
-Solución: d 
-
-77. ¿En qué Título se recogen las Cortes Generales? 
+48. ¿Dónde se regula el régimen de solicitudes en trámite hasta la creación de unidades de transparencia? 
 
 a) En el Título II. 
 
-b) En el Título III. 
+b) En el Título IV. 
 
-c) En el Título IV. 
+c) En sus disposiciones transitorias. 
 
-d) En el Título VI. 
-
-
-Solución: b 
-
-78. Según la Disposición Final, la Constitución entrará en vigor: 
-
-a) Al día siguiente de su publicación en el BOE. 
-
-b) A los veinte días de la publicación. 
-
-c) El mismo día de la publicación de su texto oficial. 
-
-d) Al año de la publicación. 
+d) En sus disposiciones adicionales. 
 
 
 Solución: c 
 
-Bloque II: Igualdad Efectiva entre Mujeres y Hombres
-81. La ley que regula la igualdad efectiva de mujeres y hombres es: 
+49. Señala la respuesta incorrecta respecto al Consejo Regional de Transparencia: 
 
-a) La Ley 3/2007, de 12 de marzo. 
+a) Tiene personalidad jurídica propia. 
 
-b) La Ley Orgánica 22/2007, de 3 de abril. 
+b) Se trata de un órgano dependiente de las Cortes de CLM. 
 
-c) La Ley Orgánica 3/2007, de 22 de marzo. 
+c) Cuenta con autonomía orgánica y funcional. 
 
-d) El Decreto Legislativo 7/2003, de 23 de mayo. 
-
-
-Solución: c 
-
-82. ¿Qué título de la Ley se refiere a las políticas públicas para la igualdad? 
-
-a) El Título II. 
-
-b) El Título III. 
-
-c) El Título IV. 
-
-d) El Título V. 
+d) Desarrolla su actividad con independencia. 
 
 
-Solución: a 
+Solución: b (Es independiente) 
 
-83. Las obligaciones de esta Ley son de aplicación a: 
+50. ¿A quién atribuye la Ley 4/2016 el diseño y evaluación de las políticas sobre transparencia? 
 
-a) Toda persona que se encuentre o actúe en territorio español. 
+a) A la Oficina de Transparencia y Buen Gobierno. 
 
-b) Todos los españoles residentes en España. 
+b) A la Secretaría de Transparencia. 
 
-c) Toda persona de un país adherido a Tratados internacionales. 
+c) A la Intervención General de Transparencia. 
 
-d) Únicamente a todos los españoles. 
-
-
-Solución: a 
-
-84. Todo trato desfavorable relacionado con el embarazo o la maternidad es: 
-
-a) Acoso sexual. 
-
-b) Acoso por razón de sexo. 
-
-c) Discriminación directa por razón de sexo. 
-
-d) Discriminación indirecta por razón de sexo. 
-
-
-Solución: c 
-
-85. Un comportamiento en función del sexo con propósito de atentar contra la dignidad: 
-
-a) Acoso sexual. 
-
-b) Acoso por razón de sexo. 
-
-c) Discriminación directa. 
-
-d) Discriminación indirecta. 
-
-
-Solución: b 
-
-86. Actos y cláusulas de negocios jurídicos que causen discriminación son: 
-
-a) Válidos si las partes consienten. 
-
-b) Anulables durante el primer año. 
-
-c) Nulos con efecto. 
-
-d) Nulos y sin efecto. 
+d) A la Oficina de Transparencia. 
 
 
 Solución: d 
 
-87. Legitimación para intervenir en procesos civiles sobre igualdad: 
+51. ¿En qué título de la Ley se establece el entramado institucional? 
 
-a) La persona acosada únicamente. 
+a) En el título III. 
 
-b) Cualquier ciudadano. 
+b) En el título IV. 
 
-c) Las personas físicas y jurídicas con interés legítimo. 
+c) En el título V. 
 
-d) Cualquier persona jurídica. 
+d) En el título VII. 
 
 
 Solución: c 
 
-88. El principio de igualdad informará la actuación pública: 
+52. Señala la respuesta incorrecta respecto al título IV de la Ley 4/2016: 
 
-a) Con carácter transversal. 
+a) Dividido en cuatro capítulos (infracciones, responsabilidad...). 
 
-b) De forma equilibrada. 
+b) Distingue las de naturaleza disciplinaria de las que no. 
 
-c) Solo en casos de especial vulnerabilidad. 
+c) Hace una tipificación de las infracciones en muy graves, graves, menos graves y leves. 
 
-d) Con carácter no vinculante. 
-
-
-Solución: a 
-
-89. Composición equilibrada es cuando las personas de cada sexo: 
-
-a) Tengan la misma representación. 
-
-b) No superen el 60 % ni sean menos del 40 %. 
-
-c) No superen el 70 % ni sean menos del 30 %. 
-
-d) No sean menos del 10 %. 
-
-
-Solución: b 
-
-90. Proyectos sometidos al Consejo de Ministros deben incorporar: 
-
-a) Un Plan Estratégico. 
-
-b) Una estadística o encuesta. 
-
-c) Un informe periódico. 
-
-d) Un informe sobre su impacto por razón de género. 
-
-
-Solución: d 
-
-91. Un conjunto ordenado de medidas tras un diagnóstico se denomina: 
-
-a) Programas de empleabilidad. 
-
-b) Medidas de acción positiva. 
-
-c) Protocolos de actuación. 
-
-d) Los planes de igualdad de las empresas. 
-
-
-Solución: d 
-
-92. ¿A partir de cuántos trabajadores es obligatorio el plan de igualdad? 
-
-a) 50 o más trabajadores. 
-
-b) 100 trabajadores. 
-
-c) 150 trabajadores. 
-
-d) 250 trabajadores. 
-
-
-Solución: a 
-
-93. Distintivo para empresas que destacan en igualdad: 
-
-a) Distintivo “Igualdad en la Empresa”. 
-
-b) Distintivo “Empresas en Igualdad”. 
-
-c) Distintivo “Empresa no discriminatoria”. 
-
-d) Distintivo “Empresa con empleo igualitario”. 
-
-
-Solución: a 
-
-94. ¿Por cuánto tiempo se concede dicho distintivo? 
-
-a) Un año prorrogable. 
-
-b) Tres años, prorrogables. 
-
-c) Cuatro años. 
-
-d) Indefinido. 
-
-
-Solución: b 
-
-95. Mantener el equilibrio en las dimensiones de la vida es: 
-
-a) Conciliar. 
-
-b) Igualar. 
-
-c) Discriminatorio. 
-
-d) Acoso. 
-
-
-Solución: a 
-
-96. Convocatorias para el acceso al empleo público deberán: 
-
-a) Asegurar adjudicación por presencia equilibrada. 
-
-b) Reservar al menos 40 % para cada sexo. 
-
-c) Acompañarse de un informe de impacto de género. 
-
-d) Separar las plazas por sexo. 
+d) Regula el régimen de responsabilidad por incumplimiento. 
 
 
 Solución: c 
 
-97. Los medios de comunicación promoverán la igualdad mediante: 
+53. La Ley 4/2016 de Transparencia de CLM se compone de: 
 
-a) Planes de igualdad. 
+a) 5 títulos, 6 adicionales, 2 transitorias... 
 
-b) Realización de estudios. 
+b) 5 títulos, 8 disposiciones adicionales, 2 disposiciones transitorias, 1 derogatoria y 2 finales. 
 
-c) Campañas institucionales. 
+c) 6 títulos, 2 adicionales, 8 transitorias... 
 
-d) Acuerdos de autorregulación. 
-
-
-Solución: d 
-
-98. Publicidad que comporte conducta discriminatoria se considerará: 
-
-a) Publicidad ilícita. 
-
-b) Publicidad inapropiada. 
-
-c) Publicidad delictiva. 
-
-d) Publicidad engañosa. 
-
-
-Solución: a 
-
-99. En acceso a bienes y servicios ¿se puede indagar sobre el embarazo? 
-
-a) No, en ningún caso. 
-
-b) Solo por razones de protección de la salud de la mujer. 
-
-c) Sí, en cualquier caso. 
-
-d) Sí, en estado avanzado. 
+d) 7 títulos, 5 adicionales, 2 transitorias... 
 
 
 Solución: b 
 
-100. La integración voluntaria por empresas de preocupaciones sociales es: 
+54. La Ley 4/2016 tiene por objeto regular e impulsar: 
 
-a) Integración empresarial positiva. 
+a) Principios para código de buen gobierno. 
 
-b) Responsabilidad social de las empresas. 
+b) Régimen de garantías y responsabilidades. 
 
-c) Compromiso de presencia equilibrada. 
+c) Transparencia y publicidad activa. 
 
-d) Empresa con distintivo de igualdad. 
-
-
-Solución: b 
-
-101. El principal fin de la Ley 12/2010 de CLM es alcanzar la igualdad: 
-
-a) Máxima. 
-
-b) Laboral. 
-
-c) Jurídica. 
-
-d) Real. 
+d) Todas las respuestas son correctas. 
 
 
 Solución: d 
 
-102. Representación equilibrada en candidaturas a Cortes Regionales: 
+55. ¿Qué Directiva impone la obligación de autorizar la reutilización de documentos? 
 
-a) Que no superen el 60 % ni sean menos del 40 %. 
+a) Directiva 2015/77/UE. 
 
-b) Mismo número de hombres que mujeres. 
+b) Directiva 2014/J 2/UE. 
 
-c) Alternancia de sexos en puestos pares e impares. 
+c) La Directiva 2013/37/UE, de 26 de junio de 2013. 
 
-d) Alternancia de sexo del cabeza de lista. 
+d) Directiva 2003/98/CE. 
 
 
 Solución: c 
 
-103. Informe de impacto de género a Ley de Presupuestos de CLM por: 
+56. ¿En qué artículos de la Carta de Derechos Fundamentales UE se reconoce buena administración y acceso? 
 
-a) La Comisión de Igualdad. 
+a) En los artículos 41 y 42. 
 
-b) Consejería de Hacienda. 
+b) En los artículos 47 y 48. 
 
-c) Consejería de Servicios Sociales. 
+c) En los artículos 55 y 56. 
 
-d) Instituto de la Mujer de CLM. 
-
-
-Solución: a 
-
-104. Comunicación institucional en CLM evitará una imagen: 
-
-a) Discriminatoria. 
-
-b) Denigrante. 
-
-c) Sexista. 
-
-d) Estereotipada. 
-
-
-Solución: d 
-
-105. Aprueba el Plan Estratégico para la Igualdad en CLM: 
-
-a) El Consejo de Gobierno. 
-
-b) Instituto de la Mujer de CLM. 
-
-c) Las Cortes de CLM. 
-
-d) La Comisión de Igualdad. 
+d) En los artículos 74 y 75. 
 
 
 Solución: a 
 
-106. Fomento de tareas domésticas compartidas se denomina: 
+57. ¿Qué ley reconoció la necesidad de un punto de acceso general sencillo? 
 
-a) Conciliación. 
+a) La Ley 11/2007, de 22 de junio, de acceso electrónico. 
 
-b) Corresponsabilidad. 
+b) La Ley 30/1992. 
 
-c) Representatividad. 
+c) La Ley 38/1995. 
 
-d) Equiparación. 
-
-
-Solución: b 
-
-107. Derecho de víctimas de violencia en adjudicación de viviendas CLM: 
-
-a) Inalienable. 
-
-b) Irrenunciable. 
-
-c) Preferente. 
-
-d) Imprescriptible. 
+d) La Ley 37/2007. 
 
 
-Solución: c 
-
-108. Mujeres jóvenes de Castilla-La Mancha son las menores de: 
-
-a) 25 años. 
-
-b) 30 años. 
-
-c) 35 años. 
-
-d) 40 años. 
-
-
-Solución: b 
-
-109. Informe sobre la aplicación de la Ley 12/2010 se elabora cada: 
-
-a) Mes. 
-
-b) Año. 
-
-c) 2 años. 
-
-d) 3 años. 
-
-
-Solución: d 
-
-110. Institución garante de igualdad en administraciones de CLM: 
-
-a) El Defensor del Pueblo. 
-
-b) Instituto de la Mujer de CLM. 
-
-c) La Comisión de Igualdad. 
-
-d) Unidad de Igualdad de Género. 
-
-
-Solución: a 
-
-111. Coordinar actuaciones sobre violencia contra la mujer corresponde: 
-
-a) Ministerio de Sanidad. 
-
-b) Observatorio Estatal de Violencia. 
-
-c) Delegación Especial del Gobierno contra la Violencia. 
-
-d) Ministerio del Interior. 
-
-
-Solución: c 
-
-112. Educación Infantil contribuirá a desarrollar en la infancia: 
-
-a) Respeto igualdad entre sexos. 
-
-b) El aprendizaje en la resolución pacífica de conflictos. 
-
-c) Capacidad valorar igualdad oportunidades. 
-
-d) Analizar críticamente desigualdades. 
-
-
-Solución: b 
-
-113. Ayuda de pago único a víctimas con dificultades de empleo equivale: 
-
-a) 3 meses subsidio desempleo. 
-
-b) 6 meses de subsidio por desempleo. 
-
-c) 9 meses de subsidio por desempleo. 
-
-d) 12 meses subsidio desempleo. 
-
-
-Solución: b
+Solución: a
