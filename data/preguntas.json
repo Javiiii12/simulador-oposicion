@@ -1198,136 +1198,6 @@
     "explicacion": ""
   },
   {
-    "id": 1,
-    "tema": "Tema 1",
-    "pregunta": "¿En qué se fundamenta la Constitución Española?",
-    "opciones": {
-      "a": "En un Estado social y democrático de Derecho.",
-      "b": "En la indisoluble unidad de la Nación española.",
-      "c": "En la independencia de los poderes del Estado.",
-      "d": "En la organización territorial del Estado."
-    },
-    "correcta": "b",
-    "explicacion": ""
-  },
-  {
-    "id": 2,
-    "tema": "Tema 1",
-    "pregunta": "Según el artículo 3 de la CE, el castellano es la lengua oficial del Estado y todos los españoles:",
-    "opciones": {
-      "a": "Tienen el deber de usar y el derecho de conocer el castellano.",
-      "b": "Tienen el derecho y el deber de conocer el castellano.",
-      "c": "Tienen el deber de conocerla y el derecho a usarla.",
-      "d": "Tienen el derecho de conocer y usar el castellano."
-    },
-    "correcta": "c",
-    "explicacion": ""
-  },
-  {
-    "id": 3,
-    "tema": "Tema 1",
-    "pregunta": "La Constitución Española reconoce y garantiza el derecho a la autonomía:",
-    "opciones": {
-      "a": "De las nacionalidades que la integran.",
-      "b": "De las regiones que la integran.",
-      "c": "De las Comunidades Autónomas que la integran.",
-      "d": "De las nacionalidades y regiones que la integran."
-    },
-    "correcta": "d",
-    "explicacion": ""
-  },
-  {
-    "id": 4,
-    "tema": "Tema 1",
-    "pregunta": "El Preámbulo de la Constitución:",
-    "opciones": {
-      "a": "Tiene en sí carácter de norma jurídica.",
-      "b": "Es una declaración de intenciones, destinada a interpretar lo que se quiere alcanzar con el contenido normativo de la Constitución.",
-      "c": "Se trata de un texto sin fuerza jurídica de obligar.",
-      "d": "Las respuestas b) y c) son correctas."
-    },
-    "correcta": "d",
-    "explicacion": ""
-  },
-  {
-    "id": 5,
-    "tema": "Tema 1",
-    "pregunta": "Señala la afirmación correcta, respecto de la aprobación, ratificación y publicación de la Constitución Española:",
-    "opciones": {
-      "a": "Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en referéndum el 6 de diciembre de 1978 y publicada el 29 de diciembre de 1978.",
-      "b": "Aprobada por las Cortes el 30 de octubre de 1978, ratificada por el pueblo el 6 de diciembre de 1978 y publicada el 27 de diciembre de 1978.",
-      "c": "Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo el 16 de diciembre de 1978 y publicada el 29 de diciembre de 1978.",
-      "d": "Aprobada por las Cortes el 10 de octubre de 1978, ratificada por el pueblo el 26 de diciembre de 1978 y publicada el 30 de diciembre de 1978."
-    },
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 6,
-    "tema": "Tema 1",
-    "pregunta": "¿En qué parte de la Carta Magna se establece la exposición de motivos y los objetivos que con ella se pretenden alcanzar?",
-    "opciones": {
-      "a": "En el Título preliminar.",
-      "b": "En el Preámbulo.",
-      "c": "En el Título I.",
-      "d": "En el Título II."
-    },
-    "correcta": "b",
-    "explicacion": ""
-  },
-  {
-    "id": 7,
-    "tema": "Tema 1",
-    "pregunta": "La Constitución Española fue sancionada por:",
-    "opciones": {
-      "a": "El Rey.",
-      "b": "El Presidente del Congreso.",
-      "c": "Las Cortes Generales.",
-      "d": "El Presidente del Gobierno."
-    },
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 8,
-    "tema": "Tema 1",
-    "pregunta": "¿Cuáles de los siguientes españoles de origen pueden ser privados de su nacionalidad?",
-    "opciones": {
-      "a": "Exclusivamente los miembros de grupos terroristas.",
-      "b": "Los miembros de grupos terroristas y los que atenten contra el Rey.",
-      "c": "Los que atenten contra un miembro de la Familia Real o del Gobierno.",
-      "d": "Ningún español de origen podrá ser privado de su nacionalidad."
-    },
-    "correcta": "d",
-    "explicacion": ""
-  },
-  {
-    "id": 9,
-    "tema": "Tema 1",
-    "pregunta": "Según la CE son fundamentos del orden político y la paz social:",
-    "opciones": {
-      "a": "La dignidad de la persona, los derechos violables y el respeto a la ley.",
-      "b": "La dignidad de la persona, el desarrollo limitado de la personalidad y el respeto a la ley.",
-      "c": "El respeto a la ley, a los reglamentos y demás disposiciones.",
-      "d": "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de su personalidad, el respeto a la ley y a los derechos de los demás."
-    },
-    "correcta": "d",
-    "explicacion": ""
-  },
-  {
-    "id": 10,
-    "tema": "Tema 1",
-    "pregunta": "¿Cuál de los siguientes es considerado por la CE como uno de los valores superiores del ordenamiento jurídico?",
-    "opciones": {
-      "a": "La jerarquía normativa.",
-      "b": "El pluralismo político.",
-      "c": "La publicidad normativa.",
-      "d": "La equidad."
-    },
-    "correcta": "b",
-    "explicacion": ""
-  },
-  {
     "id": 81,
     "tema": "Tema 5",
     "pregunta": "La ley que regula a nivel estatal la igualdad efectiva de mujeres y hombres es:",
@@ -1388,6 +1258,1448 @@
       "b": "Al de 6 meses de subsidio por desempleo.",
       "c": "Al de 9 meses de subsidio por desempleo.",
       "d": "Al de 12 meses de subsidio por desempleo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 1",
+    "pregunta": "¿En qué se fundamenta la Constitución Española?",
+    "opciones": {
+      "a": "En un Estado social y democrático de Derecho.",
+      "b": "En la indisoluble unidad de la Nación española.",
+      "c": "En la independencia de los poderes del Estado.",
+      "d": "En la organización territorial del Estado."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 1",
+    "pregunta": "Según el artículo 3 de la CE, el castellano es la lengua oficial del Estado y todos los españoles:",
+    "opciones": {
+      "a": "Tienen el deber de usar y el derecho de conocer el castellano.",
+      "b": "Tienen el derecho y el deber de conocer el castellano.",
+      "c": "Tienen el deber de conocer y el derecho de usar el castellano.",
+      "d": "Tienen el derecho de conocer y usar el castellano."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 1",
+    "pregunta": "La Constitución Española reconoce y garantiza el derecho a la autonomía:",
+    "opciones": {
+      "a": "De las nacionalidades que la integran.",
+      "b": "De las regiones que la integran.",
+      "c": "De las Comunidades Autónomas que la integran.",
+      "d": "De las nacionalidades y regiones que la integran."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 1",
+    "pregunta": "El Preámbulo de la Constitución:",
+    "opciones": {
+      "a": "Tiene en sí carácter de norma jurídica.",
+      "b": "Es una declaración de intenciones, destinada a interpretar lo que se quiere alcanzar con el contenido normativo de la Constitución.",
+      "c": "Se trata de un texto sin fuerza jurídica de obligar.",
+      "d": "Las respuestas b) y c) son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 1",
+    "pregunta": "Señala la afirmación correcta, respecto de la aprobación, ratificación y publicación de la Constitución Española:",
+    "opciones": {
+      "a": "Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en referéndum el 6 de diciembre de 1978 y publicada el 29 de diciembre de 1978.",
+      "b": "Aprobada por las Cortes el 30 de octubre de 1978, ratificada por el pueblo en referéndum el 6 de diciembre de 1978 y publicada el 27 de diciembre de 1978.",
+      "c": "Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en referéndum el 16 de diciembre de 1978 y publicada el 29 de diciembre de 1978.",
+      "d": "Aprobada por las Cortes el 10 de octubre de 1978, ratificada por el pueblo en referéndum el 26 de diciembre de 1978 y publicada el 30 de diciembre de 1978."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 1",
+    "pregunta": "¿En qué parte de la Carta Magna se establece la exposición de motivos que impulsan la norma constitucional y los objetivos que con ella se pretenden alcanzar?",
+    "opciones": {
+      "a": "En el Título preliminar.",
+      "b": "En el Preámbulo.",
+      "c": "En el Título I.",
+      "d": "En el Título II."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 1",
+    "pregunta": "La Constitución Española fue sancionada por:",
+    "opciones": {
+      "a": "El Rey.",
+      "b": "El Presidente del Congreso.",
+      "c": "Las Cortes Generales.",
+      "d": "El Presidente del Gobierno."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 1",
+    "pregunta": "¿Cuáles de los siguientes españoles de origen pueden ser privados de su nacionalidad?",
+    "opciones": {
+      "a": "Exclusivamente los miembros de grupos terroristas.",
+      "b": "Los miembros de grupos terroristas y los que atenten contra el Rey u otro miembro de la Casa Real.",
+      "c": "Los que atenten contra un miembro de la Familia Real o del Gobierno de la Nación.",
+      "d": "Ningún español de origen podrá ser privado de su nacionalidad."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 1",
+    "pregunta": "Según la CE son fundamentos del orden político y la paz social:",
+    "opciones": {
+      "a": "La dignidad de la persona, los derechos violables que les son inherentes y el respeto a la ley.",
+      "b": "La dignidad de la persona, el desarrollo limitado de la personalidad y el respeto a la ley.",
+      "c": "El respeto a la ley, a los reglamentos administrativos y demás disposiciones legales.",
+      "d": "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de su personalidad, el respeto a la ley y a los derechos de los demás."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 1",
+    "pregunta": "¿Cuál de los siguientes es considerado por la CE como uno de los valores superiores del ordenamiento jurídico?",
+    "opciones": {
+      "a": "La jerarquía normativa.",
+      "b": "El pluralismo político.",
+      "c": "La publicidad normativa.",
+      "d": "La equidad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 1",
+    "pregunta": "La forma política del Estado español es:",
+    "opciones": {
+      "a": "Democracia parlamentaria.",
+      "b": "Gobierno parlamentario.",
+      "c": "Monarquía parlamentaria.",
+      "d": "República democrática."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 1",
+    "pregunta": "La parte de la CE que regula la estructura de los principales órganos del Estado recibe el nombre de:",
+    "opciones": {
+      "a": "Parte dogmática.",
+      "b": "Parte orgánica.",
+      "c": "Parte estatal.",
+      "d": "Parte estructural."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 1",
+    "pregunta": "Según la CE, la soberanía nacional:",
+    "opciones": {
+      "a": "Corresponde a las Cortes Generales, al estar compuestas por los representantes del pueblo.",
+      "b": "Corresponde al Rey.",
+      "c": "Reside en el pueblo español.",
+      "d": "Corresponde al Gobierno de la Nación elegido directamente por el pueblo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 1",
+    "pregunta": "El derecho a la propiedad en nuestra Constitución es un Derecho:",
+    "opciones": {
+      "a": "Inherente a la condición humana.",
+      "b": "Absoluto.",
+      "c": "Limitado por la función social de la misma.",
+      "d": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 1",
+    "pregunta": "¿En qué parte de la Carta Magna se señalan los valores superiores del ordenamiento jurídico?",
+    "opciones": {
+      "a": "En el Preámbulo.",
+      "b": "En el Título Preliminar.",
+      "c": "En el Título I.",
+      "d": "Ninguna respuesta es correcta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 1",
+    "pregunta": "¿Cuál de las siguientes es una de las características de nuestra Constitución de 1978?",
+    "opciones": {
+      "a": "Consensuada.",
+      "b": "Corta.",
+      "c": "Conservadora.",
+      "d": "Originalidad."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 1",
+    "pregunta": "Son el fundamento del orden político y de la paz social:",
+    "opciones": {
+      "a": "El libre desarrollo de la personalidad.",
+      "b": "Los derechos inviolables que les son inherentes.",
+      "c": "El respeto a la ley y a los derechos de los demás.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 1",
+    "pregunta": "¿Qué quedará excluido de extradición?",
+    "opciones": {
+      "a": "Los delitos criminales.",
+      "b": "Los delitos políticos.",
+      "c": "Los actos de terrorismo.",
+      "d": "Ninguno."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 1",
+    "pregunta": "¿Qué debe ser democrático en los sindicatos de trabajadores y las asociaciones empresariales?",
+    "opciones": {
+      "a": "Su funcionamiento.",
+      "b": "Su estructura interna.",
+      "c": "Su funcionamiento y estructura interna.",
+      "d": "Sus órganos asamblearios."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 1",
+    "pregunta": "¿De cuántos Capítulos consta el Título I de la CE de 1978?",
+    "opciones": {
+      "a": "De tres.",
+      "b": "De cinco.",
+      "c": "De dos.",
+      "d": "De cuatro."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 1",
+    "pregunta": "El sistema tributario justo se inspira en los principios de:",
+    "opciones": {
+      "a": "Legalidad y equidad.",
+      "b": "Igualdad y progresividad.",
+      "c": "Publicidad y legalidad.",
+      "d": "Eficacia y sostenibilidad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 1",
+    "pregunta": "Las primeras elecciones democráticas celebradas en España tras la muerte de Franco tuvieron lugar en:",
+    "opciones": {
+      "a": "1975.",
+      "b": "1976.",
+      "c": "1977.",
+      "d": "1978."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 1",
+    "pregunta": "El referéndum en el que se aprobó popularmente la Constitución se llevó a efecto el:",
+    "opciones": {
+      "a": "27 de diciembre de 1978.",
+      "b": "6 de diciembre de 1978.",
+      "c": "31 de octubre de 1978.",
+      "d": "29 de diciembre de 1979."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 1",
+    "pregunta": "La ponencia encargada de redactar el borrador de la Constitución se constituyó en el:",
+    "opciones": {
+      "a": "Senado.",
+      "b": "Senado y Congreso de los Diputados.",
+      "c": "Congreso de los Diputados.",
+      "d": "Gobierno de la Nación."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 1",
+    "pregunta": "Si un poder público, en su actuación, infringe lo dispuesto en el Preámbulo de la Constitución:",
+    "opciones": {
+      "a": "Incurre en nulidad.",
+      "b": "Incurre en inconstitucionalidad.",
+      "c": "No pasa nada salvo que se infrinja un artículo de la propia Constitución.",
+      "d": "Nada de lo anterior es cierto."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 1",
+    "pregunta": "El principio en virtud del cual el ciudadano está amparado por una legislación no sujeta a continuos vaivenes es el de:",
+    "opciones": {
+      "a": "Legalidad.",
+      "b": "Publicidad normativa.",
+      "c": "Seguridad jurídica.",
+      "d": "Jerarquía normativa."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 1",
+    "pregunta": "El principio en virtud del cual un Reglamento no puede contradecir una ley es el de:",
+    "opciones": {
+      "a": "Legalidad.",
+      "b": "Jerarquía normativa.",
+      "c": "Las respuestas a) y b) son correctas.",
+      "d": "Seguridad jurídica."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 1",
+    "pregunta": "Según la Constitución, una norma que imponga una nueva pena más leve para un delito:",
+    "opciones": {
+      "a": "No se aplica retroactivamente.",
+      "b": "Puede aplicarse retroactivamente.",
+      "c": "Ha de ser reglamentaria.",
+      "d": "Atenta contra el principio de legalidad penal si se aplica retroactivamente."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 1",
+    "pregunta": "Todos los españoles, respecto al castellano, tienen el:",
+    "opciones": {
+      "a": "Derecho-deber de conocerlo.",
+      "b": "Derecho de usar y deber de conocerlo.",
+      "c": "Derecho-deber de usarlo.",
+      "d": "Nada de lo anterior."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 1",
+    "pregunta": "La capital del Estado en España es:",
+    "opciones": {
+      "a": "La propia de cada Comunidad Autónoma.",
+      "b": "La villa de Madrid.",
+      "c": "Aquella donde se establezca el Gobierno de la Nación.",
+      "d": "Aquella en la que resida generalmente el Rey."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 31,
+    "tema": "Tema 1",
+    "pregunta": "El Título de la Constitución que trata de la reforma constitucional es el:",
+    "opciones": {
+      "a": "Primero.",
+      "b": "Décimo.",
+      "c": "Noveno.",
+      "d": "Undécimo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 32,
+    "tema": "Tema 1",
+    "pregunta": "El Defensor del Pueblo se regula en el siguiente Título y Capítulo:",
+    "opciones": {
+      "a": "Preliminar y 1.º",
+      "b": "Segundo y 4.º",
+      "c": "Segundo y 3.º",
+      "d": "Primero y 4.º"
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 1",
+    "pregunta": "El Título que trata del Gobierno y la Administración es el:",
+    "opciones": {
+      "a": "Tercero.",
+      "b": "Cuarto.",
+      "c": "Quinto.",
+      "d": "Sexto."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 34,
+    "tema": "Tema 1",
+    "pregunta": "Los principios rectores de la política social y económica se regulan en el:",
+    "opciones": {
+      "a": "Segundo del Primero.",
+      "b": "Tercero del Primero.",
+      "c": "Tercero del Preliminar.",
+      "d": "Primero del Séptimo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 35,
+    "tema": "Tema 1",
+    "pregunta": "La derogación de una norma preconstitucional contraria a la Constitución se efectúa por:",
+    "opciones": {
+      "a": "Propia Constitución.",
+      "b": "Tribunal Constitucional.",
+      "c": "Cortes Generales.",
+      "d": "Gobierno de la Nación."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 36,
+    "tema": "Tema 1",
+    "pregunta": "El pluralismo político, para nuestra Constitución, es un/una:",
+    "opciones": {
+      "a": "Principio General del ordenamiento político.",
+      "b": "Valor superior del ordenamiento jurídico.",
+      "c": "Principio rector de la política social y económica.",
+      "d": "Derecho fundamental."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 37,
+    "tema": "Tema 1",
+    "pregunta": "La forma política del Estado español es:",
+    "opciones": {
+      "a": "Unitaria y regionalizada.",
+      "b": "Federal.",
+      "c": "La Monarquía Parlamentaria.",
+      "d": "La propia de un Estado Social y Democrático."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 38,
+    "tema": "Tema 1",
+    "pregunta": "La justicia, según nuestra Constitución, es un/una:",
+    "opciones": {
+      "a": "Principio de nuestro ordenamiento jurídico.",
+      "b": "Valor superior del anterior.",
+      "c": "Manifestación del Estado democrático.",
+      "d": "Todo lo anterior."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 39,
+    "tema": "Tema 1",
+    "pregunta": "Un español de origen puede perder esta nacionalidad:",
+    "opciones": {
+      "a": "Por sanción administrativa.",
+      "b": "Cuando libremente renuncie a la misma.",
+      "c": "Por condena penal.",
+      "d": "En ningún caso."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 40,
+    "tema": "Tema 1",
+    "pregunta": "Constituye el fundamento del orden público y de la paz social:",
+    "opciones": {
+      "a": "Derechos inviolables inherentes a la persona.",
+      "b": "Estado social y democrático de Derecho.",
+      "c": "Seguridad jurídica.",
+      "d": "Justicia."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 41,
+    "tema": "Tema 1",
+    "pregunta": "Las Comunidades Autónomas deben usar o instalar la bandera española:",
+    "opciones": {
+      "a": "En sus edificios.",
+      "b": "En los actos oficiales.",
+      "c": "Cuando lo solicite el Delegado del Gobierno.",
+      "d": "Cuando lo estimen oportuno."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 42,
+    "tema": "Tema 1",
+    "pregunta": "Deben tener una estructura interna y un funcionamiento democrático los/las:",
+    "opciones": {
+      "a": "Partidos Políticos.",
+      "b": "Colegios Profesionales.",
+      "c": "Organizaciones Profesionales.",
+      "d": "Todos ellos."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 43,
+    "tema": "Tema 1",
+    "pregunta": "La defensa de la integridad territorial de España se atribuye a:",
+    "opciones": {
+      "a": "Fuerzas y Cuerpos de Seguridad.",
+      "b": "Fuerzas Armadas.",
+      "c": "Gobierno de la Nación.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 44,
+    "tema": "Tema 1",
+    "pregunta": "El Título de la Constitución que trata de las relaciones entre el Gobierno y las Cortes Generales es el:",
+    "opciones": {
+      "a": "Cuarto.",
+      "b": "Quinto.",
+      "c": "Sexto.",
+      "d": "Tercero."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 45,
+    "tema": "Tema 1",
+    "pregunta": "La Constitución entró en vigor:",
+    "opciones": {
+      "a": "Al día siguiente de su publicación en el BOE.",
+      "b": "El 27 de diciembre de 1978.",
+      "c": "El 29 de diciembre de 1978.",
+      "d": "Al ser aprobada en sesión conjunta por el Congreso y el Senado."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 46,
+    "tema": "Tema 1",
+    "pregunta": "¿En qué artículos de nuestra CE se recogen los derechos fundamentales y las libertades públicas?",
+    "opciones": {
+      "a": "En los artículos 10 a 43.",
+      "b": "En los artículos 25 a 38.",
+      "c": "En los artículos 31 a 45.",
+      "d": "En los artículos 15 a 29."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 47,
+    "tema": "Tema 1",
+    "pregunta": "Además de en la vida económica y política, los poderes públicos deben fomentar la participación de los ciudadanos en la vida:",
+    "opciones": {
+      "a": "Cultural.",
+      "b": "Social.",
+      "d": "Las respuestas a) y b) son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 48,
+    "tema": "Tema 1",
+    "pregunta": "Según la Constitución, el Estado es:",
+    "opciones": {
+      "a": "Apolítico.",
+      "b": "Aconfesional.",
+      "c": "De bienestar social.",
+      "d": "Federal."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 49,
+    "tema": "Tema 1",
+    "pregunta": "El derecho a la vida se consagra en el siguiente artículo de la Constitución:",
+    "opciones": {
+      "a": "10.",
+      "b": "16.",
+      "c": "15.",
+      "d": "24."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 50,
+    "tema": "Tema 1",
+    "pregunta": "La pena de muerte en España:",
+    "opciones": {
+      "a": "Ha quedado abolida.",
+      "b": "Puede aplicarse en cualquier momento.",
+      "c": "Solo se aplicará en tiempo de guerra a los militares.",
+      "d": "Rige solo en el ámbito civil."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 51,
+    "tema": "Tema 1",
+    "pregunta": "La inmediata puesta a disposición judicial derivada del habeas corpus se produce por:",
+    "opciones": {
+      "a": "Detención ilegal.",
+      "b": "Prisión ilegal.",
+      "c": "Prisión preventiva.",
+      "d": "Detención preventiva."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 52,
+    "tema": "Tema 1",
+    "pregunta": "El proceso en el que se enjuicie a un presunto delincuente debe:",
+    "opciones": {
+      "a": "Ser sumario.",
+      "b": "No dilatarse.",
+      "c": "Entorpecer los instrumentos probatorios.",
+      "d": "Nada de lo anterior es cierto."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 53,
+    "tema": "Tema 1",
+    "pregunta": "La entrada en un domicilio en caso de flagrante delito, sin autorización:",
+    "opciones": {
+      "a": "Puede dar lugar a la aplicación del habeas corpus.",
+      "b": "Requiere autorización previa de la autoridad judicial.",
+      "c": "Puede efectuarse en todo momento.",
+      "d": "No puede realizarse en momento alguno."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 54,
+    "tema": "Tema 1",
+    "pregunta": "Cuando se acude a un domicilio para detener a una persona:",
+    "opciones": {
+      "a": "Está obligada a franquear la entrada.",
+      "b": "Se necesitará autorización judicial si no da su consentimiento.",
+      "c": "Pese a que no dé su consentimiento, se puede entrar.",
+      "d": "Nada de lo anterior es correcto."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 55,
+    "tema": "Tema 1",
+    "pregunta": "La autorización previa para celebrar una manifestación pública:",
+    "opciones": {
+      "a": "La da el Subdelegado del Gobierno en la Provincia.",
+      "b": "Es ineludible.",
+      "c": "Sería inconstitucional.",
+      "d": "Se da cuando no se prevean alteraciones al orden público."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 56,
+    "tema": "Tema 1",
+    "pregunta": "El tipo de sufragio que consagra la Constitución es el:",
+    "opciones": {
+      "a": "Proporcional.",
+      "b": "Universal.",
+      "c": "Censitario.",
+      "d": "Las respuestas a) y b) son correctas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 57,
+    "tema": "Tema 1",
+    "pregunta": "Además de la no autoinculpación, la Constitución prevé que no se está obligado a declarar sobre un hecho presuntamente delictivo en caso de:",
+    "opciones": {
+      "a": "Parentesco y afinidad.",
+      "b": "Cláusula de conciencia.",
+      "c": "Secreto profesional.",
+      "d": "Las respuestas a) y b) son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 58,
+    "tema": "Tema 1",
+    "pregunta": "Los Tribunales de Honor están prohibidos respecto de los/la/las:",
+    "opciones": {
+      "a": "Sindicatos y Organizaciones Profesionales.",
+      "b": "Administración Civil y Militar.",
+      "c": "Organizaciones Profesionales y la Administración Civil.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 59,
+    "tema": "Tema 1",
+    "pregunta": "El secreto profesional, constitucionalmente, sirve para:",
+    "opciones": {
+      "a": "Ejercer con libertad una profesión titulada.",
+      "b": "La libertad de creación científica y técnica.",
+      "c": "No declarar sobre hechos presuntamente delictivos.",
+      "d": "Todo lo anterior."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 60,
+    "tema": "Tema 1",
+    "pregunta": "La fundación de una Internacional Sindical por un sindicato español:",
+    "opciones": {
+      "a": "Es libre.",
+      "b": "Está prohibida.",
+      "c": "Debe plasmarse en un Tratado Internacional.",
+      "d": "Nada de lo anterior es cierto."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 61,
+    "tema": "Tema 1",
+    "pregunta": "El ejercicio del derecho de petición a través de una manifestación ciudadana:",
+    "opciones": {
+      "a": "No se admite.",
+      "b": "Se admite en algún caso.",
+      "c": "Se admite, salvo para los militares.",
+      "d": "Ni se admite ni se prohíbe."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 62,
+    "tema": "Tema 1",
+    "pregunta": "Nuestra Constitución trata de los derechos y deberes fundamentales en su Título I, denominado:",
+    "opciones": {
+      "a": "De los derechos y deberes fundamentales.",
+      "b": "De los deberes de los españoles.",
+      "c": "De los derechos de los españoles.",
+      "d": "De los derechos y deberes principales de los españoles."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 63,
+    "tema": "Tema 1",
+    "pregunta": "Las Fundaciones son:",
+    "opciones": {
+      "a": "Entidades constituidas para fines de interés general.",
+      "b": "Administración Corporativa.",
+      "c": "Entidades privadas con fines de carácter privado.",
+      "d": "Asociaciones de personas para fines de interés general."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 64,
+    "tema": "Tema 1",
+    "pregunta": "La asistencia de todo orden a los hijos habidos extraconyugalmente:",
+    "opciones": {
+      "a": "No está prevista en la Constitución.",
+      "b": "Es un deber de los padres.",
+      "c": "Se dispensará por Instituciones de Beneficencia.",
+      "d": "Se dispensa solo a los que tengan discapacidad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 65,
+    "tema": "Tema 1",
+    "pregunta": "La especulación urbanística, según la Constitución:",
+    "opciones": {
+      "a": "Debe evitarse.",
+      "b": "Está permitida.",
+      "c": "Genera plusvalías para la colectividad.",
+      "d": "Pueden hacerla los poderes públicos."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 66,
+    "tema": "Tema 1",
+    "pregunta": "No es susceptible de recurso de amparo el derecho a la/de:",
+    "opciones": {
+      "a": "Sindicación.",
+      "b": "Investigación científica.",
+      "c": "Secreto de las comunicaciones.",
+      "d": "Lo son todos ellos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 67,
+    "tema": "Tema 1",
+    "pregunta": "Tampoco lo es el derecho de:",
+    "opciones": {
+      "a": "Libertad de cátedra.",
+      "b": "Negociación colectiva.",
+      "c": "Manifestación.",
+      "d": "Huelga."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 68,
+    "tema": "Tema 1",
+    "pregunta": "Y sí lo está el derecho de/a la:",
+    "opciones": {
+      "a": "Libre sindicación.",
+      "b": "Petición.",
+      "c": "Cláusula de conciencia.",
+      "d": "Lo están todos ellos."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 69,
+    "tema": "Tema 1",
+    "pregunta": "Una vez declarado el estado de excepción no se puede suspender el derecho/libertad de:",
+    "opciones": {
+      "a": "Huelga.",
+      "b": "Enseñanza.",
+      "c": "Adopción de medidas de conflicto colectivo.",
+      "d": "Libertad de circulación."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 70,
+    "tema": "Tema 1",
+    "pregunta": "Durante el estado de excepción, un detenido conserva el derecho de/a:",
+    "opciones": {
+      "a": "Setenta y dos horas para ser puesto a disposición judicial.",
+      "b": "Secreto de comunicaciones.",
+      "c": "Asistencia de Letrado.",
+      "d": "Ninguno de ellos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 71,
+    "tema": "Tema 1",
+    "pregunta": "Se puede suspender, por investigaciones de bandas armadas, el derecho de:",
+    "opciones": {
+      "a": "Huelga.",
+      "b": "Inviolabilidad del domicilio.",
+      "c": "Libertad de circulación.",
+      "d": "Las respuestas b) y c) son correctas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 72,
+    "tema": "Tema 1",
+    "pregunta": "¿En qué fecha aprobaron las Cortes Generales la Constitución Española?",
+    "opciones": {
+      "a": "El 31 de octubre de 1978.",
+      "b": "El 6 de diciembre de 1978.",
+      "c": "El 27 de diciembre de 1978.",
+      "d": "El 29 de diciembre de 1978."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 73,
+    "tema": "Tema 1",
+    "pregunta": "¿Cuál de las siguientes no es una característica de la Carta Magna?",
+    "opciones": {
+      "a": "Su rigidez.",
+      "b": "El establecimiento de la monarquía hereditaria.",
+      "c": "Su codificación en un solo texto.",
+      "d": "Su extensión."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 74,
+    "tema": "Tema 1",
+    "pregunta": "¿De cuántos artículos consta la Constitución Española de 1978?",
+    "opciones": {
+      "a": "De 154.",
+      "b": "De 163.",
+      "c": "De 169.",
+      "d": "De 171."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 75,
+    "tema": "Tema 1",
+    "pregunta": "¿Cuál no es uno de los valores superiores de nuestro ordenamiento?",
+    "opciones": {
+      "a": "El pluralismo político.",
+      "b": "La solidaridad.",
+      "c": "La libertad.",
+      "d": "La igualdad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 76,
+    "tema": "Tema 1",
+    "pregunta": "A tenor del artículo 11, los españoles de origen podrán ser privados de su nacionalidad:",
+    "opciones": {
+      "a": "Cuando así lo determinen las leyes.",
+      "b": "Cuando entren al servicio de las armas en el extranjero.",
+      "c": "Cuando lo apruebe el Consejo de Ministros.",
+      "d": "En ningún caso."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 77,
+    "tema": "Tema 1",
+    "pregunta": "¿En qué Título se recogen las Cortes Generales?",
+    "opciones": {
+      "a": "En el Título II.",
+      "b": "En el Título III.",
+      "c": "En el Título IV.",
+      "d": "En el Título VI."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 78,
+    "tema": "Tema 1",
+    "pregunta": "Según la Disposición Final, la Constitución entrará en vigor:",
+    "opciones": {
+      "a": "Al día siguiente de su publicación en el BOE.",
+      "b": "A los veinte días de la publicación.",
+      "c": "El mismo día de la publicación de su texto oficial.",
+      "d": "Al año de la publicación."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 81,
+    "tema": "Tema 1",
+    "pregunta": "La ley que regula la igualdad efectiva de mujeres y hombres es:",
+    "opciones": {
+      "a": "La Ley 3/2007, de 12 de marzo.",
+      "b": "La Ley Orgánica 22/2007, de 3 de abril.",
+      "c": "La Ley Orgánica 3/2007, de 22 de marzo.",
+      "d": "El Decreto Legislativo 7/2003, de 23 de mayo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 82,
+    "tema": "Tema 1",
+    "pregunta": "¿Qué título de la Ley se refiere a las políticas públicas para la igualdad?",
+    "opciones": {
+      "a": "El Título II.",
+      "b": "El Título III.",
+      "c": "El Título IV.",
+      "d": "El Título V."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 83,
+    "tema": "Tema 1",
+    "pregunta": "Las obligaciones de esta Ley son de aplicación a:",
+    "opciones": {
+      "a": "Toda persona que se encuentre o actúe en territorio español.",
+      "b": "Todos los españoles residentes en España.",
+      "c": "Toda persona de un país adherido a Tratados internacionales.",
+      "d": "Únicamente a todos los españoles."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 84,
+    "tema": "Tema 1",
+    "pregunta": "Todo trato desfavorable relacionado con el embarazo o la maternidad es:",
+    "opciones": {
+      "a": "Acoso sexual.",
+      "b": "Acoso por razón de sexo.",
+      "c": "Discriminación directa por razón de sexo.",
+      "d": "Discriminación indirecta por razón de sexo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 85,
+    "tema": "Tema 1",
+    "pregunta": "Un comportamiento en función del sexo con propósito de atentar contra la dignidad:",
+    "opciones": {
+      "a": "Acoso sexual.",
+      "b": "Acoso por razón de sexo.",
+      "c": "Discriminación directa.",
+      "d": "Discriminación indirecta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 86,
+    "tema": "Tema 1",
+    "pregunta": "Actos y cláusulas de negocios jurídicos que causen discriminación son:",
+    "opciones": {
+      "a": "Válidos si las partes consienten.",
+      "b": "Anulables durante el primer año.",
+      "c": "Nulos con efecto.",
+      "d": "Nulos y sin efecto."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 87,
+    "tema": "Tema 1",
+    "pregunta": "Legitimación para intervenir en procesos civiles sobre igualdad:",
+    "opciones": {
+      "a": "La persona acosada únicamente.",
+      "b": "Cualquier ciudadano.",
+      "c": "Las personas físicas y jurídicas con interés legítimo.",
+      "d": "Cualquier persona jurídica."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 88,
+    "tema": "Tema 1",
+    "pregunta": "El principio de igualdad informará la actuación pública:",
+    "opciones": {
+      "a": "Con carácter transversal.",
+      "b": "De forma equilibrada.",
+      "c": "Solo en casos de especial vulnerabilidad.",
+      "d": "Con carácter no vinculante."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 89,
+    "tema": "Tema 1",
+    "pregunta": "Composición equilibrada es cuando las personas de cada sexo:",
+    "opciones": {
+      "a": "Tengan la misma representación.",
+      "b": "No superen el 60 % ni sean menos del 40 %.",
+      "c": "No superen el 70 % ni sean menos del 30 %.",
+      "d": "No sean menos del 10 %."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 90,
+    "tema": "Tema 1",
+    "pregunta": "Proyectos sometidos al Consejo de Ministros deben incorporar:",
+    "opciones": {
+      "a": "Un Plan Estratégico.",
+      "b": "Una estadística o encuesta.",
+      "c": "Un informe periódico.",
+      "d": "Un informe sobre su impacto por razón de género."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 91,
+    "tema": "Tema 1",
+    "pregunta": "Un conjunto ordenado de medidas tras un diagnóstico se denomina:",
+    "opciones": {
+      "a": "Programas de empleabilidad.",
+      "b": "Medidas de acción positiva.",
+      "c": "Protocolos de actuación.",
+      "d": "Los planes de igualdad de las empresas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 92,
+    "tema": "Tema 1",
+    "pregunta": "¿A partir de cuántos trabajadores es obligatorio el plan de igualdad?",
+    "opciones": {
+      "a": "50 o más trabajadores.",
+      "b": "100 trabajadores.",
+      "c": "150 trabajadores.",
+      "d": "250 trabajadores."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 93,
+    "tema": "Tema 1",
+    "pregunta": "Distintivo para empresas que destacan en igualdad:",
+    "opciones": {
+      "a": "Distintivo “Igualdad en la Empresa”.",
+      "b": "Distintivo “Empresas en Igualdad”.",
+      "c": "Distintivo “Empresa no discriminatoria”.",
+      "d": "Distintivo “Empresa con empleo igualitario”."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 94,
+    "tema": "Tema 1",
+    "pregunta": "¿Por cuánto tiempo se concede dicho distintivo?",
+    "opciones": {
+      "a": "Un año prorrogable.",
+      "b": "Tres años, prorrogables.",
+      "c": "Cuatro años.",
+      "d": "Indefinido."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 95,
+    "tema": "Tema 1",
+    "pregunta": "Mantener el equilibrio en las dimensiones de la vida es:",
+    "opciones": {
+      "a": "Conciliar.",
+      "b": "Igualar.",
+      "c": "Discriminatorio.",
+      "d": "Acoso."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 96,
+    "tema": "Tema 1",
+    "pregunta": "Convocatorias para el acceso al empleo público deberán:",
+    "opciones": {
+      "a": "Asegurar adjudicación por presencia equilibrada.",
+      "b": "Reservar al menos 40 % para cada sexo.",
+      "c": "Acompañarse de un informe de impacto de género.",
+      "d": "Separar las plazas por sexo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 97,
+    "tema": "Tema 1",
+    "pregunta": "Los medios de comunicación promoverán la igualdad mediante:",
+    "opciones": {
+      "a": "Planes de igualdad.",
+      "b": "Realización de estudios.",
+      "c": "Campañas institucionales.",
+      "d": "Acuerdos de autorregulación."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 98,
+    "tema": "Tema 1",
+    "pregunta": "Publicidad que comporte conducta discriminatoria se considerará:",
+    "opciones": {
+      "a": "Publicidad ilícita.",
+      "b": "Publicidad inapropiada.",
+      "c": "Publicidad delictiva.",
+      "d": "Publicidad engañosa."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 99,
+    "tema": "Tema 1",
+    "pregunta": "En acceso a bienes y servicios ¿se puede indagar sobre el embarazo?",
+    "opciones": {
+      "a": "No, en ningún caso.",
+      "b": "Solo por razones de protección de la salud de la mujer.",
+      "c": "Sí, en cualquier caso.",
+      "d": "Sí, en estado avanzado."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 100,
+    "tema": "Tema 1",
+    "pregunta": "La integración voluntaria por empresas de preocupaciones sociales es:",
+    "opciones": {
+      "a": "Integración empresarial positiva.",
+      "b": "Responsabilidad social de las empresas.",
+      "c": "Compromiso de presencia equilibrada.",
+      "d": "Empresa con distintivo de igualdad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 101,
+    "tema": "Tema 1",
+    "pregunta": "El principal fin de la Ley 12/2010 de CLM es alcanzar la igualdad:",
+    "opciones": {
+      "a": "Máxima.",
+      "b": "Laboral.",
+      "c": "Jurídica.",
+      "d": "Real."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 102,
+    "tema": "Tema 1",
+    "pregunta": "Representación equilibrada en candidaturas a Cortes Regionales:",
+    "opciones": {
+      "a": "Que no superen el 60 % ni sean menos del 40 %.",
+      "b": "Mismo número de hombres que mujeres.",
+      "c": "Alternancia de sexos en puestos pares e impares.",
+      "d": "Alternancia de sexo del cabeza de lista."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 103,
+    "tema": "Tema 1",
+    "pregunta": "Informe de impacto de género a Ley de Presupuestos de CLM por:",
+    "opciones": {
+      "a": "La Comisión de Igualdad.",
+      "b": "Consejería de Hacienda.",
+      "c": "Consejería de Servicios Sociales.",
+      "d": "Instituto de la Mujer de CLM."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 104,
+    "tema": "Tema 1",
+    "pregunta": "Comunicación institucional en CLM evitará una imagen:",
+    "opciones": {
+      "a": "Discriminatoria.",
+      "b": "Denigrante.",
+      "c": "Sexista.",
+      "d": "Estereotipada."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 105,
+    "tema": "Tema 1",
+    "pregunta": "Aprueba el Plan Estratégico para la Igualdad en CLM:",
+    "opciones": {
+      "a": "El Consejo de Gobierno.",
+      "b": "Instituto de la Mujer de CLM.",
+      "c": "Las Cortes de CLM.",
+      "d": "La Comisión de Igualdad."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 106,
+    "tema": "Tema 1",
+    "pregunta": "Fomento de tareas domésticas compartidas se denomina:",
+    "opciones": {
+      "a": "Conciliación.",
+      "b": "Corresponsabilidad.",
+      "c": "Representatividad.",
+      "d": "Equiparación."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 107,
+    "tema": "Tema 1",
+    "pregunta": "Derecho de víctimas de violencia en adjudicación de viviendas CLM:",
+    "opciones": {
+      "a": "Inalienable.",
+      "b": "Irrenunciable.",
+      "c": "Preferente.",
+      "d": "Imprescriptible."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 108,
+    "tema": "Tema 1",
+    "pregunta": "Mujeres jóvenes de Castilla-La Mancha son las menores de:",
+    "opciones": {
+      "a": "25 años.",
+      "b": "30 años.",
+      "c": "35 años.",
+      "d": "40 años."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 109,
+    "tema": "Tema 1",
+    "pregunta": "Informe sobre la aplicación de la Ley 12/2010 se elabora cada:",
+    "opciones": {
+      "a": "Mes.",
+      "b": "Año.",
+      "c": "2 años.",
+      "d": "3 años."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 110,
+    "tema": "Tema 1",
+    "pregunta": "Institución garante de igualdad en administraciones de CLM:",
+    "opciones": {
+      "a": "El Defensor del Pueblo.",
+      "b": "Instituto de la Mujer de CLM.",
+      "c": "La Comisión de Igualdad.",
+      "d": "Unidad de Igualdad de Género."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 111,
+    "tema": "Tema 1",
+    "pregunta": "Coordinar actuaciones sobre violencia contra la mujer corresponde:",
+    "opciones": {
+      "a": "Ministerio de Sanidad.",
+      "b": "Observatorio Estatal de Violencia.",
+      "c": "Delegación Especial del Gobierno contra la Violencia.",
+      "d": "Ministerio del Interior."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 112,
+    "tema": "Tema 1",
+    "pregunta": "Educación Infantil contribuirá a desarrollar en la infancia:",
+    "opciones": {
+      "a": "Respeto igualdad entre sexos.",
+      "b": "El aprendizaje en la resolución pacífica de conflictos.",
+      "c": "Capacidad valorar igualdad oportunidades.",
+      "d": "Analizar críticamente desigualdades."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 113,
+    "tema": "Tema 1",
+    "pregunta": "Ayuda de pago único a víctimas con dificultades de empleo equivale:",
+    "opciones": {
+      "a": "3 meses subsidio desempleo.",
+      "b": "6 meses de subsidio por desempleo.",
+      "c": "9 meses de subsidio por desempleo.",
+      "d": "12 meses subsidio desempleo."
     },
     "correcta": "b",
     "explicacion": ""

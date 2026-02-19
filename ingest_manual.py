@@ -21,6 +21,8 @@ def ingest_manual_data():
 
     # Force everything to Tema 1 as requested by User
     current_tema = "Tema 1"
+    current_q = None
+    questions = []
     
     # regex patterns...
     # ...
