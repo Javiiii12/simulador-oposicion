@@ -47,7 +47,7 @@ function setupEventListeners() {
     document.getElementById('btn-back-menu').addEventListener('click', () => showView('roleSelection'));
 
     document.getElementById('btn-mad').addEventListener('click', () => showTopics('MAD'));
-    document.getElementById('btn-csif').addEventListener('click', () => alert("🏥 Test CSIF en proceso de digitalización."));
+    document.getElementById('btn-csif').addEventListener('click', () => showTopics('CSIF'));
     document.getElementById('btn-failures').addEventListener('click', startFailureTest);
     document.getElementById('btn-random').addEventListener('click', showRandomConfig);
     document.getElementById('btn-progress').addEventListener('click', showProgress);
@@ -192,13 +192,29 @@ function showRandomConfig() {
 }
 
 // --- LÓGICA DE TEMAS ---
+// --- LÓGICA DE TEMAS ---
 function showTopics(category) {
-    if (category !== 'MAD') return;
+    // Update Title
+    const titleEl = document.getElementById('topic-title');
+    if (titleEl) titleEl.innerText = `Temas (${category})`;
 
-    const temasRaw = [...new Set(allQuestions.map(q => q.tema))].filter(t => !t.toString().startsWith("Examen"));
+    // Filter questions by Origin
+    // Default to MAD if no origen (backward compatibility, though we patched JSON)
+    const relevantQuestions = allQuestions.filter(q => {
+        if (category === 'MAD') return !q.origen || q.origen === 'MAD';
+        return q.origen === category;
+    });
+
+    if (relevantQuestions.length === 0) {
+        alert(`⚠️ No hay preguntas cargadas para ${category} todavía.`);
+        return;
+    }
+
+    const temasRaw = [...new Set(relevantQuestions.map(q => q.tema))].filter(t => !t.toString().startsWith("Examen"));
     const temas = temasRaw.sort((a, b) => {
-        const numA = parseInt(a.replace("Tema ", "")) || 999;
-        const numB = parseInt(b.replace("Tema ", "")) || 999;
+        // Try numerical sort e.g. "Tema 1", "Tema 10"
+        const numA = parseInt(a.replace(/\D/g, '')) || 999;
+        const numB = parseInt(b.replace(/\D/g, '')) || 999;
         return numA - numB;
     });
 
@@ -208,13 +224,14 @@ function showTopics(category) {
     const generales = [];
     const especificos = [];
 
+    // Simple heuristic: If "Tema X" with X <= 6 -> General. Or assume all CSIF Tema 1 is General?
+    // Let's stick to the numerical logic.
     temas.forEach(tema => {
-        const num = parseInt(tema.replace("Tema ", "")) || 0;
+        const num = parseInt(tema.replace(/\D/g, '')) || 0;
         if (num <= 6) generales.push(tema);
         else especificos.push(tema);
     });
 
-    // Helpers
     const renderGroup = (title, list, color) => {
         if (list.length === 0) return;
         const h3 = document.createElement('h3');
@@ -250,18 +267,22 @@ const TOPIC_TITLES = {
     "Tema 13": "Manipulación de alimentos y formación",
     "Tema 14": "Tecnología culinaria: cocción y conservación",
     "Tema 15": "Cocina Hospitalaria: sistemas y emplatado",
-    "Tema 16": "Protección medioambiental y eficiencia"
+    "Tema 16": "Protección medioambiental y eficiencia",
+    "Tema 1: La Constitución": "Bloques 1, 2 y 3 (Igualdad, Constitución, Violencia)"
 };
 
 function createTopicButton(tema) {
     const btn = document.createElement('button');
     btn.className = 'btn-topic';
     const count = allQuestions.filter(q => q.tema === tema).length;
-    const titulo = TOPIC_TITLES[tema] || tema;
+    let titulo = TOPIC_TITLES[tema] || tema;
+
+    // Avoid redundancy if title == theme name
+    if (titulo === tema) titulo = "";
 
     btn.innerHTML = `
         <strong>${tema}</strong><br>
-        <span style="font-size:0.9em; color:#555;">${titulo}</span><br>
+        ${titulo ? `<span style="font-size:0.9em; color:#555;">${titulo}</span><br>` : ''}
         <small>${count} preguntas</small>
     `;
 
