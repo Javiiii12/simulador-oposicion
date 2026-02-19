@@ -146,40 +146,6 @@
     "explicacion": ""
   },
   {
-    "id": 81,
-    "tema": "Tema 10",
-    "pregunta": "t ¿Qué dato no es cierto respecto al personal de cocina en planta? Generalmente poseen dos turnos, uno de mañana y otro de tarde. Normalmente siguen una rotación semanal en sus tareas. Se afrontará sin problemas la repeticiÓn de los trabajos mas pesados o reiterativos, ya que este servicio está lleno de automatismos. Se llevará a cabo las tareas mediante pinches. ¿Cuándo se preparan habitualmente los cubiertos durante la jornada?",
-    "opciones": {
-      "a": "los servicios que tengamos asignados. Al político que gobierne en ese momento y a quien se responsabilice del mismo. Al hospital donde nos encontremos. AI hospital donde nos encontremos y los servicios que tengamos asignados. PIXcHE DEL SrRvI¢I0 DE sALr D Dr tAsTILLA LA xA cHA (SEScAx) La preparación de hortalizas en crudo, ¿a quién le corresponde la función? Al pinche. AI cocinero. AI dietista. AI bromatólogo. ¿Con quién confecciona el cocinero los menús? Con el bromatólogo. Con el dietista. Con sus compañeros cocineros. Con la gobernanta."
-    },
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 83,
-    "tema": "Tema 10",
-    "pregunta": " La leche natural será siempre de: Mujer. Vaca. Oveja. Son todas correctas. ¿Què leche se entiende tratada con destrucción de microorganismos pató-genos7 Certificada. Condensada. Esterilizada. Higienizada. ¿Qué tipo de leche no entra en la categoría de especiales (según código afi- mentario)? Desnatada. Enriquecida. Fermentada. Condensada. Las leches especiales con adición de nutrientes se denominan: Enriquecidas. Concentradas. Adicionadas. Condensadas. Tras un proceso tërmico la leche higienizada se debe refrigerar par debajo de:",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 86,
-    "tema": "Tema 10",
-    "pregunta": "\"C. (-4) \"C. ȚCuándo se debe garantizar la venta de la leche certificada? La venta se reali-zará desde el final del proceso en las:",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 88,
-    "tema": "Tema 10",
-    "pregunta": "horas siguientes. Semana síguiente. Mes siguiente. dJ Trimestre siguiente. 1o. Aproximadamente, tcuál es el contenido máximo de agua de la leche en polvo? 1,5 % m/m. S % m/m.",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
     "id": 89,
     "tema": "Tema 11",
     "pregunta": "% m/m.",
@@ -6800,6 +6766,552 @@
       "b": "3484/2000.",
       "c": "202/2000.",
       "d": "109/2010."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 10",
+    "pregunta": "El diseño del local de cocina se hará teniendo en cuenta siempre:",
+    "opciones": {
+      "a": "La experiencia del personal de cocina.",
+      "b": "El gusto de los comensales.",
+      "c": "La ubicación y distribución de maquinaria, herramientas y utensilios de cocina.",
+      "d": "El diseño del servicio de radiología."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 10",
+    "pregunta": "¿Quiénes determinan en primer lugar el espacio y el tamaño de los equipos en la cocina hospitalaria?",
+    "opciones": {
+      "a": "Métodos de elaboración, en cuanto número de menús diarios.",
+      "b": "Las necesidades en cuanto número de menús diarios.",
+      "c": "Las características de la instalación.",
+      "d": "Las materias primas que se van a utilizar."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 10",
+    "pregunta": "¿A qué principio atenderá la manera en la que se debe hacer la distribución de equipos en la cocina?",
+    "opciones": {
+      "a": "Se basará en el principio de marcha adelante.",
+      "b": "Se basará en el principio de separación de zonas de trabajo.",
+      "c": "Se basará en el principio de conexión entre las distintas fases del proceso.",
+      "d": "Se atenderá atendiendo a todos los anteriores principios."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 10",
+    "pregunta": "¿Cuál de estas será la última zona de la cocina hospitalaria al final del proceso?",
+    "opciones": {
+      "a": "Zona de recepción.",
+      "b": "Zona de preparación.",
+      "c": "Zona de distribución.",
+      "d": "Zona de elaboración."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 10",
+    "pregunta": "¿Dónde se ubicará la zona de recepción en la cocina hospitalaria?",
+    "opciones": {
+      "a": "Estará ubicada en la planta baja, cercana a las cámaras y almacenes, y comunicada con la zona de preparación.",
+      "b": "Estará ubicada en la planta media, comunicada con la zona de distribución.",
+      "c": "Estará ubicada en la planta alta, comunicada con la zona de elaboración.",
+      "d": "Estará ubicada en la planta baja y comunicada con las zonas de distribución y elaboración."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 10",
+    "pregunta": "¿Qué factores pueden influir en las condiciones ambientales de las cámaras frigoríficas?",
+    "opciones": {
+      "a": "Golpes.",
+      "b": "Movilidad y presión atmosférica.",
+      "c": "Temperatura y humedad.",
+      "d": "Ninguno de los anteriores son correctos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 10",
+    "pregunta": "La zona de desperdicios y basuras solo se comunicará con la zona de:",
+    "opciones": {
+      "a": "Almacenamiento.",
+      "b": "Preparación.",
+      "c": "Recepción.",
+      "d": "Distribución."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 10",
+    "pregunta": "La zona de elaboración en la cocina hospitalaria puede llamarse también zona de:",
+    "opciones": {
+      "a": "Almacenamiento.",
+      "b": "Preparación.",
+      "c": "Cocción.",
+      "d": "Distribución."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 10",
+    "pregunta": "¿Dónde se realiza el racionado de la comida, emplatado, distribución y servicio?",
+    "opciones": {
+      "a": "En la zona de almacenamiento.",
+      "b": "En la zona de preparación.",
+      "c": "En la zona de recepción.",
+      "d": "En la zona de distribución."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 10",
+    "pregunta": "¿Qué útiles o equipos se encenderán o conectarán en el momento de su uso?",
+    "opciones": {
+      "a": "Freidoras.",
+      "b": "Las planchas.",
+      "c": "Las placas.",
+      "d": "Nada de lo anterior, ya que el calentamiento no es inmediato."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 10",
+    "pregunta": "Cuando el avance es siempre en el mismo sentido y entrada/salida están en lugares opuestos, la distribución es:",
+    "opciones": {
+      "a": "Lineal.",
+      "b": "Cíclica.",
+      "c": "En L.",
+      "d": "En U."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 10",
+    "pregunta": "Si el avance es en un sentido pero en algún punto se produce un ángulo para aprovechar el espacio, la distribución es:",
+    "opciones": {
+      "a": "Lineal.",
+      "b": "Cíclica.",
+      "c": "En L.",
+      "d": "En U."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 10",
+    "pregunta": "En qué organización el avance en la marcha hace un giro de 180º con cambio de sentido?",
+    "opciones": {
+      "a": "Lineal.",
+      "b": "Cíclica.",
+      "c": "En L.",
+      "d": "En U."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 10",
+    "pregunta": "¿Con qué locales NO pueden comunicar directamente las dependencias de la cocina hospitalaria?",
+    "opciones": {
+      "a": "Servicios higiénicos y aseos.",
+      "b": "Vestuarios.",
+      "c": "Plonge.",
+      "d": "Con los indicados en las respuestas a) y b)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 10",
+    "pregunta": "Con el principio de marcha adelante:",
+    "opciones": {
+      "a": "Se evitarán las contaminaciones cruzadas.",
+      "b": "Se podrá conseguir que un alimento retroceda a una etapa anterior.",
+      "c": "Se conseguirá que no exista la separación de zonas de trabajo.",
+      "d": "Se evitará el establecimiento de circuitos."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 10",
+    "pregunta": "¿Qué actividades requieren un especial grado de limpieza para evitar la contaminación?",
+    "opciones": {
+      "a": "Lavado de vajilla y hortalizas.",
+      "b": "Distribución de platos calientes y almacén de vajilla limpia.",
+      "c": "Recepción y almacenamiento de materias primas.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 10",
+    "pregunta": "¿Qué actividad realizada adecuadamente NO debe generar contaminación?",
+    "opciones": {
+      "a": "Traslado y almacenamiento de residuos.",
+      "b": "Limpieza de aves y pescado.",
+      "c": "Pelado de verduras.",
+      "d": "Emplatado."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 10",
+    "pregunta": "Sobre los circuitos sucio/limpio en cocina es falso, excepto:",
+    "opciones": {
+      "a": "El área sucia se situará entre el área de almacenamiento.",
+      "b": "Las zonas limpias no necesitan rejillas.",
+      "c": "Los circuitos limpio y sucio nunca deben cruzarse en cocina.",
+      "d": "En la zona limpia incluimos la salida de desperdicios."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 10",
+    "pregunta": "¿Qué partida elabora corrientemente los segundos platos y los platos \"fuertes\"?",
+    "opciones": {
+      "a": "Partida de entremetier.",
+      "b": "Partida de salsero.",
+      "c": "Partida de pastelero.",
+      "d": "Partida de despensero."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 10",
+    "pregunta": "¿Cuántas categorías de cocina poseerá cada partida en la organización hospitalaria?",
+    "opciones": {
+      "a": "Dos: cocineros y jefe de partida.",
+      "b": "Tres: cocineros, pinches y Maitre.",
+      "c": "Dos: cocineros y pinches.",
+      "d": "Tres: cocineros, pinches y jefe de partida."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 10",
+    "pregunta": "¿Qué función NO realiza la partida de despenseros?",
+    "opciones": {
+      "a": "Despiece y fileteado de carnes.",
+      "b": "Elaboración de platos fríos y paté.",
+      "c": "Limpieza de pescado.",
+      "d": "Elaboración de asados."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 10",
+    "pregunta": "El pinche de cocina tiene entre sus funciones:",
+    "opciones": {
+      "a": "La elaboración de menús complejos.",
+      "b": "El pelado de verduras y hortalizas.",
+      "c": "La dirección del servicio de comidas.",
+      "d": "La compra directa a proveedores."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 10",
+    "pregunta": "La limpieza de útiles de cocina es responsabilidad de:",
+    "opciones": {
+      "a": "El Jefe de Cocina.",
+      "b": "El Cocinero.",
+      "c": "El Pinche.",
+      "d": "El Celador."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 10",
+    "pregunta": "¿A quién corresponde la vigilancia de la entrada de mercancías en el almacén de cocina?",
+    "opciones": {
+      "a": "Al Jefe de Cocina o responsable designado.",
+      "b": "A cualquier pinche disponible.",
+      "c": "Al personal de mantenimiento.",
+      "d": "Al servicio de nutrición."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 10",
+    "pregunta": "El transporte de los carros de comida hasta las plantas es función de:",
+    "opciones": {
+      "a": "Los Pinches.",
+      "b": "Los Celadores o personal de transporte.",
+      "c": "Los Cocineros.",
+      "d": "El personal de limpieza."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 10",
+    "pregunta": "La recogida de los platos usados en las habitaciones de los pacientes corresponde a:",
+    "opciones": {
+      "a": "El Pinche de cocina.",
+      "b": "El Cocinero.",
+      "c": "El personal subalterno o de limpieza de la planta.",
+      "d": "El Jefe de Cocina."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 10",
+    "pregunta": "¿Qué profesional se encarga de la distribución de las dietas terapéuticas bajo supervisión médica?",
+    "opciones": {
+      "a": "El Pinche.",
+      "b": "El Dietista o Nutricionista.",
+      "c": "El Jefe de Cocina.",
+      "d": "El Almacenero."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 10",
+    "pregunta": "El mantenimiento básico de la maquinaria de cocina (limpieza diaria) lo realiza:",
+    "opciones": {
+      "a": "El servicio técnico externo.",
+      "b": "El personal de mantenimiento del hospital.",
+      "c": "El Pinche de cocina.",
+      "d": "El Jefe de Cocina."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 10",
+    "pregunta": "En una cocina hospitalaria, la jerarquía superior inmediata del Pinche es:",
+    "opciones": {
+      "a": "El Director Gerente.",
+      "b": "El Cocinero o Jefe de Partida.",
+      "c": "El Jefe de Mantenimiento.",
+      "d": "El Médico de guardia."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 10",
+    "pregunta": "El principio de \"marcha adelante\" prohíbe:",
+    "opciones": {
+      "a": "Cocinar platos fríos.",
+      "b": "El cruce de productos limpios con residuos.",
+      "c": "Usar guantes desechables.",
+      "d": "Trabajar en equipo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 31,
+    "tema": "Tema 10",
+    "pregunta": "¿Qué zona de la cocina debe estar más alejada de la zona de cocción?",
+    "opciones": {
+      "a": "El emplatado.",
+      "b": "La zona de lavado de vajilla y residuos.",
+      "c": "La zona de preparación de vegetales.",
+      "d": "El almacén de productos secos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 32,
+    "tema": "Tema 10",
+    "pregunta": "La iluminación en las zonas de trabajo de cocina debe ser:",
+    "opciones": {
+      "a": "Tenue para no calentar los alimentos.",
+      "b": "Suficiente y con protección para las bombillas.",
+      "c": "Solo natural.",
+      "d": "Roja para detectar bacterias."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 10",
+    "pregunta": "La ventilación en la cocina hospitalaria sirve para:",
+    "opciones": {
+      "a": "Enfriar la comida rápido.",
+      "b": "Eliminar humos, olores y condensación.",
+      "c": "Que el personal no tenga calor.",
+      "d": "Atraer aire del exterior sin filtrar."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 34,
+    "tema": "Tema 10",
+    "pregunta": "El suelo de la cocina debe ser:",
+    "opciones": {
+      "a": "De madera.",
+      "b": "Antideslizante y fácil de limpiar.",
+      "c": "Con moqueta.",
+      "d": "De cemento rugoso."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 35,
+    "tema": "Tema 10",
+    "pregunta": "¿A qué temperatura debe estar la zona de preparación de platos fríos?",
+    "opciones": {
+      "a": "A temperatura ambiente (25ºC).",
+      "b": "Por debajo de 18ºC (climatizada).",
+      "c": "A 0ºC.",
+      "d": "Por encima de 30ºC."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 36,
+    "tema": "Tema 10",
+    "pregunta": "El personal que manipula alimentos debe lavarse las manos:",
+    "opciones": {
+      "a": "Una vez al día.",
+      "b": "Después de cualquier actividad que pueda contaminarlas.",
+      "c": "Solo si se ven sucias.",
+      "d": "Cada 4 horas exactamente."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 37,
+    "tema": "Tema 10",
+    "pregunta": "El uso de gorro o redecilla en cocina es:",
+    "opciones": {
+      "a": "Opcional si se tiene el pelo corto.",
+      "b": "Obligatorio para todo el personal.",
+      "c": "Solo para las mujeres.",
+      "d": "Solo para el personal que sirve la comida."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 38,
+    "tema": "Tema 10",
+    "pregunta": "Fumar en el área de cocina está:",
+    "opciones": {
+      "a": "Permitido en la zona de descanso.",
+      "b": "Totalmente prohibido.",
+      "c": "Permitido solo si no hay comida cerca.",
+      "d": "Permitido al Jefe de Cocina."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 39,
+    "tema": "Tema 10",
+    "pregunta": "La zona de \"sucio\" en la plonge es donde se realiza:",
+    "opciones": {
+      "a": "El pelado de patatas.",
+      "b": "La recepción y desbarasado de vajilla usada.",
+      "c": "El almacenamiento de detergentes.",
+      "d": "El cocinado de carnes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 40,
+    "tema": "Tema 10",
+    "pregunta": "¿Qué se entiende por \"circuito de trabajo\" en cocina?",
+    "opciones": {
+      "a": "El recorrido de los pacientes al comedor.",
+      "b": "El camino que siguen los alimentos desde recepción hasta consumo.",
+      "c": "El horario de turnos del personal.",
+      "d": "El cableado eléctrico de la maquinaria."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 41,
+    "tema": "Tema 10",
+    "pregunta": "La ropa de trabajo del Pinche debe ser:",
+    "opciones": {
+      "a": "La que traiga de su casa.",
+      "b": "Exclusiva para el trabajo y estar siempre limpia.",
+      "c": "De color negro para que no se vea la suciedad.",
+      "d": "Un traje formal."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 42,
+    "tema": "Tema 10",
+    "pregunta": "¿Cuál es el objetivo final de la correcta distribución del trabajo en cocina?",
+    "opciones": {
+      "a": "Que el personal trabaje menos.",
+      "b": "Garantizar la seguridad alimentaria y la eficiencia del servicio.",
+      "c": "Ahorrar luz y agua únicamente.",
+      "d": "Que la comida sepa mejor."
     },
     "correcta": "b",
     "explicacion": ""

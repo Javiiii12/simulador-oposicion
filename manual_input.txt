@@ -1,624 +1,546 @@
-Test n.º 9: Principios básicos de la higiene alimentaria
-1. El cumplimiento de las normas de higiene alimentaria va a asegurar la salubridad del alimento:
+Test n.º 10: Distribución del Trabajo y Categorías Profesionales
+1. El diseño del local de cocina se hará teniendo en cuenta siempre: 
 
-a) Al 100 %.
+a) La experiencia del personal de cocina. 
 
-b) Al 90 %.
+b) El gusto de los comensales. 
 
-c) Al 75 %.
+c) La ubicación y distribución de maquinaria, herramientas y utensilios de cocina. 
 
-d) Simplemente va a minimizar el riesgo para la salud.
+d) El diseño del servicio de radiología. 
 
-Solución: d
 
-2. La mayoría de las enfermedades transmitidas por los alimentos están relacionadas con:
+Solución: c 
 
-a) El país de donde procede.
+2. ¿Quiénes determinan en primer lugar el espacio y el tamaño de los equipos en la cocina hospitalaria? 
 
-b) La etnia o país que los cultiva.
+a) Métodos de elaboración, en cuanto número de menús diarios. 
 
-c) Una inadecuada manipulación de los alimentos.
+b) Las necesidades en cuanto número de menús diarios. 
 
-d) Una ingesta desequilibrada de los usuarios.
+c) Las características de la instalación. 
 
-Solución: c
+d) Las materias primas que se van a utilizar. 
 
-3. ¿Cuál de estos es un error en la manipulación de alimentos que puede ocasionar una enfermedad en las personas?
 
-a) Cocción suficiente en su elaboración.
+Solución: b 
 
-b) Elegir los alimentos tratados con fines higiénicos.
+3. ¿A qué principio atenderá la manera en la que se debe hacer la distribución de equipos en la cocina? 
 
-c) Preparación de los alimentos varias horas antes de su consumo.
+a) Se basará en el principio de marcha adelante. 
 
-d) Guardar cuidadosamente los alimentos cocinados.
+b) Se basará en el principio de separación de zonas de trabajo. 
 
-Solución: c
+c) Se basará en el principio de conexión entre las distintas fases del proceso. 
 
-4. Durante la cocción de productos alimenticios hay que garantizar que el centro del producto cocinado alcanza al menos los:
+d) Se atenderá atendiendo a todos los anteriores principios. 
 
-a) 50 °C.
 
-b) 60 °C.
+Solución: d 
 
-c) 70 °C.
+4. ¿Cuál de estas será la última zona de la cocina hospitalaria al final del proceso? 
 
-d) 80 °C.
+a) Zona de recepción. 
 
-Solución: c
+b) Zona de preparación. 
 
-5. Si un alimento cocinado se conserva en caliente, se hará por encima de la temperatura de:
+c) Zona de distribución. 
 
-a) 40 °C.
+d) Zona de elaboración. 
 
-b) 50 °C.
 
-c) 60 °C.
+Solución: c 
 
-d) 70 °C.
+5. ¿Dónde se ubicará la zona de recepción en la cocina hospitalaria? 
 
-Solución: c
+a) Estará ubicada en la planta baja, cercana a las cámaras y almacenes, y comunicada con la zona de preparación. 
 
-6. Cuando un alimento crudo contaminado entra en contacto con el alimento cocinado tendremos:
+b) Estará ubicada en la planta media, comunicada con la zona de distribución. 
 
-a) Contaminación cruzada directa.
+c) Estará ubicada en la planta alta, comunicada con la zona de elaboración. 
 
-b) Contaminación cruzada indirecta.
+d) Estará ubicada en la planta baja y comunicada con las zonas de distribución y elaboración. 
 
-c) Contaminación cruzada mixta.
 
-d) No habrá contaminación cruzada.
+Solución: a 
 
-Solución: a
+6. ¿Qué factores pueden influir en las condiciones ambientales de las cámaras frigoríficas? 
 
-7. Según la normativa vigente la responsabilidad en materia de formación de los manipuladores de alimentos recae en:
+a) Golpes. 
 
-a) La oficina de empleo.
+b) Movilidad y presión atmosférica. 
 
-b) Los operadores de empresas alimentarias.
+c) Temperatura y humedad. 
 
-c) En centros especializados para esta tarea.
+d) Ninguno de los anteriores son correctos. 
 
-d) Ayuntamientos respectivos.
 
-Solución: b
+Solución: c 
 
-8. ¿En qué normativa se establecen las normas generales relativas a la higiene alimentaria, destinadas a los operadores de empresa alimentaria?
+7. La zona de desperdicios y basuras solo se comunicará con la zona de: 
 
-a) Reglamento CE 852/2004 (Parlamento Europeo y del Consejo).
+a) Almacenamiento. 
 
-b) Real Decreto 109/2010.
+b) Preparación. 
 
-c) Ley 25/2009.
+c) Recepción. 
 
-d) Real Decreto 202/2000.
+d) Distribución. 
 
-Solución: a
 
-9. ¿Qué medidas a llevar a cabo en animales o en productos animales no deberán llevar a cabo los operadores mediante registros sobre las medidas aplicadas para controlar peligros?
+Solución: a 
 
-a) Enfermedades padecidas por el animal.
+8. La zona de elaboración en la cocina hospitalaria puede llamarse también zona de: 
 
-b) Controles efectuados al animal.
+a) Almacenamiento. 
 
-c) Utilización de productos fitosanitarios y biocidas.
+b) Preparación. 
 
-d) Medicamentos veterinarios y otros tratamientos.
+c) Cocción. 
 
-Solución: c
+d) Distribución. 
 
-10. ¿En qué parte del Reglamento CE 852/2004 se especifican las características que tendrán los locales destinados a la producción de alimentos?
 
-a) En el artículo 4.
+Solución: c 
 
-b) En el Anexo I.
+9. ¿Dónde se realiza el racionado de la comida, emplatado, distribución y servicio? 
 
-c) En el Anexo II.
+a) En la zona de almacenamiento. 
 
-d) En el artículo 20.
+b) En la zona de preparación. 
 
-Solución: c
+c) En la zona de recepción. 
 
-11. ¿Qué afirmación es INCORRECTA en cuanto a los requisitos específicos de las salas donde se manipulan alimentos?
+d) En la zona de distribución. 
 
-a) Los materiales de construcción del suelo serán permeables y absorbentes.
 
-b) Los suelos dispondrán de sistema de desagüe.
+Solución: d 
 
-c) Las paredes deberán ser fáciles de limpiar y desinfectar.
+10. ¿Qué útiles o equipos se encenderán o conectarán en el momento de su uso? 
 
-d) Los techos no permitirán la acumulación de suciedad o moho.
+a) Freidoras. 
 
-Solución: a
+b) Las planchas. 
 
-12. ¿Qué operarios NO deben estar autorizados a manipular los alimentos?
+c) Las placas. 
 
-a) Todos estarán autorizados.
+d) Nada de lo anterior, ya que el calentamiento no es inmediato. 
 
-b) Aquellos portadores de una enfermedad transmitida por alimentos.
 
-c) Aquellos portadores de una enfermedad infecciosa aunque no sea transmisible por alimentos.
+Solución: d 
 
-d) Son ciertas las respuestas b) y c).
+11. Cuando el avance es siempre en el mismo sentido y entrada/salida están en lugares opuestos, la distribución es: 
 
-Solución: d
+a) Lineal. 
 
-13. ¿En qué parte del Reglamento CE 852/2004, Anexo II se contempla los requisitos de la formación de manipuladores?
+b) Cíclica. 
 
-a) En el Capítulo IX.
+c) En L. 
 
-b) En el Capítulo X.
+d) En U. 
 
-c) En el Capítulo XI.
 
-d) En el Capítulo XII.
+Solución: a 
 
-Solución: d
+12. Si el avance es en un sentido pero en algún punto se produce un ángulo para aprovechar el espacio, la distribución es: 
 
-14. La formación de los manipuladores puede ser impartida por:
+a) Lineal. 
 
-a) Empresas o entidades formadoras.
+b) Cíclica. 
 
-b) La propia empresa alimentaria.
+c) En L. 
 
-c) Centros o escuelas de formación profesional reconocidos.
+d) En U. 
 
-d) Cualquiera de los anteriores.
 
-Solución: d
+Solución: c 
 
-15. ¿Dónde vendrán recogidos los aspectos de formación de operarios en la manipulación de alimentos?
+13. En qué organización el avance en la marcha hace un giro de 180º con cambio de sentido? 
 
-a) Plan anual de empresa.
+a) Lineal. 
 
-b) Plan de formación anual.
+b) Cíclica. 
 
-c) Plan de autocontrol de la empresa.
+c) En L. 
 
-d) Ninguno de los anteriores es correcto.
+d) En U. 
 
-Solución: c
 
-16. Para que se cumplan los objetivos del Plan Nacional de Control Oficial de la Cadena Alimentaria se realizará:
+Solución: d 
 
-a) Auditorías externas únicamente.
+14. ¿Con qué locales NO pueden comunicar directamente las dependencias de la cocina hospitalaria? 
 
-b) Auditorías internas únicamente.
+a) Servicios higiénicos y aseos. 
 
-c) Auditorías mixtas.
+b) Vestuarios. 
 
-d) Auditorías externas e internas.
+c) Plonge. 
 
-Solución: d
+d) Con los indicados en las respuestas a) y b). 
 
-17. ¿Qué normativa española recoge que la autoridad competente realice auditorías para verificar que se cumplen los objetivos del Plan Nacional?
 
-a) Real Decreto 202/2000.
+Solución: d 
 
-b) Real Decreto 109/2010.
+15. Con el principio de marcha adelante: 
 
-c) Ley Orgánica 5/2002.
+a) Se evitarán las contaminaciones cruzadas. 
 
-d) Ley 17/2011.
+b) Se podrá conseguir que un alimento retroceda a una etapa anterior. 
 
-Solución: d
+c) Se conseguirá que no exista la separación de zonas de trabajo. 
 
-18. ¿Qué regula la Ley Orgánica 5/2002, de 19 de junio?
+d) Se evitará el establecimiento de circuitos. 
 
-a) El procedimiento de auditorías alimentarias.
 
-b) El Catálogo Nacional de Cualificaciones Profesionales.
+Solución: a 
 
-c) La formación de operarios en los centros de trabajo.
+16. ¿Qué actividades requieren un especial grado de limpieza para evitar la contaminación? 
 
-d) Los cursos de seguridad e higiene.
+a) Lavado de vajilla y hortalizas. 
 
-Solución: b
+b) Distribución de platos calientes y almacén de vajilla limpia. 
 
-19. ¿Cómo se denomina el sujeto que padece de una infección latente, sin síntomas, pero con capacidad de transmitirla?
+c) Recepción y almacenamiento de materias primas. 
 
-a) Portador sano.
+d) Todas las respuestas anteriores son correctas. 
 
-b) Portador oligosintomático.
 
-c) Portador enfermo.
+Solución: d 
 
-d) Portador aparente.
+17. ¿Qué actividad realizada adecuadamente NO debe generar contaminación? 
 
-Solución: a
+a) Traslado y almacenamiento de residuos. 
 
-20. Las infracciones graves de la ley 17/2011 podrán alcanzar como máximo una multa de:
+b) Limpieza de aves y pescado. 
 
-a) 5.000 euros.
+c) Pelado de verduras. 
 
-b) 10.000 euros.
+d) Emplatado. 
 
-c) 20.000 euros.
 
-d) 100.000 euros.
+Solución: d 
 
-Solución: c
+18. Sobre los circuitos sucio/limpio en cocina es falso, excepto: 
 
-21. Si una infracción tiene clara intencionalidad, gravedad extrema y múltiples reincidencias, será catalogada como:
+a) El área sucia se situará entre el área de almacenamiento. 
 
-a) Muy leve.
+b) Las zonas limpias no necesitan rejillas. 
 
-b) Leve.
+c) Los circuitos limpio y sucio nunca deben cruzarse en cocina. 
 
-c) Grave.
+d) En la zona limpia incluimos la salida de desperdicios. 
 
-d) Muy grave.
 
-Solución: d
+Solución: c 
 
-22. ¿Cómo se denominan las enfermedades debidas a infección por un microorganismo presente en el alimento?
+19. ¿Qué partida elabora corrientemente los segundos platos y los platos "fuertes"? 
 
-a) Infecciones alimentarias.
+a) Partida de entremetier. 
 
-b) Intoxicaciones alimentarias.
+b) Partida de salsero. 
 
-c) Toxiinfecciones alimentarias.
+c) Partida de pastelero. 
 
-d) Enfermedades alimentarias.
+d) Partida de despensero. 
 
-Solución: a
 
-23. ¿Cuándo es mayor la incidencia de toxiinfecciones alimentarias?
+Solución: b 
 
-a) En verano e invierno.
+20. ¿Cuántas categorías de cocina poseerá cada partida en la organización hospitalaria? 
 
-b) En otoño e invierno.
+a) Dos: cocineros y jefe de partida. 
 
-c) En otoño y primavera.
+b) Tres: cocineros, pinches y Maitre. 
 
-d) En primavera y verano.
+c) Dos: cocineros y pinches. 
 
-Solución: d
+d) Tres: cocineros, pinches y jefe de partida. 
 
-24. ¿Qué grupos son los de mayor riesgo de padecer toxiinfecciones alimentarias?
 
-a) Los adultos.
+Solución: d 
 
-b) Los niños (y ancianos/inmunodeprimidos).
+21. ¿Qué función NO realiza la partida de despenseros? 
 
-c) Las personas sanas.
+a) Despiece y fileteado de carnes. 
 
-d) Los adolescentes.
+b) Elaboración de platos fríos y paté. 
 
-Solución: b
+c) Limpieza de pescado. 
 
-25. El enranciamiento de un alimento es una alteración alimentaria por un cambio:
+d) Elaboración de asados. 
 
-a) Físico.
 
-b) Biológico.
+Solución: d 
 
-c) Químico.
+22. El pinche de cocina tiene entre sus funciones: 
 
-d) Térmico.
+a) La elaboración de menús complejos. 
 
-Solución: c
+b) El pelado de verduras y hortalizas. 
 
-26. La acumulación de microorganismos constituye una alteración que produce un riesgo:
+c) La dirección del servicio de comidas. 
 
-a) Físico.
+d) La compra directa a proveedores. 
 
-b) Biológico.
 
-c) Químico.
+Solución: b 
 
-d) Térmico.
+23. La limpieza de útiles de cocina es responsabilidad de: 
 
-Solución: b
+a) El Jefe de Cocina. 
 
-27. ¿Qué denominación reciben los alimentos que se pueden conservar por tiempo prolongado sin frío?
+b) El Cocinero. 
 
-a) Alimentos perecederos.
+c) El Pinche. 
 
-b) Alimentos semiperecederos.
+d) El Celador. 
 
-c) Alimentos no perecederos.
 
-d) Alimentos estables.
+Solución: c 
 
-Solución: c
+24. ¿A quién corresponde la vigilancia de la entrada de mercancías en el almacén de cocina? 
 
-28. Las conservas entrarían dentro de la categoría de los alimentos:
+a) Al Jefe de Cocina o responsable designado. 
 
-a) Perecederos.
+b) A cualquier pinche disponible. 
 
-b) Semiperecederos.
+c) Al personal de mantenimiento. 
 
-c) No perecederos.
+d) Al servicio de nutrición. 
 
-d) Estables.
 
-Solución: c
+Solución: a 
 
-29. ¿Cómo se denomina la contaminación por crecimiento de microorganismos sobre los alimentos?
+25. El transporte de los carros de comida hasta las plantas es función de: 
 
-a) Directa.
+a) Los Pinches. 
 
-b) Indirecta.
+b) Los Celadores o personal de transporte. 
 
-c) Cruzada.
+c) Los Cocineros. 
 
-d) Biológica (o Mixta según contexto del test).
+d) El personal de limpieza. 
 
-Solución: b (Nota: según el temario suele ser Biológica).
 
-30. ¿Qué factores propician la contaminación de alimentos?
+Solución: b 
 
-a) La humedad ambiental.
+26. La recogida de los platos usados en las habitaciones de los pacientes corresponde a: 
 
-b) Las altas temperaturas ambientales.
+a) El Pinche de cocina. 
 
-c) El contenido en agua de los alimentos.
+b) El Cocinero. 
 
-d) Son correctos todos los anteriores.
+c) El personal subalterno o de limpieza de la planta. 
 
-Solución: d
+d) El Jefe de Cocina. 
 
-31. ¿Entre qué temperaturas se sitúa la zona de peligro de multiplicación bacteriana?
 
-a) 10 y 20º.
+Solución: c 
 
-b) 20 y 30º.
+27. ¿Qué profesional se encarga de la distribución de las dietas terapéuticas bajo supervisión médica? 
 
-c) 10 y 60º (o 30-40º como zona óptima).
+a) El Pinche. 
 
-d) 40 y 50º.
+b) El Dietista o Nutricionista. 
 
-Solución: c (Nota: el rango de peligro es amplio, de 10°C a 60°C).
+c) El Jefe de Cocina. 
 
-32. ¿A qué se denomina todo elemento que se incorpora involuntariamente al alimento con consecuencias negativas?
+d) El Almacenero. 
 
-a) Agente causal.
 
-b) Huésped.
+Solución: b 
 
-c) Autor.
+28. El mantenimiento básico de la maquinaria de cocina (limpieza diaria) lo realiza: 
 
-d) Contaminante.
+a) El servicio técnico externo. 
 
-Solución: d
+b) El personal de mantenimiento del hospital. 
 
-33. ¿Qué contaminante es abiótico?
+c) El Pinche de cocina. 
 
-a) Bacterias.
+d) El Jefe de Cocina. 
 
-b) Virus.
 
-c) Metales pesados.
+Solución: c 
 
-d) Insectos.
+29. En una cocina hospitalaria, la jerarquía superior inmediata del Pinche es: 
 
-Solución: c
+a) El Director Gerente. 
 
-34. ¿Qué enfermedad de estas es BACTERIANA?
+b) El Cocinero o Jefe de Partida. 
 
-a) Brucelosis (o Salmonelosis).
+c) El Jefe de Mantenimiento. 
 
-b) Hepatitis A.
+d) El Médico de guardia. 
 
-c) Enfermedad de las vacas locas.
 
-d) Intoxicación por insecticidas.
+Solución: b 
 
-Solución: a
+30. El principio de "marcha adelante" prohíbe: 
 
-35. ¿Qué enfermedad de estas es PARASITARIA?
+a) Cocinar platos fríos. 
 
-a) Salmonelosis.
+b) El cruce de productos limpios con residuos. 
 
-b) Hepatitis A.
+c) Usar guantes desechables. 
 
-c) Enfermedad de las vacas locas.
+d) Trabajar en equipo. 
 
-d) Triquinosis.
 
-Solución: d
+Solución: b 
 
-36. Las bacterias que viven exclusivamente en AUSENCIA de oxígeno se denominan:
+31. ¿Qué zona de la cocina debe estar más alejada de la zona de cocción? 
 
-a) Microaerófilas.
+a) El emplatado. 
 
-b) Aerobias.
+b) La zona de lavado de vajilla y residuos. 
 
-c) Anaerobias.
+c) La zona de preparación de vegetales. 
 
-d) Facultativas.
+d) El almacén de productos secos. 
 
-Solución: c
 
-37. El periodo de incubación de la salmonelosis puede durar aproximadamente entre:
+Solución: b 
 
-a) 8 y 72 horas.
+32. La iluminación en las zonas de trabajo de cocina debe ser: 
 
-b) 48 y 96 horas.
+a) Tenue para no calentar los alimentos. 
 
-c) 5 y 7 días.
+b) Suficiente y con protección para las bombillas. 
 
-d) 8 y 10 días.
+c) Solo natural. 
 
-Solución: a
+d) Roja para detectar bacterias. 
 
-38. La bacteria Escherichia coli se destruye a la temperatura de:
 
-a) 70 °C.
+Solución: b 
 
-b) 90 °C.
+33. La ventilación en la cocina hospitalaria sirve para: 
 
-c) 110 °C.
+a) Enfriar la comida rápido. 
 
-d) 120 °C.
+b) Eliminar humos, olores y condensación. 
 
-Solución: a
+c) Que el personal no tenga calor. 
 
-39. ¿En qué condiciones el Clostridium botulinum produce la toxina botulínica?
+d) Atraer aire del exterior sin filtrar. 
 
-a) En condiciones microaerófilas.
 
-b) En condiciones aerobias.
+Solución: b 
 
-c) En condiciones anaerobias.
+34. El suelo de la cocina debe ser: 
 
-d) En condiciones facultativas.
+a) De madera. 
 
-Solución: c
+b) Antideslizante y fácil de limpiar. 
 
-40. ¿A qué temperatura se deben esterilizar las conservas para prevenir el botulismo?
+c) Con moqueta. 
 
-a) A 100 °C durante 20 minutos.
+d) De cemento rugoso. 
 
-b) A 120 °C durante 10 minutos.
 
-c) A 120 °C durante 20 minutos.
+Solución: b 
 
-d) A 90 °C durante 10 minutos.
+35. ¿A qué temperatura debe estar la zona de preparación de platos fríos? 
 
-Solución: c
+a) A temperatura ambiente (25ºC). 
 
-41. ¿Qué dato es característico de la shigelosis?
+b) Por debajo de 18ºC (climatizada). 
 
-a) La diarrea es mucosa.
+c) A 0ºC. 
 
-b) La diarrea es muy líquida.
+d) Por encima de 30ºC. 
 
-c) La diarrea es acuosa y con sangre.
 
-d) No hay diarrea.
+Solución: b 
 
-Solución: c
+36. El personal que manipula alimentos debe lavarse las manos: 
 
-42. ¿Dónde se encuentra con frecuencia la bacteria Bacillus cereus?
+a) Una vez al día. 
 
-a) En el suelo.
+b) Después de cualquier actividad que pueda contaminarlas. 
 
-b) En vegetales.
+c) Solo si se ven sucias. 
 
-c) En carnes.
+d) Cada 4 horas exactamente. 
 
-d) En el aire.
 
-Solución: a
+Solución: b 
 
-43. ¿A qué vegetales frecuentemente pasa el Bacillus cereus desde el suelo?
+37. El uso de gorro o redecilla en cocina es: 
 
-a) A cereales.
+a) Opcional si se tiene el pelo corto. 
 
-b) A aceitunas.
+b) Obligatorio para todo el personal. 
 
-c) A legumbres.
+c) Solo para las mujeres. 
 
-d) A frutas.
+d) Solo para el personal que sirve la comida. 
 
-Solución: a
 
-44. ¿Qué alimentos suelen ocasionar más frecuentemente brucelosis?
+Solución: b 
 
-a) La leche sin pasteurizar y derivados.
+38. Fumar en el área de cocina está: 
 
-b) El arroz.
+a) Permitido en la zona de descanso. 
 
-c) Agua contaminada.
+b) Totalmente prohibido. 
 
-d) Nada de lo anterior es correcto.
+c) Permitido solo si no hay comida cerca. 
 
-Solución: a
+d) Permitido al Jefe de Cocina. 
 
-45. ¿Qué agente de estos es el productor del cólera?
 
-a) Vibrio (Vibrio cholerae).
+Solución: b 
 
-b) Clostridium.
+39. La zona de "sucio" en la plonge es donde se realiza: 
 
-c) Escherichia coli.
+a) El pelado de patatas. 
 
-d) Listeria.
+b) La recepción y desbarasado de vajilla usada. 
 
-Solución: a
+c) El almacenamiento de detergentes. 
 
-46. La intoxicación paralítica por mariscos causa la muerte por:
+d) El cocinado de carnes. 
 
-a) Infarto agudo de miocardio.
 
-b) Parada cardiaca.
+Solución: b 
 
-c) Fallo renal.
+40. ¿Qué se entiende por "circuito de trabajo" en cocina? 
 
-d) Parada respiratoria.
+a) El recorrido de los pacientes al comedor. 
 
-Solución: d
+b) El camino que siguen los alimentos desde recepción hasta consumo. 
 
-47. ¿Qué patología causa el virus Norwalk?
+c) El horario de turnos del personal. 
 
-a) Gastroenteritis benigna de 1 a 2 días.
+d) El cableado eléctrico de la maquinaria. 
 
-b) Hepatitis benigna.
 
-c) Gastroenteritis grave de 15 días.
+Solución: b 
 
-d) Encefalitis espongiforme.
+41. La ropa de trabajo del Pinche debe ser: 
 
-Solución: a
+a) La que traiga de su casa. 
 
-48. ¿Qué técnica sobre la carne de cerdo garantiza la inocuidad contra la triquinosis?
+b) Exclusiva para el trabajo y estar siempre limpia. 
 
-a) Cocinar bien la carne a altas temperaturas.
+c) De color negro para que no se vea la suciedad. 
 
-b) Ahumado.
+d) Un traje formal. 
 
-c) Desecado.
 
-d) Todas las anteriores.
+Solución: b 
 
-Solución: a
+42. ¿Cuál es el objetivo final de la correcta distribución del trabajo en cocina? 
 
-49. El anisakis ocasiona:
+a) Que el personal trabaje menos. 
 
-a) Gastroenteritis aguda.
+b) Garantizar la seguridad alimentaria y la eficiencia del servicio. 
 
-b) Hidatidosis.
+c) Ahorrar luz y agua únicamente. 
 
-c) Anisomiasis (o Anisakiasis).
+d) Que la comida sepa mejor. 
 
-d) Giardiasis.
-
-Solución: c
-
-50. El anisakis se destruye en pescados:
-
-a) Por congelación (mínimo -20°C).
-
-b) Por hervido.
-
-c) Por frito.
-
-d) Por exposición a un fuerte adobo.
-
-Solución: a
-
-51. La enfermedad de Minamata se produce por:
-
-a) Mercurio.
-
-b) Cadmio.
-
-c) Plomo.
-
-d) Yodo.
-
-Solución: a
-
-52. El "plato testigo" es una medida recogida en el Real Decreto:
-
-a) 2817/1983.
-
-b) 3484/2000.
-
-c) 202/2000.
-
-d) 109/2010.
 
 Solución: b
