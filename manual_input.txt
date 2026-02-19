@@ -1,514 +1,300 @@
-Test n.º 3: Ley General de Sanidad (Parte 1/30)
-1. ¿Cuál es la definición de Sistema Nacional de Salud que establece la Ley General de Sanidad (Ley 14/1986, de 25 de abril)? 
+Test n.º 4: Ordenación Sanitaria y SESCAM (25 preguntas)
+1. De las siguientes competencias, corresponde al Consejo de Gobierno de Castilla-La Mancha:
 
-a) Es el conjunto de los Servicios de Salud de las Comunidades Autónomas, coordinados en el Consejo Interterritorial del Sistema Nacional de Salud. 
-+1
+a) Elaborar el reglamento de composición y funcionamiento del Servicio de Salud de Castilla-La Mancha para su remisión al Consejo de Gobierno.
 
-b) Es el conjunto de los Servicios de Salud dependientes del Instituto Nacional de la Salud y de los Servicios de Salud de las Comunidades Autónomas en los términos establecidos en la Ley General de Sanidad. 
-+1
+b) Nombrar y cesar a la persona que ocupe la Dirección-Gerencia del Servicio de Salud de Castilla-La Mancha.
 
+c) Programar, ejecutar y evaluar las directrices y los criterios generales de la política y la planificación sanitarias en Castilla-La Mancha.
 
-c) Es el conjunto de los Servicios de Salud de la Administración del Estado y de los Servicios de Salud de las Comunidades Autónomas en los términos establecidos en la Ley General de Sanidad. 
-+2
+d) Aprobar la delimitación, dentro de las Áreas de Salud, de las Zonas Básicas de Salud y de cualquier otra ordenación.
 
-d) Es el conjunto de los servicios de Salud de las Comunidades Autónomas y de las Corporaciones Locales en los términos establecidos en la Ley General de Sanidad. 
-+1
+Solución: b
 
+2. Señala cuál de las siguientes competencias se atribuye a la Consejería competente en materia de sanidad de Castilla-La Mancha:
 
-Solución: c 
+a) Aprobar el Plan de Salud de Castilla-La Mancha.
 
-2. El objeto de la Ley General de Sanidad es: 
-+1
+b) Autorizar la celebración de convenios con otras Administraciones públicas para la prestación de servicios sanitarios.
 
-a) La reforma del sistema sanitario privado. 
-+1
+c) Controlar e inspeccionar las actividades del Sistema Sanitario de Castilla-La Mancha y su adecuación al Plan de Salud.
 
-b) Las necesidades de mejora en los servicios prestados a los ciudadanos extranjeros. 
-+1
+d) Establecer las directrices y los criterios generales de la política sanitaria en Castilla-La Mancha.
 
-c) La distribución de competencias entre el Estado y las Comunidades Autónomas y las Corporaciones Locales. 
-+1
+Solución: c
 
+3. Corresponde a las Corporaciones locales, en el marco del Plan de Salud y de las directrices regionales, las siguientes funciones (señala la opción de respuesta INCORRECTA):
 
-d) Hacer efectivo el derecho a la protección de la salud. 
-+2
+a) Formar parte de los órganos del Sistema Sanitario Público de Castilla-La Mancha.
 
+b) Ejercer las competencias que en materia de salud pública les atribuye la legislación de régimen local.
 
-Solución: d 
+c) Elaborar el Registro de Asociaciones Científicas de carácter sanitario de Castilla-La Mancha.
 
-3. Según dispone la Ley 14/1986, de 25 de abril, General de Sanidad, son titulares del derecho a la protección de la salud y a la atención sanitaria: 
-+1
+d) Colaborar en la construcción, remodelación y equipamiento de Centros y Servicios sanitarios, así como en su conservación y mantenimiento.
 
-a) Únicamente los ciudadanos andaluces. 
-+1
+Solución: c
 
-b) Todos los españoles. 
-+1
+4. Los Ayuntamientos tendrán las siguientes responsabilidades respecto al cumplimiento de las normas y planes sanitarios (señala la respuesta INCORRECTA):
 
-c) Cualquier ciudadano. 
-+1
+a) Control sanitario de edificios y lugares de vivienda y convivencia humana (centros de alimentación, peluquerías, hoteles, etc.).
 
+b) Control sanitario de la distribución y suministro de alimentos, bebidas y demás productos, EXCEPTO sus medios de transporte.
 
-d) Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en España. 
-+2
+c) Control sanitario de industrias, actividades y servicios, transportes, ruidos y vibraciones.
 
+d) Control sanitario de los cementerios y de la sanidad mortuoria.
 
-Solución: d 
+Solución: b
 
-4. Los medios y actuaciones del sistema sanitario estarán orientadas prioritariamente a: 
-+1
+5. Sobre el Servicio de Salud de Castilla-La Mancha (SESCAM), señala cuál de los siguientes enunciados NO es correcto:
 
-a) La curación y la rehabilitación. 
-+1
+a) Es una autoridad administrativa independiente dotada de personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines.
 
-b) La promoción de la salud. 
-+1
+b) Se crea con el fin de proveer los servicios y gestionar los centros y establecimientos destinados a la atención sanitaria.
 
-c) Atender los grupos de riesgos desde el punto de vista sanitario. 
-+1
+c) Entre sus funciones se encuentra la de estimular a la formación continuada, a la docencia y a la investigación científica.
 
-
-d) La promoción de salud y prevención de las enfermedades. 
-+2
-
-
-Solución: d 
-
-5. ¿Cómo se llaman las estructuras fundamentales del sistema sanitario en las Comunidades Autónomas, responsabilizadas de la gestión unitaria de los Centros y establecimientos de los Servicios de Salud de las CCAA? 
-+1
-
-a) Centros hospitalarios. 
-+1
-
-
-b) Áreas de Salud. 
-+2
-
-c) Delegaciones Provinciales de Salud. 
-+1
-
-d) Centros de Salud. 
-+1
-
-
-Solución: b 
-
-6. Para conseguir la máxima operatividad y eficacia en el funcionamiento de los servicios a nivel primario, las Áreas de Salud se dividirán: 
-+1
-
-
-a) En zonas básicas de salud. 
-+2
-
-b) En Centros de Salud. 
-+1
-
-c) En Distritos de Atención Primaria. 
-+1
-
-d) En Primaria y Especializada. 
-+1
-
-
-Solución: a 
-
-7. La ordenación territorial de los Servicios de Salud será competencia de: 
-+1
-
-a) El Estado. 
-+1
-
-
-b) Las Comunidades Autónomas. 
-+2
-
-c) Los Ayuntamientos. 
-+1
-
-d) Las Diputaciones Provinciales. 
-+1
-
-
-Solución: b 
-
-8. Según la Ley 14/1986, los centros integrales de atención primaria son: 
-+1
-
-a) Los hospitales. 
-+1
-
-b) Los ambulatorios. 
-+1
-
-
-c) Los centros de salud. 
-+2
-
-d) Las clínicas de atención primaria. 
-+1
-
-
-Solución: c 
-
-9. Cada Área de Salud estará vinculada o dispondrá: 
-+1
-
-a) De un único hospital general. 
-+1
-
-b) De al menos dos hospitales. 
-+1
-
-c) De un máximo de dos hospitales generales. 
-+1
-
-
-d) De al menos un hospital general. 
-+2
-
-
-Solución: d 
-
-10. El marco territorial para la prestación de la Atención Primaria de Salud se denomina: 
-+1
-
-a) Distrito de Atención Primaria. 
-+1
-
-
-b) Zona Básica de Salud. 
-+2
-
-c) Centros de Atención Primaria de Salud. 
-+1
-
-d) Mapa de Atención Primaria de Salud. 
-+1
-
-
-Solución: b 
-
-11. La Administración sanitaria establecerá sistemas de evaluación de calidad asistencial: 
-+1
-
-a) Oídos los Colegios Profesionales. 
-+1
-
-b) Oídas las asociaciones de consumidores. 
-+1
-
-c) Oídas las organizaciones sindicales sanitarias. 
-+1
-
-
-d) Oídas las Sociedades científicas sanitarias. 
-+2
-
-
-Solución: d 
-
-12. Los hospitales generales del sector privado que lo soliciten serán vinculados al Sistema Nacional de Salud, de acuerdo con: 
-+1
-
-a) Un Reglamento autonómico. 
-+1
-
-b) Un Convenio estatal. 
-+1
-
-
-c) Un protocolo definido. 
-+2
-
-d) Una norma comunitaria. 
-+1
-
-
-Solución: c 
-
-13. Señalar la opción correcta en relación con la vinculación de hospitales de titularidad privada al Sistema Nacional de Salud: 
-+1
-
-a) La vinculación a la red pública de los hospitales se realizará mediante convenios globales. 
-+1
-
-b) Los hospitales generales del sector privado serán obligatoriamente vinculados al SNS cuando las necesidades asistenciales lo justifiquen. 
-+1
-
-c) La titularidad de las relaciones laborales del personal de los hospitales privados vinculados corresponderá a la Comunidad Autónoma. 
-+1
-
-
-d) El sector privado vinculado mantendrá la titularidad de centros y establecimientos dependientes del mismo. 
-+2
-
-
-Solución: d 
-
-14. ¿Pueden los hospitales privados vinculados cobrar alguna cantidad a los enfermos en concepto de atenciones no sanitarias? 
-+1
-
-a) No, en ningún caso. 
-+1
-
-b) Sí, en cualquier caso. 
-+1
-
-
-c) Sí, si previamente son autorizados por la Administración Sanitaria correspondiente el concepto y la cuantía que por él se pretende cobrar. 
-+2
-
-d) No, solo podrán cobrar por atenciones de tipo sanitario, siempre que sean autorizados por la Administración Sanitaria. 
-+1
-
-
-Solución: c 
-
-15. La Administración sanitaria podrá denunciar un Convenio de vinculación de un hospital privado por la siguiente razón: 
-+1
-
-
-a) Prestar atención sanitaria objeto de Convenio contraviniendo el principio de gratuidad. 
-+2
-
-b) Prestar servicios complementarios no sanitarios. 
-+1
-
-c) Contratar o despedir personal de carácter laboral sin autorización de la Administración sanitaria. 
-+1
-
-d) Establecer servicios complementarios sanitarios sin previa autorización. 
-+1
-
-
-Solución: a 
-
-16. La representación de los ciudadanos en el Consejo de Salud de Área, a través de las Corporaciones Locales comprendidas en su demarcación, supondrá: 
-
-a) El 10% de su composición. 
-
-b) El 25% de su composición. 
-
-c) El 40% de su composición. 
-
-
-d) El 50% de su composición. 
-
-
-Solución: d 
-
-17. ¿De cuántos artículos consta la Ley 14/1986 de 25 de abril, General de Sanidad? 
-
-a) 109. 
-
-b) 111. 
-
-c) 113. 
-
-
-d) 116. 
-
-
-Solución: d 
-
-18. La Ley 14/1986 de 25 de abril, General de Sanidad, se estructura en: 
-
-
-a) Un Título Preliminar, siete Títulos, diez Disposiciones Adicionales, seis Disposiciones Transitorias, dos disposiciones Derogatorias y dieciséis Disposiciones Finales. 
-
-b) Un Título Preliminar, seis Títulos, diez Disposiciones Adicionales, siete Disposiciones Transitorias... 
-
-c) Un Título Preliminar, siete Títulos, diez Disposiciones Adicionales, siete Disposiciones Transitorias... 
-
-d) Un Título Preliminar, siete Títulos, diez Disposiciones Adicionales, seis Disposiciones Transitorias, tres Disposiciones Derogatorias... 
-
-
-Solución: a 
-
-19. La Ley 14/1986, de 25 de abril, General de Sanidad, establece que las piezas básicas de los Servicios de Salud de las Comunidades Autónomas son: 
-
-
-a) Las Áreas de Salud. 
-
-b) Los Distritos Sanitarios. 
-
-c) Las Comarcas Sanitarias. 
-
-d) Las Zonas de Salud. 
-
-
-Solución: a 
-
-20. La Ley 14/1986, de 25 de abril, General de Sanidad, tiene como objeto la regulación general de todas las acciones que permitan hacer efectivo el derecho a la protección de la salud reconocido en el artículo: 
-
-a) 15 de la Constitución Española. 
-
-b) 19 de la Constitución Española. 
-
-c) 33 de la Constitución Española. 
-
-
-d) 43 de la Constitución Española. 
-
-
-Solución: d 
-
-21. Las Áreas de Salud se delimitan teniendo en cuenta factores: 
-
-a) Climatológicos y de dotación de vías y medios de comunicación. 
-
-b) Geográficos y demográficos. 
-
-c) Socioeconómicos y culturales. 
-
-
-d) Todas las respuestas son correctas. 
-
-
-Solución: d 
-
-22. Como regla general el área de salud extenderá su acción a una población: 
-
-a) No inferior a 100.000 habitantes ni superior a 150.000. 
-
-
-b) No inferior a 200.000 habitantes ni superior a 250.000. 
-
-c) No inferior a 250.000 habitantes ni superior a 300.000. 
-
-d) No inferior a 300.000 habitantes ni superior a 500.000. 
-
-
-Solución: b 
-
-23. ¿Qué Comunidades Autónomas y/o Ciudades Autónomas se exceptúan de la regla que hemos visto en la pregunta anterior, pudiéndose acomodar a rus específicas peculiaridades? 
-
-a) Baleares, Ceuta y Melilla. 
-
-b) Baleares y Canarias. 
-
-c) Canarias, Ceuta y Melilla. 
-
-
-d) Baleares, Canarias, Ceuta y Melilla. 
-
-
-Solución: d 
-
-24. Según dispone al artículo 56.5 LGS, cada provincia tendrá, en todo caso y como mínimo: 
-+1
-
-
-a) Un área de salud. 
-+1
-
-b) Dos áreas de salud. 
-
-c) Tres áreas de salud. 
-
-d) Cuatro áreas de salud. 
-
-
-Solución: a 
-+1
-
-25. ¿Cómo se denomina el órgano de participación de las Áreas de Salud? 
-+1
-
-
-a) Consejo de salud de área. 
-+2
-
-b) Consejo de dirección de área. 
-
-c) Comisión de salud del área. 
-
-d) Comité de Participación del Área de Salud. 
-
-
-Solución: a 
-+1
-
-26. Los Consejos de salud de área estarán constituidos por: 
-+1
-
-a) Las organizaciones sindicales más representativas, en una proporción no inferior al 10%, a través de los profesionales sanitarios titulados. 
-
-b) La representación de los ciudadanos a través de las Corporaciones Locales, que supondrá el 25 % de sus miembros. 
-
-
-c) La Administración sanitaria del área de salud. 
-+2
-
-d) Todas las respuestas son correctas. 
-
-
-Solución: c 
-+1
-
-27. El Gerente del área de salud será nombrado y cesado por la dirección del servicio de salud de la Comunidad Autónoma, a propuesta de: 
-+1
-
-
-a) El Consejo de dirección del área. 
-+2
-
-b) El Consejo de salud del área. 
-
-c) La Consejería de Sanidad de la Comunidad Autónoma. 
-
-d) El Consejo de Gerencia de la zona. 
-
-
-Solución: a 
-+1
-
-28. ¿A quién corresponde, según dispone el art. 60.3 LGS, presentar los anteproyectos del Plan de Salud y de sus adaptaciones anuales así como el proyecto de memoria anual del área de salud? 
-+1
-
-a) Al Consejo de salud del área. 
-
-b) Al Consejo de dirección del área. 
-
-
-c) Al Gerente del área de salud. 
-+2
-
-d) A las Consejerías de Sanidad de las Comunidades Autónomas. 
-
-
-Solución: c 
-+1
-
-29. Señala cuál de las siguientes es una de las funciones de los Consejos de Salud: 
-+1
-
-a) Conocer e informar el anteproyecto del Plan de Salud del área y de sus adaptaciones anuales. 
-
-b) Conocer e informar la memoria anual del área de salud. 
-
-c) Verificar la adecuación de las actuaciones en el área de salud a las normas y directrices de la política sanitaria y económica. 
-
-
-d) Todas las respuestas son correctas. 
-+2
-
-
-Solución: d 
-+1
-
-30. ¿Qué porcentaje de los miembros del Consejo de dirección representan a la Comunidad Autónoma? 
-+1
-
-
-a) El 60 %. 
-+1
-
-b) El 50 %. 
-
-c) El 40 %. 
-
-d) El 25 %. 
-
+d) Podrá gestionar los centros, servicios y establecimientos sanitarios de asistencia sanitaria propios de la Administración Regional.
 
 Solución: a
+
+6. Señala cuál de las siguientes funciones NO es propia del Servicio de Salud de Castilla-La Mancha:
+
+a) La gestión de los recursos humanos, materiales y financieros que le sean asignados.
+
+b) La gestión de las prestaciones farmacéuticas.
+
+c) La ejecución y gestión de las prestaciones sanitarias.
+
+d) Elaborar y proponer al órgano competente el Plan de Salud.
+
+Solución: d
+
+7. La Dirección General de Asistencia Sanitaria:
+
+a) Es un órgano periférico del Servicio de Salud de Castilla-La Mancha.
+
+b) Es un órgano central del Servicio de Salud de Castilla-La Mancha adscrito a su Consejo de Administración.
+
+c) Es una Viceconsejería bajo la dirección de la Dirección-Gerencia del Servicio de Salud de Castilla-La Mancha.
+
+d) Ninguna de las respuestas anteriores es correcta.
+
+Solución: c
+
+8. El Consejo de Administración del Servicio de Salud de Castilla-La Mancha estará integrado por:
+
+a) 5 miembros en representación de las Corporaciones Locales, Organizaciones Sindicales, Empresariales, Consumidores y Vecinos.
+
+b) La Presidencia, sus delegados provinciales, el Director-Gerente y un máximo de diez representantes de la Administración Regional.
+
+c) Las respuestas a) y b) son correctas.
+
+d) Ninguna de las respuestas anteriores es correcta.
+
+Solución: d
+
+9. ¿Quién es el representante legal del Servicio de Salud de Castilla-La Mancha?
+
+a) La persona que ocupe la Presidencia del Consejo de Administración.
+
+b) El Consejo de Administración.
+
+c) La persona que ocupe la Dirección-Gerencia.
+
+d) La persona que ocupe la Secretaría General.
+
+Solución: c
+
+10. A la Secretaría General del Servicio de Salud de Castilla-La Mancha le corresponde:
+
+a) La toma de decisiones sobre los recursos sanitarios destinados a urgencias, emergencias y catástrofes.
+
+b) El análisis, propuesta y gestión del modelo retributivo del personal del SESCAM.
+
+c) La gestión de la prestación farmacéutica y productos dietéticos.
+
+d) La gestión de los servicios generales de los Servicios Centrales del SESCAM, incluida la coordinación administrativa y contratación necesaria.
+
+Solución: d
+
+11. La promoción de la mejora continua de la práctica clínica y la excelencia en la gestión de procesos en los centros del SESCAM es una función que corresponde a:
+
+a) Dirección General de Cuidados y Calidad.
+
+b) La Dirección General de Recursos Humanos.
+
+c) La Secretaría General.
+
+d) La Dirección General de Atención Primaria.
+
+Solución: a
+
+12. La Dirección General de Recursos Humanos desarrollará las siguientes funciones (señala la respuesta INCORRECTA):
+
+a) La elaboración de la normativa e instrucciones en materia de recursos humanos.
+
+b) La propuesta de realización de contratos, conciertos y convenios con centros y servicios ajenos.
+
+c) La planificación y coordinación de programas de actuación preventiva y salud laboral.
+
+d) Las relaciones con las organizaciones sindicales y la negociación colectiva.
+
+Solución: b
+
+13. Los órganos de dirección y gestión de los recursos y centros de atención primaria y especializada que les sean asignados son:
+
+a) Las gerencias de atención especializada.
+
+b) Las gerencias de ámbito regional.
+
+c) Las gerencias de atención primaria.
+
+d) Las gerencias de atención integrada.
+
+Solución: d
+
+14. La Gerencia de Urgencias, Emergencias y Transporte Sanitario:
+
+a) Es una gerencia de atención especializada.
+
+b) Es una gerencia de ámbito regional.
+
+c) Es una gerencia de atención primaria.
+
+d) Es una gerencia de atención integrada.
+
+Solución: b
+
+15. El derecho a la libre elección de profesional, segunda opinión médica y garantía de tiempos máximos se califican en la Ley 5/2010 como:
+
+a) Derechos relativos a la autonomía de la voluntad.
+
+b) Derechos relativos a la documentación sanitaria.
+
+c) Derechos relacionados con los servicios asistenciales.
+
+d) Derechos relativos a la información sanitaria.
+
+Solución: c
+
+16. En relación con los derechos relativos a la intimidad y la confidencialidad, es correcto que:
+
+a) Los centros vigilarán que se guarde la confidencialidad de los datos referidos a ideología, religión, creencias, origen racial, vida sexual o malos tratos.
+
+b) Las personas con acceso a análisis genéticos podrán quedar sujetas al deber de secreto.
+
+c) El derecho de confidencialidad no comprende la información del patrimonio genético.
+
+d) Se informará a familiares sin consultar al Comité de Ética Asistencial.
+
+Solución: a
+
+17. Sobre el derecho a la información asistencial, señala la respuesta INCORRECTA:
+
+a) Deberá respetarse la voluntad del paciente de no ser informado. La renuncia podrá formularse por cualquier medio que permita dejar constancia.
+
+b) El titular del derecho es el paciente. Se informará a familiares solo si el paciente lo permite.
+
+c) En menores de 16 años no emancipados se informará también a los padres o tutores.
+
+d) Todas las respuestas anteriores son correctas.
+
+Solución: a
+
+18. La autonomía de la voluntad del paciente comprende:
+
+a) La libertad para negarse a recibir un procedimiento diagnóstico o terapéutico.
+
+b) La libertad para revocar una decisión anterior sobre su propia salud.
+
+c) La libertad para elegir entre las distintas opciones expuestas por el profesional.
+
+d) Todas las respuestas anteriores son correctas.
+
+Solución: d
+
+19. El consentimiento informado:
+
+a) Se prestará por escrito, por regla general.
+
+b) Será verbal en los procedimientos invasores.
+
+c) Se prestará por escrito en los procedimientos que impliquen riesgos o inconvenientes de notoria repercusión negativa sobre la salud.
+
+d) Será verbal en todos los casos.
+
+Solución: c
+
+20. Sobre la Declaración de Voluntades Anticipadas, es correcto que:
+
+a) Toda persona mayor de edad, libre y no incapacitada judicialmente podrá formularla.
+
+b) Contiene los cuidados deseados o no, y el destino del cuerpo y órganos tras el fallecimiento.
+
+c) Obliga al médico, al equipo sanitario y a quienes deban ejecutar lo dispuesto.
+
+d) Todas las respuestas anteriores son correctas.
+
+Solución: d
+
+21. El conjunto de documentos que contienen los datos e informaciones sobre la evolución clínica de un paciente se denomina:
+
+a) Voluntad anticipada.
+
+b) Historia Clínica.
+
+c) Consentimiento informado.
+
+d) Testamento vital.
+
+Solución: b
+
+22. ¿Cuál de los siguientes derechos NO se encuentra especialmente reconocido en la Ley de Ordenación Sanitaria de CLM?
+
+a) Derecho a la obtención de los medicamentos.
+
+b) Derecho a la garantía de tiempos máximos de respuesta.
+
+c) Derecho al acompañamiento.
+
+d) Derecho a la libre elección del procedimiento quirúrgico a emplear de entre los disponibles.
+
+Solución: d
+
+23. ¿Cuál de los siguientes es un deber de los profesionales de los centros sanitarios?
+
+a) Guardar secreto sobre toda la información y documentación clínica de los pacientes.
+
+b) Renunciar a prestar atención sanitaria en situaciones de injuria si no conlleva desatención.
+
+c) La autonomía científica sin más limitaciones que las establecidas por la ley.
+
+d) Recibir apoyo profesional en situaciones problemáticas.
+
+Solución: a
+
+24. Es constitutiva de una infracción administrativa MUY GRAVE:
+
+a) La utilización indebida o irresponsable de los recursos que no respondan a una necesidad objetiva.
+
+b) La agresión física a profesionales de los centros sanitarios, pacientes o acompañantes.
+
+c) La falta de respeto o amenazas contra los profesionales.
+
+d) Las respuestas b) y c) son correctas.
+
+Solución: b
+
+25. ¿Cómo pueden sancionarse las infracciones calificadas como muy graves?
+
+a) Con multa de hasta 15.000€.
+
+b) Con la inhabilitación para el ejercicio de la profesión por un período de uno a cinco años.
+
+c) Con el cierre definitivo del establecimiento en el caso de centros privados.
+
+d) Todas las respuestas anteriores son correctas.
+
+Solución: b

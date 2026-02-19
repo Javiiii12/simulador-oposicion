@@ -3834,5 +3834,330 @@
     },
     "correcta": "a",
     "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 4",
+    "pregunta": "De las siguientes competencias, corresponde al Consejo de Gobierno de Castilla-La Mancha:",
+    "opciones": {
+      "a": "Elaborar el reglamento de composición y funcionamiento del Servicio de Salud de Castilla-La Mancha para su remisión al Consejo de Gobierno.",
+      "b": "Nombrar y cesar a la persona que ocupe la Dirección-Gerencia del Servicio de Salud de Castilla-La Mancha.",
+      "c": "Programar, ejecutar y evaluar las directrices y los criterios generales de la política y la planificación sanitarias en Castilla-La Mancha.",
+      "d": "Aprobar la delimitación, dentro de las Áreas de Salud, de las Zonas Básicas de Salud y de cualquier otra ordenación."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 4",
+    "pregunta": "Señala cuál de las siguientes competencias se atribuye a la Consejería competente en materia de sanidad de Castilla-La Mancha:",
+    "opciones": {
+      "a": "Aprobar el Plan de Salud de Castilla-La Mancha.",
+      "b": "Autorizar la celebración de convenios con otras Administraciones públicas para la prestación de servicios sanitarios.",
+      "c": "Controlar e inspeccionar las actividades del Sistema Sanitario de Castilla-La Mancha y su adecuación al Plan de Salud.",
+      "d": "Establecer las directrices y los criterios generales de la política sanitaria en Castilla-La Mancha."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 4",
+    "pregunta": "Corresponde a las Corporaciones locales, en el marco del Plan de Salud y de las directrices regionales, las siguientes funciones (señala la opción de respuesta INCORRECTA):",
+    "opciones": {
+      "a": "Formar parte de los órganos del Sistema Sanitario Público de Castilla-La Mancha.",
+      "b": "Ejercer las competencias que en materia de salud pública les atribuye la legislación de régimen local.",
+      "c": "Elaborar el Registro de Asociaciones Científicas de carácter sanitario de Castilla-La Mancha.",
+      "d": "Colaborar en la construcción, remodelación y equipamiento de Centros y Servicios sanitarios, así como en su conservación y mantenimiento."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 4",
+    "pregunta": "Los Ayuntamientos tendrán las siguientes responsabilidades respecto al cumplimiento de las normas y planes sanitarios (señala la respuesta INCORRECTA):",
+    "opciones": {
+      "a": "Control sanitario de edificios y lugares de vivienda y convivencia humana (centros de alimentación, peluquerías, hoteles, etc.).",
+      "b": "Control sanitario de la distribución y suministro de alimentos, bebidas y demás productos, EXCEPTO sus medios de transporte.",
+      "c": "Control sanitario de industrias, actividades y servicios, transportes, ruidos y vibraciones.",
+      "d": "Control sanitario de los cementerios y de la sanidad mortuoria."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 4",
+    "pregunta": "Sobre el Servicio de Salud de Castilla-La Mancha (SESCAM), señala cuál de los siguientes enunciados NO es correcto:",
+    "opciones": {
+      "a": "Es una autoridad administrativa independiente dotada de personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines.",
+      "b": "Se crea con el fin de proveer los servicios y gestionar los centros y establecimientos destinados a la atención sanitaria.",
+      "c": "Entre sus funciones se encuentra la de estimular a la formación continuada, a la docencia y a la investigación científica.",
+      "d": "Podrá gestionar los centros, servicios y establecimientos sanitarios de asistencia sanitaria propios de la Administración Regional."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 4",
+    "pregunta": "Señala cuál de las siguientes funciones NO es propia del Servicio de Salud de Castilla-La Mancha:",
+    "opciones": {
+      "a": "La gestión de los recursos humanos, materiales y financieros que le sean asignados.",
+      "b": "La gestión de las prestaciones farmacéuticas.",
+      "c": "La ejecución y gestión de las prestaciones sanitarias.",
+      "d": "Elaborar y proponer al órgano competente el Plan de Salud."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 4",
+    "pregunta": "La Dirección General de Asistencia Sanitaria:",
+    "opciones": {
+      "a": "Es un órgano periférico del Servicio de Salud de Castilla-La Mancha.",
+      "b": "Es un órgano central del Servicio de Salud de Castilla-La Mancha adscrito a su Consejo de Administración.",
+      "c": "Es una Viceconsejería bajo la dirección de la Dirección-Gerencia del Servicio de Salud de Castilla-La Mancha.",
+      "d": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 4",
+    "pregunta": "El Consejo de Administración del Servicio de Salud de Castilla-La Mancha estará integrado por:",
+    "opciones": {
+      "a": "5 miembros en representación de las Corporaciones Locales, Organizaciones Sindicales, Empresariales, Consumidores y Vecinos.",
+      "b": "La Presidencia, sus delegados provinciales, el Director-Gerente y un máximo de diez representantes de la Administración Regional.",
+      "c": "Las respuestas a) y b) son correctas.",
+      "d": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 4",
+    "pregunta": "¿Quién es el representante legal del Servicio de Salud de Castilla-La Mancha?",
+    "opciones": {
+      "a": "La persona que ocupe la Presidencia del Consejo de Administración.",
+      "b": "El Consejo de Administración.",
+      "c": "La persona que ocupe la Dirección-Gerencia.",
+      "d": "La persona que ocupe la Secretaría General."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 4",
+    "pregunta": "A la Secretaría General del Servicio de Salud de Castilla-La Mancha le corresponde:",
+    "opciones": {
+      "a": "La toma de decisiones sobre los recursos sanitarios destinados a urgencias, emergencias y catástrofes.",
+      "b": "El análisis, propuesta y gestión del modelo retributivo del personal del SESCAM.",
+      "c": "La gestión de la prestación farmacéutica y productos dietéticos.",
+      "d": "La gestión de los servicios generales de los Servicios Centrales del SESCAM, incluida la coordinación administrativa y contratación necesaria."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 4",
+    "pregunta": "La promoción de la mejora continua de la práctica clínica y la excelencia en la gestión de procesos en los centros del SESCAM es una función que corresponde a:",
+    "opciones": {
+      "a": "Dirección General de Cuidados y Calidad.",
+      "b": "La Dirección General de Recursos Humanos.",
+      "c": "La Secretaría General.",
+      "d": "La Dirección General de Atención Primaria."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 4",
+    "pregunta": "La Dirección General de Recursos Humanos desarrollará las siguientes funciones (señala la respuesta INCORRECTA):",
+    "opciones": {
+      "a": "La elaboración de la normativa e instrucciones en materia de recursos humanos.",
+      "b": "La propuesta de realización de contratos, conciertos y convenios con centros y servicios ajenos.",
+      "c": "La planificación y coordinación de programas de actuación preventiva y salud laboral.",
+      "d": "Las relaciones con las organizaciones sindicales y la negociación colectiva."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 4",
+    "pregunta": "Los órganos de dirección y gestión de los recursos y centros de atención primaria y especializada que les sean asignados son:",
+    "opciones": {
+      "a": "Las gerencias de atención especializada.",
+      "b": "Las gerencias de ámbito regional.",
+      "c": "Las gerencias de atención primaria.",
+      "d": "Las gerencias de atención integrada."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 4",
+    "pregunta": "La Gerencia de Urgencias, Emergencias y Transporte Sanitario:",
+    "opciones": {
+      "a": "Es una gerencia de atención especializada.",
+      "b": "Es una gerencia de ámbito regional.",
+      "c": "Es una gerencia de atención primaria.",
+      "d": "Es una gerencia de atención integrada."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 4",
+    "pregunta": "El derecho a la libre elección de profesional, segunda opinión médica y garantía de tiempos máximos se califican en la Ley 5/2010 como:",
+    "opciones": {
+      "a": "Derechos relativos a la autonomía de la voluntad.",
+      "b": "Derechos relativos a la documentación sanitaria.",
+      "c": "Derechos relacionados con los servicios asistenciales.",
+      "d": "Derechos relativos a la información sanitaria."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 4",
+    "pregunta": "En relación con los derechos relativos a la intimidad y la confidencialidad, es correcto que:",
+    "opciones": {
+      "a": "Los centros vigilarán que se guarde la confidencialidad de los datos referidos a ideología, religión, creencias, origen racial, vida sexual o malos tratos.",
+      "b": "Las personas con acceso a análisis genéticos podrán quedar sujetas al deber de secreto.",
+      "c": "El derecho de confidencialidad no comprende la información del patrimonio genético.",
+      "d": "Se informará a familiares sin consultar al Comité de Ética Asistencial."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 4",
+    "pregunta": "Sobre el derecho a la información asistencial, señala la respuesta INCORRECTA:",
+    "opciones": {
+      "a": "Deberá respetarse la voluntad del paciente de no ser informado. La renuncia podrá formularse por cualquier medio que permita dejar constancia.",
+      "b": "El titular del derecho es el paciente. Se informará a familiares solo si el paciente lo permite.",
+      "c": "En menores de 16 años no emancipados se informará también a los padres o tutores.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 4",
+    "pregunta": "La autonomía de la voluntad del paciente comprende:",
+    "opciones": {
+      "a": "La libertad para negarse a recibir un procedimiento diagnóstico o terapéutico.",
+      "b": "La libertad para revocar una decisión anterior sobre su propia salud.",
+      "c": "La libertad para elegir entre las distintas opciones expuestas por el profesional.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 4",
+    "pregunta": "El consentimiento informado:",
+    "opciones": {
+      "a": "Se prestará por escrito, por regla general.",
+      "b": "Será verbal en los procedimientos invasores.",
+      "c": "Se prestará por escrito en los procedimientos que impliquen riesgos o inconvenientes de notoria repercusión negativa sobre la salud.",
+      "d": "Será verbal en todos los casos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 4",
+    "pregunta": "Sobre la Declaración de Voluntades Anticipadas, es correcto que:",
+    "opciones": {
+      "a": "Toda persona mayor de edad, libre y no incapacitada judicialmente podrá formularla.",
+      "b": "Contiene los cuidados deseados o no, y el destino del cuerpo y órganos tras el fallecimiento.",
+      "c": "Obliga al médico, al equipo sanitario y a quienes deban ejecutar lo dispuesto.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 4",
+    "pregunta": "El conjunto de documentos que contienen los datos e informaciones sobre la evolución clínica de un paciente se denomina:",
+    "opciones": {
+      "a": "Voluntad anticipada.",
+      "b": "Historia Clínica.",
+      "c": "Consentimiento informado.",
+      "d": "Testamento vital."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 4",
+    "pregunta": "¿Cuál de los siguientes derechos NO se encuentra especialmente reconocido en la Ley de Ordenación Sanitaria de CLM?",
+    "opciones": {
+      "a": "Derecho a la obtención de los medicamentos.",
+      "b": "Derecho a la garantía de tiempos máximos de respuesta.",
+      "c": "Derecho al acompañamiento.",
+      "d": "Derecho a la libre elección del procedimiento quirúrgico a emplear de entre los disponibles."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 4",
+    "pregunta": "¿Cuál de los siguientes es un deber de los profesionales de los centros sanitarios?",
+    "opciones": {
+      "a": "Guardar secreto sobre toda la información y documentación clínica de los pacientes.",
+      "b": "Renunciar a prestar atención sanitaria en situaciones de injuria si no conlleva desatención.",
+      "c": "La autonomía científica sin más limitaciones que las establecidas por la ley.",
+      "d": "Recibir apoyo profesional en situaciones problemáticas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 4",
+    "pregunta": "Es constitutiva de una infracción administrativa MUY GRAVE:",
+    "opciones": {
+      "a": "La utilización indebida o irresponsable de los recursos que no respondan a una necesidad objetiva.",
+      "b": "La agresión física a profesionales de los centros sanitarios, pacientes o acompañantes.",
+      "c": "La falta de respeto o amenazas contra los profesionales.",
+      "d": "Las respuestas b) y c) son correctas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 4",
+    "pregunta": "¿Cómo pueden sancionarse las infracciones calificadas como muy graves?",
+    "opciones": {
+      "a": "Con multa de hasta 15.000€.",
+      "b": "Con la inhabilitación para el ejercicio de la profesión por un período de uno a cinco años.",
+      "c": "Con el cierre definitivo del establecimiento en el caso de centros privados.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "b",
+    "explicacion": ""
   }
 ]
