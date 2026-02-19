@@ -1,546 +1,1200 @@
-Test n.º 10: Distribución del Trabajo y Categorías Profesionales
-1. El diseño del local de cocina se hará teniendo en cuenta siempre: 
+Test n.º 11: Los alimentos y nutrición (Parte 1: 1-100)
+1. ¿Qué es la nutrición?
 
-a) La experiencia del personal de cocina. 
+a) El proceso voluntario de ingerir alimentos.
 
-b) El gusto de los comensales. 
+b) El conjunto de procesos mediante los cuales el organismo recibe, transforma y utiliza las sustancias químicas contenidas en los alimentos.
 
-c) La ubicación y distribución de maquinaria, herramientas y utensilios de cocina. 
+c) El estudio de las dietas únicamente.
 
-d) El diseño del servicio de radiología. 
+d) La preparación de los alimentos en la cocina.
 
+Solución: b
 
-Solución: c 
+2. ¿Qué son los nutrientes?
 
-2. ¿Quiénes determinan en primer lugar el espacio y el tamaño de los equipos en la cocina hospitalaria? 
+a) Sustancias compuestas que no sirven para nada.
 
-a) Métodos de elaboración, en cuanto número de menús diarios. 
+b) Sustancias químicas contenidas en los alimentos que el organismo utiliza para su energía, mantenimiento y crecimiento.
 
-b) Las necesidades en cuanto número de menús diarios. 
+c) El nombre genérico de las carnes.
 
-c) Las características de la instalación. 
+d) Los desperdicios de los alimentos.
 
-d) Las materias primas que se van a utilizar. 
+Solución: b
 
+3. El valor calórico de 1 gramo de glúcidos (hidratos de carbono) es de:
 
-Solución: b 
+a) 9 kcal.
 
-3. ¿A qué principio atenderá la manera en la que se debe hacer la distribución de equipos en la cocina? 
+b) 7 kcal.
 
-a) Se basará en el principio de marcha adelante. 
+c) 4 kcal.
 
-b) Se basará en el principio de separación de zonas de trabajo. 
+d) 2 kcal.
 
-c) Se basará en el principio de conexión entre las distintas fases del proceso. 
+Solución: c
 
-d) Se atenderá atendiendo a todos los anteriores principios. 
+4. El valor calórico de 1 gramo de lípidos (grasas) es de:
 
+a) 4 kcal.
 
-Solución: d 
+b) 9 kcal.
 
-4. ¿Cuál de estas será la última zona de la cocina hospitalaria al final del proceso? 
+c) 7 kcal.
 
-a) Zona de recepción. 
+d) 12 kcal.
 
-b) Zona de preparación. 
+Solución: b
 
-c) Zona de distribución. 
+5. El valor calórico de 1 gramo de proteínas es de:
 
-d) Zona de elaboración. 
+a) 4 kcal.
 
+b) 9 kcal.
 
-Solución: c 
+c) 1 kcal.
 
-5. ¿Dónde se ubicará la zona de recepción en la cocina hospitalaria? 
+d) 0 kcal.
 
-a) Estará ubicada en la planta baja, cercana a las cámaras y almacenes, y comunicada con la zona de preparación. 
+Solución: a
 
-b) Estará ubicada en la planta media, comunicada con la zona de distribución. 
+6. ¿Cuál de los siguientes nutrientes se considera "plástico" o estructural?
 
-c) Estará ubicada en la planta alta, comunicada con la zona de elaboración. 
+a) Vitaminas.
 
-d) Estará ubicada en la planta baja y comunicada con las zonas de distribución y elaboración. 
+b) Grasas.
 
+c) Proteínas.
 
-Solución: a 
+d) Hidratos de carbono.
 
-6. ¿Qué factores pueden influir en las condiciones ambientales de las cámaras frigoríficas? 
+Solución: c
 
-a) Golpes. 
+7. Los glúcidos tienen una función principalmente:
 
-b) Movilidad y presión atmosférica. 
+a) Reguladora.
 
-c) Temperatura y humedad. 
+b) Estructural.
 
-d) Ninguno de los anteriores son correctos. 
+c) Energética inmediata.
 
+d) De reserva a largo plazo.
 
-Solución: c 
+Solución: c
 
-7. La zona de desperdicios y basuras solo se comunicará con la zona de: 
+8. Las vitaminas y los minerales cumplen una función:
 
-a) Almacenamiento. 
+a) Energética.
 
-b) Preparación. 
+b) Plástica.
 
-c) Recepción. 
+c) Reguladora.
 
-d) Distribución. 
+d) Ninguna es correcta.
 
+Solución: c
 
-Solución: a 
+9. ¿Qué nutriente es esencial para el transporte de vitaminas liposolubles?
 
-8. La zona de elaboración en la cocina hospitalaria puede llamarse también zona de: 
+a) El agua.
 
-a) Almacenamiento. 
+b) Los lípidos.
 
-b) Preparación. 
+c) La fibra.
 
-c) Cocción. 
+d) El hierro.
 
-d) Distribución. 
+Solución: b
 
+10. Los aminoácidos son las unidades básicas que forman:
 
-Solución: c 
+a) Los almidones.
 
-9. ¿Dónde se realiza el racionado de la comida, emplatado, distribución y servicio? 
+b) Las grasas saturadas.
 
-a) En la zona de almacenamiento. 
+c) Las proteínas.
 
-b) En la zona de preparación. 
+d) Las vitaminas del grupo B.
 
-c) En la zona de recepción. 
+Solución: c
 
-d) En la zona de distribución. 
+11. ¿Cuántos aminoácidos se consideran esenciales para el ser humano adulto?
 
+a) 5.
 
-Solución: d 
+b) 8.
 
-10. ¿Qué útiles o equipos se encenderán o conectarán en el momento de su uso? 
+c) 12.
 
-a) Freidoras. 
+d) 20.
 
-b) Las planchas. 
+Solución: b
 
-c) Las placas. 
+12. El metabolismo basal es:
 
-d) Nada de lo anterior, ya que el calentamiento no es inmediato. 
+a) La energía gastada durante el ejercicio intenso.
 
+b) El consumo energético mínimo necesario para mantener las funciones vitales en reposo.
 
-Solución: d 
+c) La energía que se pierde por el sudor.
 
-11. Cuando el avance es siempre en el mismo sentido y entrada/salida están en lugares opuestos, la distribución es: 
+d) El peso total de una persona.
 
-a) Lineal. 
+Solución: b
 
-b) Cíclica. 
+13. ¿Cuál es el principal glúcido de la leche?
 
-c) En L. 
+a) Glucosa.
 
-d) En U. 
+b) Fructosa.
 
+c) Lactosa.
 
-Solución: a 
+d) Sacarosa.
 
-12. Si el avance es en un sentido pero en algún punto se produce un ángulo para aprovechar el espacio, la distribución es: 
+Solución: c
 
-a) Lineal. 
+14. El almidón es un glúcido de tipo:
 
-b) Cíclica. 
+a) Monosacárido.
 
-c) En L. 
+b) Disacárido.
 
-d) En U. 
+c) Polisacárido.
 
+d) Vitamina.
 
-Solución: c 
+Solución: c
 
-13. En qué organización el avance en la marcha hace un giro de 180º con cambio de sentido? 
+15. La fibra alimentaria se caracteriza porque:
 
-a) Lineal. 
+a) Aporta muchas calorías.
 
-b) Cíclica. 
+b) No es digerible por las enzimas humanas.
 
-c) En L. 
+c) Solo se encuentra en la carne.
 
-d) En U. 
+d) Es un tipo de proteína.
 
+Solución: b
 
-Solución: d 
+16. Los ácidos grasos saturados se encuentran mayoritariamente en:
 
-14. ¿Con qué locales NO pueden comunicar directamente las dependencias de la cocina hospitalaria? 
+a) Aceites vegetales como el de oliva.
 
-a) Servicios higiénicos y aseos. 
+b) Pescados azules.
 
-b) Vestuarios. 
+c) Grasas de origen animal.
 
-c) Plonge. 
+d) Frutos secos.
 
-d) Con los indicados en las respuestas a) y b). 
+Solución: c
 
+17. El ácido oleico es un ácido graso:
 
-Solución: d 
+a) Saturado.
 
-15. Con el principio de marcha adelante: 
+b) Monoinsaturado.
 
-a) Se evitarán las contaminaciones cruzadas. 
+c) Poliinsaturado.
 
-b) Se podrá conseguir que un alimento retroceda a una etapa anterior. 
+d) Trans.
 
-c) Se conseguirá que no exista la separación de zonas de trabajo. 
+Solución: b
 
-d) Se evitará el establecimiento de circuitos. 
+18. ¿Qué vitamina es hidrosoluble?
 
+a) Vitamina A.
 
-Solución: a 
+b) Vitamina D.
 
-16. ¿Qué actividades requieren un especial grado de limpieza para evitar la contaminación? 
+c) Vitamina C.
 
-a) Lavado de vajilla y hortalizas. 
+d) Vitamina K.
 
-b) Distribución de platos calientes y almacén de vajilla limpia. 
+Solución: c
 
-c) Recepción y almacenamiento de materias primas. 
+19. Las vitaminas liposolubles son:
 
-d) Todas las respuestas anteriores son correctas. 
+a) B y C.
 
+b) A, D, E y K.
 
-Solución: d 
+c) Todas las del grupo B.
 
-17. ¿Qué actividad realizada adecuadamente NO debe generar contaminación? 
+d) Hierro y Calcio.
 
-a) Traslado y almacenamiento de residuos. 
+Solución: b
 
-b) Limpieza de aves y pescado. 
+20. La falta de vitamina C puede provocar:
 
-c) Pelado de verduras. 
+a) Raquitismo.
 
-d) Emplatado. 
+b) Escorbuto.
 
+c) Ceguera nocturna.
 
-Solución: d 
+d) Beriberi.
 
-18. Sobre los circuitos sucio/limpio en cocina es falso, excepto: 
+Solución: b
 
-a) El área sucia se situará entre el área de almacenamiento. 
+21. La vitamina D es fundamental para la absorción de:
 
-b) Las zonas limpias no necesitan rejillas. 
+a) Hierro.
 
-c) Los circuitos limpio y sucio nunca deben cruzarse en cocina. 
+b) Calcio.
 
-d) En la zona limpia incluimos la salida de desperdicios. 
+c) Sodio.
 
+d) Vitamina C.
 
-Solución: c 
+Solución: b
 
-19. ¿Qué partida elabora corrientemente los segundos platos y los platos "fuertes"? 
+22. El mineral que forma parte de la hemoglobina para transportar oxígeno es el:
 
-a) Partida de entremetier. 
+a) Fósforo.
 
-b) Partida de salsero. 
+b) Magnesio.
 
-c) Partida de pastelero. 
+c) Hierro.
 
-d) Partida de despensero. 
+d) Zinc.
 
+Solución: c
 
-Solución: b 
+23. ¿Qué porcentaje aproximado de agua compone el cuerpo humano adulto?
 
-20. ¿Cuántas categorías de cocina poseerá cada partida en la organización hospitalaria? 
+a) 20-30%.
 
-a) Dos: cocineros y jefe de partida. 
+b) 40-50%.
 
-b) Tres: cocineros, pinches y Maitre. 
+c) 60-70%.
 
-c) Dos: cocineros y pinches. 
+d) 90-95%.
 
-d) Tres: cocineros, pinches y jefe de partida. 
+Solución: c
 
+24. El balance hídrico es:
 
-Solución: d 
+a) La cantidad de agua que hay en un vaso.
 
-21. ¿Qué función NO realiza la partida de despenseros? 
+b) El equilibrio entre los ingresos y las pérdidas de agua del organismo.
 
-a) Despiece y fileteado de carnes. 
+c) Un tipo de dieta líquida.
 
-b) Elaboración de platos fríos y paté. 
+d) La presión arterial.
 
-c) Limpieza de pescado. 
+Solución: b
 
-d) Elaboración de asados. 
+25. En la rueda de los alimentos, el Grupo I (Leche y derivados) tiene función:
 
+a) Plástica.
 
-Solución: d 
+b) Energética.
 
-22. El pinche de cocina tiene entre sus funciones: 
+c) Reguladora.
 
-a) La elaboración de menús complejos. 
+d) Defensiva.
 
-b) El pelado de verduras y hortalizas. 
+Solución: a
 
-c) La dirección del servicio de comidas. 
+26. La carne es una fuente importante de:
 
-d) La compra directa a proveedores. 
+a) Vitamina C.
 
+b) Hidratos de carbono.
 
-Solución: b 
+c) Proteínas de alto valor biológico.
 
-23. La limpieza de útiles de cocina es responsabilidad de: 
+d) Fibra.
 
-a) El Jefe de Cocina. 
+Solución: c
 
-b) El Cocinero. 
+27. ¿Qué alimento tiene mayor contenido en calcio?
 
-c) El Pinche. 
+a) Manzana.
 
-d) El Celador. 
+b) Queso.
 
+c) Arroz.
 
-Solución: c 
+d) Ternera.
 
-24. ¿A quién corresponde la vigilancia de la entrada de mercancías en el almacén de cocina? 
+Solución: b
 
-a) Al Jefe de Cocina o responsable designado. 
+28. Los huevos se consideran un alimento:
 
-b) A cualquier pinche disponible. 
+a) Incompleto.
 
-c) Al personal de mantenimiento. 
+b) Muy completo por tener proteínas con todos los aminoácidos esenciales.
 
-d) Al servicio de nutrición. 
+c) Prohibido en todas las dietas.
 
+d) Rico en fibra.
 
-Solución: a 
+Solución: b
 
-25. El transporte de los carros de comida hasta las plantas es función de: 
+29. El pescado azul se diferencia del blanco en que:
 
-a) Los Pinches. 
+a) Tiene más espinas.
 
-b) Los Celadores o personal de transporte. 
+b) Tiene un contenido graso superior al 5-8%.
 
-c) Los Cocineros. 
+c) No tiene vitaminas.
 
-d) El personal de limpieza. 
+d) Es más barato siempre.
 
+Solución: b
 
-Solución: b 
+30. Las legumbres son ricas en:
 
-26. La recogida de los platos usados en las habitaciones de los pacientes corresponde a: 
+a) Solo grasas.
 
-a) El Pinche de cocina. 
+b) Proteínas vegetales y fibra.
 
-b) El Cocinero. 
+c) Vitamina B12 exclusivamente.
 
-c) El personal subalterno o de limpieza de la planta. 
+d) Vitamina D.
 
-d) El Jefe de Cocina. 
+Solución: b
 
+31. Las hortalizas y verduras destacan por su aporte de:
 
-Solución: c 
+a) Colesterol.
 
-27. ¿Qué profesional se encarga de la distribución de las dietas terapéuticas bajo supervisión médica? 
+b) Agua, fibra y vitaminas.
 
-a) El Pinche. 
+c) Proteínas plásticas.
 
-b) El Dietista o Nutricionista. 
+d) Energía concentrada.
 
-c) El Jefe de Cocina. 
+Solución: b
 
-d) El Almacenero. 
+32. ¿Cuál es el componente principal de las frutas?
 
+a) Proteínas.
 
-Solución: b 
+b) Lípidos.
 
-28. El mantenimiento básico de la maquinaria de cocina (limpieza diaria) lo realiza: 
+c) Agua.
 
-a) El servicio técnico externo. 
+d) Almidón.
 
-b) El personal de mantenimiento del hospital. 
+Solución: c
 
-c) El Pinche de cocina. 
+33. Los cereales aportan principalmente:
 
-d) El Jefe de Cocina. 
+a) Calcio.
 
+b) Glúcidos (almidón).
 
-Solución: c 
+c) Vitamina A.
 
-29. En una cocina hospitalaria, la jerarquía superior inmediata del Pinche es: 
+d) Grasas saturadas.
 
-a) El Director Gerente. 
+Solución: b
 
-b) El Cocinero o Jefe de Partida. 
+34. El aceite de oliva es rico en:
 
-c) El Jefe de Mantenimiento. 
+a) Ácido palmítico.
 
-d) El Médico de guardia. 
+b) Ácido oleico.
 
+c) Colesterol.
 
-Solución: b 
+d) Lactosa.
 
-30. El principio de "marcha adelante" prohíbe: 
+Solución: b
 
-a) Cocinar platos fríos. 
+35. ¿Qué es una caloría?
 
-b) El cruce de productos limpios con residuos. 
+a) Una medida de peso.
 
-c) Usar guantes desechables. 
+b) La cantidad de calor necesaria para elevar 1ºC la temperatura de 1 gramo de agua.
 
-d) Trabajar en equipo. 
+c) Una vitamina del grupo B.
 
+d) Un tipo de azúcar.
 
-Solución: b 
+Solución: b
 
-31. ¿Qué zona de la cocina debe estar más alejada de la zona de cocción? 
+36. El índice de masa corporal (IMC) se calcula:
 
-a) El emplatado. 
+a) Peso por altura.
 
-b) La zona de lavado de vajilla y residuos. 
+b) Altura dividido por peso.
 
-c) La zona de preparación de vegetales. 
+c) Peso (kg) dividido por la altura al cuadrado (m²).
 
-d) El almacén de productos secos. 
+d) Cintura dividido por cadera.
 
+Solución: c
 
-Solución: b 
+37. Un IMC entre 25 y 29,9 indica:
 
-32. La iluminación en las zonas de trabajo de cocina debe ser: 
+a) Infrapeso.
 
-a) Tenue para no calentar los alimentos. 
+b) Peso normal.
 
-b) Suficiente y con protección para las bombillas. 
+c) Sobrepeso.
 
-c) Solo natural. 
+d) Obesidad tipo II.
 
-d) Roja para detectar bacterias. 
+Solución: c
 
+38. La dieta equilibrada debe aportar de glúcidos un:
 
-Solución: b 
+a) 10-15%.
 
-33. La ventilación en la cocina hospitalaria sirve para: 
+b) 30-35%.
 
-a) Enfriar la comida rápido. 
+c) 55-60%.
 
-b) Eliminar humos, olores y condensación. 
+d) 80-90%.
 
-c) Que el personal no tenga calor. 
+Solución: c
 
-d) Atraer aire del exterior sin filtrar. 
+39. La dieta equilibrada debe aportar de lípidos un:
 
+a) 5%.
 
-Solución: b 
+b) 30-35%.
 
-34. El suelo de la cocina debe ser: 
+c) 60%.
 
-a) De madera. 
+d) 10%.
 
-b) Antideslizante y fácil de limpiar. 
+Solución: b
 
-c) Con moqueta. 
+40. La dieta equilibrada debe aportar de proteínas un:
 
-d) De cemento rugoso. 
+a) 12-15%.
 
+b) 40%.
 
-Solución: b 
+c) 5%.
 
-35. ¿A qué temperatura debe estar la zona de preparación de platos fríos? 
+d) 60%.
 
-a) A temperatura ambiente (25ºC). 
+Solución: a
 
-b) Por debajo de 18ºC (climatizada). 
+41. ¿Cuál es el órgano que secreta la insulina?
 
-c) A 0ºC. 
+a) Hígado.
 
-d) Por encima de 30ºC. 
+b) Páncreas.
 
+c) Estómago.
 
-Solución: b 
+d) Riñón.
 
-36. El personal que manipula alimentos debe lavarse las manos: 
+Solución: b
 
-a) Una vez al día. 
+42. La absorción de la mayoría de los nutrientes ocurre en:
 
-b) Después de cualquier actividad que pueda contaminarlas. 
+a) El esófago.
 
-c) Solo si se ven sucias. 
+b) El estómago.
 
-d) Cada 4 horas exactamente. 
+c) El intestino delgado.
 
+d) El intestino grueso.
 
-Solución: b 
+Solución: c
 
-37. El uso de gorro o redecilla en cocina es: 
+43. La bilis ayuda a la digestión de:
 
-a) Opcional si se tiene el pelo corto. 
+a) Las proteínas.
 
-b) Obligatorio para todo el personal. 
+b) Los glúcidos.
 
-c) Solo para las mujeres. 
+c) Las grasas (lípidos).
 
-d) Solo para el personal que sirve la comida. 
+d) Las vitaminas hidrosolubles.
 
+Solución: c
 
-Solución: b 
+44. El glucógeno es:
 
-38. Fumar en el área de cocina está: 
+a) Una grasa animal.
 
-a) Permitido en la zona de descanso. 
+b) La forma de reserva de glucosa en hígado y músculo.
 
-b) Totalmente prohibido. 
+c) Un aminoácido esencial.
 
-c) Permitido solo si no hay comida cerca. 
+d) Un tipo de fibra vegetal.
 
-d) Permitido al Jefe de Cocina. 
+Solución: b
 
+45. ¿Qué vitamina ayuda a prevenir la anemia perniciosa?
 
-Solución: b 
+a) Vitamina A.
 
-39. La zona de "sucio" en la plonge es donde se realiza: 
+b) Vitamina B12.
 
-a) El pelado de patatas. 
+c) Vitamina D.
 
-b) La recepción y desbarasado de vajilla usada. 
+d) Vitamina E.
 
-c) El almacenamiento de detergentes. 
+Solución: b
 
-d) El cocinado de carnes. 
+46. La deshidratación es especialmente peligrosa en:
 
+a) Adultos jóvenes.
 
-Solución: b 
+b) Ancianos y niños.
 
-40. ¿Qué se entiende por "circuito de trabajo" en cocina? 
+c) Deportistas solamente.
 
-a) El recorrido de los pacientes al comedor. 
+d) No es peligrosa.
 
-b) El camino que siguen los alimentos desde recepción hasta consumo. 
+Solución: b
 
-c) El horario de turnos del personal. 
+47. El yodo es necesario para el buen funcionamiento de:
 
-d) El cableado eléctrico de la maquinaria. 
+a) Los huesos.
 
+b) La glándula tiroides.
 
-Solución: b 
+c) Los músculos.
 
-41. La ropa de trabajo del Pinche debe ser: 
+d) La vista.
 
-a) La que traiga de su casa. 
+Solución: b
 
-b) Exclusiva para el trabajo y estar siempre limpia. 
+48. ¿Qué alimento pertenece al grupo de los glúcidos complejos?
 
-c) De color negro para que no se vea la suciedad. 
+a) Azúcar de mesa.
 
-d) Un traje formal. 
+b) Miel.
 
+c) Pasta (macarrones).
 
-Solución: b 
+d) Refrescos.
 
-42. ¿Cuál es el objetivo final de la correcta distribución del trabajo en cocina? 
+Solución: c
 
-a) Que el personal trabaje menos. 
+49. El colesterol se encuentra solo en alimentos de origen:
 
-b) Garantizar la seguridad alimentaria y la eficiencia del servicio. 
+a) Vegetal.
 
-c) Ahorrar luz y agua únicamente. 
+b) Mineral.
 
-d) Que la comida sepa mejor. 
+c) Animal.
 
+d) Sintético.
+
+Solución: c
+
+50. ¿Cuál es la "fruta" que aporta una cantidad considerable de grasas saludables?
+
+a) Naranja.
+
+b) Pera.
+
+c) Aguacate.
+
+d) Sandía.
+
+Solución: c
+
+51. La pasteurización de la leche consiste en:
+
+a) Hervirla durante 2 horas.
+
+b) Calentarla a una temperatura inferior a 100ºC para eliminar patógenos sin alterar mucho el sabor.
+
+c) Congelarla rápidamente.
+
+d) Añadirle polvos conservantes.
+
+Solución: b
+
+52. La leche UHT se mantiene en buen estado durante meses porque:
+
+a) Se le quita el agua.
+
+b) Se somete a temperaturas muy altas (135-150ºC) durante pocos segundos.
+
+c) Tiene mucha sal.
+
+d) Se guarda en botes de cristal siempre.
+
+Solución: b
+
+53. ¿Qué parte del huevo contiene más grasa y vitaminas liposolubles?
+
+a) La clara.
+
+b) La cáscara.
+
+c) La yema.
+
+d) El aire del interior.
+
+Solución: c
+
+54. El valor biológico de una proteína depende de:
+
+a) Su color.
+
+b) Su contenido en aminoácidos esenciales.
+
+c) Su precio.
+
+d) Lo que pese.
+
+Solución: b
+
+55. El marasmo y el kwashiorkor son enfermedades debidas a:
+
+a) Exceso de azúcar.
+
+b) Malnutrición proteico-energética.
+
+c) Exceso de vitaminas.
+
+d) Falta de ejercicio.
+
+Solución: b
+
+56. ¿Qué nutriente ayuda a la formación del tubo neural en el feto?
+
+a) Vitamina K.
+
+b) Ácido fólico (B9).
+
+c) Calcio.
+
+d) Vitamina E.
+
+Solución: b
+
+57. Las grasas "trans" se forman principalmente por:
+
+a) Cocinar a la plancha.
+
+b) Hidrogenación industrial de aceites vegetales.
+
+c) Enfriar la comida rápido.
+
+d) La digestión humana.
+
+Solución: b
+
+58. El azúcar común se llama técnicamente:
+
+a) Glucosa.
+
+b) Sacarosa.
+
+c) Galactosa.
+
+d) Maltosa.
+
+Solución: b
+
+59. ¿Cuál de estos es un mineral "macroelemento"?
+
+a) Hierro.
+
+b) Cobre.
+
+c) Calcio.
+
+d) Yodo.
+
+Solución: c
+
+60. ¿Cuál de estos es un "oligoelemento"?
+
+a) Sodio.
+
+b) Potasio.
+
+c) Flúor.
+
+d) Magnesio.
+
+Solución: c
+
+61. El raquitismo en niños se debe a la carencia de:
+
+a) Vitamina C.
+
+b) Vitamina D.
+
+c) Vitamina A.
+
+d) Hierro.
+
+Solución: b
+
+62. La principal función de la Vitamina K es:
+
+a) La visión.
+
+b) La coagulación sanguínea.
+
+c) El crecimiento del pelo.
+
+d) La digestión de grasas.
+
+Solución: b
+
+63. ¿Qué vitamina es el Tocoferol?
+
+a) Vitamina A.
+
+b) Vitamina E.
+
+c) Vitamina D.
+
+d) Vitamina K.
+
+Solución: b
+
+64. La Vitamina A (Retinol) es esencial para:
+
+a) Los huesos.
+
+b) La visión y la piel.
+
+c) La audición.
+
+d) El gusto.
+
+Solución: b
+
+65. El exceso de vitaminas liposolubles (hipervitaminosis) es:
+
+a) Imposible.
+
+b) Tóxico, ya que se acumulan en el tejido graso y el hígado.
+
+c) Bueno para la salud.
+
+d) Se elimina siempre por la orina.
+
+Solución: b
+
+66. Las vitaminas hidrosolubles se eliminan principalmente por:
+
+a) Las heces.
+
+b) La orina.
+
+c) El sudor únicamente.
+
+d) Los pulmones.
+
+Solución: b
+
+67. ¿Qué glúcido se encuentra en las frutas?
+
+a) Lactosa.
+
+b) Fructosa.
+
+c) Maltosa.
+
+d) Glucógeno.
+
+Solución: b
+
+68. La celulosa es un componente de:
+
+a) La leche.
+
+b) La carne de cerdo.
+
+c) La pared celular de los vegetales (fibra).
+
+d) Los huevos.
+
+Solución: c
+
+69. ¿Cuál es el pH del estómago durante la digestión (ácido o básico)?
+
+a) Muy básico.
+
+b) Neutro.
+
+c) Muy ácido.
+
+d) Depende del día.
+
+Solución: c
+
+70. La mayor reserva energética del cuerpo se encuentra en:
+
+a) El glucógeno muscular.
+
+b) El tejido adiposo (grasas).
+
+c) Las proteínas de la sangre.
+
+d) Los huesos.
+
+Solución: b
+
+71. Un lípido líquido a temperatura ambiente se denomina generalmente:
+
+a) Sebo.
+
+b) Manteca.
+
+c) Aceite.
+
+d) Cera.
+
+Solución: c
+
+72. El pescado blanco tiene un contenido en grasa aproximado de:
+
+a) Menos del 2%.
+
+b) 10%.
+
+c) 20%.
+
+d) 50%.
+
+Solución: a
+
+73. El ácido linoleico es un ácido graso:
+
+a) Que el cuerpo fabrica solo.
+
+b) Esencial (debe ingerirse en la dieta).
+
+c) Saturado.
+
+d) Mineral.
+
+Solución: b
+
+74. ¿Qué nutriente no aporta energía pero es vital para las reacciones químicas?
+
+a) Triglicéridos.
+
+b) Almidón.
+
+c) Vitaminas.
+
+d) Proteínas.
+
+Solución: c
+
+75. La falta de hierro produce:
+
+a) Diabetes.
+
+b) Anemia ferropénica.
+
+c) Hipertensión.
+
+d) Obesidad.
+
+Solución: b
+
+76. ¿Cuál de estos cereales NO tiene gluten?
+
+a) Trigo.
+
+b) Cebada.
+
+c) Arroz.
+
+d) Centeno.
+
+Solución: c
+
+77. Los frutos secos son una fuente excelente de:
+
+a) Agua.
+
+b) Vitamina C.
+
+c) Grasas insaturadas y proteínas.
+
+d) Colesterol malo.
+
+Solución: c
+
+78. La OMS recomienda reducir el consumo de sal a menos de:
+
+a) 15 gramos diarios.
+
+b) 5 gramos diarios.
+
+c) 50 gramos diarios.
+
+d) No hay límite.
+
+Solución: b
+
+79. ¿Qué vitamina es el Ácido Ascórbico?
+
+a) Vitamina A.
+
+b) Vitamina B.
+
+c) Vitamina C.
+
+d) Vitamina D.
+
+Solución: c
+
+80. Los aditivos alimentarios se añaden para:
+
+a) Alimentar más.
+
+b) Conservar, mejorar el aspecto o sabor.
+
+c) Que la comida pese más.
+
+d) Sustituir a las proteínas.
+
+Solución: b
+
+81. ¿Cómo se llama el proceso de descomposición de las grasas que produce mal olor?
+
+a) Fermentación.
+
+b) Enranciamiento.
+
+c) Putrefacción.
+
+d) Deshidratación.
+
+Solución: b
+
+82. Las proteínas de origen vegetal son "incompletas" porque:
+
+a) Son pequeñas.
+
+b) Les falta algún aminoácido esencial.
+
+c) No tienen sabor.
+
+d) Se digieren muy rápido.
+
+Solución: b
+
+83. Combinar lentejas con arroz es bueno porque:
+
+a) Engorda menos.
+
+b) Se complementan los aminoácidos y se obtiene una proteína completa.
+
+c) El arroz quita el sabor de la lenteja.
+
+d) Es tradición.
+
+Solución: b
+
+84. El principal mineral de los huesos y dientes es el:
+
+a) Hierro.
+
+b) Calcio.
+
+c) Cobre.
+
+d) Selenio.
+
+Solución: b
+
+85. La vitamina B1 se llama también:
+
+a) Riboflavina.
+
+b) Niacina.
+
+c) Tiamina.
+
+d) Biotina.
+
+Solución: c
+
+86. La pelagra es una enfermedad por falta de:
+
+a) Vitamina B12.
+
+b) Niacina (B3).
+
+c) Vitamina A.
+
+d) Calcio.
+
+Solución: b
+
+87. ¿Qué nutriente es el componente principal de la clara de huevo?
+
+a) Grasa.
+
+b) Proteína (albúmina).
+
+c) Hidratos de carbono.
+
+d) Fibra.
+
+Solución: b
+
+88. El marisco es rico en:
+
+a) Vitamina D únicamente.
+
+b) Proteínas y minerales como el zinc e yodo.
+
+c) Fibra vegetal.
+
+d) Glucosa.
+
+Solución: b
+
+89. El aceite de coco y de palma, aunque son vegetales, son ricos en grasas:
+
+a) Monoinsaturadas.
+
+b) Saturadas.
+
+c) Poliinsaturadas.
+
+d) Omega-3.
+
+Solución: b
+
+90. La sed es una señal de:
+
+a) Hambre.
+
+b) Inicio de deshidratación.
+
+c) Exceso de energía.
+
+d) Sueño.
+
+Solución: b
+
+91. ¿Qué alimento se encuentra en la base de la pirámide alimentaria tradicional (consumo diario)?
+
+a) Dulces.
+
+b) Carnes rojas.
+
+c) Cereales, pan, arroz, pasta.
+
+d) Mantequilla.
+
+Solución: c
+
+92. ¿Cuál es el principal factor que aumenta el gasto energético de una persona?
+
+a) Ver la televisión.
+
+b) La actividad física.
+
+c) Dormir más de 10 horas.
+
+d) Leer un libro.
+
+Solución: b
+
+93. La digestión de los glúcidos comienza en:
+
+a) El estómago.
+
+b) La boca (por la ptialina de la saliva).
+
+c) El intestino delgado.
+
+d) El esófago.
+
+Solución: b
+
+94. La función de la fibra en el intestino es:
+
+a) Dar energía.
+
+b) Favorecer el tránsito intestinal y prevenir el estreñimiento.
+
+c) Engordar.
+
+d) Absorber todas las vitaminas.
+
+Solución: b
+
+95. El potasio es importante para:
+
+a) La visión nocturna.
+
+b) La función muscular y el equilibrio de líquidos.
+
+c) La dureza de las uñas.
+
+d) No es importante.
+
+Solución: b
+
+96. ¿Qué vitamina se sintetiza en la piel gracias a la luz solar?
+
+a) Vitamina A.
+
+b) Vitamina B.
+
+c) Vitamina D.
+
+d) Vitamina E.
+
+Solución: c
+
+97. Los lípidos de origen vegetal suelen ser:
+
+a) Sólidos (grasas).
+
+b) Líquidos (aceites).
+
+c) Gaseosos.
+
+d) No existen.
+
+Solución: b
+
+98. El término "kilocaloría" (kcal) se usa en nutrición para medir:
+
+a) El peso del alimento.
+
+b) La energía.
+
+c) La cantidad de agua.
+
+d) La velocidad de digestión.
+
+Solución: b
+
+99. El nutriente que el cerebro usa casi exclusivamente como combustible es:
+
+a) Los ácidos grasos.
+
+b) La glucosa.
+
+c) Los aminoácidos.
+
+d) El alcohol.
+
+Solución: b
+
+100. Una dieta hiperproteica es aquella que:
+
+a) Tiene poca proteína.
+
+b) Tiene mucha proteína.
+
+c) Solo tiene agua.
+
+d) No tiene hidratos de carbono.
 
 Solución: b
