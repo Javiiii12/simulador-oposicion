@@ -10,9 +10,30 @@
 
 <body>
     <div class="container">
-        <!-- VISTA: MENÚ PRINCIPAL -->
-        <div id="view-menu" class="view active">
-            <h1>Simulador OPE Pinche</h1>
+        <!-- VISTA: SELECCIÓN DE ROL (Inicio) -->
+        <div id="view-role-selection" class="view active">
+            <h1>Simulador OPE SESCAM</h1>
+            <p class="subtitle">Elige tu categoría profesional</p>
+
+            <div class="menu-grid">
+                <button id="btn-role-pinche" class="btn-menu special">
+                    🍳 Ayudante de Cocina (Pinche)
+                    <span class="badge">Disponible</span>
+                </button>
+                <button id="btn-role-celador" class="btn-menu">
+                    🚑 Celador
+                    <span class="badge" style="background:var(--text-light); color:white;">Próximamente</span>
+                </button>
+            </div>
+            <p style="text-align:center; margin-top:40px; color:#aaa; font-size:0.9rem;">
+                v1.2 (Beta) - Más categorías en desarrollo
+            </p>
+        </div>
+
+        <!-- VISTA: MENÚ PRINCIPAL (Pinche) -->
+        <div id="view-menu" class="view hidden">
+            <button id="btn-back-menu" class="btn-icon" style="position:absolute; left:20px; top:20px;">⬅</button>
+            <h1 style="margin-top:20px;">Simulador OPE Pinche</h1>
             <p class="subtitle">Selecciona un modo de estudio</p>
 
             <div class="menu-grid">

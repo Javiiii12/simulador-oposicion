@@ -254,6 +254,12 @@ input[type="number"] {
     background: #f0f0ff;
 }
 
+.btn-option:disabled {
+    cursor: default;
+    pointer-events: none;
+    opacity: 0.9;
+}
+
 .btn-option.correct {
     background-color: #e8f5e9;
     border-color: var(--success);

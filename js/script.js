@@ -21,7 +21,17 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function setupEventListeners() {
+    // Selección de Rol
+    document.getElementById('btn-role-pinche').addEventListener('click', () => {
+        showView('view-menu');
+    });
+
+    document.getElementById('btn-role-celador').addEventListener('click', () => {
+        alert("🚧 Celador: Estamos trabajando en ello. ¡Pronto disponible!");
+    });
+
     // Menú Principal
+    document.getElementById('btn-back-menu').addEventListener('click', () => showView('view-role-selection')); // Back to roles
     document.getElementById('btn-mad').addEventListener('click', () => showTopics('MAD'));
     document.getElementById('btn-csif').addEventListener('click', () => alert("🏥 Test CSIF disponible próximamente."));
     document.getElementById('btn-examenes').addEventListener('click', () => alert("📂 Sección de Exámenes Anteriores en construcción."));
@@ -283,7 +293,18 @@ function showFeedback(q) {
 
     const esCorrecta = userAnswers[currentIndex] === q.correcta;
     const icon = esCorrecta ? '✅' : '❌';
-    explicacionP.innerHTML = `<strong>${icon} ${esCorrecta ? '¡Correcto!' : 'Incorrecto'}</strong><br>La respuesta correcta es la <strong>${q.correcta.toUpperCase()}</strong>.`;
+
+    if (esCorrecta) {
+        // Usuario acierta: Solo confirmación positiva, sin redundancia visual.
+        explicacionP.innerHTML = `<strong>${icon} ¡Correcto!</strong>`;
+        feedbackDiv.style.backgroundColor = '#e8f5e9'; // Greenish bg
+        feedbackDiv.style.borderLeftColor = '#4caf50';
+    } else {
+        // Usuario falla: Mostrar la correcta.
+        explicacionP.innerHTML = `<strong>${icon} Incorrecto</strong><br>La respuesta correcta es la <strong>${q.correcta.toUpperCase()}</strong>.`;
+        feedbackDiv.style.backgroundColor = '#fff3cd'; // Yellowish bg
+        feedbackDiv.style.borderLeftColor = '#ffc107';
+    }
 
     nextBtn.classList.remove('hidden');
     if (currentIndex === currentQuestions.length - 1) {
