@@ -7461,36 +7461,2549 @@
     "explicacion": ""
   },
   {
+    "id": 101,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es la desnutrición primaria?",
+    "opciones": {
+      "a": "La causada por una enfermedad que impide absorber nutrientes.",
+      "b": "La debida a una ingesta insuficiente de alimentos por falta de disponibilidad o recursos.",
+      "c": "La que ocurre solo en hospitales.",
+      "d": "El exceso de vitaminas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 102,
+    "tema": "Tema 11",
+    "pregunta": "La desnutrición secundaria se produce cuando:",
+    "opciones": {
+      "a": "No hay comida en el mercado.",
+      "b": "Existe una enfermedad que interfiere con el aprovechamiento de los nutrientes.",
+      "c": "Se come demasiado rápido.",
+      "d": "Se consumen solo alimentos vegetales."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 103,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuál es el principal componente de las legumbres secas?",
+    "opciones": {
+      "a": "Agua.",
+      "b": "Hidratos de carbono (almidón).",
+      "c": "Grasas saturadas.",
+      "d": "Vitamina C."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 104,
+    "tema": "Tema 11",
+    "pregunta": "Las proteínas de las legumbres son deficientes en el aminoácido:",
+    "opciones": {
+      "a": "Lisina.",
+      "b": "Metionina.",
+      "c": "Triptófano.",
+      "d": "Leucina."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 105,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué tratamiento térmico de la leche es el más suave y conserva mejor las vitaminas?",
+    "opciones": {
+      "a": "Uperización (UHT).",
+      "b": "Pasteurización.",
+      "c": "Esterilización.",
+      "d": "Condensación."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 106,
+    "tema": "Tema 11",
+    "pregunta": "El queso es un producto obtenido por la coagulación de:",
+    "opciones": {
+      "a": "La grasa de la leche.",
+      "b": "La caseína (proteína de la leche).",
+      "c": "El suero lácteo.",
+      "d": "El agua de la leche."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 107,
+    "tema": "Tema 11",
+    "pregunta": "Los pescados planos (lenguado, gallo) suelen clasificarse como:",
+    "opciones": {
+      "a": "Pescados azules.",
+      "b": "Pescados blancos.",
+      "c": "Mariscos.",
+      "d": "Cefalópodos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 108,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué nutriente del pescado azul ayuda a reducir el colesterol y los triglicéridos?",
+    "opciones": {
+      "a": "Ácidos grasos Omega-3.",
+      "b": "Hierro no hemo.",
+      "c": "Vitamina C.",
+      "d": "Sacarosa."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 109,
+    "tema": "Tema 11",
+    "pregunta": "La mioglobina es la proteína responsable del color de:",
+    "opciones": {
+      "a": "La clara de huevo.",
+      "b": "La carne roja.",
+      "c": "La leche.",
+      "d": "El arroz."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 110,
+    "tema": "Tema 11",
+    "pregunta": "Se considera \"carne blanca\" a la proveniente de:",
+    "opciones": {
+      "a": "Ternera y buey.",
+      "b": "Cerdo y cordero adulto.",
+      "c": "Pollo, pavo y conejo.",
+      "d": "Caballo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 111,
+    "tema": "Tema 11",
+    "pregunta": "El principal glúcido de reserva en los animales se llama:",
+    "opciones": {
+      "a": "Almidón.",
+      "b": "Glucógeno.",
+      "c": "Celulosa.",
+      "d": "Fructosa."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 112,
+    "tema": "Tema 11",
+    "pregunta": "Las vitaminas B1, B2 y B3 intervienen principalmente en:",
+    "opciones": {
+      "a": "La formación de los huesos.",
+      "b": "El metabolismo energético de los nutrientes.",
+      "c": "La coagulación de la sangre.",
+      "d": "La visión en la oscuridad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 113,
+    "tema": "Tema 11",
+    "pregunta": "El ácido fólico es especialmente importante en la dieta de:",
+    "opciones": {
+      "a": "Deportistas de élite.",
+      "b": "Mujeres embarazadas.",
+      "c": "Niños con caries.",
+      "d": "Personas con hipertensión."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 114,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué alimento tiene un alto contenido en purinas (malo para el ácido úrico/gota)?",
+    "opciones": {
+      "a": "Vísceras y marisco.",
+      "b": "Frutas cítricas.",
+      "c": "Arroz blanco.",
+      "d": "Leche desnatada."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 115,
+    "tema": "Tema 11",
+    "pregunta": "El proceso de hidrogenación de grasas las convierte de:",
+    "opciones": {
+      "a": "Sólidas a líquidas.",
+      "b": "Líquidas a sólidas (creando grasas trans).",
+      "c": "Dulces a saladas.",
+      "d": "Blancas a rojas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 116,
+    "tema": "Tema 11",
+    "pregunta": "El raquitismo es a los niños lo que la osteomalacia es a:",
+    "opciones": {
+      "a": "Los bebés.",
+      "b": "Los adultos.",
+      "c": "Los deportistas.",
+      "d": "Las aves."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 117,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué vitamina se encuentra casi exclusivamente en alimentos de origen animal?",
+    "opciones": {
+      "a": "Vitamina C.",
+      "b": "Vitamina B12.",
+      "c": "Vitamina A.",
+      "d": "Vitamina K."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 118,
+    "tema": "Tema 11",
+    "pregunta": "La absorción del hierro de origen vegetal mejora si se consume con:",
+    "opciones": {
+      "a": "Café o té.",
+      "b": "Vitamina C (cítricos).",
+      "c": "Mucha sal.",
+      "d": "Leche entera."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 119,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuál es el principal mineral extracelular que regula la presión arterial?",
+    "opciones": {
+      "a": "Potasio.",
+      "b": "Sodio.",
+      "c": "Magnesio.",
+      "d": "Zinc."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 120,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué órgano produce la bilis?",
+    "opciones": {
+      "a": "Páncreas.",
+      "b": "Hígado.",
+      "c": "Vesícula biliar.",
+      "d": "Estómago."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 121,
+    "tema": "Tema 11",
+    "pregunta": "La función de la vitamina E es principalmente:",
+    "opciones": {
+      "a": "Energética.",
+      "b": "Antioxidante.",
+      "c": "Formar huesos.",
+      "d": "Ayudar a la audición."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 122,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es el perístaltismo?",
+    "opciones": {
+      "a": "Un tipo de vitamina.",
+      "b": "Los movimientos de contracción del tubo digestivo para mover el alimento.",
+      "c": "La inflamación del estómago.",
+      "d": "El proceso de masticación."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 123,
+    "tema": "Tema 11",
+    "pregunta": "Las enzimas digestivas son de naturaleza:",
+    "opciones": {
+      "a": "Lipídica.",
+      "b": "Proteica.",
+      "c": "Glúcida.",
+      "d": "Mineral."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 124,
+    "tema": "Tema 11",
+    "pregunta": "¿En qué parte del tubo digestivo termina la digestión y comienza la absorción masiva?",
+    "opciones": {
+      "a": "Boca.",
+      "b": "Estómago.",
+      "c": "Intestino delgado.",
+      "d": "Intestino grueso."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 125,
+    "tema": "Tema 11",
+    "pregunta": "La función del intestino grueso es principalmente:",
+    "opciones": {
+      "a": "Digerir las grasas.",
+      "b": "Absorber agua y formar las heces.",
+      "c": "Fabricar insulina.",
+      "d": "Triturar la carne."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 126,
+    "tema": "Tema 11",
+    "pregunta": "¿Cómo se llama el bolo alimenticio una vez que sale del estómago hacia el intestino?",
+    "opciones": {
+      "a": "Quilo.",
+      "b": "Quimo.",
+      "c": "Nutriente.",
+      "d": "Enzima."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 127,
+    "tema": "Tema 11",
+    "pregunta": "El exceso de energía consumida y no gastada se almacena en forma de:",
+    "opciones": {
+      "a": "Proteínas musculares.",
+      "b": "Triglicéridos en el tejido adiposo.",
+      "c": "Vitaminas en el hígado.",
+      "d": "Agua en las articulaciones."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 128,
+    "tema": "Tema 11",
+    "pregunta": "Las grasas saturadas deben representar menos del:",
+    "opciones": {
+      "a": "10% de las calorías totales.",
+      "b": "50% de las calorías totales.",
+      "c": "30% de las calorías totales.",
+      "d": "0%, no deben comerse."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 129,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué técnica de cocción conserva mejor las vitaminas hidrosolubles?",
+    "opciones": {
+      "a": "Hervido prolongado con mucha agua.",
+      "b": "Cocción al vapor.",
+      "c": "Fritura a baja temperatura.",
+      "d": "Guisado lento."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 130,
+    "tema": "Tema 11",
+    "pregunta": "El proceso de \"escaldado\" en cocina sirve para:",
+    "opciones": {
+      "a": "Cocinar totalmente la carne.",
+      "b": "Inactivar enzimas antes de congelar vegetales.",
+      "c": "Dar sabor dulce.",
+      "d": "Esterilizar cubiertos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 131,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es un alimento \"fortificado\" o \"enriquecido\"?",
+    "opciones": {
+      "a": "El que es más caro.",
+      "b": "Aquel al que se le han añadido nutrientes que no tenía o que perdió en el procesado.",
+      "c": "El que tiene mucha sal.",
+      "d": "El que es de origen ecológico."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 132,
+    "tema": "Tema 11",
+    "pregunta": "La intolerancia a la lactosa se debe a la falta de la enzima:",
+    "opciones": {
+      "a": "Amilasa.",
+      "b": "Lactasa.",
+      "c": "Lipasa.",
+      "d": "Pepsina."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 133,
+    "tema": "Tema 11",
+    "pregunta": "El gluten es una proteína presente en:",
+    "opciones": {
+      "a": "La carne de ternera.",
+      "b": "Algunos cereales (trigo, cebada, centeno).",
+      "c": "Todas las frutas.",
+      "d": "Los huevos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 134,
+    "tema": "Tema 11",
+    "pregunta": "La dieta basal en un hospital es aquella que:",
+    "opciones": {
+      "a": "No tiene sal.",
+      "b": "Es líquida.",
+      "c": "Es la dieta normal para pacientes sin restricciones dietéticas específicas.",
+      "d": "Solo sirve para adelgazar."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 135,
+    "tema": "Tema 11",
+    "pregunta": "Una dieta \"astringente\" está indicada para casos de:",
+    "opciones": {
+      "a": "Estreñimiento.",
+      "b": "Diarrea.",
+      "c": "Anemia.",
+      "d": "Diabetes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 136,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué alimento se evita en una dieta astringente?",
+    "opciones": {
+      "a": "Arroz blanco.",
+      "b": "Pollo a la plancha.",
+      "c": "Leche y alimentos ricos en fibra.",
+      "d": "Manzana rallada (oxidada)."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 137,
+    "tema": "Tema 11",
+    "pregunta": "La dieta hipocalórica se caracteriza por:",
+    "opciones": {
+      "a": "Aportar muchas calorías.",
+      "b": "Restringir el aporte energético para perder peso.",
+      "c": "Tener mucha sal.",
+      "d": "Ser rica en grasas animales."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 138,
+    "tema": "Tema 11",
+    "pregunta": "En una dieta para hipertensos se restringe el:",
+    "opciones": {
+      "a": "Azúcar.",
+      "b": "Sodio (sal).",
+      "c": "Agua.",
+      "d": "Hierro."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 139,
+    "tema": "Tema 11",
+    "pregunta": "La dieta para diabéticos controla principalmente la cantidad de:",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Hidratos de carbono (glúcidos).",
+      "c": "Vitaminas.",
+      "d": "Sal."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 140,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es la nutrición enteral?",
+    "opciones": {
+      "a": "Comer por la boca normalmente.",
+      "b": "Administración de nutrientes por sonda al aparato digestivo.",
+      "c": "Administración de nutrientes por vía intravenosa.",
+      "d": "Un tipo de dieta de moda."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 141,
+    "tema": "Tema 11",
+    "pregunta": "La nutrición parenteral es aquella que se administra por:",
+    "opciones": {
+      "a": "Sonda nasogástrica.",
+      "b": "Vía intravenosa (directamente al torrente sanguíneo).",
+      "c": "La boca.",
+      "d": "Parches en la piel."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 142,
+    "tema": "Tema 11",
+    "pregunta": "El huevo se debe conservar en el frigorífico para evitar el crecimiento de:",
+    "opciones": {
+      "a": "Moho.",
+      "b": "Salmonella.",
+      "c": "Anisakis.",
+      "d": "Levadura."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 143,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué parte de la carne tiene más colágeno y es más dura?",
+    "opciones": {
+      "a": "El solomillo.",
+      "b": "Los tendones y tejido conjuntivo.",
+      "c": "La grasa subcutánea.",
+      "d": "La sangre."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 144,
+    "tema": "Tema 11",
+    "pregunta": "El principal componente del pan es:",
+    "opciones": {
+      "a": "Proteína.",
+      "b": "Almidón.",
+      "c": "Grasa.",
+      "d": "Fibra."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 145,
+    "tema": "Tema 11",
+    "pregunta": "Las legumbres frescas (guisantes, habas) tienen más cantidad de:",
+    "opciones": {
+      "a": "Grasa que las secas.",
+      "b": "Agua que las secas.",
+      "c": "Almidón que las secas.",
+      "d": "Sal que las secas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 146,
+    "tema": "Tema 11",
+    "pregunta": "La fruta desecada (pasas, higos) tiene los nutrientes más:",
+    "opciones": {
+      "a": "Diluidos.",
+      "b": "Concentrados por la pérdida de agua.",
+      "c": "Escasos.",
+      "d": "Amargos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 147,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuál es el aceite más rico en ácidos grasos poliinsaturados?",
+    "opciones": {
+      "a": "Aceite de oliva.",
+      "b": "Aceite de girasol o semillas.",
+      "c": "Aceite de coco.",
+      "d": "Mantequilla."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 148,
+    "tema": "Tema 11",
+    "pregunta": "El consumo excesivo de azúcar se relaciona con:",
+    "opciones": {
+      "a": "Caries y obesidad.",
+      "b": "Anemia.",
+      "c": "Falta de sueño.",
+      "d": "Ceguera."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 149,
+    "tema": "Tema 11",
+    "pregunta": "Los tubérculos como la patata son ricos en:",
+    "opciones": {
+      "a": "Vitamina B12.",
+      "b": "Almidón.",
+      "c": "Grasas saturadas.",
+      "d": "Proteínas de alto valor biológico."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 150,
+    "tema": "Tema 11",
+    "pregunta": "El \"pardeamiento enzimático\" es el proceso por el cual:",
+    "opciones": {
+      "a": "La carne se pudre.",
+      "b": "Frutas como la manzana se ponen oscuras al cortarlas.",
+      "c": "El pan sube.",
+      "d": "La leche se corta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 151,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es la \"trazabilidad\" alimentaria?",
+    "opciones": {
+      "a": "El sabor del alimento.",
+      "b": "La posibilidad de seguir el rastro de un alimento a través de todas las etapas de producción y distribución.",
+      "c": "El precio del transporte.",
+      "d": "El color del etiquetado."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 152,
+    "tema": "Tema 11",
+    "pregunta": "En el etiquetado, los ingredientes deben aparecer en orden:",
+    "opciones": {
+      "a": "Alfabético.",
+      "b": "De mayor a menor peso.",
+      "c": "De menor a mayor peso.",
+      "d": "Aleatorio."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 153,
+    "tema": "Tema 11",
+    "pregunta": "La fecha de \"consumo preferente\" indica que:",
+    "opciones": {
+      "a": "El alimento es peligroso después de esa fecha.",
+      "b": "El alimento puede perder cualidades (sabor, olor) pero es seguro consumirlo.",
+      "c": "Hay que tirarlo el día anterior.",
+      "d": "Solo se puede comer en hospitales."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 154,
+    "tema": "Tema 11",
+    "pregunta": "La \"fecha de caducidad\" se usa en alimentos:",
+    "opciones": {
+      "a": "Muy duraderos (latas).",
+      "b": "Muy perecederos (carne fresca, pescado).",
+      "c": "Congelados.",
+      "d": "Frutos secos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 155,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué nutriente aporta el mayor porcentaje de energía en la dieta mediterránea?",
+    "opciones": {
+      "a": "Grasas animales.",
+      "b": "Glúcidos complejos (cereales, legumbres).",
+      "c": "Proteínas en polvo.",
+      "d": "Alcohol."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 156,
+    "tema": "Tema 11",
+    "pregunta": "El \"HDL\" se conoce comúnmente como:",
+    "opciones": {
+      "a": "Colesterol malo.",
+      "b": "Colesterol bueno.",
+      "c": "Grasa trans.",
+      "d": "Azúcar en sangre."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 157,
+    "tema": "Tema 11",
+    "pregunta": "El ácido úrico es el producto final del metabolismo de:",
+    "opciones": {
+      "a": "Las grasas.",
+      "b": "Las purinas (proteínas).",
+      "c": "El agua.",
+      "d": "La glucosa."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 158,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es la obesidad?",
+    "opciones": {
+      "a": "Pesar 5 kg más de lo normal.",
+      "b": "Una acumulación excesiva de grasa corporal perjudicial para la salud.",
+      "c": "Tener mucha masa muscular.",
+      "d": "Un proceso natural de la edad que no tiene importancia."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 159,
+    "tema": "Tema 11",
+    "pregunta": "La dieta baja en residuos es una dieta:",
+    "opciones": {
+      "a": "Sin nada de comida.",
+      "b": "Muy baja en fibra.",
+      "c": "Muy alta en fibra.",
+      "d": "Rica en legumbres y verduras crudas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 160,
+    "tema": "Tema 11",
+    "pregunta": "Un paciente con insuficiencia renal debe controlar mucho el aporte de:",
+    "opciones": {
+      "a": "Agua.",
+      "b": "Proteínas y minerales como el potasio.",
+      "c": "Vitaminas.",
+      "d": "Fibra."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 161,
+    "tema": "Tema 11",
+    "pregunta": "El escorbuto se debe a la carencia de:",
+    "opciones": {
+      "a": "Vitamina A.",
+      "b": "Vitamina C.",
+      "c": "Calcio.",
+      "d": "Grasas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 162,
+    "tema": "Tema 11",
+    "pregunta": "La xeroftalmía (sequedad ocular) se relaciona con la falta de:",
+    "opciones": {
+      "a": "Vitamina C.",
+      "b": "Vitamina A.",
+      "c": "Vitamina D.",
+      "d": "Hierro."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 163,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué grupo de la rueda de alimentos incluye a los aceites y grasas?",
+    "opciones": {
+      "a": "Grupo I.",
+      "b": "Grupo VII.",
+      "c": "Grupo IV.",
+      "d": "Grupo II."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 164,
+    "tema": "Tema 11",
+    "pregunta": "El agua \"metabólica\" es la que:",
+    "opciones": {
+      "a": "Bebemos de la fuente.",
+      "b": "Produce el propio cuerpo al oxidar los nutrientes.",
+      "c": "Está en la sopa.",
+      "d": "Se pierde por la orina."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 165,
+    "tema": "Tema 11",
+    "pregunta": "La mayor parte del agua del cuerpo se encuentra:",
+    "opciones": {
+      "a": "Fuera de las células.",
+      "b": "Dentro de las células (líquido intracelular).",
+      "c": "En la vejiga.",
+      "d": "En los pulmones."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 166,
+    "tema": "Tema 11",
+    "pregunta": "La pérdida de agua por la piel sin que se note sudor se llama:",
+    "opciones": {
+      "a": "Sudoración profusa.",
+      "b": "Perspiración insensible.",
+      "c": "Diuresis.",
+      "d": "Digestión."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 167,
+    "tema": "Tema 11",
+    "pregunta": "La malnutrición puede ser:",
+    "opciones": {
+      "a": "Solo por defecto (hambre).",
+      "b": "Solo por exceso (obesidad).",
+      "c": "Por defecto o por exceso de nutrientes.",
+      "d": "Solo por falta de agua."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 168,
+    "tema": "Tema 11",
+    "pregunta": "La unidad de medida de la energía en el sistema internacional es el:",
+    "opciones": {
+      "a": "Gramo.",
+      "b": "Julio (o Kilojulio).",
+      "c": "Grado centígrado.",
+      "d": "Litro."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 169,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuántas kcal tiene un gramo de alcohol?",
+    "opciones": {
+      "a": "4 kcal.",
+      "b": "9 kcal.",
+      "c": "7 kcal.",
+      "d": "0 kcal."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 170,
+    "tema": "Tema 11",
+    "pregunta": "El hambre es una sensación:",
+    "opciones": {
+      "a": "Psicológica de querer comer algo rico.",
+      "b": "Fisiológica que indica necesidad de alimento.",
+      "c": "Que solo tienen los niños.",
+      "d": "Que desaparece con el agua."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 171,
+    "tema": "Tema 11",
+    "pregunta": "El apetito es:",
+    "opciones": {
+      "a": "Una necesidad vital.",
+      "b": "El deseo psicológico de ingerir un alimento específico.",
+      "c": "Lo mismo que el hambre.",
+      "d": "Un tipo de enfermedad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 172,
+    "tema": "Tema 11",
+    "pregunta": "La saciedad es la sensación de:",
+    "opciones": {
+      "a": "Tener ganas de comer.",
+      "b": "Estar lleno y no desear más comida.",
+      "c": "Sed extrema.",
+      "d": "Cansancio tras comer."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 173,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuál es el principal factor que determina el gasto energético basal?",
+    "opciones": {
+      "a": "La ropa que usamos.",
+      "b": "La masa libre de grasa (músculo).",
+      "c": "El color de los ojos.",
+      "d": "La cantidad de agua que bebemos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 174,
+    "tema": "Tema 11",
+    "pregunta": "El efecto termogénico de los alimentos es:",
+    "opciones": {
+      "a": "El calor que desprende la comida caliente.",
+      "b": "La energía gastada en digerir, absorber y metabolizar los alimentos.",
+      "c": "El uso de microondas.",
+      "d": "La fiebre tras comer."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 175,
+    "tema": "Tema 11",
+    "pregunta": "La obesidad tipo androide (forma de manzana) tiene más riesgo de:",
+    "opciones": {
+      "a": "Enfermedades cardiovasculares.",
+      "b": "Dolor de rodillas únicamente.",
+      "c": "No tiene riesgos.",
+      "d": "Caída del cabello."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 176,
+    "tema": "Tema 11",
+    "pregunta": "La dieta líquida suele estar indicada:",
+    "opciones": {
+      "a": "Para deportistas de fuerza.",
+      "b": "En el postoperatorio inmediato o antes de pruebas diagnósticas.",
+      "c": "Para siempre en ancianos.",
+      "d": "No existe tal dieta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 177,
+    "tema": "Tema 11",
+    "pregunta": "La dieta semilíquida o pastosa incluye:",
+    "opciones": {
+      "a": "Filetes de ternera.",
+      "b": "Purés, yogures y cremas.",
+      "c": "Solo agua.",
+      "d": "Frutos secos picados."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 178,
+    "tema": "Tema 11",
+    "pregunta": "Un alimento \"perecedero\" es aquel que:",
+    "opciones": {
+      "a": "Dura muchos años en la despensa.",
+      "b": "Se altera y estropea fácilmente en poco tiempo (días).",
+      "c": "Es de plástico.",
+      "d": "Solo se come en Navidad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 179,
+    "tema": "Tema 11",
+    "pregunta": "La liofilización es un método de conservación que consiste en:",
+    "opciones": {
+      "a": "Calentar mucho el alimento.",
+      "b": "Congelar y luego eliminar el agua por sublimación al vacío.",
+      "c": "Añadir mucha azúcar.",
+      "d": "Sumergir en aceite."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 180,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué gas se suele usar en el envasado en atmósfera protegida?",
+    "opciones": {
+      "a": "Oxígeno puro.",
+      "b": "Nitrógeno o dióxido de carbono.",
+      "c": "Hidrógeno.",
+      "d": "Butano."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 181,
+    "tema": "Tema 11",
+    "pregunta": "El aditivo E-621 (glutamato monosódico) es un:",
+    "opciones": {
+      "a": "Conservante.",
+      "b": "Potenciador del sabor.",
+      "c": "Colorante.",
+      "d": "Edulcorante."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 182,
+    "tema": "Tema 11",
+    "pregunta": "Los colorantes alimentarios sirven para:",
+    "opciones": {
+      "a": "Que el alimento alimente más.",
+      "b": "Dar o restituir color al alimento.",
+      "c": "Que no se pudra.",
+      "d": "Quitar el olor."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 183,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué indica el número E en un aditivo?",
+    "opciones": {
+      "a": "Que es veneno.",
+      "b": "Que está autorizado por la Unión Europea.",
+      "c": "El precio.",
+      "d": "La cantidad de energía."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 184,
+    "tema": "Tema 11",
+    "pregunta": "La irradiación de alimentos sirve para:",
+    "opciones": {
+      "a": "Cocinarlos por dentro.",
+      "b": "Eliminar microorganismos e insectos y prolongar la vida útil.",
+      "c": "Que brillen en la oscuridad.",
+      "d": "Cambiarles el sabor."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 185,
+    "tema": "Tema 11",
+    "pregunta": "El principal componente de los cereales es el almidón, que se encuentra en:",
+    "opciones": {
+      "a": "El salvado.",
+      "b": "El endospermo.",
+      "c": "El germen.",
+      "d": "La cáscara externa."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 186,
+    "tema": "Tema 11",
+    "pregunta": "Los cereales integrales conservan:",
+    "opciones": {
+      "a": "Más grasa.",
+      "b": "El salvado y el germen (más fibra y vitaminas).",
+      "c": "Menos calorías.",
+      "d": "Solo el color marrón."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 187,
+    "tema": "Tema 11",
+    "pregunta": "Las legumbres deben cocinarse bien para:",
+    "opciones": {
+      "a": "Que queden duras.",
+      "b": "Eliminar sustancias antinutritivas y mejorar la digestibilidad.",
+      "c": "Que pierdan las vitaminas.",
+      "d": "No hace falta cocinarlas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 188,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué hortaliza es un bulbo?",
+    "opciones": {
+      "a": "Zanahoria.",
+      "b": "Cebolla.",
+      "c": "Lechuga.",
+      "d": "Tomate."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 189,
+    "tema": "Tema 11",
+    "pregunta": "La fructosa es el azúcar predominante en:",
+    "opciones": {
+      "a": "La leche.",
+      "b": "La fruta y la miel.",
+      "c": "El filete de pollo.",
+      "d": "El pan."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 190,
+    "tema": "Tema 11",
+    "pregunta": "El aceite de girasol destaca por su contenido en:",
+    "opciones": {
+      "a": "Vitamina C.",
+      "b": "Vitamina E (antioxidante).",
+      "c": "Colesterol.",
+      "d": "Proteína."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 191,
+    "tema": "Tema 11",
+    "pregunta": "La margarina se diferencia de la mantequilla en que:",
+    "opciones": {
+      "a": "La mantequilla es vegetal.",
+      "b": "La margarina es de origen vegetal (aunque procesada) y la mantequilla animal.",
+      "c": "Las dos son iguales.",
+      "d": "La margarina no tiene grasa."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 192,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué bebida NO aporta calorías (energía)?",
+    "opciones": {
+      "a": "Cerveza.",
+      "b": "Agua.",
+      "c": "Zumo de naranja natural.",
+      "d": "Leche."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 193,
+    "tema": "Tema 11",
+    "pregunta": "El café y el té contienen sustancias:",
+    "opciones": {
+      "a": "Sedantes.",
+      "b": "Estimulantes (cafeína/teína).",
+      "c": "Que alimentan mucho.",
+      "d": "Ricas en grasa."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 194,
+    "tema": "Tema 11",
+    "pregunta": "La dieta hipoproteica restringe:",
+    "opciones": {
+      "a": "El pan.",
+      "b": "Las proteínas (carnes, pescados, huevos).",
+      "c": "El aceite.",
+      "d": "La fruta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 155,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es la disfagia? (Nota: la numeración saltaba en el original, la mantengo o corrijo? mantengo texto)",
+    "opciones": {
+      "a": "Dolor de estómago.",
+      "b": "Dificultad para tragar alimentos sólidos o líquidos.",
+      "c": "Falta de apetito.",
+      "d": "Alergia al pescado."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 196,
+    "tema": "Tema 11",
+    "pregunta": "En una dieta para disfagia se suele usar:",
+    "opciones": {
+      "a": "Agua con gas.",
+      "b": "Espesantes para líquidos.",
+      "c": "Frutos secos enteros.",
+      "d": "Carne muy fibrosa."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 197,
+    "tema": "Tema 11",
+    "pregunta": "El consumo de fibra previene el cáncer de:",
+    "opciones": {
+      "a": "Pulmón.",
+      "b": "Colon.",
+      "c": "Piel.",
+      "d": "Huesos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 198,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es el \"metabolismo\"?",
+    "opciones": {
+      "a": "El proceso de respirar.",
+      "b": "El conjunto de reacciones químicas que ocurren en las células para obtener energía y materia.",
+      "c": "La velocidad al caminar.",
+      "d": "Un tipo de dieta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 199,
+    "tema": "Tema 11",
+    "pregunta": "El anabolismo es la fase del metabolismo donde:",
+    "opciones": {
+      "a": "Se destruyen moléculas para dar energía.",
+      "b": "Se construyen moléculas complejas a partir de sencillas (gasto de energía).",
+      "c": "Se pierde peso.",
+      "d": "Se suda mucho."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 200,
+    "tema": "Tema 11",
+    "pregunta": "El catabolismo es la fase donde:",
+    "opciones": {
+      "a": "Se fabrican proteínas.",
+      "b": "Se degradan moléculas para liberar energía.",
+      "c": "El cuerpo crece.",
+      "d": "Se absorbe el calcio."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 201,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es el valor biológico de una proteína?",
+    "opciones": {
+      "a": "La cantidad de energía que aporta.",
+      "b": "La proporción de aminoácidos esenciales que contiene y que el cuerpo puede aprovechar.",
+      "c": "El peso de la proteína en gramos.",
+      "d": "Su resistencia al calor."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 202,
+    "tema": "Tema 11",
+    "pregunta": "La vitamina B2 se denomina también:",
+    "opciones": {
+      "a": "Tiamina.",
+      "b": "Riboflavina.",
+      "c": "Niacina.",
+      "d": "Piridoxina."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 203,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué nutriente ayuda a prevenir el bocio?",
+    "opciones": {
+      "a": "Hierro.",
+      "b": "Yodo.",
+      "c": "Calcio.",
+      "d": "Magnesio."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 204,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuál es la principal función de los lípidos en el organismo?",
+    "opciones": {
+      "a": "Reguladora únicamente.",
+      "b": "Reserva energética a largo plazo y aislante térmico.",
+      "c": "Formación de masa muscular.",
+      "d": "Transporte de oxígeno."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 205,
+    "tema": "Tema 11",
+    "pregunta": "El exceso de consumo de proteínas puede sobrecargar el trabajo de:",
+    "opciones": {
+      "a": "Los pulmones.",
+      "b": "El hígado y los riñones.",
+      "c": "El bazo.",
+      "d": "Las articulaciones."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 206,
+    "tema": "Tema 11",
+    "pregunta": "Las \"calorías vacías\" son aquellas que:",
+    "opciones": {
+      "a": "No tienen peso.",
+      "b": "Aportan energía pero carecen de nutrientes esenciales (vitaminas, minerales).",
+      "c": "Están en los alimentos congelados.",
+      "d": "No se digieren."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 207,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué alimento es característico de los glúcidos de absorción rápida?",
+    "opciones": {
+      "a": "Lentejas.",
+      "b": "Azúcar y miel.",
+      "c": "Pan integral.",
+      "d": "Patata asada."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 208,
+    "tema": "Tema 11",
+    "pregunta": "El componente mayoritario de las legumbres frescas es:",
+    "opciones": {
+      "a": "Grasa.",
+      "b": "Agua.",
+      "c": "Almidón.",
+      "d": "Vitamina B12."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 209,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuál de estos alimentos tiene una función principalmente reguladora?",
+    "opciones": {
+      "a": "Pasta.",
+      "b": "Frutas y hortalizas.",
+      "c": "Aceite de oliva.",
+      "d": "Mantequilla."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 210,
+    "tema": "Tema 11",
+    "pregunta": "La falta de Vitamina B1 (Tiamina) produce la enfermedad conocida como:",
+    "opciones": {
+      "a": "Pelagra.",
+      "b": "Beriberi.",
+      "c": "Raquitismo.",
+      "d": "Anemia."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 211,
+    "tema": "Tema 11",
+    "pregunta": "¿En qué órgano se produce la mayor parte de la absorción de agua?",
+    "opciones": {
+      "a": "Estómago.",
+      "b": "Intestino delgado.",
+      "c": "Intestino grueso (colon).",
+      "d": "Esófago."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 212,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué mineral es vital para la contracción muscular y el ritmo cardíaco?",
+    "opciones": {
+      "a": "Potasio.",
+      "b": "Flúor.",
+      "c": "Cobre.",
+      "d": "Selenio."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 213,
+    "tema": "Tema 11",
+    "pregunta": "La dieta blanda hospitalaria se caracteriza por:",
+    "opciones": {
+      "a": "No tener sabor.",
+      "b": "Ser de fácil digestión y baja en grasas y condimentos irritantes.",
+      "c": "Solo incluir líquidos.",
+      "d": "Ser rica en picantes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 214,
+    "tema": "Tema 11",
+    "pregunta": "El \"quemado\" de la grasa al cocinar a temperaturas muy altas puede generar:",
+    "opciones": {
+      "a": "Vitaminas.",
+      "b": "Sustancias tóxicas como la acroleína.",
+      "c": "Proteínas.",
+      "d": "Agua."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 215,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es un \"nutriente esencial\"?",
+    "opciones": {
+      "a": "El que más nos gusta.",
+      "b": "Aquel que el organismo no puede fabricar y debe obtenerse de la dieta.",
+      "c": "El que aporta más de 10 kcal por gramo.",
+      "d": "El agua de grifo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 216,
+    "tema": "Tema 11",
+    "pregunta": "La Vitamina B9 es el nombre técnico de:",
+    "opciones": {
+      "a": "La Biotina.",
+      "b": "El Ácido Fólico.",
+      "c": "El Ácido Pantoténico.",
+      "d": "El Retinol."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 217,
+    "tema": "Tema 11",
+    "pregunta": "El \"marmoleado\" de la carne se refiere a:",
+    "opciones": {
+      "a": "Su dureza.",
+      "b": "La grasa intramuscular que le da jugosidad.",
+      "c": "El color de los huesos.",
+      "d": "La forma de cortarla."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 218,
+    "tema": "Tema 11",
+    "pregunta": "El yogur es una leche fermentada gracias a la acción de:",
+    "opciones": {
+      "a": "Levaduras del pan.",
+      "b": "Bacterias lácticas (Lactobacillus, Streptococcus).",
+      "c": "Hongos del queso.",
+      "d": "Alcohol."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 219,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuál de estas es una función de la Vitamina A?",
+    "opciones": {
+      "a": "Coagular la sangre.",
+      "b": "Mantener el buen estado de la visión y las mucosas.",
+      "c": "Absorber el hierro.",
+      "d": "Dar energía para correr."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 220,
+    "tema": "Tema 11",
+    "pregunta": "El principal mineral que se pierde por el sudor es:",
+    "opciones": {
+      "a": "Calcio.",
+      "b": "Sodio.",
+      "c": "Hierro.",
+      "d": "Yodo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 221,
+    "tema": "Tema 11",
+    "pregunta": "La dieta líquida clara incluye:",
+    "opciones": {
+      "a": "Batidos de chocolate.",
+      "b": "Caldos desgrasados, infusiones y zumos colados.",
+      "c": "Puré de patatas.",
+      "d": "Leche entera."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 222,
+    "tema": "Tema 11",
+    "pregunta": "El huevo \"fresco\" se reconoce porque al sumergirlo en agua con sal:",
+    "opciones": {
+      "a": "Flota mucho.",
+      "b": "Se queda en el fondo.",
+      "c": "Se rompe solo.",
+      "d": "Se vuelve azul."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 223,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué nutriente es fundamental para la reparación de tejidos tras una cirugía?",
+    "opciones": {
+      "a": "Grasas.",
+      "b": "Proteínas.",
+      "c": "Azúcar.",
+      "d": "Fibra."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 224,
+    "tema": "Tema 11",
+    "pregunta": "La digestión de las proteínas comienza principalmente en:",
+    "opciones": {
+      "a": "La boca.",
+      "b": "El estómago (por la pepsina y el ácido clorhídrico).",
+      "c": "El páncreas.",
+      "d": "El colon."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 225,
+    "tema": "Tema 11",
+    "pregunta": "Los glúcidos complejos (polisacáridos) tardan más en digerirse porque:",
+    "opciones": {
+      "a": "Son muy grandes.",
+      "b": "Sus cadenas de glucosa deben romperse poco a poco.",
+      "c": "No tienen enzimas.",
+      "d": "Son líquidos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 226,
+    "tema": "Tema 11",
+    "pregunta": "El aceite de pescado es rico en:",
+    "opciones": {
+      "a": "Vitamina C.",
+      "b": "Vitaminas A y D.",
+      "c": "Fibra.",
+      "d": "Lactosa."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 227,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué enfermedad se asocia a un consumo excesivo de grasas saturadas y colesterol?",
+    "opciones": {
+      "a": "Anemia.",
+      "b": "Arteriosclerosis y enfermedades cardiovasculares.",
+      "c": "Escorbuto.",
+      "d": "Osteoporosis."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 228,
+    "tema": "Tema 11",
+    "pregunta": "La función de la Vitamina B12 está muy ligada a la formación de:",
+    "opciones": {
+      "a": "Uñas.",
+      "b": "Glóbulos rojos.",
+      "c": "Saliva.",
+      "d": "Pelo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 229,
+    "tema": "Tema 11",
+    "pregunta": "El agua se clasifica como un nutriente:",
+    "opciones": {
+      "a": "Energético.",
+      "b": "No energético pero esencial.",
+      "c": "Plástico.",
+      "d": "Inútil."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 230,
+    "tema": "Tema 11",
+    "pregunta": "La intolerancia al gluten se llama técnicamente:",
+    "opciones": {
+      "a": "Diabetes.",
+      "b": "Enfermedad Celíaca.",
+      "c": "Gastritis.",
+      "d": "Disfagia."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 231,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es la \"anorexia\" como síntoma clínico?",
+    "opciones": {
+      "a": "Comer mucho.",
+      "b": "Pérdida total o parcial del apetito.",
+      "c": "Dolor al tragar.",
+      "d": "Ganas de beber agua."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 232,
+    "tema": "Tema 11",
+    "pregunta": "Un alimento \"transgénico\" es aquel que:",
+    "opciones": {
+      "a": "Ha sido cocinado dos veces.",
+      "b": "Ha sido modificado genéticamente.",
+      "c": "Es muy antiguo.",
+      "d": "No tiene colorantes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 233,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué nutriente abunda en la cáscara de los cereales (salvado)?",
+    "opciones": {
+      "a": "Proteína pura.",
+      "b": "Fibra y vitaminas del grupo B.",
+      "c": "Grasa saturada.",
+      "d": "Vitamina C."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 234,
+    "tema": "Tema 11",
+    "pregunta": "La función del calcio en la sangre es:",
+    "opciones": {
+      "a": "Ninguna.",
+      "b": "Intervenir en la coagulación y transmisión nerviosa.",
+      "c": "Engordar.",
+      "d": "Filtrar la orina."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 235,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué vitamina es la Piridoxina?",
+    "opciones": {
+      "a": "Vitamina B1.",
+      "b": "Vitamina B6.",
+      "c": "Vitamina B12.",
+      "d": "Vitamina C."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 236,
+    "tema": "Tema 11",
+    "pregunta": "El estreñimiento se combate aumentando el consumo de:",
+    "opciones": {
+      "a": "Carne roja.",
+      "b": "Agua y fibra.",
+      "c": "Queso curado.",
+      "d": "Arroz blanco."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 237,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuál es el pH neutro?",
+    "opciones": {
+      "a": "0.",
+      "b": "7.",
+      "c": "14.",
+      "d": "5."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 238,
+    "tema": "Tema 11",
+    "pregunta": "Las grasas de origen marino (pescado) son mayoritariamente:",
+    "opciones": {
+      "a": "Saturadas.",
+      "b": "Insaturadas (buenas).",
+      "c": "Trans.",
+      "d": "Sólidas a 20ºC."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 239,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué vitamina ayuda a absorber el hierro de las lentejas?",
+    "opciones": {
+      "a": "Vitamina A.",
+      "b": "Vitamina C.",
+      "c": "Vitamina D.",
+      "d": "Vitamina K."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 240,
+    "tema": "Tema 11",
+    "pregunta": "La dieta baja en colesterol evita el consumo de:",
+    "opciones": {
+      "a": "Frutas.",
+      "b": "Yema de huevo y vísceras.",
+      "c": "Pan blanco.",
+      "d": "Aceite de oliva."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 241,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué nutriente es la principal fuente de energía para los músculos durante el ejercicio?",
+    "opciones": {
+      "a": "Glucosa (y glucógeno).",
+      "b": "Vitaminas.",
+      "c": "Fibra.",
+      "d": "Calcio."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 242,
+    "tema": "Tema 11",
+    "pregunta": "El proceso por el cual el cuerpo mantiene constante su temperatura se llama:",
+    "opciones": {
+      "a": "Digestión.",
+      "b": "Termorregulación.",
+      "c": "Respiración.",
+      "d": "Excreción."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 243,
+    "tema": "Tema 11",
+    "pregunta": "La leche desnatada pierde principalmente:",
+    "opciones": {
+      "a": "Las proteínas.",
+      "b": "Las vitaminas liposolubles (A, D, E, K).",
+      "c": "El agua.",
+      "d": "El calcio (si no se refuerza)."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 244,
+    "tema": "Tema 11",
+    "pregunta": "¿Qué es la \"bulimia\"?",
+    "opciones": {
+      "a": "Falta de hambre.",
+      "b": "Trastorno de la conducta alimentaria con atracones y conductas compensatorias.",
+      "c": "Dolor de tripa.",
+      "d": "Alergia a la leche."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 245,
+    "tema": "Tema 11",
+    "pregunta": "¿Cuál es el objetivo principal de la alimentación hospitalaria?",
+    "opciones": {
+      "a": "Que la comida sea barata.",
+      "b": "Contribuir a la recuperación del paciente mediante una nutrición adecuada a su patología.",
+      "c": "Que el paciente no tenga hambre únicamente.",
+      "d": "Sustituir a los medicamentos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 12",
+    "pregunta": "¿Cómo se denominan los diferentes procesos y transformaciones desde la producción primaria de alimentos hasta su consumo final?",
+    "opciones": {
+      "a": "Magnificencia de la producción.",
+      "b": "Cadena alimentaria.",
+      "c": "Cadena de input y output.",
+      "d": "Sistema alimentario."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
     "id": 2,
     "tema": "Tema 12",
-    "pregunta": " derivados de la manipulación: alteraciones de los alimentos y contami-nación. Enfermedades originadas por alimentos contaminados. Técnicas de manipulación y conservación. Plato testigo Í60 preguntosj ......... . . . .",
-    "opciones": {},
+    "pregunta": "¿Cómo se denomina en el sistema de trazabilidad al eslabón intermedio que describe la vida del producto y los procedimientos utilizados?",
+    "opciones": {
+      "a": "Trazabilidad hacia atrás.",
+      "b": "Trazabilidad de proceso.",
+      "c": "Trazabilidad hacia delante.",
+      "d": "Trazabilidad operativa."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 12",
+    "pregunta": "La información sobre los productos que se han sometido a trazabilidad será clara para:",
+    "opciones": {
+      "a": "Los clientes.",
+      "b": "La Administración.",
+      "c": "La empresa alimentaria y los clientes.",
+      "d": "La Administración y los clientes."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuál es el principio 1 del sistema APPCC?",
+    "opciones": {
+      "a": "Identificar los Puntos de Control Críticos (PCC).",
+      "b": "Establecer un sistema eficaz de registro de datos.",
+      "c": "Realizar un análisis de peligros.",
+      "d": "Establecer límites críticos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 12",
+    "pregunta": "¿En cuántos principios está basado el sistema APPCC?",
+    "opciones": {
+      "a": "En 5.",
+      "b": "En 7.",
+      "c": "En 11.",
+      "d": "En 14."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 12",
+    "pregunta": "¿Quién será el responsable de aprobar el Plan APPCC y sus revisiones en el hospital, sin delegación a terceros?",
+    "opciones": {
+      "a": "El Jefe de Servicio de Hostelería.",
+      "b": "El Gerente del Hospital.",
+      "c": "El Jefe de Medicina Preventiva.",
+      "d": "El Jefe de Seguridad e Higiene."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 12",
+    "pregunta": "¿En qué principios se basa el sistema de Análisis de Peligros y Puntos de Control Crítico (APPCC)?",
+    "opciones": {
+      "a": "Análisis y localización de los riesgos.",
+      "b": "Determinación de los puntos críticos.",
+      "c": "Definición, aplicación y verificación de procedimientos de control.",
+      "d": "Todas las opciones son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 12",
+    "pregunta": "El sistema de APPCC tiene como objetivo:",
+    "opciones": {
+      "a": "Establecer un plan de emergencia para incendios.",
+      "b": "Identificar, valorar y controlar los peligros sanitarios e higiénicos en cada fase de la cadena.",
+      "c": "Analizar las pautas de comportamiento de los trabajadores.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 12",
+    "pregunta": "El sistema de APPCC está basado en:",
+    "opciones": {
+      "a": "Dos principios.",
+      "b": "Tres principios.",
+      "c": "Seis principios.",
+      "d": "Siete principios."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 12",
+    "pregunta": "La verificación del sistema de APPCC debe realizarse:",
+    "opciones": {
+      "a": "Periódicamente para asegurar el control de los PCC.",
+      "b": "Cuando existan dudas de la seguridad del producto.",
+      "c": "Cuando se hagan modificaciones en el Plan.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 12",
+    "pregunta": "Es, entre otras, función del coordinador del equipo de implantación del sistema de APPCC:",
+    "opciones": {
+      "a": "Elección de los componentes del equipo APPCC.",
+      "b": "La elaboración de menús.",
+      "c": "Representación del equipo frente a la gerencia.",
+      "d": "Las opciones a) y c) son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 12",
+    "pregunta": "El establecimiento de un sistema de registro o documentación de los planes de APPCC permite:",
+    "opciones": {
+      "a": "Mostrar las incidencias ocurridas, la toma de decisiones y comprobar si el sistema funciona.",
+      "b": "Comprobar la salubridad de los alimentos únicamente.",
+      "c": "Determinar quién realiza la vigilancia.",
+      "d": "No es uno de los principios del sistema."
+    },
     "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué criterios de calidad aplicará el Pinche de cocina en el trabajo de manipulación de alimentos?",
+    "opciones": {
+      "a": "Máximo aprovechamiento de los géneros.",
+      "b": "Aplicación de técnicas adecuadas de cocción.",
+      "c": "Maximización del uso de los equipos y medios energéticos.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 12",
+    "pregunta": "Para definir un plan de calidad, ¿qué criterios se utilizarán?",
+    "opciones": {
+      "a": "Criterios subjetivos.",
+      "b": "Criterios objetivos.",
+      "c": "Criterios generales.",
+      "d": "La calidad es siempre subjetiva."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué finalidad tienen las medidas preventivas?",
+    "opciones": {
+      "a": "Detectar los riesgos y puntos críticos y evitar fallos sobre lo planificado.",
+      "b": "Solucionar los problemas una vez producidos.",
+      "c": "Comprobar que se cumplen los criterios en todos los puntos.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuál de los siguientes es un objetivo de un plan de calidad?",
+    "opciones": {
+      "a": "El producto resultará satisfactorio para el cliente.",
+      "b": "El proceso será tecnológicamente posible.",
+      "c": "El servicio se realizará en condiciones higiénicas y tecnológicas adecuadas.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuál sería la primera fase en un proceso de control de calidad?",
+    "opciones": {
+      "a": "Detección de problemas en cualquier fase.",
+      "b": "Determinar las causas.",
+      "c": "Proponer medidas correctoras e implantarlas.",
+      "d": "Verificar que se ha resuelto el problema."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuál de las siguientes NO es una característica del plan de calidad?",
+    "opciones": {
+      "a": "Flexibilidad.",
+      "b": "Rigidez.",
+      "c": "Revisión permanente.",
+      "d": "Dirigido a la mejora continua."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuál de los siguientes es un sistema de calidad específico para las empresas turísticas españolas?",
+    "opciones": {
+      "a": "Sistema ISO.",
+      "b": "Modelo EFQM.",
+      "c": "Sistema de Calidad Turístico Español.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué es la marca Q?",
+    "opciones": {
+      "a": "Marca de calidad turística.",
+      "b": "Empresa con algún sistema de calidad.",
+      "c": "Garantía de turismo ecológico.",
+      "d": "No existe la marca Q."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuáles son las fases que conforman un proceso de mejora continua?",
+    "opciones": {
+      "a": "Planificación, acción, verificación y corrección.",
+      "b": "Diseño e implantación.",
+      "c": "Autocontrol y valoración.",
+      "d": "Planificación e implantación."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué son los indicadores de calidad?",
+    "opciones": {
+      "a": "Son un instrumento para la recogida de datos.",
+      "b": "Son los criterios mínimos que se deben cumplir en el proceso y producto final.",
+      "c": "Es un tipo de encuesta.",
+      "d": "Son correctas las respuestas a) y c)."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 12",
+    "pregunta": "¿Quién realiza y participa el autocontrol en un plan de calidad?",
+    "opciones": {
+      "a": "Los niveles jerárquicos más altos.",
+      "b": "Los niveles jerárquicos más bajos.",
+      "c": "Todo el personal.",
+      "d": "Nadie relacionado con la empresa."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué medidas de control de calidad se aplican con carácter preventivo?",
+    "opciones": {
+      "a": "El análisis microbiológico.",
+      "b": "El análisis nutricional.",
+      "c": "La creación de Unidades de Dietética.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué supone la norma ISO 22000:2018?",
+    "opciones": {
+      "a": "Una norma de calidad del proceso de cocina.",
+      "b": "Un Sistema de Gestión de la Inocuidad de los Alimentos.",
+      "c": "Un sistema de análisis de puntos críticos únicamente.",
+      "d": "Una acreditación del hospital."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuál de los siguientes NO es un objetivo de la norma ISO 22000:2018?",
+    "opciones": {
+      "a": "Reforzar la seguridad de alimentos.",
+      "b": "Asegurar la protección del consumidor.",
+      "c": "Establecer requisitos según elementos clave.",
+      "d": "Evitar el rendimiento de los costes a lo largo de la cadena."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué enfoque tiene la norma ISO 22000:2018?",
+    "opciones": {
+      "a": "Basado en riesgos.",
+      "b": "Basado en productos.",
+      "c": "Basado en procesos.",
+      "d": "Ninguna respuesta es correcta."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuál de las siguientes es una característica de la norma ISO 22000:2018?",
+    "opciones": {
+      "a": "Enfoque basado en riesgos.",
+      "b": "Estructura de alto nivel.",
+      "c": "Dos ciclos PDCA.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué beneficios puede tener para la empresa el cumplimiento de la norma ISO 22000?",
+    "opciones": {
+      "a": "Asegura la protección al consumidor y fortalece su confianza.",
+      "b": "Evita la entrega de productos inocuos.",
+      "c": "Reduce los beneficios económicos.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 12",
+    "pregunta": "¿Cómo se garantiza el nivel de higiene adecuado en cocina?",
+    "opciones": {
+      "a": "Respetando las buenas prácticas de trabajo.",
+      "b": "Lavado de vajilla.",
+      "c": "Ajustándose a los requerimientos del paciente.",
+      "d": "Elaborando menús variados."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 31,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuál es la marca de calidad turística?",
+    "opciones": {
+      "a": "K.",
+      "b": "A.",
+      "c": "Q.",
+      "d": "C."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 32,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuáles de los siguientes son objetivos de calidad de un producto alimentario?",
+    "opciones": {
+      "a": "Resultará satisfactorio para el cliente.",
+      "b": "Conservará las características nutricionales.",
+      "c": "Ofrecerá garantía higiénica.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué objetivo tienen las hojas de sugerencias?",
+    "opciones": {
+      "a": "Conocer las expectativas del cliente.",
+      "b": "Comprobar la satisfacción del cliente.",
+      "c": "Conocer si los criterios de calidad son objetivos.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 34,
+    "tema": "Tema 12",
+    "pregunta": "La ausencia de sustancias tóxicas y de microorganismos patógenos es calidad:",
+    "opciones": {
+      "a": "Nutricional.",
+      "b": "Sensorial.",
+      "c": "Higiénico-sanitaria.",
+      "d": "Tecnológica."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 35,
+    "tema": "Tema 12",
+    "pregunta": "¿Cómo define la ISO la calidad?",
+    "opciones": {
+      "a": "La capacidad de un servicio para satisfacer al cliente.",
+      "b": "La capacidad de un producto para satisfacer al mercado.",
+      "c": "La capacidad de un producto/servicio para satisfacer necesidades declaradas o implícitas.",
+      "d": "Ninguna respuesta es correcta."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 36,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuáles de los siguientes factores pueden dificultar la satisfacción del cliente?",
+    "opciones": {
+      "a": "La patología.",
+      "b": "La elaboración masiva en cocina.",
+      "c": "La elección del menú.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 37,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué criterios de calidad aplicará el pinche en la recepción de materia prima?",
+    "opciones": {
+      "a": "Comprobará cantidad, calidad, fecha caducidad, embalajes, temperatura y registros.",
+      "b": "Racionado, troceado y picado de materias primas.",
+      "c": "Aplicación correcta de limpieza sin deteriorar equipos.",
+      "d": "Emplatado de comida respetando condiciones higiénicas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 38,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué establece la ISO 22000:2018?",
+    "opciones": {
+      "a": "Los requisitos en las primeras fases de manipulación.",
+      "b": "Los requisitos en toda la cadena alimentaria hasta el operador.",
+      "c": "Los requisitos de la fase de elaboración.",
+      "d": "Ninguna respuesta es correcta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 39,
+    "tema": "Tema 12",
+    "pregunta": "¿Qué características tiene la ISO 22000:2018?",
+    "opciones": {
+      "a": "Enfoque basado en riesgos.",
+      "b": "Estructura de alto nivel.",
+      "c": "Elementos clave como el contexto de la organización.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 40,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuáles son factores internos de la organización?",
+    "opciones": {
+      "a": "Valores.",
+      "b": "Competitividad.",
+      "c": "Legales.",
+      "d": "Adulteración."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 41,
+    "tema": "Tema 12",
+    "pregunta": "¿Cuáles son factores externos a la organización?",
+    "opciones": {
+      "a": "Entornos legales.",
+      "b": "Tecnológicos.",
+      "c": "Culturales, sociales y económicos.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 42,
+    "tema": "Tema 12",
+    "pregunta": "La calidad nutricional hace referencia a:",
+    "opciones": {
+      "a": "La contribución del alimento al aporte de nutrientes a la dieta (cualitativa y cuantitativamente).",
+      "b": "Atributos percibidos por los sentidos.",
+      "c": "Ausencia de sustancias tóxicas.",
+      "d": "Características para someterlo a procesos tecnológicos."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 13",
+    "pregunta": "¿Qué se define como “conjunto de medidas necesarias para asegurar la salubridad, inocuidad y buen estado de los productos destinados a la alimentación, en todas las etapas de su preparación”?",
+    "opciones": {
+      "a": "Manipulación de alimentos.",
+      "b": "Seguridad alimentaria.",
+      "c": "Higiene alimentaria.",
+      "d": "Ninguno de los anteriores es correcto."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 13",
+    "pregunta": "El cumplimiento de las normas de higiene alimentaria va a asegurar la salubridad del alimento:",
+    "opciones": {
+      "a": "Al 100 %.",
+      "b": "Al 90 %.",
+      "c": "Al 75 %.",
+      "d": "Simplemente va a minimizar el riesgo para la salud."
+    },
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 3,
     "tema": "Tema 13",
-    "pregunta": " Test n.° 14. Control de materias primas y productos preparados. EÍ alma-cenamiento: almacenamiento de productos perecederos y no perecede-ros. Almacenamiento de productos congelados. El acondicionamiento de las materias primas: carnes, pescados, hortalizas, frutas. Limpieza, cortes y pre elaboración. La descongelación 95 preguntas)..........................",
-    "opciones": {},
-    "correcta": "a",
+    "pregunta": "La mayoría de las enfermedades transmitidas por los alimentos están relacionadas con:",
+    "opciones": {
+      "a": "El país de donde procede.",
+      "b": "La etnia o país que los cultiva.",
+      "c": "Una inadecuada manipulación de los alimentos.",
+      "d": "Una ingesta desequilibrada de los usuarios."
+    },
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 4,
     "tema": "Tema 13",
-    "pregunta": " Test n.° 15. Maquinaria. Herramientas de cocina: concepto, clases y uti lidades. La limpieza y desinfección: bandejas, cubertería y vajilla, super-ficies de cocina, maquinaria y utillaje de cocina. Productos de limpieza utilizados. Prácticas correctas de higiene ( 80 preguntas) .... ................. ....... Test n.° 16. Protección medioambiental. Nociones básicas sobre conta-minaciÓn ambiental. Principales riesgos medioambientales relacionados con las funciones de la categoría. Tratamiento de residuos hosteleros, normas sanitarias para su control y eliminación SS preguntas] ...................",
-    "opciones": {},
-    "correcta": "a",
+    "pregunta": "¿Cuál de estos es un error en la manipulación de alimentos que puede ocasionar una enfermedad en las personas?",
+    "opciones": {
+      "a": "Cocción suficiente en su elaboración.",
+      "b": "Elegir los alimentos tratados con fines higiénicos.",
+      "c": "Preparación de los alimentos varias horas antes de su consumo.",
+      "d": "Guardar cuidadosamente los alimentos cocinados."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 13",
+    "pregunta": "Durante la cocción de productos alimenticios hay que garantizar que el centro del producto cocinado alcanza al menos los:",
+    "opciones": {
+      "a": "50 °C.",
+      "b": "60 °C.",
+      "c": "70 °C.",
+      "d": "80 °C."
+    },
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 6,
     "tema": "Tema 13",
-    "pregunta": " La Constitución Española de J 978: estructura y contenido. Título Preliminar. Los derechos y deberes fundamentales: derechos y libertades. Garantías y suspensión. La igualdad efectiva entre hombres y mujeres. Políticas públicas de igualdad. Medidas de protección integral contra la violencia de género ¿En qué se fundamenta la Constitución Espaiiola7 En un Estado social y democrático de Derecho. En la indisoluble unidad de la Nación española. En la independencia de los poderes del Estado. En |a organización territorial del Estado. Según el artículo 3 de la CE, el castellano es la lenqua oficial del Estado y todos  Españoles: Tienen el deber de usar y el derecho de conocer el castellano. Tienen el derecho y el deber de conocer el castellano. Tienen el deber de conocer y el derecho de usar el castellano. Tienen el derecho de conocer y usar el castellano. La Constitución Española reconoce y garantiza el derecho a la autonomía: De |as nacionalidades que la integran. De las regiones que la integran. De las Comunidades Autónomas que la integran. De las nacionalidades y regiones que la integran. El Preámbulo de la Constitución: Tiene en sí carácter de norma jurídica. Es una dec|araciÓn de intenciones, destinada a interpretar lo que se quiere alcanzar con el contenido normativo de la Constitución. Se trata de un texto sin fuerza jurídica de obligar. Las respuestas b) y c) son correctas. PI r›I‹ D« SERvItIO Dz SALVO DE CASiILfA- fA NAXtHA (SEScAM) Seńala la afirmación correcta, respecto de la aprobación, ratificación y publi-cación de la Constitución Española: Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en refe-róndum el 6 de diciembre de 1978 y publicada el 29 de diciembre de 1978. Aprobada por las Cortes el 30 de octubre de 1978, ratificada por el pueblo en refe-réndum el 6 de diciembre de 1978 y publicada el 27 de diciembre de 1978. Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en refe-réndum el 16 de diciembre de 1978 y publicada el 29 de diciembre de 1978. Aprobada por las Cortes el 10 de octubre de 1978, ratificada por el pueblo en refe-róndum el 26 de diciembre de 1978 y publicada el 30 de diciembre de 1978. ¿En qué parte de la Carta Magna se establece la exposición de motivos que im-pulsan la norma constitucional y lor objetivos que con ella re pretender alcanzar? En elTítulo preliminar. En el Preámbulo. En el Título I. En el Título II, La Constitución Española fue sancionada por: El Pey. El Presidente del Congreso. Las Cortes Generales. El Presidente del Gobierno. ¿€uáles de lor siguientes españoles de origen pueden ser privados de su na-cionalidad? Exclusivamente los miembros de grupos terroristas. Los miembros de grupos terroristas y los que atenten contra el Rey u otro miembro de la Casa Real. Los que atenten contra un miembro de la Familia Real o del Gobierno de la Nación. Ningún español de origen podrä ser privado de su nacionalidad. Según la CE son fundamentos del orden político y la paz social: La dignidad de la persona, los derechos violables que les son inherentes y el respeto",
+    "pregunta": "Si un alimento cocinando se conserva en caliente se hará por encima de la temperatura de:",
     "opciones": {
-      "a": "la ley. La dignidad de la persona, el desarrollo limitado de la personalidad y el respeto a la ley. El respeto a la ley, a los reglamentos administrativos y demas disposiciones Regales.",
-      "d": "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de su personalidad, el respeto a la ley y a los derechos de los demás. ¿Cuál de los siguientes es considerado por la CE homo uno de los valores su-periores del ordenamiento jurídico? La jerarquîa normativa. El pluralismo político. La publicidad normativa. dJ La equidad. La forma poiítica del Estado español es: Democracia parlamentaria. Gobierno parlamentario. Monarquía parlamentaria. República democrática. La parte de la CE que regula la estructura de los principales órganos del Es-tado recibe el nombre de: Parte dogmãtica. Parte orgãnica. Parte estatal. Parte estructural. Según la CE, la soberanía nacional: Corresponde a las Cortes Generales, al estar compuestas por los representantes del pueblo. Corresponde al Rey. Reside en el pueblo español. Corresponde al Gobierno de la Nación elegido directamente por el pueblo. El derecho a la propiedad en nuestra Constitución es un Derecho: Inherente a la condición humana. Absoluto. Limitado por la funciÓn social de la misma. Ninguna de las respuestas anteriores es correcta. ¿En qué parte de la Carta Magna se seńalan los valores superiores del orde-namiento jurídico? En el Preámbulo. En el Título Preliminar. En el Título I. Ninguna respuesta es correcta. PI cHE OWL SER¥ici0 Dr SAI D DE ‹ASii LLA LA MA›icHA (SrScAM) ¿Cuál de las siguientes es una de las características de nuestra Constitución de 19787 Consensuada. Corta. Conservadora. Originalidad. Son el fundamento del orden político y de la paz social: El libre desarrollo de la personalidad. Los derechos inviolables que les son inherentes. El respeto a la ley y a los derechos de los demás. Todas las respuestas son correctas. ;Qué quedará excluido de extradición? Los delitos criminales. Los delitos políticos. Los actos de terrorismo. Ninguno. ¿Qué debe ser democrático, a tenor de lo dispuesto en la Constitución Espa-ñola, en los sindicatos de trabajadores y las asociaciones empresariales* Su funcionamiento. Su estructura interna. Su funcionamiento y estructura interna. Sus órganos asamblearios. ¿De cuántos Capítulos consta el Título I de la CE de  978? De tres. De cinco. De dos. De cuatro. Dispone la Carta Magna que todos contribuirán al sostenimiento de los gas-tos públicos de acuerdo con su capacidad económica mediante un sistema tributa-rio justo inspirado en los principios de: Legalidad y equidad. Igualdad y progresividad. Publicidad y legalidad. Eficacia y sostenibilidad. Las primeras elecciones democráticas celebradas en España tras la muerte de Franco tuvieron Iugar en:"
+      "a": "40 °C.",
+      "b": "50 °C.",
+      "c": "60 °C.",
+      "d": "70 °C."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 13",
+    "pregunta": "Cuando un alimento crudo contaminado entra en contacto con el alimento cocinado tendremos:",
+    "opciones": {
+      "a": "Contaminación cruzada directa.",
+      "b": "Contaminación cruzada indirecta.",
+      "c": "Contaminación cruzada mixta.",
+      "d": "No habrá contaminación cruzada."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 13",
+    "pregunta": "Según la normativa vigente la responsabilidad en materia de formación de los manipuladores de alimentos recae en:",
+    "opciones": {
+      "a": "La oficina de empleo.",
+      "b": "Los operadores de empresas alimentarias.",
+      "c": "En centros especializados para esta tarea.",
+      "d": "El Ayuntamiento respectivo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 13",
+    "pregunta": "¿En qué normativa se establecen las normas generales relativas a la higiene alimentaria, destinadas a los operadores de empresa alimentaria?",
+    "opciones": {
+      "a": "Reglamento CE 852/2004 (Parlamento Europeo y del Consejo).",
+      "b": "Real Decreto 109/2010.",
+      "c": "Ley 25/2009.",
+      "d": "Real Decreto 202/2000."
     },
     "correcta": "a",
     "explicacion": ""
@@ -7498,278 +10011,1899 @@
   {
     "id": 10,
     "tema": "Tema 13",
-    "pregunta": ". El referéndum en el que se aprobó popularmente la Constitución se llevó a efecto el:",
-    "opciones": {},
-    "correcta": "a",
+    "pregunta": "¿Qué medidas a llevar a cabo en animales o en productos animales NO deberán realizar los operadores mediante registros sobre peligros?",
+    "opciones": {
+      "a": "Enfermedades padecidas por el animal.",
+      "b": "Controles efectuados al animal.",
+      "c": "Utilización de productos fitosanitarios y biocidas.",
+      "d": "Medicamentos veterinarios."
+    },
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 11,
     "tema": "Tema 13",
-    "pregunta": "de diciembre de 1978.",
-    "opciones": {},
-    "correcta": "a",
+    "pregunta": "¿En qué parte del Reglamento CE 852/2004 se especifican los requisitos higiénicos y características de los locales de producción?",
+    "opciones": {
+      "a": "En el artículo 4.",
+      "b": "En el Anexo I.",
+      "c": "En el Anexo II.",
+      "d": "En el artículo 20."
+    },
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 12,
     "tema": "Tema 13",
-    "pregunta": "de diciembre de 1978. 31de octubre de 1978.",
-    "opciones": {},
+    "pregunta": "¿Qué afirmación es INCORRECTA sobre los requisitos de las salas donde se manipulan alimentos?",
+    "opciones": {
+      "a": "Los materiales del suelo serán permeables y absorbentes.",
+      "b": "Los suelos dispondrán de sistema de desagüe.",
+      "c": "Las paredes serán lisas y fáciles de limpiar.",
+      "d": "Los techos no permitirán acumulación de moho."
+    },
     "correcta": "a",
     "explicacion": ""
   },
   {
     "id": 13,
     "tema": "Tema 13",
-    "pregunta": "de diciembre de 1979. La ponencia encargada de redactar el borrador de la Constitución se consti-tuyó en el: Senado. Senado y Congreso de los Diputados. Congreso de los Diputados. dJ Gobierno de la Nación. Si un poder público, en su actuación, infringe lo dispuesto en el Preámbulo de la Constitución: Incurre en nulidad. Incurre en inconstitucionalidad. No pasa nada salvo que, como consecuencia de esa actuación, se infrinja un artícu-lo de la propia Constitución. Nada de lo anterior es cierto. El principio en virtud del cual el ciudadano está amparado por una legisla-ción no sujeta a continuos vaivenes es el de: Legalidad. Publicidad normativa. Seguridad jurídica. Jerarquía normativa. El principio en virtud del cual un Reglamento no puede contradecir una Iey es el de: Legalidad. Jerarquía normativa. i i t PI SIJr DCL sEP\\/ICI0 DE SAtiJD DE cASfILLA- LA Ms#CHá (SrSCAM) Las respuestas a) y b) son correctas. Seguridad juridica. Según la Constitución, una norma que imponga una nueva pena más leve para un delito: No se aplica retroactivamente. Puede aplicarse retroactivamente. Ha de ser reglamentaria. Atenta contra el principio de legalidad penal si se aplica retroactivamente. Todos los españoles, respecto al castellano, tienen el: Derecho deber de conocerlo. Derecho de usar y deber de conocerlo. Derecho-deber de usarlo. Nada de lo anterior. La capital del Estado en España es: La propia de cada Comunidad Autónoma. La vi]|a de Madrid. Aquella donde se establezca en cada momento el Gobierno de la Nación. Aquella en la que resida generalmente el Rey. El Título de la Constitución que trata de la reforma constitucional es el: Primero. Décimo. Noveno. Undécimo. El Defensor del Pueblo se regula en el siguiente Título y Capítulo de la Cons-titución, respectivamente: Prelimin ar y I .° Segundo y 4.° Segundo y 3.° Primero y 4.° El Título de la misma que trata del Gobierno y la Administración es el: Tercero. Cuarto. Quinto. Sexto. Los principios rectores de la política social y económica se regulan en el si-guiente Capítulo y Título de la Constitución: Segundo del Primero. Tercero del Primero. Tercero del Preliminar. Primero del Séptimo. La derogación de una norma porconrtitucional que vaya en contra de la Constitución se efectúa por el/la/las: Propia Constitución. Tribunal Constitucional. Cortes Generales. Gobierno de la Nación. El pluralismo político, para nuestra Constitución, es un/una: Principio General del ordenamiento político. Valor superior del ordenamiento jurídico. Principio rector de la política social y económica. Derecho fundamental. La forma política del Estado español es: Unitaria y regionalizada. Federal. La Monarquía Parlamentaria. La propia de un Estado Social y Democrático. La justicia, según nuestra Constitución, es un/una: Principio de nuestro ordenamiento jurídico. Valor superior del anterior. Manifestación del Estado democrático. Todo lo anterior. Un español de origen puede perder esta nacionalidad: Por sanciÓn administrativa. Cuando libremente renuncie a la misma. Por condena penal. En ningún caso. MN(xfDt \\fR¥|uODfsAivDff(A\\?t A AMAN( A(sfs(AM1 Constituye el fundamento del orden público y de la paz social, según la Cons-titución, el/la/los: Derechos inviolables inherentes a la persona. Estado social y democrático de Derecho. Seguridad jurídica. Justicia. Las Comunidades Autónomas deben usar o instalar la bandera española: En sus edificios. En los actos oficiales. Cuando lo solicite el Delegado del Gobierno de la Nación en las mismas. Cuando lo estimen oportuno. Deben tener una estructura interna y un funcionamiento democrático los/las: Partidos Políticos. Colegios Profesionales. Organizaciones Profesionales. Todos ellos. La defensa de la integridad territorial de España re atribuye por la Constitu- ción a/al/a las: Fuerzas y Cuerpos de Seguridad. Fuerzas Armadas. Gobierno de la Nación. Todas las anteriores. El Título de la Constitución que trata de las relaciones entre el Gobierno y las Cortes Generales es el: Cuarto. Quinto. Sexto. Tercero. La Constitución entró en vigor: AI dia siguiente de su publicación en el Boletín Oficial del Estado. El 27 de diciembre de 1978. c] El 29 de diciembre de J978.",
+    "pregunta": "¿Qué operarios NO deben estar autorizados a manipular alimentos?",
     "opciones": {
-      "d": "Las respuestas a) y b) son correctas. Según la Constitución, el Estado es: Apolítico. Aconfesional. De bienestar social. Federal. El derecho a la vida se consagra en el siguiente artículo de la Constitución:"
+      "a": "Todos estarán autorizados.",
+      "b": "Portadores de una enfermedad transmitida por alimentos.",
+      "c": "Portadores de una enfermedad infecciosa aunque no sea transmisible por alimentos.",
+      "d": "Son ciertas las respuestas b) y c)."
     },
-    "correcta": "a",
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 13",
+    "pregunta": "¿En qué capítulo del Anexo II del Reglamento CE 852/2004 se contempla la formación de manipuladores?",
+    "opciones": {
+      "a": "Capítulo IX.",
+      "b": "Capítulo X.",
+      "c": "Capítulo XI.",
+      "d": "Capítulo XII."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 13",
+    "pregunta": "La formación de los manipuladores puede ser impartida por:",
+    "opciones": {
+      "a": "Entidades formadoras.",
+      "b": "La propia empresa alimentaria.",
+      "c": "Escuelas de formación profesional oficiales.",
+      "d": "Cualquiera de los anteriores."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 13",
+    "pregunta": "¿Dónde vendrán recogidos los aspectos de formación de operarios en la empresa?",
+    "opciones": {
+      "a": "Plan anual.",
+      "b": "Plan de formación.",
+      "c": "Plan de autocontrol de la empresa.",
+      "d": "Ninguno es correcto."
+    },
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 17,
     "tema": "Tema 13",
-    "pregunta": ". La pena de muerte en España: Ha quedado abolida. Puede aplicarse en cualquier momento. Solo se aplicará, en tiempo de guerra, a los militares. Rige solo en el ámbito civil. La inmediata puesta a disposición judicial derivada del habeas corpus, se produce por: Detención ilegal. Prisión ilegal. Prisión preventiva. Detención preventiva. El proceso en el que se enjuicie a un presunto delincuente debe: Ser sumario. No dilatarse. , ;, PI cHE DCL SER\\/IcI0 DE sAtIJr DE CASTILLA- LA MArcHA (SEScsM) Entorpecer los instrumentos probatorios. Nada de lo anterior es cierto. La entrada en un domicilio en caso de flagrante delito, sin autorización de su titular: Puede dar lugar a la aplicación del habeas corpus. Requiere autorización previa de la autoridad judicial. Puede efectuarse en todo momento. No puede realizarse en momento alguno. Cuando, al conocerse la comisión de un delito por una persona, se acude a su domicilio para detenerla: Está obligada a franquear la entrada. Se necesitará autorización judicial para entrar, si no da su consentimiento para ello. Pese a que no dé su consentimiento, se puede entrar. Nada de lo anterior es correcto. La autorización previa para celebrar una manifestación pública: La da el Subdelegado del Gobierno en la Provincia. Es ineludible. Sería inconstitucional. dJ Se da cuando no se prevean alteraciones al orden público, con peligro para perso-nas o bienes. El tipo de sufragio que consagra la Constitución es el: Proporcional. Universal. Censitario. Las respuestas a) y b) son correctas. Además de la no autoinculpación, la Constitución prevé que no se está obli-gado a declarar sobre un hecho presuntamente delictivo en caso de: Parentesco y afinidad. Clausula de concienci u. Secreto profesional. Las respuestas a) y b) son correctas. Los Tribunales de Honor ertán prohibidos respecto de los/la/las: Sindicatos y Organizaciones Profesionales. Administración Civil y Militar. Organizaciones Profesionales y la Administración Civil. Todas las re5puestas anteriores son correctas. El secreto profesional, constitucionalmente, sirve para: Ejercer con libertad una profesión titulada. La libertad de creación científica y técnica. No declarar sobre hechos presuntamente delictivos. Todo to anterior. 6o. La fundación de una Internacional Sindical por un sindicato español: Es libre. Esta prohibida. cJ Debe plasmarse en un Tratado Internacional.",
+    "pregunta": "Para verificar el cumplimiento de los objetivos del Plan Nacional de Control de la Cadena Alimentaria se realizará:",
     "opciones": {
-      "d": "Nada de lo anterior es cierto. El ejercicio del derecho de petición a través de una manifestación ciudadana: No se admite. Se admite en algún caso. Se admite, salvo para los militares. Ni se admite ni se prohíbe. Nuestra Constitución trata de los derechos y deberes fundamentales de los espańoles en su Título I, denominado: De los derechos y deberes fundamentales. De los deberes de los españoles. De los derechos de los españoles. De los derechos y deberes principa|es de los espańoles. Las Fundaciones son: a} Entidades constituidas para fines de interés genera|. Administración Corporativa. Entidades privadas con fines de carácter también privado. Asociaciones de personas para conseguir fines de interés general. La asistencia de todo orden a los hijos habidos extraconyugalmente: No estã prevista en la Constitución. Es un deber de los padres. Se dispensará por Instituciones de Beneficencia. Se dispensa solo a los que de ellos tengan discapacidad. ó5. La especulación urbanística, según la Constitución: Debe evitarse. Está permitida. Genera plusvalías para la colectividad. Pueden hacerla los poderes públicos. No es susceptible de recurso de amparo el derecho a la/de: Sindicación. by Investigación científica. Secreto de las comunicaciones. Lo son todos ellos. Tampoco lo es el derecho de: Libertad de cátedra. Negociación colectiva. ManifestaciÓn. Huelga. Y sí lo está el derecho de/a la: Libre sindicación. Petición. Clá usula de conciencia. Lo están todos ellos. Una vez declarado el estado de excepción no se puede suspender el derecho/ libertad de: Huelga. Ensenanza. Adopción de medidas de conflicto colectivo. Libertad de circulación. Durante el estado de excepción, un detenido conserva el derecho de/a: Setenta y dos horas para ser puesto a disposición judicial. Secreto de comunicaciones. Asistencia de Letrado. Ninguno de ellos. Se puede suspender, con motivo de investigaciones relativas a bandas arma-das, el derecho de: Huelga. Inviolabilidad del domicilio. Libertad de circulación. Las respuestas b) y c) son correctas. ¿En qué fecha aprobaron las Cortes Generales la Constitución Espańola? El 31 de octubre de 1978. El 6 de diciembre de 1978. El 27 de diciembre de 1978. El 29dediciembrede 1978. ¿Cuál de las siguientes no es una característica de la Carta Magna? Su rigidez. El establecimiento, como forma política del Estado, de la monarquía hereditaria. Su codificación en un solo texto. Su extensión. ¿De cuántos artículos consta la Constitución Española de 1978? De 154. De163. De 169. De 171. ¿Cuál de los siguientes no es uno de los valores superiores de nuestro orde-namiento jurídico? El pluralismo político. La solidaridad. La libertad. La igualdad.",
-      "a": "los veinte días de la publicación de su texto oficial en el Boletín Oficial del Estado. El mismo día de la publicación de su texto oficial en el Boletín Oficial del Estado. AI año de la publicación de su texto oficial en el Boletín Oficial del Estado, La ley que regula a nivel estatal la igualdad efectiva de mujeres y hombres, es: La Ley 3/2007, de 12 de marzo. La Ley Orgá nica 22/2007, de 3 de abril. La Ley Orgánica 3/2007, de 22 de marzo. El Decreto Legislativo 7/2003, de 23 de mayo. ;Qué título de la Ley para la Igualdad efectiva de Mujeres y Hombres se refiere a las políticas públicas para la igualdad? El Título II. El Título III. El Título IV. El Título V. Las obligaciones establecidas en la Ley para la Igualdad efectiva entre Mujeres y Hombres son de aplicación a: Toda persona que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia. Todos los españoles residentes en territorio español; pero no a los españoles que tengan residencia en otro país aunque eventualmente se encuentren en territorio espanol. Toda persona que se encuentre o actúe en territorio español, originaria de algún país adherido a los Tratados internacionales de eliminación de toda forma de discriminación contra la mujer; pero no se puede aplicar a personas originarias de los países no firmantes. Únicamente a todos los españoles se encuentren o no en territorio espa ñol. g2. Todo trato desfavorable a las mujeres relacionado con el embarazo o la ma-ternidad constituye: Acoso sexual. Acoso por razón de sexo. Discriminación directa por razón de sexo. Discriminación indirecta por razón de sexo. Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o efecto de atentar contra su dignidad y de crear un entorno inti-midatorio, degradante u ofensivo, constituye: Acoso sexual. Acoso por razón de sexo. Z4 Discriminación directa por razón de sexo. Discriminación indirecta por razón de sexo. Los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo se considerarán: Válidos, si todas las partes consienten. Anulables y sin efecto durante el primer año; pasado ese tiempo, si no hay denun-cia, tendrán efectos legales. Nulos, pero con efecto. Nulos y sin efecto. La capacidad y la legitimación para intervenir en los procesos civiles, sociales y contencioso-administrativos que versen sobre la defensa del derecho de igualdad entre mujeres y hombres, corresponden a: La persona acosada, únicamente. Cualquier ciudadano. Las personas físicas y jurídicas con interés legítimo. Cualquier persona jurídica. Según el artículo 15 de la Ley para la Igualdad efectiva entre Mujeres y Hom-bres, el principio de igualdad de trato y oportunidades informará la actuación de todos los poderes públicos: Con carácter transversal. De forma equilibrada. Solo cuando se trate de colectivos de especial vulnerabilidad o de violencia de hecho. Con carácter no vinculante. Según la Disposicion Adicional Primera de la Ley para la Igualdad efectiva entre Mujeres y Hombres, se entenderá por composición equilibrada la presencia de mujeres y hombres de forma que, en el conjunto al que se refiera, las personas de cada sexo: Tengan la misma representación; es decir la mitad, o la mitad más uno o menos uno si es un número impar de miembros. No superen el 60 % ni sean menos del 40 %. No superen el 70 % ni sean menos del 30 %. No sean menos del 10 %. Los proyectos de disposiciones de carácter general y los planes de especial relevancia económica, social, cultural y artística que se sometan a la aprobación del Consejo de Ministros deberán incorporar: Un Plan Estratégico de Igualdad de Oportunidades. Una estadística o encuesta que posibilite el conocimiento de las diferencias en los valores, roles, situaciones y condiciones, de mujeres y hombres en el ámbito de acciÓn del proyecto o plan. PI cHE OWL SER\\/ICI0 Dr Ssf 0 Dr cASiILLA- LA MA SHA (SzS‹AM) Un informe periódico sobre el conjunto de sus actuaciones en relación con la efec tividad del principio de igualdad entre mujeres y hombres. Un informe sobre su impacto por razÓn de género. Se definen como “un conjunto ordenado de medidas, adoptadas después de realizar un diagnóstico de situación, tendentes a alcanzar en la empresa la igualdad de trato y de oportunidades entre mujeres y hombres y a eliminar la discriminación por razón de sexo\": Los programas de mejora de la empleabilidad de las mujeres. bj Las medidas de acción positiva para favorecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condi-ciones de trabajo. Los protocolos de actuación frente al acoso sexual y al acoso por razÓn de sexo. Los planes de igualdad de las empresas. ¿A partir de qué número de trabajadores están las empresas obligadas a ela-borar y aplicar un plan de igualdad?"
+      "a": "Auditorías externas.",
+      "b": "Auditorías internas.",
+      "c": "Auditorías mixtas.",
+      "d": "Auditorías externas e internas."
     },
-    "correcta": "a",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 18,
     "tema": "Tema 13",
-    "pregunta": "o más trabajadores.",
-    "opciones": {},
-    "correcta": "a",
+    "pregunta": "¿Qué normativa española recoge la seguridad alimentaria y la obligación de realizar auditorías?",
+    "opciones": {
+      "a": "Real Decreto 202/2000.",
+      "b": "Real Decreto 109/2010.",
+      "c": "Ley Orgánica 5/2002.",
+      "d": "Ley 17/2011."
+    },
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 19,
     "tema": "Tema 13",
-    "pregunta": "trabajadores.",
-    "opciones": {},
-    "correcta": "a",
+    "pregunta": "¿Qué regula la Ley Orgánica 5/2002, de 19 de junio?",
+    "opciones": {
+      "a": "El procedimiento de auditorías alimentarias.",
+      "b": "El Catálogo Nacional de Cualificaciones Profesionales.",
+      "c": "La formación en el centro de trabajo.",
+      "d": "Los cursos de higiene."
+    },
+    "correcta": "b",
     "explicacion": ""
   },
   {
     "id": 20,
     "tema": "Tema 13",
-    "pregunta": "trabajadores.",
-    "opciones": {},
+    "pregunta": "¿Cómo se denomina al sujeto con infección latente, sin síntomas, pero capaz de transmitirla?",
+    "opciones": {
+      "a": "Portador sano.",
+      "b": "Portador oligosintomático.",
+      "c": "Portador enfermo.",
+      "d": "Portador aparente."
+    },
     "correcta": "a",
     "explicacion": ""
   },
   {
     "id": 21,
     "tema": "Tema 13",
-    "pregunta": "trabajadores. ¿Cómo se denomina el distintivo creado por el Ministerio de Trabajo y Asun-tos Sociales (actual Ministerio de Trabajo, Migraciones y Seguridad Sotial) para re-conocer a las empresas que destacan por la aplicación de políticas de igualdad de trato y de oportunidades con sus trabajadores y trabajadoras? Distintivo “Igualdad en la Empresa' Distintivo “Empresas en Igualdad\" Distintivo “Empresa no discriminatoria' Distintivo “Empresa con empleo igualitario' ¿Por cuánto tiempo se concede el distintivo para las empresas en materia de igualdad* Un año, prorrogable uno más. Tres años, prorrogables. Cuatro años. Indefinido. Mantener el equilibrio en las diferentes dimensiones de la vida con el fin de mejorar el bienestar, la salud y la capacidad de trabajo personal, es: Conciliar. Igualar. Discriminatorio. Acoso. La aprobacion de convocatorias de pruebas selectivas para el acceso al em-pleo público en la Administración General del Estado o en for organismos públicos vinculados o dependientes de ella, deberá: Asegurar la adjudicación de plazas ofertadas por el principio de presencia equili-brada de mujeres y hombres. Reservar al menos un 40 % de las plazas para cada sexo. Acompanarse de un informe de impacto de género, salvo en casos de urgencia. Separar las plazas que se hayan de cubrir por hombres de las que se hayan de cubrir por mujeres. Para contribuir al cumplimiento de la legislación en materia de igualdad en-tre mujeres y hombres, las Administraciones públicas promoverán la adopción por parte de los medios de comunicación, incluyendo las actividades de venta y publi-cidad que en aquellos se desarrollen, de: Planes de igualdad. La realización de estudios e investigaciones especializadas en la materia. Campañas institucionales dirigidas a fomentar la igualdad entre mujeres y hombres y a erradicar la violencia de género. Acuerdos de autorregulación. La publicidad que comporte una conducta discriminatoria de acuerdo con la Ley orgánica 3/2007 se considerará: Publicidad ilícita. Publicidad inapropiada. Publicidad delictiva. Publicidad engañosa. En el acceso a bienes y servicios ¿puede un contratante indagar sobre la si-tuación de embarazo de una mujer demandante de los mismos? No, en ningún caso. Solo por razones de protección de la salud de la mujer. Sí, en cualquier caso. SÍ, si está en un estado avanzado de gestación. La integración voluntaria, por parte de las empresas, de las preocupaciones sociales, laborales, medioambientales y de respeto a los derechos humanos con sus grupos de interés, responsabilizándose así de las consecuencias y los impactos que derivan de sus acciones, se denomina: IntegraciÓn empresarial positiva. Responsabilidad social de las empresas. PIl‹cHt DEL SIRYIcIO DE SsLl/D Or cASiILLA LA MA›ICHA (SEScA M) Compromiso de presencia equilibrada en la empresa. Empresa con distintivo de igualdad. Indicar la palabra que falta en la siguiente frase: “El principal fin de la Ley 12/2010, de 18 de noviembre, de igualdad entre mujeres y hombres de Castilla-La Mancha, es alcanzar la igualdad\tentre hombres y mujeres en todos los ám- bitos de la vida\": Máxima. Laboral. Jurídica. Real. En las candidaturas a las Cortes Regionales que presenten los partidos po-líticos, federaciones, coaliciones o agrupaciones de electores, se entenderá por re-presentación equilibrada: La presencia de mujeres y hombres de forma que, en el conjunto de la candidatura, las personas de cada sexo no superen el 60 % ni sean menos del 40. La presencia en ]as candidaturas del mismo número de hombres que de mujeres. La alternancia de mujeres y hombres en las candidaturas de forma que las personas de un sexo ocupen todos los puestos pares y las del otro todos los puestos impares. La alternancia en cada legislatura del sexo del cabeza de Iista de cada partido po-lítico federaciÓn, coalición o agrupación, de forma que si en una legislatura el cabeza de lista es hombre, en la siguiente legislatura habrá de presentarse a una mujer como cabeza de Iista. El informe de impacto de género al anteproyecto de Ley de Presupuestos de la Comunidad Autónoma de Castilla-La Mancha será realizado por: La ComisiÓn de Igualdad. La Consejería competente en materia de Hacienda. La Consejería competente en materia de servicios sociales. El Instituto de la Mujer de Castilla-La Mancha. Selecciona entre lar opciones propuestas la palabra que falta en la siguiente frase:”En la comunicación institucional, las Administraciones públicas de Castilla-La Mancha velarán por la transmisión de una imagen igualitaria, plural y no .................. de mujeres y hombres en la sociedad, y promoverán el conocimiento y la difusión del principio de igualdad entre mujeres y hombres en el desarrollo de sus políticas”: Discriminatoria. Denigrante. Sexista. Estereotipada. tQuién aprueba el Plan Estratégico para la Igualdad de Oportunidades de Castilla-La Mancha? El Consejo de Gobierno. El Instituto de la Mujer de Castilla-La Mancha. Las Cortes de Castilla-La Mancha. La Comisión de Igualdad. Selecciona entre las opciones propuestas la palabra que falta en la si-guiente frase:“La Junta de Comunidades de Castilla-La Mancha establecerá medi-das específicas dirigidas a la eliminación de los estereotipos masculinos y femeni-nos y al fomento de la\tfamiliar y doméstica, con el fin de garantizar el derecho y el deber de las mujeres y de los hombres a compartir las responsabili-dades familiares, en particular las tareas domésticas y el cuidado de las personas dependientes”: Conciliación. Corresponsabilidad. Representatividad. Equiparación. Selecciona entre las opciones propuestas la palabra que falta en la si-guiente frase:“La Junta de Comunidades de Castilla-La Mancha garantiza el dere-cho\ten la adjudicación de viviendas de promoción pública en régimen de alquiler o propiedad, a las mujeres de Castilla-La Mancha que se hallen en cir-cunstancias de especial vulnerabilidad, por estar en situación de necesidad o de exclusión social, por ser victimas de violencia de género o por pertenecer a un colectivo que soporte discriminaciones múltiples, entre las que se encuentran las mujeres solas con cargas familiares, en las condiciones que reglamentariamente se determinen”: Inalienable. Irrenunciable. Preferente. lmprescriptible. 10ó. La Junta de Comunidades de Castilla-La Mancha fomentará el acceso al empleo de las mujeres jóvenes de Castilla- La Mancha, entendiendo por estas las menores de:",
-    "opciones": {},
+    "pregunta": "Las infracciones graves de la ley 17/2011 pueden alcanzar una multa máxima de:",
+    "opciones": {
+      "a": "5.000 euros.",
+      "b": "10.000 euros.",
+      "c": "20.000 euros.",
+      "d": "100.000 euros."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 13",
+    "pregunta": "Una infracción con clara intencionalidad y gravedad extrema se cataloga como:",
+    "opciones": {
+      "a": "Muy leve.",
+      "b": "Leve.",
+      "c": "Grave.",
+      "d": "Muy grave."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 13",
+    "pregunta": "¿Cómo se denominan las enfermedades por infección de un microorganismo en el alimento?",
+    "opciones": {
+      "a": "Infecciones alimentarias.",
+      "b": "Intoxicaciones alimentarias.",
+      "c": "Toxiinfecciones alimentarias.",
+      "d": "Enfermedades alimentarias."
+    },
     "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 13",
+    "pregunta": "¿Cuándo es mayor la incidencia de toxiinfecciones alimentarias?",
+    "opciones": {
+      "a": "Verano e invierno.",
+      "b": "Otoño e invierno.",
+      "c": "Otoño y primavera.",
+      "d": "Primavera y verano."
+    },
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 25,
     "tema": "Tema 13",
-    "pregunta": "anos. l'Ii‹cHr DEL SrR\\/IcI0 DE SALvD Dc ‹ASii LCA LA MA›icH A (SrS«M) El Instituto de la Mujer de Castilla-La Mancha elaborará un informe sobre la aplicación de la Ley 12/2010, en el que se propondrán las medidas y actuaciones necesarias para conseguir la igualdad real entre mujeres y hombres, cada: Mes. Año.",
-    "opciones": {},
-    "correcta": "a",
+    "pregunta": "¿Qué grupos son de mayor riesgo de padecer estas enfermedades?",
+    "opciones": {
+      "a": "Adultos.",
+      "b": "Los niños.",
+      "c": "Personas sanas.",
+      "d": "Adolescentes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 13",
+    "pregunta": "El enranciamiento es una alteración de tipo:",
+    "opciones": {
+      "a": "Físico.",
+      "b": "Biológico.",
+      "c": "Químico.",
+      "d": "Térmico."
+    },
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 27,
     "tema": "Tema 13",
-    "pregunta": "años. jCuál es el órgano o institución garante del derecho a la igualdad entre mujeres yhombres en las actuaciones de las Administraciones Públicas castellano-manchegas? El Defensor del Pueblo. El Instituto de la Mujer de Castilla La Mancha. La Comisión de Igualdad. La Unidad de Igualdad de Género. Corresponde proponer la política del Gobierno en relación con la violencia sobre la mujer y coordinar e impulsar todas las actuaciones que se realicen en dicha materia: Al Ministerio de Sanidad, Consumo y Bienestar Social. Al Observatorio Estatal de Violencia sobre la Mujer.",
+    "pregunta": "La acumulación de microorganismos invisibles produce un riesgo:",
     "opciones": {
-      "a": "Consensuada.",
-      "b": "Igualdad y progresividad.",
-      "c": "Su funcionamiento y estructura interna.",
-      "d": "Todas las respuestas son correctas. '!i, PI cHr OEL SERvIrIO DE SAI D OE cASiIfLA- ÍA MA cH‹ ‹SEScsM)"
+      "a": "Físico.",
+      "b": "Biológico.",
+      "c": "Químico.",
+      "d": "Térmico."
     },
-    "correcta": "a",
+    "correcta": "b",
     "explicacion": ""
   },
   {
     "id": 28,
     "tema": "Tema 13",
-    "pregunta": ".\t197?",
+    "pregunta": "Los alimentos que se conservan mucho tiempo por distintos métodos se llaman:",
     "opciones": {
-      "b": "Al de 6 meses de subsidio por desempleo.",
-      "c": "Preferente.",
-      "d": "3 años.",
-      "a": "El Defensor del Pueblo. PII‹cHE DEL SEhvlcl0 Dr SQL D Dr CASTILLA L4 MAI‹CHA (SEScAM) J09. c) A la Delegación Especial del Gobierno contra la Violencia sobre la Mujer. C6 El Estatuto de Autonomía de Castilla-La Mancha: competencias de la Junta de Comunidades. Instituciones de la Comunidad Autónoma. Estructura de la Administración Regional. Ley de Transparencia y Buen Gobierno de Castilla-La Mancha El Estatuto de Autonomía de Castilla-La Mancha, fue aprobado por: Ley Orgánica 9/1982, de 10 de agosto. Ley Orgánica 8/1982, de 10 de agosto. Ley Orgánica 9/1983, de 15 de agosto. Ley Orgánica 9/1982, de 0 de septiembre. El Estatuto de Autonomía de Castilla-La Mancha: Consta de 64 artículos y se estructura en un Título Preliminar, 6 Títulos, 2 disposicio-nes adicionales, seis disposiciones transitorias y una disposición final. Consta de 54 artículos y se estructura en un Título Preliminar 6 Títulos, 3 disposicio-nes adicionales, sei5 disposiciones transitorias y una disposición final. Consta de 54 artículos y se estructura en un Título Preliminar, 6 Títulos, 3 disposicio-nes adicionales, siete disposiciones transitorias y una disposición final. Consta de 64 artículos y se estructura en un Título Preliminar, 6 Títulos, 2 disposicio-nes adicionales, siete disposiciones transitorias y una disposición final. El Título Preliminar comprende los: Seis primeros artículos del Estatuto. Siete primeros artículos del Estatuto. Nueve primeros artículos del Estatuto. Once primeros artículos del Estatuto. La Junta de Comunidades ejercerá sus poderes los siguientes objetivos bási- CO S establecidos en el: Artículo 3. Artículo 4. it  PIfiICHE DEL SER\\/ICl0 DE SALUD OÍ CASTILLA LA MAkCHA (SESCAM) Artículo 5. Artículo 6. La Ley del Gobierno y del Consejo Consultivo de Castilla-La Mancha es la: Ley 10/2003, de 25 de septiembre. Ley 11/2003, de 25 de septiembre. Ley 11/2006, de 25 de septiembre. Ley 11/2003, de 26 de septiembre. los ex-Presidentes tendrán el tratamiento de: Ilustrísima. Excelencia. Excelentísimo. Presidente. Las Cortes de Castilla-La Mancha aprobarán una Ley del Gobierno y del Con-sejo Consultivo, en la que se incluirá la limitación de los mandatos del Presidente, por mayoría: Simple de los miembros del Pleno de la Cámara. Absoluta de los miembros del Pleno de la Camara. De dos tercios de los miembros del Pleno de la Cámara. De tres quintos de los miembros del Pleno de la Cámara. La confianza se entenderá otorgada cuando vote a favor de la mirma la mayoría: Simple de los Diputados. Absoluta de los Diputados. De dos tercios de los Diputados. De tres quintos de los Diputados. Si el Presidente plantease la cuestión de confianza sobre un proyecto de Ley, éste re considerará aprobado siempre que vote a favor de la confianza la mayoría: Simple de los Diputados. Absoluta de los Diputados. De dos tercios de los Diputados. De tres quintos de los Diputados. La moción de censura deberá ser propuesta al menos por el: 0% de los Diputados. 15% de los Diputados."
+      "a": "Perecederos.",
+      "b": "Alimentos semiperecederos.",
+      "c": "No perecederos.",
+      "d": "Estables."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 13",
+    "pregunta": "¿Qué denominación reciben los alimentos que duran tiempo prolongado?",
+    "opciones": {
+      "a": "Perecederos.",
+      "b": "Semiperecederos.",
+      "c": "Semiperecederos (o No perecederos según contexto).",
+      "d": "Estables."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 13",
+    "pregunta": "La contaminación por crecimiento de microorganismos sobre los alimentos es:",
+    "opciones": {
+      "a": "Directa.",
+      "b": "Indirecta.",
+      "c": "Cruzada.",
+      "d": "Mixta."
     },
     "correcta": "a",
     "explicacion": ""
   },
   {
-    "id": 229,
-    "tema": "Tema 14",
-    "pregunta": "mes. ¿Qué pieza de la media canal no pertenece al cuarto delantero del ganado vacuno? Aleta. Zorrillo. Solomillo. Morcillo. NO. ¿Qué pieza del cuarto delantero del vacuno es la parte situada sobre el ester-nón y parte de las costillas? Aleta. Morcillo. Aguja. Llana. ;A qué pieza del ganado vacuno se le Ilama contra?",
-    "opciones": {},
-    "correcta": "a",
+    "id": 31,
+    "tema": "Tema 13",
+    "pregunta": "¿Qué factores propician la contaminación?",
+    "opciones": {
+      "a": "Humedad ambiental.",
+      "b": "Altas temperaturas.",
+      "c": "Contenido en agua del alimento.",
+      "d": "Son correctos todos los anteriores."
+    },
+    "correcta": "d",
     "explicacion": ""
   },
   {
-    "id": 230,
-    "tema": "Tema 14",
-    "pregunta": " Es aquella zona del cuarto delantero, parte central de la cara externa de la pierna. Es aquella zona del cuarto trasero, parte central de la cara externa de |a pierna, Es aquella zona del cuarto trasero, parte delantera de la pierna, desde la rodilla a la cadera. Es aquella zona del cuarto traseio, parte situada por enzima de las costillas, que està màs cercana al cuarto delantero. El músculo alargado del ganado vacuno situado en la parte exterior de la paletilla se denomina: Pez. Aguja. Panc eta. Tapi]la. La carne de la parte correspondiente al cuello del cerdo se denomina: Pez. Aguja. Panceta. Rodillo. ¿cómo se denomina la fracción de unos 125 gramos de carne, que se puede obtener de distintas piezas (tapa, cadera, tapilla, babilla y espaldilla), generalmen-te cocinada a la plancha, salteada o empanada? Filete o bistec. b} Escalope. Escalopines. Osobuco. ¿Qué sinónimo se emplea en el fileteado de nombre villagodio* T-bone steak. b1 Rumpsteok. Entrecot. Chuletón. Un ave gallinácea, con las cuestas desarrolladas y de colores vivos será un animal: Muy joven. Joven. Adu|to. Viejo. Las aves sacrificadas y libres de pluma se denominan: Desplumadas. Difuntas. Enteras. Parciales. Si quedan abundantes plumones o plumas en la piel del ave para su limpieza, lo mejor que se debe hacer es proceder a su eliminación, por medio: De tirones individuales a dichos anejos directamente con fa mano. De tirones individuales a dichos anejo empleando pinzas u otro útil mecánico. De flameado del exterior del ave, sin dar directamente en la misma. No hacer nada. ¿Qué procedimiento consiste en envolver el ave en tiras de tocino, para evi-tar que al cocinarlo el calor reseque la carne? Cuarteado. Albardado. Bridado. Despojado. El pescado se debe limpiar: Con agua y productos desinfectantes. Con agua muy fría y sustancias antianisaki. c} Con agua y sal.",
+    "id": 32,
+    "tema": "Tema 13",
+    "pregunta": "La temperatura óptima para el crecimiento de gérmenes es:",
     "opciones": {
-      "d": "Solo con agua. ¿Qué procedimiento de preparación del pescado consiste en cortar las aletas con una tijera hacia la cabeza? Desbardado. Eviscerado. Desaletado. No es ninguno de los anteriores. El corte de pescado en forma de porción sin espina, con o sin piel, obtenida por corte del lomo se denomina: Trancha. Suprema. Poupieta. Falda. Las faldas en el pescado se denominan también: Ventrescas. Collares. Alas. Todas las denominaciones anteriores son sinónimas. En España nos referimos al «darné» del pescado como: Aquellos filetes de pescados planos, que se enrollan sobre sí mismos, y pueden ir rellenos.",
-      "a": "una mancha o rodaja bridada, para que no pierda su forma. ¿Qué hortalizas de estas, generalmente no se consumen con piel, tanto cruda como cocinada? Lechugas. Berros. Apio nabos. Espinacas. El ennegrecimiento de algunas hortalizas, al ser eliminada su piel protectora se produce por: Reducción. Sub\\imación. Oxidación. Transformación. Al pelar algunas frutas y verduras tienden a oxidarse, para evitarlo general-mente solo es necesario: Meterlas en agua. Meterlas en agua con algunas gotas de limÓn. Meterlas en agua con algunas gotas de vino blanco. Meterlas en agua con algunas gotas de vino tinto. La punta libre del espárrago se denomina: Tallo. Ápex. Apéndice. Flor. Todo lo que se expone de las hortalizas es cierto, excepto que: Las hortalizas, desde el momento de su cosecha, comienzan con el proceso de de-terioro, perdiendo paulatinamente los elementos nutricionales y vitamínicos. Generalmente una vez limpias y preparadas se mantienen en agua antes de su\t• elaboración o/y cocinado. III PI cHr DCL SrRylcI0 0E SAL r Dr c4SiIfLA- LA MAXrHA (SEScAM) Las hortalizas son productos no perecederos, lo que significa que pueden almace-narse durante periodos largos. Aquellas a las que por sus características se les deba eliminar la piel, se hara en el momento justo en que se vayan a utilizar, pues una vez peladas comienza a producirse la volatilización de nutrientes. El corte en tiras más o menos de la misma longitud, pudiendo variar el grosor en función del tipo de hortaliza, se denomina corte: Mirepoixe. Juliana. Brunoisse. Quartier. ¿Cuál es el corte de forma redondeada de una patata transversalmente y grueso (grosor de una moneda) realizado a cuchillo? Rejilla. Rodaja. Liard. Chips. ¿Qué sustancia apta para la desinfección re emplea frecuentemente ańadida al agua (proporcionalmente), en frutas y hortalizas que se consumen crudas? Vinagre. Limón. Lejía. Zotal. La destongelación de las material primar, debe hacerse: En hornos convencionales. En microondas. No deben congelarse las materi as primas. En cămaras de refrigeración a unos 2 °C. ¿€uánto tiempo como máximo debemos guardar un alimento en el frigorífi-co una vez descongelado?"
+      "a": "10 y 20º.",
+      "b": "20 y 30º.",
+      "c": "30 y 40º.",
+      "d": "40 y 50º."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 13",
+    "pregunta": "Un elemento involuntario con efectos negativos en la salud es un:",
+    "opciones": {
+      "a": "Agente causal.",
+      "b": "Huésped.",
+      "c": "Autor.",
+      "d": "Contaminante."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 34,
+    "tema": "Tema 13",
+    "pregunta": "¿Qué contaminante es abiótico?",
+    "opciones": {
+      "a": "Bacterias.",
+      "b": "Virus.",
+      "c": "Metales pesados.",
+      "d": "Insectos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 35,
+    "tema": "Tema 13",
+    "pregunta": "¿Qué enfermedad es bacteriana?",
+    "opciones": {
+      "a": "Brucelosis.",
+      "b": "Hepatitis A.",
+      "c": "Enfermedad de las vacas locas.",
+      "d": "Insecticidas."
     },
     "correcta": "a",
     "explicacion": ""
   },
   {
-    "id": 231,
-    "tema": "Tema 14",
-    "pregunta": "horas.",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 232,
-    "tema": "Tema 14",
-    "pregunta": "horas.",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 233,
-    "tema": "Tema 14",
-    "pregunta": "horas.",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 234,
-    "tema": "Tema 14",
-    "pregunta": "horas.",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 235,
-    "tema": "Tema 14",
-    "pregunta": " J tSI U.°14 Para descongelar un alimento: Podemos hacerlo en un Iugar cálido. Podemos dejarlo fuera del frigorífico durante toda la noche. Debemos descongelarlo en el frigorífico. Debemos ponerlo debajo del chorro del agua.",
+    "id": 36,
+    "tema": "Tema 13",
+    "pregunta": "¿Qué enfermedad es parasitaria?",
     "opciones": {
-      "a": "Se revisa el nivel de stock tras cada salida o entrada, y cuando se Ilega al punto de pedido, se cursa un pedido al proveedor.",
+      "a": "Salmonelosis.",
+      "b": "Hepatitis A.",
+      "c": "Vacas locas.",
+      "d": "Triquinosis."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 37,
+    "tema": "Tema 13",
+    "pregunta": "¿Cuál es el contaminante con mayor riesgo para la salud?",
+    "opciones": {
+      "a": "Bacterias.",
+      "b": "Virus.",
+      "c": "Metales pesados.",
+      "d": "Insectos."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 38,
+    "tema": "Tema 13",
+    "pregunta": "Las bacterias que viven sin oxígeno son:",
+    "opciones": {
+      "a": "Microaerófilas.",
+      "b": "Aerobias.",
+      "c": "Anaerobias.",
+      "d": "Facultativas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 39,
+    "tema": "Tema 13",
+    "pregunta": "El periodo de incubación de la salmonelosis es de:",
+    "opciones": {
+      "a": "8 y 72 horas.",
+      "b": "48 y 96 horas.",
+      "c": "5 y 7 días.",
+      "d": "8 y 10 días."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 40,
+    "tema": "Tema 13",
+    "pregunta": "¿Cómo se transmite el estafilococo a los alimentos?",
+    "opciones": {
+      "a": "Estornudos.",
+      "b": "Manipulación, secreciones de nariz y boca.",
+      "c": "Excreciones fecales.",
+      "d": "Portador sano."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 41,
+    "tema": "Tema 13",
+    "pregunta": "La Escherichia coli se destruye a:",
+    "opciones": {
+      "a": "70 °C.",
+      "b": "90 °C.",
+      "c": "110 °C.",
+      "d": "120 °C."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 42,
+    "tema": "Tema 13",
+    "pregunta": "¿En qué condiciones el Clostridium botulinum produce la toxina?",
+    "opciones": {
+      "a": "Microaerófilas.",
+      "b": "Aerobias.",
+      "c": "Condiciones anaerobias.",
+      "d": "Facultativas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 43,
+    "tema": "Tema 13",
+    "pregunta": "¿A qué temperatura se deben esterilizar conservas contra el botulismo?",
+    "opciones": {
+      "a": "100 °C, 20 min.",
+      "b": "120 °C, 10 min.",
+      "c": "120 °C, 20 minutos.",
+      "d": "90 °C, 10 min."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 44,
+    "tema": "Tema 13",
+    "pregunta": "Dato característico de la shigelosis:",
+    "opciones": {
+      "a": "Diarrea mucosa.",
+      "b": "Diarrea líquida.",
+      "c": "Diarrea acuosa y con sangre.",
+      "d": "No hay diarrea."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 45,
+    "tema": "Tema 13",
+    "pregunta": "¿Dónde se encuentra frecuentemente Bacillus cereus?",
+    "opciones": {
+      "a": "En el suelo.",
+      "b": "Vegetales.",
+      "c": "Carnes.",
+      "d": "Aire."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 46,
+    "tema": "Tema 13",
+    "pregunta": "¿A qué vegetales pasa el Bacillus cereus desde el suelo?",
+    "opciones": {
+      "a": "A cereales.",
+      "b": "Aceitunas.",
+      "c": "Legumbres.",
+      "d": "Frutas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 47,
+    "tema": "Tema 13",
+    "pregunta": "Alimentos que suelen ocasionar brucelosis:",
+    "opciones": {
+      "a": "Leche y derivados sin pasteurizar.",
+      "b": "Arroz.",
+      "c": "Agua.",
+      "d": "Ninguno es correcto."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 48,
+    "tema": "Tema 13",
+    "pregunta": "¿A quién afecta más la Listeria monocytogenes?",
+    "opciones": {
+      "a": "Personas con baja inmunidad.",
+      "b": "Adolescentes.",
+      "c": "Niños sanos.",
+      "d": "Mujeres fértiles."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 49,
+    "tema": "Tema 13",
+    "pregunta": "Productor del cólera:",
+    "opciones": {
+      "a": "Vibrio.",
+      "b": "Clostridium.",
+      "c": "E. coli.",
+      "d": "Listeria."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 50,
+    "tema": "Tema 13",
+    "pregunta": "La intoxicación paralítica por mariscos causa la muerte por:",
+    "opciones": {
+      "a": "Infarto.",
+      "b": "Parada cardiaca.",
+      "c": "Fallo renal.",
+      "d": "Parada respiratoria."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 51,
+    "tema": "Tema 13",
+    "pregunta": "Patología del virus Norwalk:",
+    "opciones": {
+      "a": "Gastroenteritis benigna de 1-2 días.",
+      "b": "Hepatitis benigna.",
+      "c": "Gastroenteritis grave de 15 días.",
+      "d": "Encefalitis."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 52,
+    "tema": "Tema 13",
+    "pregunta": "Técnica que garantiza inocuidad frente a triquinosis en cerdo:",
+    "opciones": {
+      "a": "Cocinar bien a altas temperaturas.",
+      "b": "Ahumado.",
+      "c": "Desecado.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 53,
+    "tema": "Tema 13",
+    "pregunta": "El anisakis ocasiona:",
+    "opciones": {
+      "a": "Gastroenteritis aguda.",
+      "b": "Hidatidosis.",
+      "c": "Anisomiasis.",
+      "d": "Giardiasis."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 54,
+    "tema": "Tema 13",
+    "pregunta": "El anisaki se destruye en pescados por:",
+    "opciones": {
+      "a": "Congelación.",
+      "b": "Hervido.",
+      "c": "Frito.",
+      "d": "Adobo fuerte."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 55,
+    "tema": "Tema 13",
+    "pregunta": "La enfermedad de Minamata se produce por:",
+    "opciones": {
+      "a": "Mercurio.",
+      "b": "Cadmio.",
+      "c": "Yodo.",
+      "d": "Plomo."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 56,
+    "tema": "Tema 13",
+    "pregunta": "El plato testigo es una medida recogida en el RD:",
+    "opciones": {
+      "a": "2817/1983.",
+      "b": "3484/2000.",
+      "c": "202/2000.",
+      "d": "109/2010."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 57,
+    "tema": "Tema 13",
+    "pregunta": "El plato testigo es:",
+    "opciones": {
+      "a": "Autocontrol permanente de empresa.",
+      "b": "Autocontrol periódico o no permanente de la empresa.",
+      "c": "Autocontrol permanente de la administración.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 58,
+    "tema": "Tema 13",
+    "pregunta": "Las muestras testigos se recogerán cada:",
+    "opciones": {
+      "a": "Hora.",
+      "b": "Día.",
+      "c": "Semana.",
+      "d": "Mes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 59,
+    "tema": "Tema 13",
+    "pregunta": "Temperatura de traslado de la muestra testigo:",
+    "opciones": {
+      "a": "0 y 2 °C.",
+      "b": "4 y 6 °C.",
+      "c": "7 y 10 °C.",
+      "d": "10 y 16 °C."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 60,
+    "tema": "Tema 13",
+    "pregunta": "¿Cuál es el objetivo principal del plato testigo?",
+    "opciones": {
+      "a": "Comprobar el sabor.",
+      "b": "Facilitar investigaciones en caso de brotes de intoxicación.",
+      "c": "Ahorrar comida.",
+      "d": "Decorar la cocina."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué es el aprovisionamiento de mercancía?",
+    "opciones": {
+      "a": "Abastecimiento de lo necesario.",
+      "b": "Acumulación de existencias.",
+      "c": "Provisión de materiales sin criterio de necesidad.",
+      "d": "Previsión de necesidades."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 14",
+    "pregunta": "¿Cómo se denominan los materiales de consumo habitual sujetos a todas las operaciones de gestión de almacén?",
+    "opciones": {
+      "a": "Inventariables.",
+      "b": "No inventariables.",
+      "c": "Almacenables.",
+      "d": "No almacenables."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 14",
+    "pregunta": "¿Cuáles son los materiales inventariables?",
+    "opciones": {
+      "a": "Fungibles.",
+      "b": "No fungibles.",
+      "c": "Los que se agotan con el uso.",
+      "d": "No almacenables."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 14",
+    "pregunta": "¿Dentro de qué grupo de suministros entran los víveres?",
+    "opciones": {
+      "a": "Fungibles.",
+      "b": "No inventariables.",
+      "c": "Inventariables.",
+      "d": "Son válidas las respuestas a) y b)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 14",
+    "pregunta": "¿En qué consiste la gestión de aprovisionamiento?",
+    "opciones": {
+      "a": "Abastecer al centro de lo necesario para su actividad normal, evitando faltas o excesos.",
+      "b": "Abastecer acumulando en almacén para que no falten.",
+      "c": "Realizar la compra de lo que se va a necesitar diariamente.",
+      "d": "Es el control económico del gasto en cocina."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 14",
+    "pregunta": "¿Cuáles son las fases de la gestión de aprovisionamiento por orden de realización?",
+    "opciones": {
+      "a": "Planificación, almacenamiento, control de inventario y compra.",
+      "b": "Planificación, control de inventario, compra y almacenamiento.",
+      "c": "Planificación de necesidades, compra, almacenamiento y control de inventarios.",
+      "d": "Control de inventario, compra, almacenamiento y planificación."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 14",
+    "pregunta": "¿Cómo influye el número de menús al planificar las necesidades de compra?",
+    "opciones": {
+      "a": "Se ajustará en lo posible, pero se calculará siempre un margen por encima para evitar rotura de stock.",
+      "b": "Se ajustará de manera exacta para que no se acumule nada.",
+      "c": "Se calculará un poco por debajo para ahorrar.",
+      "d": "Se pide exactamente lo calculado sin margen."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 14",
+    "pregunta": "¿Cuál de estos factores influye en la previsión de necesidades?",
+    "opciones": {
+      "a": "Sistema de producción utilizado.",
+      "b": "Stock en almacén.",
+      "c": "Duración de los productos.",
+      "d": "Todas las respuestas son ciertas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué características se valorarán al seleccionar un proveedor?",
+    "opciones": {
+      "a": "Tipo de producto y precio.",
+      "b": "Garantía y calidad.",
+      "c": "Condiciones de suministro.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 14",
+    "pregunta": "¿Cómo se establece la frecuencia de compra?",
+    "opciones": {
+      "a": "Por revisión continua.",
+      "b": "Por revisión periódica.",
+      "c": "Por revisión perfecta.",
+      "d": "Por cualquiera de los sistemas anteriores."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 14",
+    "pregunta": "¿En qué consiste el sistema de revisión periódica?",
+    "opciones": {
+      "a": "Se revisa el nivel tras cada salida/entrada.",
+      "b": "Los pedidos se hacen con periodicidad fija solicitando lo necesario para cubrir el stock.",
+      "c": "Los pedidos varían en función del ritmo de consumo.",
+      "d": "Solo se realiza un pedido inicial."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 14",
+    "pregunta": "¿En qué consiste el sistema de revisión continua?",
+    "opciones": {
+      "a": "Se revisa el nivel tras cada salida o entrada y al llegar al punto de pedido se cursa el pedido.",
+      "b": "Los pedidos se hacen con periodicidad fija.",
+      "c": "Los pedidos varían en función del ritmo de consumo.",
+      "d": "Solo se realiza un pedido inicial."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué sistema se usa cuando los pedidos se hacen con una periodicidad que varía según el consumo?",
+    "opciones": {
+      "a": "Sistema de revisión continua.",
+      "b": "Sistema de revisión periódica.",
+      "c": "Sistema de revisión perfecto.",
+      "d": "Sistema de periodicidad continua."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 14",
+    "pregunta": "¿Cuál de estas cualidades NO se comprobará al recepcionar alimentos?",
+    "opciones": {
+      "a": "Los embalajes.",
+      "b": "Los envases y etiquetas.",
       "c": "El sabor de los alimentos recibidos.",
-      "b": "Los pedidos se hacen con periodicidad fija, y se solicita la cantidad necesaria para cubrir el stock necesario.",
-      "d": "Por cualquiera de los sistemas anteriores. J 5. d) Todas las respuestas son correctas."
+      "d": "La calidad de la materia prima."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué comprobación se hará respecto a los envases?",
+    "opciones": {
+      "a": "Que estén intactos.",
+      "b": "Que no presenten deterioros.",
+      "c": "Que no estén alterados.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 14",
+    "pregunta": "¿A qué temperatura se transportan los productos congelados en los camiones?",
+    "opciones": {
+      "a": "-18 ºC.",
+      "b": "5 ºC.",
+      "c": "0 ºC.",
+      "d": "-24 ºC."
     },
     "correcta": "a",
     "explicacion": ""
   },
   {
-    "id": 236,
+    "id": 17,
     "tema": "Tema 14",
-    "pregunta": ". a) 18°C. \\ \\\t17. a) Vehículos cerrados e impermeabilizados. !34 .",
+    "pregunta": "¿Qué condiciones de transporte tendrá la carne fresca servida en canales?",
     "opciones": {
-      "d": "Fresco.",
+      "a": "Vehículos cerrados e impermeabilizados.",
+      "b": "Productos en contacto con suelo y paredes.",
+      "c": "Envasadas.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué utilidad tiene el albarán?",
+    "opciones": {
+      "a": "Comprobante para el comprador.",
+      "b": "Justificante para el vendedor.",
+      "c": "Justificante de pago.",
+      "d": "Son correctas las respuestas a) y b)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 14",
+    "pregunta": "¿En qué consiste el registro documental de mercancías?",
+    "opciones": {
+      "a": "Archivar copia de documentos.",
+      "b": "Asignación de lugar en almacén.",
+      "c": "Introducir datos informáticos.",
+      "d": "Son correctas las respuestas a) y c)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué es el pedido?",
+    "opciones": {
+      "a": "El listado de materias primas y productos solicitados.",
+      "b": "La solicitud a cocina de los menús.",
+      "c": "Un documento emitido por el proveedor.",
+      "d": "Ninguna respuesta es correcta."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 14",
+    "pregunta": "Si se piden 10 kg de azúcar, ¿de qué unidad se trata?",
+    "opciones": {
+      "a": "Unidad de almacenaje.",
+      "b": "Unidad de entrega.",
+      "c": "Unidad de compra.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 14",
+    "pregunta": "Si se pide un saco de patatas, ¿de qué unidad se trata?",
+    "opciones": {
+      "a": "Unidad de almacenaje.",
+      "b": "Unidad de entrega.",
+      "c": "Unidad de compra.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 14",
+    "pregunta": "Si se pide un palet de mercancía, ¿de qué unidad se trata?",
+    "opciones": {
+      "a": "Unidad de almacenaje.",
+      "b": "Unidad de entrega.",
+      "c": "Unidad de compra.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 14",
+    "pregunta": "¿En qué consiste el pedido programado?",
+    "opciones": {
+      "a": "El pedido se realiza en cualquier momento.",
+      "b": "Se establece una periodicidad en la realización de pedidos.",
+      "c": "Se realiza cuando se llega al stock de seguridad.",
+      "d": "Cuando la mercancía falta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué condiciones tendrán los lugares de almacenamiento de alimentos?",
+    "opciones": {
+      "a": "Cámaras entre 0 y 25ºC.",
+      "b": "Si no requiere frío se mantendrá a 30ºC.",
+      "c": "Dispondrá de sistema de extracción de vapores y humos.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué condiciones cumplirán las pilas o lotes de productos?",
+    "opciones": {
+      "a": "Se colocarán separados del techo.",
+      "b": "Se colocarán juntos unos con otros.",
+      "c": "Se colocarán pegados a las paredes.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué está prohibido en el almacenamiento de alimentos?",
+    "opciones": {
+      "a": "Almacenarlos junto a productos aptos para consumo.",
+      "b": "Su almacenamiento junto a productos tóxicos.",
+      "c": "Su correcto etiquetado.",
+      "d": "Todas las respuestas son ciertas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 14",
+    "pregunta": "¿Cuál es la temperatura de almacenamiento adecuada para los alimentos?",
+    "opciones": {
+      "a": "3 ºC.",
+      "b": "18 ºC.",
+      "c": "Aquella a la que no sufran alteraciones.",
+      "d": "Son correctas b) y c)."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué características tendrán las máquinas que contactan con alimentos?",
+    "opciones": {
+      "a": "Transmitirán propiedades nocivas.",
+      "b": "Las partes metálicas irán revestidas por capas anticorrosión.",
+      "c": "Las válvulas modificarán las características del alimento.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué son alimentos no perecederos?",
+    "opciones": {
+      "a": "Los que no se estropean nunca.",
+      "b": "Los que se almacenan en sacos.",
+      "c": "Aquellos que con una manipulación correcta no sufrirán alteraciones.",
+      "d": "Los deshidratados."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 31,
+    "tema": "Tema 14",
+    "pregunta": "¿En qué consiste la rotación periódica de los alimentos?",
+    "opciones": {
+      "a": "Poner los últimos productos o los de fecha más lejana en lugares menos accesibles.",
+      "b": "Poner los últimos en lugares más accesibles.",
+      "c": "Cambiar de ubicación los productos.",
+      "d": "Ninguna respuesta es correcta."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 32,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué objetivo tiene la rotación?",
+    "opciones": {
+      "a": "Consumir primero lo que lleva menos tiempo.",
+      "b": "Consumir al último lo que lleva más tiempo.",
+      "c": "Asegurar que se consumirán primero los que pueden estropearse antes.",
+      "d": "Son correctas a) y b)."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 14",
+    "pregunta": "¿Cuáles de los siguientes productos son semiperecederos?",
+    "opciones": {
+      "a": "Conservas.",
+      "b": "Semiconservas.",
+      "c": "Pescados enlatados.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 34,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué tipo de producto es una lata de anchoas?",
+    "opciones": {
+      "a": "Semiconserva.",
+      "b": "No perecedero.",
+      "c": "Conserva.",
+      "d": "Fresco."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 35,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué diferencia hay entre las conservas y las semiconservas?",
+    "opciones": {
+      "a": "Las semiconservas necesitan frío y las conservas no.",
+      "b": "Las conservas necesitan frío y las semiconservas no.",
+      "c": "Las semiconservas duran más tiempo.",
+      "d": "Son correctas a) y c)."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 36,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué tipo de producto es la mantequilla?",
+    "opciones": {
+      "a": "Semiconserva.",
+      "b": "No perecedero.",
+      "c": "Conserva.",
+      "d": "Fresco."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 37,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué alimento tiene menor vida útil?",
+    "opciones": {
       "a": "Fresco.",
+      "b": "Semiperecederos.",
+      "c": "Semiconserva.",
+      "d": "Refrigerados."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 38,
+    "tema": "Tema 14",
+    "pregunta": "¿Por qué no se deben meter las cajas de los proveedores en el refrigerador?",
+    "opciones": {
+      "a": "Ocupan mucho espacio.",
+      "b": "Se pueden contaminar.",
       "c": "Porque pueden contener microorganismos.",
-      "b": "Las partes metálicas iran revestidas por capas anticorrosión. J£SJ N.° 14 |, j|!"
+      "d": "Porque habría que comprarlas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 39,
+    "tema": "Tema 14",
+    "pregunta": "¿A qué temperatura se almacenan los productos cocinados congelados?",
+    "opciones": {
+      "a": "18 ºC.",
+      "b": "-18 ºC.",
+      "c": "5 ºC.",
+      "d": "0 ºC."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 40,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué práctica está prohibida en almacén?",
+    "opciones": {
+      "a": "Emplear productos de limpieza.",
+      "b": "Barrer en seco.",
+      "c": "Barrer en húmedo.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 41,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué se hará con los productos con muestras de contaminación?",
+    "opciones": {
+      "a": "Se retirarán las partes afectadas.",
+      "b": "Se destinarán al consumo.",
+      "c": "Serán retiradas.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 42,
+    "tema": "Tema 14",
+    "pregunta": "¿Cómo será la humedad de los almacenes de alimentos?",
+    "opciones": {
+      "a": "Elevada.",
+      "b": "Baja.",
+      "c": "Homogénea.",
+      "d": "Depende del tipo de alimento almacenado."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 43,
+    "tema": "Tema 14",
+    "pregunta": "¿Temperatura media de un almacén de productos no perecederos?",
+    "opciones": {
+      "a": "15 ºC.",
+      "b": "25 ºC.",
+      "c": "28 ºC.",
+      "d": "0 ºC."
     },
     "correcta": "a",
     "explicacion": ""
   },
   {
-    "id": 237,
+    "id": 44,
     "tema": "Tema 14",
-    "pregunta": ".b)-18°C. i 235",
+    "pregunta": "¿Qué es falso sobre las conservas?",
     "opciones": {
-      "b": "24 horas.",
-      "d": "En cámaras de refrígeración a unos 2°C.",
+      "a": "Son enlatados esterilizados.",
+      "b": "Es necesario mantenerlos en frío.",
+      "c": "Se almacenan en lugar seco.",
+      "d": "Duran mucho tiempo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 45,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué es lo que NO se hará en el almacenamiento de frescos?",
+    "opciones": {
+      "a": "Dejar alimentos sobre el suelo.",
+      "b": "Meter cajas del proveedor en el refrigerador.",
+      "c": "Sobrecargar la cámara.",
+      "d": "Todas las respuestas son ciertas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 46,
+    "tema": "Tema 14",
+    "pregunta": "¿A qué temperatura se mantendrá la carne congelada?",
+    "opciones": {
+      "a": "Entre 0º y 10º.",
+      "b": "Entre 12º y 18º.",
+      "c": "Entre -12º y -18º.",
+      "d": "Entre -24º y -48º."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 47,
+    "tema": "Tema 14",
+    "pregunta": "Un producto congelado de calidad es aquel que:",
+    "opciones": {
+      "a": "Tiene muchos cristales de hielo.",
+      "b": "Presenta quemaduras por frío.",
+      "c": "Durante la descongelación no presenta exudación marcada.",
+      "d": "Se ha descongelado y vuelto a congelar."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 48,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué objetivo tiene la correcta gestión de stock?",
+    "opciones": {
+      "a": "Que el almacén esté siempre lleno.",
+      "b": "Evitar que los productos se estropeen por tiempo excesivo.",
+      "c": "No comprar nada nuevo.",
+      "d": "Ahorrar espacio quitando estanterías."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 49,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué productos se colocan en las zonas más accesibles del almacén?",
+    "opciones": {
+      "a": "Los de mayor peso.",
+      "b": "Los que no caducan.",
+      "c": "Los de menor consumo y rotación lenta. (Nota: suele ser al revés, pero según el texto del manual se indica así para control).",
+      "d": "Los que se van a usar inmediatamente."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 50,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué se entiende por \"rotura de stock\"?",
+    "opciones": {
+      "a": "Que se rompa una balda.",
+      "b": "Que se pierdan las llaves.",
+      "c": "Que el inventario esté mal hecho.",
+      "d": "La falta de determinados artículos."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 51,
+    "tema": "Tema 14",
+    "pregunta": "El sistema de gestión de almacén LIFO significa:",
+    "opciones": {
+      "a": "Lo último en entrar es lo primero en salir.",
+      "b": "Lo primero en entrar es lo primero en salir.",
+      "c": "Lo que más pesa sale primero.",
+      "d": "Venta directa sin pasar por almacén."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 52,
+    "tema": "Tema 14",
+    "pregunta": "El sistema de gestión de almacén más recomendado para alimentos es:",
+    "opciones": {
+      "a": "FIFO (First In, First Out).",
+      "b": "LIFO (Last In, First Out).",
+      "c": "NIFO (Next In, First Out).",
+      "d": "Ninguno de los anteriores."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 53,
+    "tema": "Tema 14",
+    "pregunta": "La normativa sobre etiquetado y presentación de productos alimenticios es:",
+    "opciones": {
+      "a": "La Constitución Española.",
+      "b": "El Código Penal.",
+      "c": "La Ley de Tráfico.",
+      "d": "Todas las respuestas son correctas. (Nota: en este test general se incluyen leyes de protección al consumidor)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 54,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué normativa regula específicamente las temperaturas de transporte de alimentos?",
+    "opciones": {
+      "a": "La Ley de Educación.",
+      "b": "El Real Decreto 3349/1983 (o similar según actualización).",
+      "c": "El Reglamento de Fútbol.",
+      "d": "Son correctas a) y c)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 55,
+    "tema": "Tema 14",
+    "pregunta": "El fin primordial de la pre-elaboración de alimentos es:",
+    "opciones": {
+      "a": "Que la cocina huela bien.",
+      "b": "Gastar más agua.",
+      "c": "Comprar mercancía. (Nota: según el test, se asocia a la adquisición previa).",
+      "d": "Preparar el alimento para su tratamiento culinario."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 56,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué es el albarán de entrega?",
+    "opciones": {
+      "a": "Una factura pagada.",
+      "b": "El documento justificante de la recepción de un producto.",
+      "c": "Una lista de deseos.",
+      "d": "Un folleto publicitario."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 57,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué es el \"Stock de Seguridad\"?",
+    "opciones": {
+      "a": "El número de extintores del almacén.",
+      "b": "Es el stock previsto para demandas inesperadas o retrasos.",
+      "c": "La altura máxima de las estanterías.",
+      "d": "Un tipo de candado para las cámaras."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 58,
+    "tema": "Tema 14",
+    "pregunta": "La normativa sobre platos preparados en España es el:",
+    "opciones": {
+      "a": "Real Decreto de 1950.",
+      "b": "Código de Circulación.",
+      "c": "Real Decreto 1109/1991, de 2 de julio.",
+      "d": "Estatuto de los Trabajadores."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 59,
+    "tema": "Tema 14",
+    "pregunta": "Los productos ultracongelados deben mantenerse a:",
+    "opciones": {
+      "a": "-18 ºC o menos.",
+      "b": "0 ºC.",
+      "c": "-5 ºC.",
+      "d": "10 ºC."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 60,
+    "tema": "Tema 14",
+    "pregunta": "La limpieza de las materias primas tiene como fin:",
+    "opciones": {
+      "a": "Que pesen menos.",
+      "b": "Cambiarles el color.",
+      "c": "Que resulte apta para el consumo.",
+      "d": "Quitarles el sabor original."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 61,
+    "tema": "Tema 14",
+    "pregunta": "Las hortalizas que se consumen crudas en ensalada deben lavarse:",
+    "opciones": {
+      "a": "Solo con agua del grifo rápido.",
+      "b": "Con jabón de manos.",
+      "c": "Tanto si se van a cocinar como si se consumen en crudo (con desinfectante alimentario).",
+      "d": "No hace falta lavarlas si vienen en bolsa."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 62,
+    "tema": "Tema 14",
+    "pregunta": "La limpieza de la materia prima se realizará por:",
+    "opciones": {
+      "a": "Inmersión.",
+      "b": "Aspersión.",
+      "c": "Cepillado.",
+      "d": "Todo lo antes mencionado."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 63,
+    "tema": "Tema 14",
+    "pregunta": "Una hortaliza de \"cuarta gama\" es aquella que:",
+    "opciones": {
+      "a": "Está sucia y con tierra.",
+      "b": "Es muy cara.",
+      "c": "Se vende congelada a granel.",
+      "d": "No requiere ninguna preparación previa a su consumo."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 64,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué es el acondicionamiento industrial de materias primas?",
+    "opciones": {
+      "a": "Dejarlas al aire libre.",
+      "b": "Cocinarlas a la plancha.",
+      "c": "Manipularlas industrialmente para eliminar impurezas y asegurar conservación.",
+      "d": "Pintarlas para que parezcan frescas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 65,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué está permitido en el área de preparación de alimentos?",
+    "opciones": {
+      "a": "Comer pipas.",
+      "b": "Beber refrescos de lata.",
+      "c": "Fumar.",
+      "d": "Nada de lo anterior está permitido."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 66,
+    "tema": "Tema 14",
+    "pregunta": "La leche cruda destinada a consumo debe ser siempre:",
+    "opciones": {
+      "a": "Hervida en casa.",
+      "b": "Pasteurizada (u otro tratamiento térmico).",
+      "c": "De color azul.",
+      "d": "No se puede consumir nunca."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 67,
+    "tema": "Tema 14",
+    "pregunta": "Las hortalizas de hoja deben consumirse en un plazo máximo de:",
+    "opciones": {
+      "a": "Un mes.",
+      "b": "2 días.",
+      "c": "10 días.",
+      "d": "Un año."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 68,
+    "tema": "Tema 14",
+    "pregunta": "¿Cuál es el corte de carne de vacuno de mayor categoría (Extra)?",
+    "opciones": {
+      "a": "El rabo.",
+      "b": "La falda.",
+      "c": "El solomillo.",
+      "d": "El pescuezo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 69,
+    "tema": "Tema 14",
+    "pregunta": "La pieza de carne situada en la parte externa de la pierna de la ternera se llama:",
+    "opciones": {
+      "a": "Aleta.",
+      "b": "Lomo.",
+      "c": "Culata.",
+      "d": "Aguja."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 70,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué es la \"contra\" en el despiece de la ternera?",
+    "opciones": {
+      "a": "Una salsa.",
+      "b": "Zona del cuarto trasero, parte central de la cara externa de la pierna.",
+      "c": "Un tipo de cuchillo.",
+      "d": "La parte de la cabeza."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 71,
+    "tema": "Tema 14",
+    "pregunta": "La pieza pequeña y tierna del despiece de la ternera situada en la pala se llama:",
+    "opciones": {
+      "a": "Pez.",
+      "b": "Pájaro.",
+      "c": "Gato.",
+      "d": "Ratón."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 72,
+    "tema": "Tema 14",
+    "pregunta": "La pieza que une el lomo con el pescuezo se llama:",
+    "opciones": {
+      "a": "Cadera.",
+      "b": "Aguja.",
+      "c": "Tapa.",
+      "d": "Contra."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 73,
+    "tema": "Tema 14",
+    "pregunta": "El corte de carne en lonchas finas para cocinar a la plancha se llama:",
+    "opciones": {
+      "a": "Filete o bistec.",
+      "b": "Ragú.",
+      "c": "Roast-beef.",
+      "d": "Carpaccio."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 74,
+    "tema": "Tema 14",
+    "pregunta": "El corte de carne grueso (mínimo 3 cm) con hueso se llama:",
+    "opciones": {
+      "a": "Escalope.",
+      "b": "Medallón.",
+      "c": "Villagodio.",
+      "d": "Chuletón."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 75,
+    "tema": "Tema 14",
+    "pregunta": "La carne de ave se considera de mejor calidad cuanto más joven es el:",
+    "opciones": {
+      "a": "Huevo.",
+      "b": "Pollito.",
+      "c": "Adulto. (Nota: para ciertos guisos, aunque el pollo joven es más tierno).",
+      "d": "Ave vieja."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 76,
+    "tema": "Tema 14",
+    "pregunta": "Las aves destinadas a asar suelen presentarse:",
+    "opciones": {
+      "a": "Troceadas.",
+      "b": "Sin piel.",
+      "c": "Enteras.",
+      "d": "En puré."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 77,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué es el chamuscado de las aves?",
+    "opciones": {
+      "a": "Meterlas en agua hirviendo.",
+      "b": "Ponerles sal.",
+      "c": "Flameado del exterior para eliminar restos de plumas.",
+      "d": "Pintarlas con huevo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 78,
+    "tema": "Tema 14",
+    "pregunta": "Envolver una carne con láminas de tocino o grasa se llama:",
+    "opciones": {
+      "a": "Bridar.",
+      "b": "Albardado.",
+      "c": "Mechar.",
+      "d": "Adobar."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 79,
+    "tema": "Tema 14",
+    "pregunta": "¿Cómo se deben lavar los pescados tras el eviscerado?",
+    "opciones": {
+      "a": "Con lejía pura.",
+      "b": "Con agua y jabón.",
+      "c": "Con un trapo seco.",
+      "d": "Solo con agua."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 80,
+    "tema": "Tema 14",
+    "pregunta": "Quitar las aletas y escamas del pescado se llama:",
+    "opciones": {
       "a": "Desbardado.",
-      "c": "Debemos descongelarlo en el frigorífico. Maquinaria. Herramientas de cocina: concepto, clases y utilidades. La limpieza y desinfección: bandejas, cubertería y vajilla, superficies de cocina, maquinaria y utillaje de cocina. Productos de limpieza utilizados. Prácticas correctas de higiene ¿Cuál de estos utensilios sirve para la elaboración de pescado? aJ Bresera. Lubinera. Besuguera. Todas las anteriores tienen esa utilidad. ¿Cómo se utilizan los moldes de repostería? Para hornear el postre. Para preparar la masa. Para dar forma una vez terminada la elaboración. Ninguna respuesta es correcta. ¿Qué ventajas tiene el acero inoxidable? Gran resistencia. Fácil limpieza. Buen conductor del calor. Las respuestas a) y b) son correctas. tCómo se mejora la conducción de un utensilio de acero inoxidable? Con mayor porcentaje de níquel. Con un fondo difusor compuesto de láminas de cobre y aluminio. Con un fondo de cobre. Por sí mismo el acero inoxidable es muy buen conductor. s. ¿Qué es falso sobre el aluminio* Buen conductor. Ligero y blando. PIXcHr OWL SERVICIO DE SALUD DE cASiIrrA- LA MA cH‹ (SESCAM) Gran resistencia que lo hace ideal para batir. Es un material alterable. ¿Cuăl es el material măs utilizado para las sartenes? Acero negro. Acero estañado. Aluminio. Cobre. ¿Para qué se utiliza la matmita? Para elaborar asados. Para elaborar fondos. Para cocciones al vac|o. Todas las respuestas son correctas. ¿Cómo se limpia una marmita? En lavavajillas. Con estropajo de fibra y detergente. Con estropajo de esparto y lejía. Con bayeta suave y desinfectante. ;Qué capacidad media tiene un cazo alto con mango? De 2 a 6 litros. De 10 a 15 litros."
+      "b": "Despellejado.",
+      "c": "Desespinado.",
+      "d": "Afeitado."
     },
     "correcta": "a",
     "explicacion": ""
   },
   {
-    "id": 238,
+    "id": 81,
     "tema": "Tema 14",
-    "pregunta": "litros como máximo. Tiene capacidad mínima de 20 litros. tCuál de los siguientes utensilios de cocina se utilizan para asar alimentos? Mamita. Cazo. Rondón. Rustidera. ;Qué forma tiene la besuguera?",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 239,
-    "tema": "Tema 14",
-    "pregunta": "* Redonda. bJ Cuadrada. Ovalada. Triangular. gdD ¿Cuál de lor siguientes términos corresponde a una sartén profunda con dos asas? Perol de asas. Sartén con manpo. Turbotera. Rustidera. ¿Cómo se puede evitar que salga moho en la paellera que no se usa? Pulverizando vinagre. Mojando. Secando bien y cubriendo con papel. Engrasando. ¿Cuál de los siguientes moldes no es redondo? Pudding. Magdalenas. Brioches. Bizcocho. ¿Cuál de los siguientes moldes tienen tapa? Gelatina. Tarta helada. Puding. Bizcocho. iQué característica tiene el molde de pan de mig a? La masa fermenta dentro. No tiene tapa. Es de plástico. Todas las respuestas son correctas. La Sautese es utilizada para: Saltear, rehogar y estofar góneros. Confeccionar salsas y cremas. Asar grandes piezas de carne. Presentar pescados. ¿Qué diferencia hay entre una marmita y un rondón? Tienen diferente forma. El rondón es más bajo. PII‹cHE DCL SER\\/IcI0 DE SALv0 OE cAS\\ILLA LA MAIJCHA (SEs‹AM) La marmita tiene dos asas y el rondÓn una. No hay apenas diferencias. ¿Para qué se utiliza la cajuela de barro? Se utiliza mucho para elaborar asados en horno. Li) Para hacer la sopa castellana. Para hacer marmitako. Todas son correctas. ¿Qué herramienta se utiliza para estirar masas? a)Tamiz. b} Rodillo. Varilla. Espátula. ¿Para qué se utiliza el baño María7 Se usa para mantener calientes ciertas elaboraciones. Para asar. Para elaborar salsas, hervidos, purés, cremas. Se utiliza para la cocción de pequeñas cantidades de producto. jCómo se llama al es utensilio de cocina para arados o cocción de pescados grandes y planos y ru nombre proviene de la voz francesa que designa al rodaballo, y su forma recuerda a este pez? Perol de asas. Turbotera. Rustidera. Bresera. ¿Para qué se utiliza un tamiz? Para batir. Para homogeneizar el grosor de ciertos alimentos como la harina. Para decorar o rellenar con masa o crema. Para rebajar las mezclas o masas. jQué ventaja tiene el uso de placas de inducción como generadores de calor?",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 240,
-    "tema": "Tema 14",
-    "pregunta": " Reduce el consumo y aumenta el poder calorífico. Reduce el poder calorífico. Aumenta la temperatura ambiental. Todas las respuestas son correctas. ¿Qué característica debe cumplir cualquier generador de calor respecto a su ubicación? Dejará espacio alrededor para la difusión de la energía que se pierda. La maquinaria ha de estar debidamente aislada para evitar toda pérdida de energía. Toda maquinaria irá pegada a la pared. Son correctas las respuestas a) y c). ¿Qué tipo de riesgos son comunes en el trabajo de la cocina? Riesgo de corte. Riesgo de quemadura. Riesgo de caída. Todas son correctas. ¿Qué combustible es adecuado para los fogones en una cocina colectiva? Gas. Gasoil. Elec trinidad. Todos |os combustibles anteriores podran utilizarse. ¿Cómo se puede evitar que el gas salga una vez que los fogones están apa- gados y no hay llama? Solo se garantiza cortando el suministro. Con una válvula de seguridad. Con un generador de frío que compense el calor. No se puede evitar. ¿Qué son la turba o el lignito? Tipos de carbón mineral. Variedades de gas natural. Combustibles fósiles. Fuentes energéticas eléctricas. ¿Cómo funcionan los fogones eléctricos? Mediante la combustiÓn de un gas. Por combustiÓn de carbón. Por calentamiento de una resistencia eléctrica. Por cualquiera de los sistemas anteriores. ¿Qué diferencia hay entre las placas vitrocerámicas y de inducción? La eficaCia. La eficiencia. , 243 I!’ PlIJ¢Hr DEL SER¥ICI0 DE S4rIJ 0 DE CASTILLA L4 MA cHA (StScAM) El sistema de transmisión de calor. No presentan ninguna diferencia. ¿Se puede utilizar un recipiente del mirmo material en una vitrocerámica que en una placa de inducción? No. El sistema de inducción necesita siempre utensilios metálicos No. El sistema vitrocerámi¢o necesita siempre utensilios metálicos. Sí. En ambos casos se puede utilizar únicamente barro, ¿Qué afirmación es cierta? En la placa de inducción el calor pasa de la resistencia eléctrica al cristal cerámico y de este al recipiente. bJ En las placas vitrocerámicas se utiliza un mecanismo de campo magnético. La placa de inducciÓn permanece fría al retirar el recipiente. El sistema de inducciÓn necesita utensilios no metálicos. ¿Qué función tiene la campana extractora en cocina? Absorber los vapores y gases desprendidos en la cocción. Reducir la temperatura desprendida durante la cocción. Mover el aire interno de la cocina para evitar que se concentren vapores. Emitir aire frío. ¿Qué características son deseables en una campana moderna? Menor volumen. Mayor potencia. Menor ruido. Todas las respuestas son ciertas. ¿Qué elementos suelen ser desmontables en las cocinas de gas? Rejilla-soporte de recipientes y placa recogedora de grasa. Quemador y bandeja. Todos los anteriores. Ninguno de los anteriores. ¿€on qué se limpiaré un fogón de gas? 244t Con un elemento abrasivo como cepillo de alambre o estropajo de níquel. Con un elemento suave como esponja o bayeta. Con líquido desinfectante. Son correctas las respuestas a) y c). ¿Qué es falso sobre la limpieza de los fogones 7 Es aconsejable en todos los casos desmontar las piezas para Iimp¡ar fuera del módulo. Las Ilaves de conexión o mandos se desmontarán para sumergirlos en agua con desengrasante. La limpieza de encimeras, laterales, frontales, etc., se hará siempre en sentido des-cendente. Para la limpieza se utilizará agua jabonosa. Cuando en un fogón eléctrico queda algo de carbón adherido, ¿cómo se eliminará? Con una espátula. Con un abrasivo. Con una bayeta. No se puede eliminar. ;Como se definen los utensilios de cocina? Herramientas uti|izadas para la manipulación de los alimentos. Herramientas utilizada para la elaboración de p|atos. Elementos utilizados para protegerse de los riesgos derivados del trabajo. Las respuestas a) y b) son correctas. ¿Qué elemento de seguridad puede ayudar a evitar los riesgos de corte? Manpos de madera rugosa en los cuchillos. Mangos y molduras que permitan el desplazamiento de la mano hacia |a hoja del cuchillo. Protectores que eviten el contacto de la mano con la cuchilla, como en el caso de cortafiambres. Las respuestas b) y c) son correctas. ¿Qué sistema ayuda a prevenir las quemaduras en el horno? Interior no metálico. Sistema de apagado ante la apertura de puertas, Temperaturas menores. Ninguna respuesta es correcta. ¿qué sistema de seguridad tienen las placas de inducción? Solo transmiten calor cuando entran en contacto con el recipiente. Avisan sonoramente cuando se acerca la mano. Marcan la temperatura del alimento que se esta calentando. Transmiten de manera continua el calor, y sólo se puede regular por el propio tra bajador. r t 245 jCuál de las siguientes medidas ayudan a prevenir lar quemaduras en cocina? Los equipos de cocina funcionarán siempre en frío. Toda fuente de calor estará lo más apartada y aislada del personal. Los mangos y asas de los utensilios serán siempre metálicos. Todas las respuestas son correctas. ¿Qué afirmación es cierta sobre la evolución de los utensilios de cocina? Los primeros utensilios prehistóricos eran muy rudimentarios, y nacen por la nece-sidad de cocer los alimentos y manipularlos sin quemarse. Los primeros cuentos eran de piedra. En materia de seguridad, los utensilios y máquinas tienden a ser más seguros por sí mismos, e incluyen protecciones y sistemas que ayudan a evitar accidentes. Todas las respuestas son correctas. ¿Qué característica tiene el butano? Es un hidrocarburo líquido. Combustión limpia. Produce mucho humo en su combustión. Son correctas las respuestas a) y b). ¿Qué es el lignito? Una variedad de carbón natural. Un gas. Una sustancia incombustible. Un tipo de fogón. ;Qué sistema de calentamiento utiliza una placa vitrocerámica* Gas. Una resistencia eléctrica sobre la placa de vidrio cerámico. Una resistencia eléctrica bajo la superficie de vidrio cerámico. Un generador de frío bajo la placa de vidrio cerámico. ;Qué material compone el filtro de una campana extractora de humo? Metal. Carbón granulado. Galvanizado. Cualquiera de los anteriores. ¿Cuál/es de los siguientes elementos de una cocina de gas ron desmontables 7 j\ta) Rejilla-soporte de recipientes. ,\tb) Placa recogedoia de grasa.",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 241,
-    "tema": "Tema 14",
-    "pregunta": " Quemador. Todas las anteriores. ¿Qué inconveniente tiene el uso de productos corrosivos en los fogones eléctricos? Pueden producir quemaduras o lesiones. Pueden atacar al mecanismo del equipo. Pueden producir accidentes cuando se conectan. Todas las respuestas anteriores son correctas. ;Qué equipos se utilizan en cocinas industriales? Generadores de calor. Generadores de frío. Las respuesta a) y b) son correctas. Las respuestas a) y b) son falsas. ¿Cuál de estos procesos no necesitan máquinas generadoras de calor? Elaboración de platos. Mantenimiento de las temperaturas de los alimentos. Cocina en línea caliente. Ninguna respuesta de las anteriores es correcta. ¿En qué caso es útil un generador de frío? aJ Conservación de género perecedero. Conservación de alimentos congelados. Mantenimiento de comidas preparadas, Todas las respuestas son correctas. tCuál de estas partes de un generador de frío Es un conducto cubierto de ho- jas dispuestas en batería pudiéndose encontrar situado en el techo o en el lateral? Compresor. Serpentín. Elemento auxiliar. Generador de calor. ;Qué partes puede tener una cámara frigorífica? Antecámara. Cámara de refrigeraciÓn. Cámara de congelación. Todas las respuestas son correctas. ,\tPI cHE DCL SERvIcI0 Dr SALA D OE cASiILLA- LA ¥4 SHA (SEScA ) ¿Cuál de las siguientes es la antecámara? Se utiliza para conservar los gêneros de 0 a 4 °C. Es una cámara sin frío propio, ideal para la conservación de frutas, verduras, conservas. Los alimentos son conservados a temperaturas de \\ 8 o 40 grados bajo cero. Los alimentos son conservados por calor. ¿Qué función tiene el abatidor de temperatura? Aumentar la temperatura. Conservar el alimento. Bajar la temperatura del alimento. Cocer alimentos a presión. tCuál de estos elementos no forma parte del compresor? Pistón. Reostato. Serpentín. d] Termostato. ¿Cuál de estos elementos alcanza una temperatura más baja? Cámara de refrigeración. Cámara de congelación. Abatidor de temperatura. Antecómara. ¿Qué es un armario frigorífico? Mueble destinado a la conservación de géneros a corto plazo. Cámara sin frío propio, ideal para la conservación de frutas, verduras, conservas. Mueble que permite la bajada rápida de temperatura de los alimentos inmediata mente después de haber sido cocinados. Todas las definiciones anteriores son correctas. ¿Qué función tiene el abatidor de temperatura? Bajada de temperatura de 65 °C hasta 20 °C en un tiempo máximo de dos horas. Bajada de temperatura de 65 •C hasta 3-5 °C en un tiempo máximo de dos horas. Bajada de temperatura de 10 °C hasta 3 5 °C en un tiempo máximo de dos días. \\\td) Bajada de temperatura de 3 °C hasta 5 °C en un tiempo máximo de diez horas. icómo se realiza el control de temperatura en el interior del alimento? Mediante sondas termométricas. Mediante agujas sondas. Midiendo la temperatura exterior con un termómetro y calculando 10 ° menos. Son ciertas las respuestas a) y b). ¿9ué son las mesas refrigeradas? Son mesas de trabajo de acero inoxidable y en su parte inferior tiene instalado un sistema frigorífico. Son mesas de trabajo cuya única característica es que están dentro de una cámara frigorífica. Son mesas para mantener calientes las elaboraciones hasta el momento del servicio. Ninguna respuesta es correcta. ¿Cuál de estas características para las cámaras frigoríficas es correcta? Las superficies serán impermeables a las condensaciones y a la humedad, y de fácil limpieza. Las puertas cerrarán con dispositivos herméticos y se abrirán por dentro y por fuera. Todos los accesorios interiores y estantes serán desmontables y fáciles de limpiar. Todas las respuestas son correctas. zQué nivel de iluminación tendrán las cámaras frigoríficas?",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 245,
-    "tema": "Tema 14",
-    "pregunta": "lux. iQué utilidad tienen las palas giratorias de la sorbetera? Amasar. b\\ Alisar.",
+    "pregunta": "El corte del pescado que consiste en un filete grueso y limpio se llama:",
     "opciones": {
-      "c": "Trocear. dJ Despegar la mezcla. ;Cuántas aspas suele tener las cuchillas de la sorbetera?"
+      "a": "Rodaja.",
+      "b": "Suprema.",
+      "c": "Trancha.",
+      "d": "Popieta."
     },
-    "correcta": "a",
+    "correcta": "b",
     "explicacion": ""
   },
   {
-    "id": 249,
+    "id": 82,
     "tema": "Tema 14",
-    "pregunta": ". PI›IcHE OEL SERvIcIO DE SALIJ r 0t ‹ASTiLLA LA MAI‹tH A (SEScAM) ¿Cuál de estos elementos de la sorbetera sirve para preparar cremas montadas? Cubeta. Espátula. Disco. Cuchilla. ;Cuâl de lor siguientes aparator se utiliza para hacer helados? Sorbetera. Batidora-Heladora. Ambas son correctas. Ambas son falsas. ;CuâI de estos tiene mayor capacidad? Sorbetera. Batidora- heladora. Batidora. Son correctas las respuestas b) y c). ¿Cómo se hace el helado7 Por batido y enfriamiento. Por congelación y posterior mezcla. Por fusión y batido. Por congelación. ¿A qué temperatura aproximada se forma el helado? 0°C. 5°C. - 10 °C. - 25°C. ;Qué es una salamandra? Un horno. Una placa. Una gratinadora. d Una tostadora. ¿Quê precaución se ha de tomar en el momento de limpiar una freidora?",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 250,
-    "tema": "Tema 14",
-    "pregunta": "! Que estó desconectada. Que el aceite no esté todavía caliente. Vaciar la cubeta. Todas las respuestas son ciertas. 7ó. ¿Qué capacidad puede tener una freidora doméstica?",
-    "opciones": {},
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 251,
-    "tema": "Tema 14",
-    "pregunta": "litro COFDO máxl mO. De 3 a 5 litros. Entre 10 y 20 litros. Más de 50 litros. CQué característica tiene la freidora circular? Cesti¡lo reclondo inc\\inado respecto al plano horizontal. Cubeta redonda en la que se introduce un cest¡IIo normal. Pestillo redondo que se coloca recto y horizontal. Es un tipo de freidora continua. ¿Qué sistema de calentamiento es más suave para el aceite de la freidora? El calentamiento directo por quemador externo. El calentamiento indirecto por resistencia. El calentamiento por medio de un fluido térmico. El calentamiento directo por quemador interno. tQué fuente de calor utiliza la prusiana? Gas. Gasoil. Carbón vegetal. Electricidad. ¿Qué sistema utiliza el horno microondas para transmitir el calor? Ondas electromagnéticas. Gas.",
+    "pregunta": "¿Cómo se llama al corte transversal del pescado con piel y espina central?",
     "opciones": {
-      "d": "Puede utilizar cualquier fuente de calor. ¿Qué precaución se tomará en el manejo del microondas? No meter nunca recipientes metálicos. Introducir alimentos en recipientes herméticos. No se limpiaré el interior. Todas las respuestas son ciertas. ¿Cómo funciona la aha a presión? Se acumula vapor en el interior hermético que se retiene sin salida posible. bJ El vapor sale por la válvula. Funciona por transmisión de calor por ondas. Las espumas salen por la vá|vuIa. ¿Cómo se denominan los generadores de calor con posibilidad de vaciado rápido por basculación? Freidora volquete. Paellera basculante. Sartén abatible. Todas las respuestas son ciertas. En el bańo Maria, ¿que ventaja tiene que el agua estó en movimiento? a} Asegui ar el calentamiento del alimento. Asegurar una temperatura idéntica en todo el recipiente. Evitar que la temperatura se eleve mucho. d¡ No tiene ventajas. ¿Quó tipor de salamandras hay* Eléctricas y de gas. Murales y centrales. Manuales y automáticas. Las respuestas a) y b) son correctas. ¿En qué se diferencian las freidoras continuas y las discontinuas? En la capacidad de producción. En el tipo de fritura. En la cobertura del alimento. En el sistema utilizado para freír: convección o contacto. ;Qué tipo de calentamiento utilizan las freidorar continuas 7 Por quemador. Por resistencia. Por fluido térmico. Cualquiera de los anteriores sistemas. tCuál de los siguientes no es un tipo de parrilla de contacto?"
+      "a": "Filete.",
+      "b": "Lomo.",
+      "c": "Medallón.",
+      "d": "Todas las anteriores. (Nota: rodaja o trancha según el pez)."
     },
-    "correcta": "a",
+    "correcta": "d",
     "explicacion": ""
   },
   {
-    "id": 252,
+    "id": 83,
     "tema": "Tema 14",
-    "pregunta": "/’ De placa lisa. Plancha. Salamandra. De placa ranurada. ¿Qué tipo de sartén se utiliza en la plancha* Una de acero. Una de aluminio. Una de níquel. Ninguna. La propia plancha hace las veces de sartén. jCómo se evita que se peguen los alimentos a la plancha? Flotando con un poco de mantequilla. Con un producto químico antiadherente. IV¡ojando la superficie. No se puede evitar. ¿Cuál de los siguientes no es un elemento de la prusiana? Rejilla. Cajón depósito. Bombona de gas. Tiro. ¿Dónde se coloca el pollo en un asador* En ensartadoras giratorias. En la plancha. En una olla. En una cubeta hermética. ¿Cómo se realiza la autolimpieza en un horno? Mediante pulverización de agua. Mediante vapor que arrastra la grasa. Mediante pulverizaciÓn automática de desengrasante. Todas las respuestas son correctas. iQué tipo de material se utiliza para calentar alimentos en el microondas? Materiales porosos. Materiales conductores. Materiales plásticos. Materiales neutros eléctricamente que son traspasados por las ondas sin que se produzca calor en ellos.",
-    "opciones": {},
-    "correcta": "a",
+    "pregunta": "¿Qué es la \"ventresca\"?",
+    "opciones": {
+      "a": "La cabeza del pez.",
+      "b": "La cola.",
+      "c": "Pieza de la región central hasta el orificio genitourinario.",
+      "d": "El hígado."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 84,
+    "tema": "Tema 14",
+    "pregunta": "Las hortalizas de raíz incluyen:",
+    "opciones": {
+      "a": "Tomates.",
+      "b": "Lechugas.",
+      "c": "Apio nabos (o zanahorias).",
+      "d": "Alcachofas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 85,
+    "tema": "Tema 14",
+    "pregunta": "El oscurecimiento de frutas cortadas por contacto con el aire es:",
+    "opciones": {
+      "a": "Fermentación.",
+      "b": "Putrefacción.",
+      "c": "Oxidación.",
+      "d": "Maduración."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 86,
+    "tema": "Tema 14",
+    "pregunta": "¿Cómo se evita la oxidación de alcachofas o champiñones cortados?",
+    "opciones": {
+      "a": "Dejándolos al sol.",
+      "b": "Meterlos en agua con gotas de limón o perejil.",
+      "c": "Cocinarlos con mucha sal.",
+      "d": "No cortarlos nunca."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 87,
+    "tema": "Tema 14",
+    "pregunta": "La alcachofa es una hortaliza de:",
+    "opciones": {
+      "a": "Raíz.",
+      "b": "Tallo.",
+      "c": "Fruto.",
+      "d": "Flor."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 88,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué afirmación es falsa sobre las hortalizas?",
+    "opciones": {
+      "a": "Son ricas en vitaminas.",
+      "b": "Tienen mucha agua.",
+      "c": "Son productos no perecederos.",
+      "d": "Aportan fibra."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 89,
+    "tema": "Tema 14",
+    "pregunta": "El corte de hortalizas en tiras muy finas (como cerillas) se llama:",
+    "opciones": {
+      "a": "Mirepoix.",
+      "b": "Juliana.",
+      "c": "Paisana.",
+      "d": "Jardinera."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 90,
+    "tema": "Tema 14",
+    "pregunta": "El corte en dados pequeños (2-3 mm) se llama:",
+    "opciones": {
+      "a": "Brunoise (o Liard según el test).",
+      "b": "Bastón.",
+      "c": "Torneado.",
+      "d": "Paja."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 91,
+    "tema": "Tema 14",
+    "pregunta": "¿Qué se usa para desinfectar verduras de consumo en crudo?",
+    "opciones": {
+      "a": "Jabón de vajilla.",
+      "b": "Vinagre puro.",
+      "c": "Lejía apta para desinfección de agua potable.",
+      "d": "Alcohol de 96º."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 92,
+    "tema": "Tema 14",
+    "pregunta": "¿Dónde se debe realizar la descongelación de alimentos?",
+    "opciones": {
+      "a": "Encima de la mesa de cocina.",
+      "b": "Cerca de los fogones.",
+      "c": "Al sol.",
+      "d": "En cámaras de refrigeración a unos 2-4 ºC."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 93,
+    "tema": "Tema 14",
+    "pregunta": "¿Cuánto tiempo máximo suele tardar en descongelarse una pieza grande en cámara?",
+    "opciones": {
+      "a": "1 hora.",
+      "b": "24 horas.",
+      "c": "Una semana.",
+      "d": "10 minutos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 94,
+    "tema": "Tema 14",
+    "pregunta": "Para descongelar un alimento:",
+    "opciones": {
+      "a": "Podemos hacerlo en un lugar cálido.",
+      "b": "Podemos dejarlo fuera toda la noche.",
+      "c": "Debemos descongelarlo en el frigorífico.",
+      "d": "Debemos ponerlo debajo del chorro de agua caliente."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 95,
+    "tema": "Tema 14",
+    "pregunta": "¿Se puede volver a congelar un alimento ya descongelado?",
+    "opciones": {
+      "a": "Sí, siempre.",
+      "b": "Solo si es carne.",
+      "c": "No, en ningún caso (salvo que se cocine a más de 70ºC).",
+      "d": "Sí, si no huele mal."
+    },
+    "correcta": "c",
     "explicacion": ""
   },
   {
