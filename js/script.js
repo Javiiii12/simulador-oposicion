@@ -212,27 +212,30 @@ function showTopics(category) {
 
     const temasRaw = [...new Set(relevantQuestions.map(q => q.tema))].filter(t => !t.toString().startsWith("Examen"));
     const temas = temasRaw.sort((a, b) => {
-        // Try numerical sort e.g. "Tema 1", "Tema 10"
+        // Sort properly
+        // Extract number from Tema X to sort numerically
         const getNum = (str) => {
-            const m = str.match(/\d+/);
-            return m ? parseInt(m[0]) : 999;
+            const m = str.match(/Tema (\d+)/);
+            if (m) return parseInt(m[1]) * 1000; // Major sort by Tema number
+            // Fallback for non-Tema strings or blocks
+            const m2 = str.match(/\d+/);
+            return m2 ? parseInt(m2[0]) : 9999;
         };
-        return getNum(a) - getNum(b);
-    });
 
-    const container = document.getElementById('topics-container');
-    container.innerHTML = '';
+        // Secondary sort by Block number if present
+        const getBlockNum = (str) => {
+            const m = str.match(/Bloque (\d+)/);
+            return m ? parseInt(m[1]) : 0;
+        };
 
-    const generales = [];
-    const especificos = [];
+        temasRaw.sort((a, b) => { // Changed 'topics' to 'temasRaw' to match variable name
+            const diff = getNum(a) - getNum(b);
+            if (diff !== 0) return diff;
+            return getBlockNum(a) - getBlockNum(b);
+        });
 
-    // Simple heuristic: If "Tema X" with X <= 6 -> General. Or assume all CSIF Tema 1 is General?
-    // Let's stick to the numerical logic.
-    temas.forEach(tema => {
-        const m = tema.match(/\d+/);
-        const num = m ? parseInt(m[0]) : 999;
-        if (num <= 6) generales.push(tema);
-        else especificos.push(tema);
+        const container = document.getElementById('topics-container');
+        container.innerHTML = '';
     });
 
     const renderGroup = (title, list, color) => {

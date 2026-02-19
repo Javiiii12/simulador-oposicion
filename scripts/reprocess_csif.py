@@ -97,62 +97,72 @@ def process():
     with open(path, 'r', encoding='utf-8') as f:
         full_content = f.read()
 
-    # Split into 3 blocks manually by finding headers
-    # Block 1 header: "BLOQUE 1:"
-    # Block 2 header: "BLOQUE 2:"
-    # Block 3 header: "BLOQUE 3:"
-    
-    # Using regex to find indices
-    m1 = re.search(r'BLOQUE 1:', full_content, re.IGNORECASE)
-    m2 = re.search(r'BLOQUE 2:', full_content, re.IGNORECASE)
-    m3 = re.search(r'BLOQUE 3:', full_content, re.IGNORECASE)
-    
-    if not (m1 and m2 and m3):
-        print("Could not find all 3 blocks headers.")
-        return
-
-    # Content 1: from m1 to m2
-    content1 = full_content[m1.end():m2.start()]
-    
-    # Content 2: from m2 to m3
-    content2 = full_content[m2.end():m3.start()]
-    
-    # Content 3: from m3 to end
-    content3 = full_content[m3.end():]
+    # Robust Splitting Strategy
+    # Split by "BLOQUE X:" headers, keeping the headers
+    parts = re.split(r'(BLOQUE [123]:)', full_content, flags=re.IGNORECASE)
     
     questions = []
     
-    print("Parsing Block 1...")
-    q1 = parse_block_content(content1, "CSIF Bloque 1: Ley Igualdad CLM", 100)
-    questions.extend(q1)
+    # parts[0] is preamble.
+    # parts[1] is separator (e.g. "BLOQUE 1:")
+    # parts[2] is content for that separator
+    # ...
     
-    print("Parsing Block 2...")
-    q2 = parse_block_content(content2, "CSIF Bloque 2: Constitución Española", 200)
-    questions.extend(q2)
+    current_block = None
     
-    print("Parsing Block 3...")
-    q3 = parse_block_content(content3, "CSIF Bloque 3: Violencia de Género", 300)
-    questions.extend(q3)
-    
+    for i in range(1, len(parts), 2):
+        header = parts[i].upper() # "BLOQUE 1:"
+        content = parts[i+1]
+        
+        block_num = None
+        if "1" in header: block_num = 1
+        elif "2" in header: block_num = 2
+        elif "3" in header: block_num = 3
+        
+        if block_num:
+            print(f"Processing content for Block {block_num} (Length: {len(content)} chars)...")
+            
+            if block_num == 1:
+                qs = parse_block_content(content, "CSIF Bloque 1: Ley Igualdad CLM", 100)
+            elif block_num == 2:
+                qs = parse_block_content(content, "CSIF Bloque 2: Constitución Española", 200)
+            elif block_num == 3:
+                qs = parse_block_content(content, "CSIF Bloque 3: Violencia de Género", 300)
+                
+            print(f"  -> Found {len(qs)} questions.")
+            questions.extend(qs)
+
     print(f"Total parsed: {len(questions)}")
     
     # Merge
     json_path = 'data/preguntas.json'
     if os.path.exists(json_path):
         with open(json_path, 'r', encoding='utf-8') as f:
-            existing = json.load(f)
+            existing_questions = json.load(f)
     else:
-        existing = []
+        existing_questions = []
         
-    # Remove old CSIF
-    filtered = [q for q in existing if q.get('origen') != 'CSIF']
+    # Remove old Tema 1 questions (if re-running) to avoid duplicates
+    # This matches both old names ("CSIF Bloque X") and normalised names ("Tema 1:...")
+    existing_questions = [
+        q for q in existing_questions 
+        if not (
+            (q.get('origen') == 'CSIF') and 
+            (
+                "CSIF Bloque" in q.get('tema', '') or 
+                "Tema 1:" in q.get('tema', '')
+            )
+        )
+    ]
     
-    final = filtered + questions
+    # Append New Questions
+    new_questions = questions
+    final_questions = existing_questions + new_questions
     
     with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(final, f, indent=2, ensure_ascii=False)
+        json.dump(final_questions, f, indent=2, ensure_ascii=False)
         
-    print("Saved 'data/preguntas.json'.")
+    print(f"Saved 'data/preguntas.json'. Merged {len(new_questions)} items.")
 
 if __name__ == "__main__":
     process()
