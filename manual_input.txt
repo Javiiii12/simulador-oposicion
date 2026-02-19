@@ -1,508 +1,396 @@
-Test n.º 5: Estatuto Marco (I) completo
+Test n.º 6: Estatuto Marco del Personal Estatutario (Parte II)
+1. La pena de inhabilitación especial para la correspondiente profesión supondrá la pérdida de la condición de personal estatutario:
 
-📝 Test n.º 5: Estatuto Marco del Personal Estatutario (Parte I)
-Temario: Normas generales, clasificación, derechos, deberes, adquisición y pérdida de la condición, selección y movilidad.
+a) Si excede de 10 años.
 
-1. No es un principio básico de la provisión de plazas del personal estatutario:
+b) Si excede de 6 años.
 
-a) Igualdad, mérito, capacidad y publicidad en la selección.
+c) Si excede de 1 año.
 
-b) Movilidad del personal en el conjunto de las Administraciones Públicas.
-
-c) Coordinación, cooperación y mutua información entre las Administraciones sanitarias públicas.
-
-d) Integración en el régimen organizativo y funcional del servicio de salud y de sus centros.
+d) No supone tal pérdida.
 
 Solución: b
 
-2. La provisión de plazas de personal estatutario se realizará por los sistemas de:
+2. El sistema retributivo del personal estatutario responde:
 
-a) Selección de personal y movilidad únicamente.
+a) A los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo común en relación con las retribuciones básicas.
 
-b) Selección de personal, promoción interna y movilidad.
+b) A los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo común en relación con las retribuciones básicas y complementarias.
 
-c) Selección de personal y provisión de puestos.
+c) A los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo homogéneo en relación con las retribuciones básicas.
 
-d) Selección de personal, de promoción interna y de movilidad, así como por reingreso al servicio activo.
-
-Solución: d
-
-3. En las convocatorias para la selección se reservará un cupo para personas con discapacidad no inferior al:
-
-a) Tres por ciento.
-
-b) Cinco por ciento.
-
-c) Siete por ciento.
-
-d) Diez por ciento.
-
-Solución: b
-
-4. La selección del personal estatutario se efectuará mediante procedimientos que garanticen:
-
-a) Los principios de igualdad y mérito únicamente.
-
-b) Los principios de igualdad, mérito y celeridad.
-
-c) Los principios de igualdad, mérito y competencia.
-
-d) Los principios de igualdad, mérito, capacidad y competencia.
-
-Solución: d
-
-5. La selección del personal estatutario fijo se efectuará con carácter general a través del sistema de:
-
-a) Oposición.
-
-b) Concurso-oposición.
-
-c) Concurso de méritos.
-
-d) Libre designación.
-
-Solución: b
-
-6. Los miembros de los órganos de selección deberán:
-
-a) Ostentar la condición de personal estatutario fijo.
-
-b) Ostentar la condición de personal estatutario o laboral.
-
-c) Ostentar la condición de funcionario de carrera o estatutario fijo o laboral de centros vinculados al SNS.
-
-d) Ostentar la condición de personal funcionario, estatutario o laboral del SNS.
-
-Solución: c
-
-7. La selección del personal estatutario temporal se efectuará a través de:
-
-a) Los mismos procedimientos que el personal fijo.
-
-b) Procedimientos que permitan la máxima agilidad en la selección.
-
-c) Procedimientos que permitan la máxima objetividad en la selección.
-
-d) Procedimientos que permitan la máxima celeridad y seguridad.
-
-Solución: c
-
-8. El período de prueba del personal estatutario temporal con formación universitaria no podrá ser superior a:
-
-a) Un mes.
-
-b) Dos meses.
-
-c) Tres meses.
-
-d) Seis meses.
-
-Solución: c
-
-9. Los aspirantes seleccionados deberán superar un período formativo o de prácticas:
-
-a) En todo caso.
-
-b) Si así se establece en la convocatoria, y como parte del proceso selectivo.
-
-c) Si así se establece en la convocatoria pero sin formar parte del proceso.
-
-d) Si así lo estima el Tribunal de Selección.
-
-Solución: b
-
-10. Para acceder mediante promoción interna será exigible siempre:
-
-a) Ser personal estatutario fijo.
-
-b) Haber prestado servicios durante dos años en la categoría de origen.
-
-c) Ambas son correctas.
-
-d) Ninguna de las respuestas anteriores es correcta.
-
-Solución: c
-
-11. Cuando de un procedimiento de movilidad voluntaria se derive cambio en el servicio de salud de destino, el plazo de toma de posesión será de:
-
-a) 3 días hábiles.
-
-b) 15 días hábiles.
-
-c) Un mes.
-
-d) 30 días hábiles.
-
-Solución: c
-
-12. ¿Cuándo podrá ser cubierta una plaza en comisión de servicios?
-
-a) Por necesidades del servicio en cualquier momento.
-
-b) Cuando se encuentre vacante o temporalmente desatendida.
-
-c) Por necesidades del servicio y cuando se encuentre vacante o desatendida.
-
-d) Cuando la solicita un interesado y exista vacante.
-
-Solución: c
-
-13. El Estatuto Marco es aplicable al personal estatutario de:
-
-a) Los centros e instituciones sanitarias de los Servicios de Salud de las CCAA únicamente.
-
-b) Los centros e instituciones sanitarias de las CCAA y de la Administración General del Estado.
-
-c) Los centros de las CCAA, la Administración del Estado y centros privados.
-
-d) Exclusivamente al personal funcionario que trabaje en hospitales.
-
-Solución: b
-
-14. Son principios y criterios por los que se rige la ordenación del personal estatutario:
-
-a) Sometimiento pleno a la ley y al derecho.
-
-b) Libre circulación del personal en el conjunto del SNS.
-
-c) Planificación eficiente de las necesidades de recursos humanos.
-
-d) Los tres anteriores lo son.
-
-Solución: d
-
-15. Es personal estatutario sanitario:
-
-a) El que ejerce una profesión o especialidad sanitaria.
-
-b) El que ostenta nombramiento para el ejercicio de una profesión o especialización sanitaria.
-
-c) El que desempeña una categoría clasificada como sanitaria.
-
-d) Quien ejerza una profesión sanitaria sin ser funcionario.
-
-Solución: b
-
-16. El personal estatutario de Gestión y Servicios se clasifica en función de:
-
-a) El sueldo que perciben.
-
-b) La peligrosidad del puesto.
-
-c) El título exigido para el ingreso.
-
-d) El tiempo trabajado en el hospital.
-
-Solución: c
-
-17. Se expedirá nombramiento estatutario temporal con carácter eventual:
-
-a) Para cargos de confianza.
-
-b) Para atender funciones durante períodos de vacaciones.
-
-c) Para la prestación de servicios de naturaleza temporal, coyuntural o extraordinaria.
-
-d) Para el desempeño de una plaza vacante.
-
-Solución: c
-
-18. El objetivo de promover el desarrollo armónico de los recursos humanos del SNS se articula a través de:
-
-a) El Consejo Interterritorial del SNS.
-
-b) La Comisión de Recursos Humanos del SNS.
-
-c) La Consejería de Salud de la Comunidad Autónoma.
-
-d) El Foro Marco para el Diálogo Social.
-
-Solución: d
-
-19. No constituye un derecho individual del personal estatutario:
-
-a) La estabilidad en el empleo.
-
-b) La movilidad voluntaria.
-
-c) El descanso necesario.
-
-d) La negociación colectiva.
-
-Solución: d (Es un derecho de ejercicio colectivo)
-
-20. El régimen de derechos del personal estatutario será aplicable al personal temporal:
-
-a) En la medida en que la naturaleza del derecho lo permita.
-
-b) En todo caso.
-
-c) En ningún caso.
-
-d) Solo cuando así se establezca en su nombramiento.
+d) A los principios de capacidad y profesionalidad y asegura el mantenimiento de un modelo común en relación con las retribuciones básicas.
 
 Solución: a
 
-21. La condición de personal estatutario fijo se adquiere:
+3. Sin perjuicio de la sanción disciplinaria que corresponda, la parte de jornada no realizada por causas imputables al interesado:
 
-a) Por la superación de las pruebas de selección y contrato firmado.
+a) Dará lugar a la deducción proporcional de haberes y tendrá carácter sancionador.
 
-b) Por la publicación de la designación en el boletín oficial.
+b) Dará lugar a la deducción proporcional de haberes, que no tendrá carácter sancionador.
 
-c) Por la superación de la prueba selectiva, nombramiento conferido e incorporación a la plaza.
+c) No dará lugar a la deducción proporcional de haberes, aunque tendrá carácter sancionador.
+
+d) No será recuperable.
+
+Solución: b
+
+4. Las retribuciones básicas son:
+
+a) El sueldo, los trienios y las pagas extraordinarias.
+
+b) El salario base, los trienios y las pagas extras.
+
+c) El sueldo, los quinquenios y las pagas extraordinarias.
 
 d) Ninguna es correcta.
 
-Solución: c
+Solución: a
 
-22. Quienes no acrediten los requisitos exigidos tras superar el proceso selectivo:
+5. El importe de las pagas extraordinarias:
 
-a) No podrán ser nombrados hasta que subsanen el defecto.
+a) Será como mínimo de una mensualidad del sueldo y trienios al que se añadirá la catorceava parte del importe anual del complemento de destino.
 
-b) No podrán ser nombrados y quedarán sin efecto sus actuaciones.
+b) Será igual a una mensualidad de sueldo, trienios y complementos.
 
-c) Podrán ser nombrados de forma condicional.
+c) Será como mínimo de una mensualidad de sueldos y trienios.
 
-d) Se les nombra y se les da un año de margen.
+d) Será al menos igual a la mensualidad percibida el mes anterior.
 
 Solución: b
 
-23. No es causa de extinción de la condición de personal estatutario fijo:
+6. No es una retribución complementaria:
 
-a) La renuncia.
+a) El complemento de destino.
 
-b) La jubilación.
+b) El complemento específico.
 
-c) La sanción disciplinaria firme de separación del servicio.
+c) El complemento de productividad.
 
-d) La incapacidad temporal.
+d) El complemento de antigüedad.
 
 Solución: d
 
-24. La incapacidad permanente total para la profesión habitual produce:
+7. El personal estatutario temporal percibirá:
 
-a) Da derecho a la reserva del puesto.
+a) Las mismas retribuciones que el personal fijo excepto los trienios.
 
-b) Produce la suspensión de la condición.
+b) Las mismas retribuciones que el personal fijo salvo en complemento específico.
 
-c) Produce la pérdida de la condición de personal estatutario.
+c) La totalidad de las retribuciones básicas y complementarias que corresponda a su nombramiento.
 
-d) No afecta a la condición si es menor de 60 años.
+d) Ninguna de las anteriores es correcta.
 
 Solución: c
 
-25. La recuperación de la condición de personal estatutario supondrá:
+8. La retribución de los aspirantes en prácticas ascenderá, como mínimo a:
 
-a) La simultánea declaración del interesado en la situación de excedencia voluntaria.
+a) Las mismas retribuciones que el personal fijo excepto los trienios.
 
-b) La reincorporación inmediata a su puesto anterior.
+b) Las mismas retribuciones que el personal fijo salvo en complemento específico.
 
-c) El pago de una indemnización por el tiempo perdido.
+c) La totalidad de las retribuciones básicas y complementarias correspondientes.
 
-d) La obligación de repetir la oposición.
+d) Las retribuciones básicas, excluidos trienios, del grupo al que aspiren ingresar.
+
+Solución: d
+
+9. La jornada ordinaria de trabajo del personal estatutario en los centros sanitarios:
+
+a) Se determinará en las normas dictadas por la administración.
+
+b) Se determinará en los pactos o acuerdos alcanzados.
+
+c) Se determinará en las normas, pactos o acuerdos, según proceda.
+
+d) Se pactará individualmente con cada trabajador.
+
+Solución: c
+
+10. Se entiende por tiempo de trabajo:
+
+a) El período en el que el personal permanece en el centro sanitario, a disposición del mismo y en ejercicio efectivo de su actividad y funciones.
+
+b) El período en el que el personal permanece en el centro sanitario.
+
+c) El período que el personal dedica al ejercicio efectivo de su actividad y funciones.
+
+d) Ninguna es correcta.
 
 Solución: a
 
-26. Es un deber del personal estatutario:
+11. El Personal Estatutario tendrá derecho a una vacación retribuida:
 
-a) Ejercer la profesión con lealtad y respeto a los fines de la institución.
+a) No inferior a 30 días naturales.
 
-b) Cumplir el régimen sobre incompatibilidades.
+b) A un mínimo de 22 días hábiles.
 
-c) Mantener actualizados sus conocimientos y formación.
+c) A un mes.
 
-d) Todas las anteriores son correctas.
-
-Solución: d
-
-27. El personal estatutario tiene derecho a la carrera profesional, que consiste en:
-
-a) El ascenso de categoría cada 5 años.
-
-b) El derecho al progreso individualizado en conocimientos, formación y objetivos.
-
-c) El aumento automático de sueldo por antigüedad.
-
-d) El derecho a elegir el turno de trabajo.
-
-Solución: b
-
-28. La renuncia a la condición de personal estatutario tiene un plazo de preaviso de:
-
-a) 3 días.
-
-b) 15 días.
-
-c) Un mes.
-
-d) No tiene plazo.
-
-Solución: b
-
-29. El personal de Gestión y Servicios de formación profesional se divide en:
-
-a) Técnicos superiores y Técnicos.
-
-b) Auxiliares y Celadores.
-
-c) Jefes y Subalternos.
-
-d) Fijos y Eventuales.
+d) A 30 días hábiles.
 
 Solución: a
 
-30. El nombramiento de interinidad se acuerda para:
+12. El objeto perseguido por el Estatuto Marco en materia de tiempo de trabajo y régimen de descansos es:
 
-a) Sustituir a un trabajador de baja.
+a) El establecimiento de las disposiciones mínimas para la protección de la seguridad y salud del personal.
 
-b) Atender un exceso de trabajo en urgencias.
+b) El establecimiento de las disposiciones mínimas para la organización de los servicios.
 
-c) El desempeño de una plaza vacante cuando no sea posible por personal fijo.
+c) Garantizar en todo momento las necesidades asistenciales.
 
-d) Cubrir las vacaciones del personal titular.
+d) Todas son correctas.
 
-Solución: c
+Solución: a
 
-31. El período de prueba para el personal de gestión y servicios (no universitario) es de:
+13. Deberá establecerse un período de descanso durante la jornada no inferior a 15 minutos:
 
-a) 15 días.
+a) Siempre que la duración de la misma exceda de ocho horas continuadas.
 
-b) Un mes.
+b) Siempre que la duración de la misma exceda de seis horas continuadas u ocho discontinuas.
 
-c) Dos meses.
+c) Siempre que la duración de la misma exceda de seis horas continuadas.
 
-d) No tiene período de prueba.
-
-Solución: c (Nota: varía según la categoría, pero el estándar EM es 2 meses para el grupo C2/D/E)
-
-32. La pérdida de la nacionalidad española o de un estado de la UE conlleva:
-
-a) Una sanción económica.
-
-b) El paso a la situación de excedencia.
-
-c) La pérdida de la condición de personal estatutario.
-
-d) No afecta si ya se tiene la plaza fija.
+d) Siempre que la duración de la misma no exceda de seis horas continuadas.
 
 Solución: c
 
-33. Un derecho individual del personal es la formación continuada, que se realizará:
+14. La duración máxima conjunta de los tiempos de trabajo (jornada ordinaria + complementaria) será de:
 
-a) Solo fuera de la jornada de trabajo.
+a) 48 horas continuadas.
 
-b) Preferentemente dentro de la jornada de trabajo.
+b) 48 horas semanales.
 
-c) Si el trabajador paga el curso.
+c) 12 horas continuadas.
 
-d) Únicamente durante el período de prácticas.
-
-Solución: b
-
-34. La jubilación forzosa se declara al cumplir la edad de:
-
-a) 60 años.
-
-b) 65 años (o la edad legal vigente).
-
-c) 70 años sin excepción.
-
-d) 67 años fijos.
+d) 12 horas diarias en el cómputo total del semestre.
 
 Solución: b
 
-35. El personal estatutario puede ser declarado en suspensión de funciones:
+15. El período mínimo de descanso ininterrumpido entre el fin de una jornada y el comienzo de la siguiente es de:
 
-a) Por enfermedad común de larga duración.
+a) 8 horas.
 
-b) Como consecuencia de una sanción disciplinaria firme.
+b) 12 horas.
 
-c) Por falta de presupuesto en el hospital.
+c) 24 horas.
 
-d) Al cumplir los 10 años de servicio.
-
-Solución: b
-
-36. El sistema de selección de "Oposición" consiste en:
-
-a) Valorar solo los años trabajados.
-
-b) La celebración de pruebas para determinar la capacidad de los aspirantes.
-
-c) Una entrevista personal con el Gerente.
-
-d) La entrega de títulos y méritos sin examen.
+d) 9 horas.
 
 Solución: b
 
-37. Los "objetivos básicos" del personal estatutario incluyen:
+16. El tiempo de trabajo correspondiente a la jornada ordinaria no excederá:
 
-a) La mejora de la salud de la población.
+a) De 12 horas ininterrumpidas.
 
-b) La eficacia y eficiencia del sistema sanitario.
+b) De 24 horas de forma no continuada.
 
-c) La satisfacción de los usuarios.
+c) De 8 horas continuadas.
 
-d) Todas las anteriores.
+d) De 16 horas diarias en jornada partida.
+
+Solución: a
+
+17. No es una situación administrativa propia del personal estatutario la de:
+
+a) Servicios especiales.
+
+b) Excedencia forzosa.
+
+c) Excedencia voluntaria.
+
+d) Excedencia por servicios en el sector público.
+
+Solución: b
+
+18. Para que el personal estatutario fijo sea declarado en la situación de servicios de gestión clínica, debía encontrarse en la situación de:
+
+a) Servicios especiales.
+
+b) Servicios bajo otro régimen jurídico.
+
+c) Excedencia voluntaria.
+
+d) Excedencia por servicios en el sector público.
+
+Solución: b
+
+19. El personal estatutario será declarado en situación de servicios especiales:
+
+a) Cuando acceda a plaza de formación sanitaria especializada mediante residencia.
+
+b) En los supuestos establecidos con carácter general para los funcionarios.
+
+c) Cuando sea autorizado a colaborar con ONGs.
+
+d) Todas las opciones son correctas.
 
 Solución: d
 
-38. La condición de personal estatutario temporal se pierde por:
+20. Un trabajador que incumpla la obligación de solicitar el reingreso al servicio activo tras finalizar la causa que motivó su situación:
 
-a) Incorporación del personal fijo a la plaza.
+a) Pasará a la situación de reingreso provisional en otro destino.
 
-b) Extinción de la causa que motivó el nombramiento.
+b) Será declarado de oficio en excedencia voluntaria.
 
-c) Renuncia o jubilación.
+c) Pasará a la situación de servicios especiales.
 
-d) Todas las anteriores.
+d) Seguirá su reingreso provisional en el mismo destino.
+
+Solución: b
+
+21. La suspensión firme determinará:
+
+a) La pérdida del puesto de trabajo cuando exceda de 1 año.
+
+b) El cambio de destino cuando exceda de 6 meses.
+
+c) La pérdida del puesto de trabajo cuando exceda de 6 meses.
+
+d) La pérdida automática del puesto de trabajo.
+
+Solución: a
+
+22. El régimen disciplinario responderá a los principios de:
+
+a) Legalidad, eficacia y proporcionalidad.
+
+b) Tipicidad, eficacia y proporcionalidad.
+
+c) Tipicidad, eficacia y congruencia.
+
+d) Tipicidad, justicia y proporcionalidad.
+
+Solución: b
+
+23. El abuso de autoridad en el ejercicio de sus funciones es:
+
+a) Una falta muy grave.
+
+b) Una falta grave.
+
+c) Una falta leve.
+
+d) No es una falta.
+
+Solución: b
+
+24. Las faltas muy graves prescribirán:
+
+a) A los 4 años.
+
+b) A los dos años.
+
+c) A los 6 años.
+
+d) No prescriben.
+
+Solución: a
+
+25. La sanción de traslado forzoso:
+
+a) Solo podrá imponerse por faltas muy graves.
+
+b) Podrá imponerse por faltas graves y muy graves.
+
+c) No podrá imponerse por faltas leves.
+
+d) Podrá imponerse por faltas muy graves cualificadas.
+
+Solución: a
+
+26. No será preceptiva la previa instrucción del procedimiento disciplinario:
+
+a) Para la imposición de sanciones por faltas leves, salvo el trámite de audiencia.
+
+b) Para la imposición de faltas leves y graves.
+
+c) Siempre es necesario un procedimiento previo.
+
+d) Ninguna es correcta.
+
+Solución: a
+
+27. Podrá acordarse la suspensión provisional de funciones como medida cautelar en caso de:
+
+a) Faltas muy graves.
+
+b) Faltas graves.
+
+c) Expediente judicial.
+
+d) Todos los supuestos anteriores.
 
 Solución: d
 
-39. El derecho a la huelga del personal estatutario está condicionado por:
+28. La percepción de pensión de jubilación pública será compatible con:
 
-a) La prohibición total en centros sanitarios.
+a) La situación del personal emérito.
 
-b) El mantenimiento de los servicios esenciales para la población.
+b) Las retribuciones derivadas de una actividad a tiempo parcial.
 
-c) La autorización previa del Director del Hospital.
+c) Con ambos supuestos anteriores.
 
-d) El pago de una tasa de huelga.
+d) Es incompatible.
 
-Solución: b
+Solución: d (Nota: regla general de incompatibilidad, salvo excepciones muy específicas).
 
-40. El personal estatutario tiene el deber de sigilo respecto a:
+29. En las mesas de negociación, los representantes pueden concertar:
 
-a) Su sueldo mensual.
+a) Pactos y convenios.
 
-b) Los datos de salud y la intimidad de los pacientes.
+b) Convenios y resoluciones.
 
-c) El nombre de sus compañeros de turno.
+c) Una Mesa sectorial.
 
-d) Las órdenes de sus superiores siempre.
+d) Pactos y acuerdos.
 
-Solución: b
+Solución: d
 
-41. La carrera profesional es un derecho de:
+30. No es materia objeto de negociación en la Mesa sectorial:
 
-a) El personal fijo únicamente.
+a) Regulación de jornada laboral y descansos.
 
-b) El personal temporal únicamente.
+b) Régimen de permisos y licencias.
 
-c) Todo el personal (fijo y temporal según jurisprudencia actual).
+c) Decisiones del servicio de salud que afecten a derechos de los ciudadanos.
 
-d) Solo los médicos.
-
-Solución: a (Según el texto original de la Ley 55/2003, aunque los tribunales lo han ampliado).
-
-42. El nombramiento de sustitución se utiliza para:
-
-a) Cubrir plazas vacantes.
-
-b) Atender picos de actividad.
-
-c) Atender las funciones de personal con derecho a reserva de plaza.
-
-d) Contratar a personal jubilado.
+d) Determinación de las retribuciones del personal.
 
 Solución: c
+
+31. Las anotaciones por sanciones disciplinarias firmes de carácter LEVE se cancelarán en:
+
+a) Seis años.
+
+b) Cuatro años.
+
+c) Dos años.
+
+d) Dos meses.
+
+Solución: c
+
+32. El régimen retributivo del personal estatutario se concreta anualmente por:
+
+a) Cada comunidad autónoma respecto del personal a su servicio.
+
+b) El Gobierno del Estado respecto de todo el personal.
+
+c) El convenio colectivo estatal respecto de todo el personal.
+
+d) Las mesas sectoriales.
+
+Solución: a
+
+33. En comisión de servicios, el personal estatutario percibirá las retribuciones:
+
+a) Correspondientes a las funciones especiales que realice.
+
+b) De su plaza o puesto de origen.
+
+c) Proporcional a cada Centro.
+
+d) Correspondientes a la plaza desempeñada, salvo que sean inferiores a las de origen.
+
+Solución: d

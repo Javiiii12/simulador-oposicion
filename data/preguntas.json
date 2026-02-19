@@ -4640,5 +4640,434 @@
     },
     "correcta": "c",
     "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 6",
+    "pregunta": "La pena de inhabilitación especial para la correspondiente profesión supondrá la pérdida de la condición de personal estatutario:",
+    "opciones": {
+      "a": "Si excede de 10 años.",
+      "b": "Si excede de 6 años.",
+      "c": "Si excede de 1 año.",
+      "d": "No supone tal pérdida."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 6",
+    "pregunta": "El sistema retributivo del personal estatutario responde:",
+    "opciones": {
+      "a": "A los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo común en relación con las retribuciones básicas.",
+      "b": "A los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo común en relación con las retribuciones básicas y complementarias.",
+      "c": "A los principios de cualificación técnica y profesional y asegura el mantenimiento de un modelo homogéneo en relación con las retribuciones básicas.",
+      "d": "A los principios de capacidad y profesionalidad y asegura el mantenimiento de un modelo común en relación con las retribuciones básicas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 6",
+    "pregunta": "Sin perjuicio de la sanción disciplinaria que corresponda, la parte de jornada no realizada por causas imputables al interesado:",
+    "opciones": {
+      "a": "Dará lugar a la deducción proporcional de haberes y tendrá carácter sancionador.",
+      "b": "Dará lugar a la deducción proporcional de haberes, que no tendrá carácter sancionador.",
+      "c": "No dará lugar a la deducción proporcional de haberes, aunque tendrá carácter sancionador.",
+      "d": "No será recuperable."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 6",
+    "pregunta": "Las retribuciones básicas son:",
+    "opciones": {
+      "a": "El sueldo, los trienios y las pagas extraordinarias.",
+      "b": "El salario base, los trienios y las pagas extras.",
+      "c": "El sueldo, los quinquenios y las pagas extraordinarias.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 6",
+    "pregunta": "El importe de las pagas extraordinarias:",
+    "opciones": {
+      "a": "Será como mínimo de una mensualidad del sueldo y trienios al que se añadirá la catorceava parte del importe anual del complemento de destino.",
+      "b": "Será igual a una mensualidad de sueldo, trienios y complementos.",
+      "c": "Será como mínimo de una mensualidad de sueldos y trienios.",
+      "d": "Será al menos igual a la mensualidad percibida el mes anterior."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 6",
+    "pregunta": "No es una retribución complementaria:",
+    "opciones": {
+      "a": "El complemento de destino.",
+      "b": "El complemento específico.",
+      "c": "El complemento de productividad.",
+      "d": "El complemento de antigüedad."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 6",
+    "pregunta": "El personal estatutario temporal percibirá:",
+    "opciones": {
+      "a": "Las mismas retribuciones que el personal fijo excepto los trienios.",
+      "b": "Las mismas retribuciones que el personal fijo salvo en complemento específico.",
+      "c": "La totalidad de las retribuciones básicas y complementarias que corresponda a su nombramiento.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 6",
+    "pregunta": "La retribución de los aspirantes en prácticas ascenderá, como mínimo a:",
+    "opciones": {
+      "a": "Las mismas retribuciones que el personal fijo excepto los trienios.",
+      "b": "Las mismas retribuciones que el personal fijo salvo en complemento específico.",
+      "c": "La totalidad de las retribuciones básicas y complementarias correspondientes.",
+      "d": "Las retribuciones básicas, excluidos trienios, del grupo al que aspiren ingresar."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 6",
+    "pregunta": "La jornada ordinaria de trabajo del personal estatutario en los centros sanitarios:",
+    "opciones": {
+      "a": "Se determinará en las normas dictadas por la administración.",
+      "b": "Se determinará en los pactos o acuerdos alcanzados.",
+      "c": "Se determinará en las normas, pactos o acuerdos, según proceda.",
+      "d": "Se pactará individualmente con cada trabajador."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 6",
+    "pregunta": "Se entiende por tiempo de trabajo:",
+    "opciones": {
+      "a": "El período en el que el personal permanece en el centro sanitario, a disposición del mismo y en ejercicio efectivo de su actividad y funciones.",
+      "b": "El período en el que el personal permanece en el centro sanitario.",
+      "c": "El período que el personal dedica al ejercicio efectivo de su actividad y funciones.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 6",
+    "pregunta": "El Personal Estatutario tendrá derecho a una vacación retribuida:",
+    "opciones": {
+      "a": "No inferior a 30 días naturales.",
+      "b": "A un mínimo de 22 días hábiles.",
+      "c": "A un mes.",
+      "d": "A 30 días hábiles."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 6",
+    "pregunta": "El objeto perseguido por el Estatuto Marco en materia de tiempo de trabajo y régimen de descansos es:",
+    "opciones": {
+      "a": "El establecimiento de las disposiciones mínimas para la protección de la seguridad y salud del personal.",
+      "b": "El establecimiento de las disposiciones mínimas para la organización de los servicios.",
+      "c": "Garantizar en todo momento las necesidades asistenciales.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 6",
+    "pregunta": "Deberá establecerse un período de descanso durante la jornada no inferior a 15 minutos:",
+    "opciones": {
+      "a": "Siempre que la duración de la misma exceda de ocho horas continuadas.",
+      "b": "Siempre que la duración de la misma exceda de seis horas continuadas u ocho discontinuas.",
+      "c": "Siempre que la duración de la misma exceda de seis horas continuadas.",
+      "d": "Siempre que la duración de la misma no exceda de seis horas continuadas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 6",
+    "pregunta": "La duración máxima conjunta de los tiempos de trabajo (jornada ordinaria + complementaria) será de:",
+    "opciones": {
+      "a": "48 horas continuadas.",
+      "b": "48 horas semanales.",
+      "c": "12 horas continuadas.",
+      "d": "12 horas diarias en el cómputo total del semestre."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 6",
+    "pregunta": "El período mínimo de descanso ininterrumpido entre el fin de una jornada y el comienzo de la siguiente es de:",
+    "opciones": {
+      "a": "8 horas.",
+      "b": "12 horas.",
+      "c": "24 horas.",
+      "d": "9 horas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 6",
+    "pregunta": "El tiempo de trabajo correspondiente a la jornada ordinaria no excederá:",
+    "opciones": {
+      "a": "De 12 horas ininterrumpidas.",
+      "b": "De 24 horas de forma no continuada.",
+      "c": "De 8 horas continuadas.",
+      "d": "De 16 horas diarias en jornada partida."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 6",
+    "pregunta": "No es una situación administrativa propia del personal estatutario la de:",
+    "opciones": {
+      "a": "Servicios especiales.",
+      "b": "Excedencia forzosa.",
+      "c": "Excedencia voluntaria.",
+      "d": "Excedencia por servicios en el sector público."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 6",
+    "pregunta": "Para que el personal estatutario fijo sea declarado en la situación de servicios de gestión clínica, debía encontrarse en la situación de:",
+    "opciones": {
+      "a": "Servicios especiales.",
+      "b": "Servicios bajo otro régimen jurídico.",
+      "c": "Excedencia voluntaria.",
+      "d": "Excedencia por servicios en el sector público."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 6",
+    "pregunta": "El personal estatutario será declarado en situación de servicios especiales:",
+    "opciones": {
+      "a": "Cuando acceda a plaza de formación sanitaria especializada mediante residencia.",
+      "b": "En los supuestos establecidos con carácter general para los funcionarios.",
+      "c": "Cuando sea autorizado a colaborar con ONGs.",
+      "d": "Todas las opciones son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 6",
+    "pregunta": "Un trabajador que incumpla la obligación de solicitar el reingreso al servicio activo tras finalizar la causa que motivó su situación:",
+    "opciones": {
+      "a": "Pasará a la situación de reingreso provisional en otro destino.",
+      "b": "Será declarado de oficio en excedencia voluntaria.",
+      "c": "Pasará a la situación de servicios especiales.",
+      "d": "Seguirá su reingreso provisional en el mismo destino."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 6",
+    "pregunta": "La suspensión firme determinará:",
+    "opciones": {
+      "a": "La pérdida del puesto de trabajo cuando exceda de 1 año.",
+      "b": "El cambio de destino cuando exceda de 6 meses.",
+      "c": "La pérdida del puesto de trabajo cuando exceda de 6 meses.",
+      "d": "La pérdida automática del puesto de trabajo."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 6",
+    "pregunta": "El régimen disciplinario responderá a los principios de:",
+    "opciones": {
+      "a": "Legalidad, eficacia y proporcionalidad.",
+      "b": "Tipicidad, eficacia y proporcionalidad.",
+      "c": "Tipicidad, eficacia y congruencia.",
+      "d": "Tipicidad, justicia y proporcionalidad."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 6",
+    "pregunta": "El abuso de autoridad en el ejercicio de sus funciones es:",
+    "opciones": {
+      "a": "Una falta muy grave.",
+      "b": "Una falta grave.",
+      "c": "Una falta leve.",
+      "d": "No es una falta."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 6",
+    "pregunta": "Las faltas muy graves prescribirán:",
+    "opciones": {
+      "a": "A los 4 años.",
+      "b": "A los dos años.",
+      "c": "A los 6 años.",
+      "d": "No prescriben."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 6",
+    "pregunta": "La sanción de traslado forzoso:",
+    "opciones": {
+      "a": "Solo podrá imponerse por faltas muy graves.",
+      "b": "Podrá imponerse por faltas graves y muy graves.",
+      "c": "No podrá imponerse por faltas leves.",
+      "d": "Podrá imponerse por faltas muy graves cualificadas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 6",
+    "pregunta": "No será preceptiva la previa instrucción del procedimiento disciplinario:",
+    "opciones": {
+      "a": "Para la imposición de sanciones por faltas leves, salvo el trámite de audiencia.",
+      "b": "Para la imposición de faltas leves y graves.",
+      "c": "Siempre es necesario un procedimiento previo.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 6",
+    "pregunta": "Podrá acordarse la suspensión provisional de funciones como medida cautelar en caso de:",
+    "opciones": {
+      "a": "Faltas muy graves.",
+      "b": "Faltas graves.",
+      "c": "Expediente judicial.",
+      "d": "Todos los supuestos anteriores."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 6",
+    "pregunta": "La percepción de pensión de jubilación pública será compatible con:",
+    "opciones": {
+      "a": "La situación del personal emérito.",
+      "b": "Las retribuciones derivadas de una actividad a tiempo parcial.",
+      "c": "Con ambos supuestos anteriores.",
+      "d": "Es incompatible."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 6",
+    "pregunta": "En las mesas de negociación, los representantes pueden concertar:",
+    "opciones": {
+      "a": "Pactos y convenios.",
+      "b": "Convenios y resoluciones.",
+      "c": "Una Mesa sectorial.",
+      "d": "Pactos y acuerdos."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 6",
+    "pregunta": "No es materia objeto de negociación en la Mesa sectorial:",
+    "opciones": {
+      "a": "Regulación de jornada laboral y descansos.",
+      "b": "Régimen de permisos y licencias.",
+      "c": "Decisiones del servicio de salud que afecten a derechos de los ciudadanos.",
+      "d": "Determinación de las retribuciones del personal."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 31,
+    "tema": "Tema 6",
+    "pregunta": "Las anotaciones por sanciones disciplinarias firmes de carácter LEVE se cancelarán en:",
+    "opciones": {
+      "a": "Seis años.",
+      "b": "Cuatro años.",
+      "c": "Dos años.",
+      "d": "Dos meses."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 32,
+    "tema": "Tema 6",
+    "pregunta": "El régimen retributivo del personal estatutario se concreta anualmente por:",
+    "opciones": {
+      "a": "Cada comunidad autónoma respecto del personal a su servicio.",
+      "b": "El Gobierno del Estado respecto de todo el personal.",
+      "c": "El convenio colectivo estatal respecto de todo el personal.",
+      "d": "Las mesas sectoriales."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 6",
+    "pregunta": "En comisión de servicios, el personal estatutario percibirá las retribuciones:",
+    "opciones": {
+      "a": "Correspondientes a las funciones especiales que realice.",
+      "b": "De su plaza o puesto de origen.",
+      "c": "Proporcional a cada Centro.",
+      "d": "Correspondientes a la plaza desempeñada, salvo que sean inferiores a las de origen."
+    },
+    "correcta": "d",
+    "explicacion": ""
   }
 ]
