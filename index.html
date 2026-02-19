@@ -26,7 +26,7 @@
                 </button>
             </div>
             <p style="text-align:center; margin-top:40px; color:#aaa; font-size:0.9rem;">
-                v1.3 (Exam Update) - Más categorías en desarrollo
+                v1.4 (Exam Fixes) - Más categorías en desarrollo
             </p>
         </div>
 
@@ -183,10 +183,21 @@
                     <div id="progress-bar" class="progress-bar"></div>
                 </div>
                 <div class="counters">
+                    <button id="btn-show-grid" class="btn-small"
+                        style="margin-right:10px; padding:2px 8px; font-size:1.2rem;">▦</button>
                     <span id="question-counter">1/--</span>
                     <span id="score-badge" class="badge-score">Aciertos: 0</span>
                 </div>
             </header>
+
+            <!-- NAV GRID OVERLAY -->
+            <div id="nav-grid-overlay" class="grid-overlay hidden">
+                <div class="grid-content">
+                    <h3>Navegación de Preguntas (<span id="grid-total"></span>)</h3>
+                    <div id="grid-buttons" class="grid-buttons-container"></div>
+                    <button id="btn-close-grid" class="btn-primary" style="margin-top:20px;">Cerrar</button>
+                </div>
+            </div>
 
             <div class="card question-card">
                 <div class="card-header">
@@ -235,7 +246,7 @@
 
     </div>
 
-    <script src="js/script.js?v=6"></script>
+    <script src="js/script.js?v=7"></script>
 </body>
 
 </html>

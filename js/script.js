@@ -182,7 +182,7 @@ function showRandomConfig() {
 function showTopics(category) {
     if (category !== 'MAD') return;
 
-    const temasRaw = [...new Set(allQuestions.map(q => q.tema))];
+    const temasRaw = [...new Set(allQuestions.map(q => q.tema))].filter(t => !t.toString().startsWith("Examen"));
     const temas = temasRaw.sort((a, b) => {
         const numA = parseInt(a.replace("Tema ", "")) || 999;
         const numB = parseInt(b.replace("Tema ", "")) || 999;
@@ -517,10 +517,18 @@ function handleAnswer(selected) {
     if (currentMode === 'exam') {
         // En examen solo iluminamos la que pulsó el usuario
         for (let btn of options) {
-            btn.disabled = true;
+            // NO deshabilitar botones en examen (permitir corregir)
+            // btn.disabled = true; <-- REMOVED
+
+            // Reset styles first
+            btn.style.border = "";
+            btn.style.background = "";
+            btn.classList.remove('selected');
+
             if (btn.innerText.startsWith(`${selected.toUpperCase()})`)) {
                 btn.style.border = "2px solid var(--primary)";
                 btn.style.background = "#eef";
+                btn.classList.add('selected');
             }
         }
     } else {
