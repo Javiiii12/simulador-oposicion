@@ -11953,7 +11953,7 @@
       "a": "Con mayor porcentaje de níquel.",
       "b": "Con un fondo difusor compuesto de láminas de cobre y aluminio.",
       "c": "Con un fondo de cobre.",
-      "d": "Por sí mismo es muy buen conductor."
+      "d": "Por sí mismo el acero inoxidable es muy buen conductor."
     },
     "correcta": "b",
     "explicacion": ""
@@ -11961,11 +11961,11 @@
   {
     "id": 5,
     "tema": "Tema 15",
-    "pregunta": "¿Qué es FALSO sobre el aluminio?",
+    "pregunta": "¿Qué es falso sobre el aluminio?",
     "opciones": {
       "a": "Buen conductor.",
       "b": "Ligero y blando.",
-      "c": "Gran resistencia que lo hace ideal para batir. (Es falso, se raya y suelta partículas).",
+      "c": "Gran resistencia que lo hace ideal para batir.",
       "d": "Es un material alterable."
     },
     "correcta": "c",
@@ -11974,7 +11974,7 @@
   {
     "id": 6,
     "tema": "Tema 15",
-    "pregunta": "¿Cuál es el material más utilizado para las sartenes (especialmente las profesionales)?",
+    "pregunta": "¿Cuál es el material más utilizado para las sartenes?",
     "opciones": {
       "a": "Acero negro.",
       "b": "Acero estañado.",
@@ -12018,7 +12018,7 @@
       "a": "De 2 a 6 litros.",
       "b": "De 10 a 15 litros.",
       "c": "50 litros como máximo.",
-      "d": "Capacidad mínima de 20 litros."
+      "d": "Tiene capacidad mínima de 20 litros."
     },
     "correcta": "a",
     "explicacion": ""
@@ -12026,7 +12026,7 @@
   {
     "id": 10,
     "tema": "Tema 15",
-    "pregunta": "¿Cuál de los siguientes utensilios se utilizan para asar alimentos?",
+    "pregunta": "¿Cuál de los siguientes utensilios de cocina se utilizan para asar alimentos?",
     "opciones": {
       "a": "Marmita.",
       "b": "Cazo.",
@@ -12052,7 +12052,7 @@
   {
     "id": 12,
     "tema": "Tema 15",
-    "pregunta": "¿Qué término corresponde a una sartén profunda con dos asas?",
+    "pregunta": "¿Cuál de los siguientes términos corresponde a una sartén profunda con dos asas?",
     "opciones": {
       "a": "Perol de asas.",
       "b": "Sartén con mango.",
@@ -12068,7 +12068,7 @@
     "pregunta": "¿Cómo se puede evitar que salga moho en la paellera que no se usa?",
     "opciones": {
       "a": "Pulverizando vinagre.",
-      "b": "Mojándola.",
+      "b": "Mojando.",
       "c": "Secando bien y cubriendo con papel.",
       "d": "Engrasando."
     },
@@ -12078,9 +12078,9 @@
   {
     "id": 14,
     "tema": "Tema 15",
-    "pregunta": "¿Cuál de los siguientes moldes NO es redondo?",
+    "pregunta": "¿Cuál de los siguientes moldes no es redondo?",
     "opciones": {
-      "a": "Pudding. (Suelen ser alargados/rectangulares).",
+      "a": "Pudding.",
       "b": "Magdalenas.",
       "c": "Brioches.",
       "d": "Bizcocho."
@@ -12091,11 +12091,11 @@
   {
     "id": 15,
     "tema": "Tema 15",
-    "pregunta": "¿Cuál de los siguientes moldes tiene tapa?",
+    "pregunta": "¿Cuál de los siguientes moldes tienen tapa?",
     "opciones": {
       "a": "Gelatina.",
-      "b": "Tarta helada. (O moldes específicos de helado con cierre).",
-      "c": "Pudding.",
+      "b": "Tarta helada.",
+      "c": "Puding.",
       "d": "Bizcocho."
     },
     "correcta": "b",
@@ -12117,10 +12117,10 @@
   {
     "id": 17,
     "tema": "Tema 15",
-    "pregunta": "La Sautese (sautoir) es utilizada para:",
+    "pregunta": "La Sautese es utilizada para:",
     "opciones": {
       "a": "Saltear, rehogar y estofar géneros.",
-      "b": "Confeccionar salsas y cremas únicamente.",
+      "b": "Confeccionar salsas y cremas.",
       "c": "Asar grandes piezas de carne.",
       "d": "Presentar pescados."
     },
@@ -12145,9 +12145,9 @@
     "tema": "Tema 15",
     "pregunta": "¿Para qué se utiliza la cazuela de barro?",
     "opciones": {
-      "a": "Para elaborar asados en horno.",
-      "b": "Para sopa castellana.",
-      "c": "Para marmitako.",
+      "a": "Se utiliza mucho para elaborar asados en horno.",
+      "b": "Para hacer la sopa castellana.",
+      "c": "Para hacer marmitako.",
       "d": "Todas son correctas."
     },
     "correcta": "d",
@@ -12169,12 +12169,12 @@
   {
     "id": 21,
     "tema": "Tema 15",
-    "pregunta": "¿Para qué sirve el \"baño maría\" como herramienta?",
+    "pregunta": "¿Para qué sirve el baño maría como herramienta?",
     "opciones": {
       "a": "Se usa para mantener calientes ciertas elaboraciones.",
-      "b": "Para freír patatas.",
-      "c": "Para asar pollos.",
-      "d": "Para lavar verduras."
+      "b": "Para cocinar verduras al vapor.",
+      "c": "Para asar carnes.",
+      "d": "Para enfriar platos rápidamente."
     },
     "correcta": "a",
     "explicacion": ""
@@ -12198,7 +12198,7 @@
     "pregunta": "¿Para qué se utiliza un tamiz?",
     "opciones": {
       "a": "Para cortar carne.",
-      "b": "Para homogeneizar el grosor de alimentos como la harina.",
+      "b": "Para homogeneizar el grosor de ciertos alimentos como la harina.",
       "c": "Para freír huevos.",
       "d": "Para limpiar el suelo."
     },
@@ -12224,7 +12224,7 @@
     "pregunta": "Sobre la maquinaria de calor, es cierto que:",
     "opciones": {
       "a": "Debe estar siempre encendida.",
-      "b": "Ha de estar debidamente aislada para evitar pérdida de energía.",
+      "b": "La maquinaria ha de estar debidamente aislada para evitar toda pérdida de energía.",
       "c": "No necesita limpieza.",
       "d": "Es preferible que sea de madera."
     },
@@ -12238,8 +12238,8 @@
     "opciones": {
       "a": "Gas natural o butano.",
       "b": "Electricidad.",
-      "c": "Carbón (en parrillas específicas).",
-      "d": "Todas son correctas."
+      "c": "Carbón vegetal.",
+      "d": "Todos los combustibles anteriores podrán utilizarse."
     },
     "correcta": "d",
     "explicacion": ""
@@ -12260,7 +12260,7 @@
   {
     "id": 28,
     "tema": "Tema 15",
-    "pregunta": "El antracita y el hulla son:",
+    "pregunta": "El antracita y la hulla son:",
     "opciones": {
       "a": "Tipos de carbón mineral.",
       "b": "Tipos de pescado.",
@@ -12302,7 +12302,7 @@
     "pregunta": "¿Funcionará un recipiente de barro en una placa de inducción?",
     "opciones": {
       "a": "Sí, sin problemas.",
-      "b": "No. La inducción necesita utensilios ferromagnéticos (metálicos).",
+      "b": "No. El sistema de inducción necesita siempre utensilios metálicos.",
       "c": "Sí, si se calienta antes al fuego.",
       "d": "Solo si tiene agua."
     },
@@ -12316,7 +12316,7 @@
     "opciones": {
       "a": "Que es muy barata.",
       "b": "Que tarda mucho en calentar.",
-      "c": "Que permanece fría al retirar el recipiente (seguridad).",
+      "c": "La placa de inducción permanece fría al retirar el recipiente.",
       "d": "Que sirve para secar platos."
     },
     "correcta": "c",
@@ -12366,7 +12366,7 @@
     "tema": "Tema 15",
     "pregunta": "¿Cómo se limpia la superficie de una plancha de acero?",
     "opciones": {
-      "a": "Con un elemento abrasivo como cepillo de alambre o piedra pómez.",
+      "a": "Con un elemento abrasivo como cepillo de alambre o estropajo de níquel.",
       "b": "Con una esponja suave y seda.",
       "c": "Con un trapo seco únicamente.",
       "d": "No se limpia nunca."
@@ -12380,7 +12380,7 @@
     "pregunta": "En la limpieza de la maquinaria de calor, las llaves de mando:",
     "opciones": {
       "a": "No se tocan.",
-      "b": "Se desmontarán para sumergirlas en agua con desengrasante.",
+      "b": "Se desmontarán para sumergirlos en agua con desengrasante.",
       "c": "Se pintan cada mes.",
       "d": "Se limpian con aceite de oliva."
     },
@@ -12445,7 +12445,7 @@
     "pregunta": "Para evitar riesgos térmicos en el personal:",
     "opciones": {
       "a": "Se trabaja sin ropa.",
-      "b": "Toda fuente de calor estará lo más apartada y aislada posible.",
+      "b": "Toda fuente de calor estará lo más apartada y aislada del personal.",
       "c": "Se abren las ventanas siempre.",
       "d": "Se apaga la cocina cada 10 minutos."
     },
@@ -12468,12 +12468,12 @@
   {
     "id": 44,
     "tema": "Tema 15",
-    "pregunta": "El microondas calienta mediante:",
+    "pregunta": "¿Qué es el lignito?",
     "opciones": {
-      "a": "Ondas electromagnéticas.",
-      "b": "Fuego directo.",
-      "c": "Resistencias eléctricas rojas.",
-      "d": "Vapor de agua."
+      "a": "Una variedad de carbón natural.",
+      "b": "Un gas.",
+      "c": "Una sustancia incombustible.",
+      "d": "Un tipo de fogón."
     },
     "correcta": "a",
     "explicacion": ""
@@ -12481,103 +12481,103 @@
   {
     "id": 45,
     "tema": "Tema 15",
-    "pregunta": "Una regla de oro en el uso del microondas es:",
+    "pregunta": "¿Qué sistema de calentamiento utiliza una placa vitrocerámica?",
     "opciones": {
-      "a": "No meter nunca recipientes metálicos.",
-      "b": "Meter solo cucharas de plata.",
-      "c": "Usar papel de aluminio para envolver.",
-      "d": "Dejarlo abierto mientras funciona."
+      "a": "Gas.",
+      "b": "Una resistencia eléctrica sobre la placa.",
+      "c": "Una resistencia eléctrica bajo la superficie de vidrio cerámico.",
+      "d": "Un generador de frío."
     },
-    "correcta": "a",
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 46,
     "tema": "Tema 15",
-    "pregunta": "En la olla a presión industrial, ¿qué indica que hay presión?",
+    "pregunta": "¿Qué material compone el filtro de una campana extractora de humo?",
     "opciones": {
-      "a": "El color de la olla.",
-      "b": "El vapor que sale por la válvula o el manómetro.",
-      "c": "El ruido del agua.",
-      "d": "Que la tapa se suelta."
+      "a": "Metal.",
+      "b": "Carbón granulado.",
+      "c": "Galvanizado.",
+      "d": "Cualquiera de los anteriores."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 47,
     "tema": "Tema 15",
-    "pregunta": "El abatidor de temperatura sirve para:",
+    "pregunta": "¿Cuál/es de los siguientes elementos de una cocina de gas son desmontables?",
     "opciones": {
-      "a": "Cocinar a fuego lento.",
-      "b": "Bajar la temperatura de 65ºC a 3ºC en menos de dos horas.",
-      "c": "Mantener la comida caliente.",
-      "d": "Congelar pan."
+      "a": "Rejilla-soporte.",
+      "b": "Placa recogedora de grasa.",
+      "c": "Quemador.",
+      "d": "Todas las anteriores."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 48,
     "tema": "Tema 15",
-    "pregunta": "El mantenimiento preventivo de la maquinaria busca:",
+    "pregunta": "¿Qué inconveniente tiene el uso de productos corrosivos en los fogones eléctricos?",
     "opciones": {
-      "a": "Reparar lo que ya se ha roto.",
-      "b": "Evitar averías mediante revisiones periódicas.",
-      "c": "Gastar el presupuesto de mantenimiento.",
-      "d": "Cambiar las máquinas por unas nuevas cada año."
+      "a": "Pueden producir quemaduras.",
+      "b": "Pueden atacar al mecanismo del equipo.",
+      "c": "Pueden producir accidentes cuando se conectan.",
+      "d": "Todas las respuestas anteriores son correctas."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 49,
     "tema": "Tema 15",
-    "pregunta": "¿Qué equipo se utiliza para gratinar?",
+    "pregunta": "¿Qué equipos se utilizan en cocinas industriales?",
     "opciones": {
-      "a": "Marmita.",
-      "b": "Salamandra.",
-      "c": "Batidora.",
-      "d": "Cortadora."
+      "a": "Generadores de calor.",
+      "b": "Generadores de frío.",
+      "c": "Las respuesta a) y b) son correctas.",
+      "d": "Las respuestas a) y b) son falsas."
     },
-    "correcta": "b",
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 50,
     "tema": "Tema 15",
-    "pregunta": "¿Cómo se limpian las partes desmontables de una batidora industrial?",
+    "pregunta": "¿Cuál de estos procesos no necesitan máquinas generadoras de calor?",
     "opciones": {
-      "a": "Sumergiéndolas en agua con detergente y desinfectante.",
-      "b": "Solo con un paño seco.",
-      "c": "No se limpian.",
-      "d": "Con aceite de motor."
+      "a": "Elaboración de platos.",
+      "b": "Mantenimiento de las temperaturas de los alimentos.",
+      "c": "Cocina en línea caliente.",
+      "d": "Ninguna respuesta de las anteriores es correcta."
     },
-    "correcta": "a",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 51,
     "tema": "Tema 15",
-    "pregunta": "La \"zona fría\" de una freidora sirve para:",
+    "pregunta": "¿En qué caso es útil un generador de frío?",
     "opciones": {
-      "a": "Que el aceite se enfríe antes.",
-      "b": "Que los residuos de comida se depositen sin quemarse, manteniendo el aceite limpio.",
-      "c": "Meter bebidas.",
-      "d": "Enfriar las manos del cocinero."
+      "a": "Conservación de género perecedero.",
+      "b": "Conservación de alimentos congelados.",
+      "c": "Mantenimiento de comidas preparadas.",
+      "d": "Todas las respuestas son correctas."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 52,
     "tema": "Tema 15",
-    "pregunta": "¿Qué es un rondón?",
+    "pregunta": "¿Qué parte de un generador de frío es un conducto cubierto de hojas en batería?",
     "opciones": {
-      "a": "Un cuchillo de pan.",
-      "b": "Una cacerola de gran diámetro y poca altura con dos asas.",
-      "c": "Un tipo de horno.",
-      "d": "Una mesa de trabajo."
+      "a": "Compresor.",
+      "b": "Serpentín.",
+      "c": "Elemento auxiliar.",
+      "d": "Generador de calor."
     },
     "correcta": "b",
     "explicacion": ""
@@ -12585,25 +12585,25 @@
   {
     "id": 53,
     "tema": "Tema 15",
-    "pregunta": "La principal función de la picadora de carne es:",
+    "pregunta": "¿Qué partes puede tener una cámara frigorífica?",
     "opciones": {
-      "a": "Batir huevos.",
-      "b": "Reducir piezas de carne a trozos muy pequeños o pasta.",
-      "c": "Cortar pan.",
-      "d": "Lavar la carne."
+      "a": "Antecámara.",
+      "b": "Cámara de refrigeración.",
+      "c": "Cámara de congelación.",
+      "d": "Todas las respuestas son correctas."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 54,
     "tema": "Tema 15",
-    "pregunta": "¿Qué es una peladora de patatas industrial?",
+    "pregunta": "¿Cuál de las siguientes es la antecámara?",
     "opciones": {
-      "a": "Un pinche muy rápido.",
-      "b": "Una máquina que quita la piel por abrasión contra paredes rugosas.",
-      "c": "Un tipo de cuchillo especial.",
-      "d": "Una lavadora de verduras."
+      "a": "Se utiliza para conservar de 0 a 4 °C.",
+      "b": "Es una cámara sin frío propio, ideal para frutas, verduras, conservas.",
+      "c": "Alimentos conservados a 18 o 40 grados bajo cero.",
+      "d": "Los alimentos son conservados por calor."
     },
     "correcta": "b",
     "explicacion": ""
@@ -12611,25 +12611,25 @@
   {
     "id": 55,
     "tema": "Tema 15",
-    "pregunta": "El corta-hortalizas se utiliza para:",
+    "pregunta": "¿Qué función tiene el abatidor de temperatura?",
     "opciones": {
-      "a": "Limpiar pescado.",
-      "b": "Realizar diferentes tipos de corte (rodajas, tiras, dados) mediante discos intercambiables.",
-      "c": "Cocer verduras al vapor.",
-      "d": "Pesar las zanahorias."
+      "a": "Aumentar la temperatura.",
+      "b": "Bajar la temperatura del alimento.",
+      "c": "Cocinar al vapor.",
+      "d": "Triturar alimentos."
     },
-    "correcta": "b",
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 56,
     "tema": "Tema 15",
-    "pregunta": "La sierra de huesos se emplea para:",
+    "pregunta": "¿Cuál es el mueble destinado a la conservación de géneros a corto plazo?",
     "opciones": {
-      "a": "Cortar lechuga.",
-      "b": "Cortar piezas de carne o pescado congelado y huesos duros.",
-      "c": "Abrir latas.",
-      "d": "Serrar madera para el horno."
+      "a": "Cámara de refrigeración.",
+      "b": "Cámara de congelación.",
+      "c": "Abatidor de temperatura.",
+      "d": "Antecámara."
     },
     "correcta": "b",
     "explicacion": ""
@@ -12637,25 +12637,25 @@
   {
     "id": 57,
     "tema": "Tema 15",
-    "pregunta": "¿Qué es el \"mise en place\"?",
+    "pregunta": "¿Qué es un armario frigorífico?",
     "opciones": {
-      "a": "Una técnica de limpieza.",
-      "b": "La preparación y disposición de todos los ingredientes y utensilios antes de cocinar.",
-      "c": "Un postre francés.",
-      "d": "El nombre de la cocina central."
+      "a": "Mueble destinado a la conservación de géneros a corto plazo.",
+      "b": "Cámara sin frío propio.",
+      "c": "Mueble que permite la bajada rápida inmediata.",
+      "d": "Todas las definiciones anteriores son correctas."
     },
-    "correcta": "b",
+    "correcta": "a",
     "explicacion": ""
   },
   {
     "id": 58,
     "tema": "Tema 15",
-    "pregunta": "Los cuchillos de cocina deben estar:",
+    "pregunta": "¿Qué función tiene el abatidor de temperatura (tiempos)?",
     "opciones": {
-      "a": "Siempre guardados en agua.",
-      "b": "Bien afilados y con el mango limpio.",
-      "c": "Oxidados para dar sabor.",
-      "d": "Sin punta por seguridad."
+      "a": "Bajada de 65 °C hasta 20 °C en dos horas.",
+      "b": "Bajada de temperatura de 65 °C hasta 3-5 °C en un tiempo máximo de dos horas.",
+      "c": "Bajada de 10 °C hasta 3-5 °C en dos días.",
+      "d": "Bajada de 3 °C hasta 5 °C en diez horas."
     },
     "correcta": "b",
     "explicacion": ""
@@ -12663,77 +12663,77 @@
   {
     "id": 59,
     "tema": "Tema 15",
-    "pregunta": "El cuchillo de \"medio golpe\" se usa para:",
+    "pregunta": "¿Cómo se realiza el control de temperatura en el interior del alimento?",
     "opciones": {
-      "a": "Cortar pan.",
-      "b": "Trocear y picar carnes y verduras.",
-      "c": "Pelar ajos únicamente.",
-      "d": "Untar mantequilla."
-    },
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 60,
-    "tema": "Tema 15",
-    "pregunta": "¿Cuál es el cuchillo más pequeño usado para tareas de precisión como pelar?",
-    "opciones": {
-      "a": "Cebollero.",
-      "b": "Puntilla.",
-      "c": "Machete.",
-      "d": "Jamonero."
-    },
-    "correcta": "b",
-    "explicacion": ""
-  },
-  {
-    "id": 61,
-    "tema": "Tema 15",
-    "pregunta": "La chaira sirve para:",
-    "opciones": {
-      "a": "Cortar huesos.",
-      "b": "Mantener el filo de los cuchillos (asentar el filo).",
-      "c": "Pelar patatas.",
-      "d": "Abrir ostras."
-    },
-    "correcta": "b",
-    "explicacion": ""
-  },
-  {
-    "id": 62,
-    "tema": "Tema 15",
-    "pregunta": "¿Qué es un chino?",
-    "opciones": {
-      "a": "Un tipo de horno.",
-      "b": "Un colador de forma cónica de acero inoxidable para pasar salsas.",
-      "c": "Un cocinero de Asia.",
-      "d": "Una piedra de afilar."
+      "a": "Mediante sondas termométricas.",
+      "b": "Mediante agujas sondas.",
+      "c": "Midiendo la exterior y calculando 10º menos.",
+      "d": "Son ciertas las respuestas a) y b)."
     },
     "correcta": "d",
     "explicacion": ""
   },
   {
+    "id": 60,
+    "tema": "Tema 15",
+    "pregunta": "¿Qué son las mesas refrigeradas?",
+    "opciones": {
+      "a": "Son mesas de trabajo de acero inoxidable y en su parte inferior tiene instalado un sistema frigorífico.",
+      "b": "Mesas dentro de una cámara.",
+      "c": "Mesas para mantener calientes elaboraciones.",
+      "d": "Ninguna respuesta es correcta."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 61,
+    "tema": "Tema 15",
+    "pregunta": "¿Cuál de estas características para las cámaras frigoríficas es correcta?",
+    "opciones": {
+      "a": "Superficies impermeables y de fácil limpieza.",
+      "b": "Puertas con dispositivos herméticos practicables por ambos lados.",
+      "c": "Accesorios interiores desmontables.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 62,
+    "tema": "Tema 15",
+    "pregunta": "¿Qué nivel de iluminación tendrán las cámaras frigoríficas?",
+    "opciones": {
+      "a": "100 lux.",
+      "b": "200 lux.",
+      "c": "300 lux.",
+      "d": "500 lux."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
     "id": 63,
     "tema": "Tema 15",
-    "pregunta": "Las tablas de corte suelen ser de diferentes colores para:",
+    "pregunta": "¿Qué utilidad tienen las palas giratorias de la sorbetera?",
     "opciones": {
-      "a": "Que la cocina sea alegre.",
-      "b": "Evitar la contaminación cruzada (ej: verde para vegetales, roja para carnes).",
-      "c": "Saber de quién es cada tabla.",
-      "d": "Que no se pierdan."
+      "a": "Amasar.",
+      "b": "Alisar.",
+      "c": "Despegar la mezcla.",
+      "d": "Cortar."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 64,
     "tema": "Tema 15",
-    "pregunta": "¿Cómo se desinfecta el utillaje de cocina manualmente?",
+    "pregunta": "¿Cuántas aspas suele tener las cuchillas de la sorbetera?",
     "opciones": {
-      "a": "Solo con agua caliente.",
-      "b": "Con una solución de agua y desinfectante clorado (lejía alimentaria).",
-      "c": "Secándolo al sol.",
-      "d": "Con un paño sucio."
+      "a": "1 o 2.",
+      "b": "2 o 4.",
+      "c": "4 o 6.",
+      "d": "10."
     },
     "correcta": "b",
     "explicacion": ""
@@ -12741,38 +12741,38 @@
   {
     "id": 65,
     "tema": "Tema 15",
-    "pregunta": "¿Qué es un termómetro de sonda?",
+    "pregunta": "¿Cuál de estos elementos de la sorbetera sirve para preparar cremas montadas?",
     "opciones": {
-      "a": "Un aparato para medir la fiebre de los cocineros.",
-      "b": "Un instrumento para medir la temperatura interna de los alimentos.",
-      "c": "Un reloj de cocina.",
-      "d": "Una herramienta para pinchar globos."
+      "a": "Cubeta.",
+      "b": "Espátula.",
+      "c": "Disco.",
+      "d": "Cuchilla."
     },
-    "correcta": "b",
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 66,
     "tema": "Tema 15",
-    "pregunta": "La limpieza de la campana extractora debe incluir:",
+    "pregunta": "¿Qué aparato sirve para hacer granizados?",
     "opciones": {
-      "a": "Solo el exterior.",
-      "b": "El desmontaje y limpieza de los filtros de grasa.",
-      "c": "Pintarla cada año.",
-      "d": "No se limpia."
+      "a": "Sorbetera.",
+      "b": "Amasadora.",
+      "c": "Trituradora.",
+      "d": "Peladora."
     },
-    "correcta": "b",
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 67,
     "tema": "Tema 15",
-    "pregunta": "¿Qué producto se usa para quitar la cal de las máquinas?",
+    "pregunta": "¿Cómo se obtiene el helado en la sorbetera?",
     "opciones": {
-      "a": "Aceite.",
-      "b": "Desincrustante ácido.",
-      "c": "Jabón de manos.",
-      "d": "Harina."
+      "a": "Por batido y enfriamiento.",
+      "b": "Por calentamiento.",
+      "c": "Por fermentación.",
+      "d": "Por presión."
     },
     "correcta": "a",
     "explicacion": ""
@@ -12780,51 +12780,51 @@
   {
     "id": 68,
     "tema": "Tema 15",
-    "pregunta": "Un detergente alcalino es ideal para eliminar:",
+    "pregunta": "¿A qué temperatura se sirve el helado desde la sorbetera?",
     "opciones": {
-      "a": "Cal.",
-      "b": "Grasas y restos orgánicos.",
-      "c": "Óxido.",
-      "d": "Polvo."
+      "a": "0 °C.",
+      "b": "-5 °C.",
+      "c": "-10 °C.",
+      "d": "-20 °C."
     },
-    "correcta": "b",
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 69,
     "tema": "Tema 15",
-    "pregunta": "¿Qué significa \"desratización\"?",
+    "pregunta": "¿Qué equipo se utiliza para gratinar?",
     "opciones": {
-      "a": "Limpiar las ratas.",
-      "b": "Eliminación y control de roedores.",
-      "c": "Matar insectos.",
-      "d": "Limpiar los desagües."
+      "a": "Marmita.",
+      "b": "Salamandra (o gratinadora).",
+      "c": "Batidora.",
+      "d": "Cortadora."
     },
-    "correcta": "b",
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 70,
     "tema": "Tema 15",
-    "pregunta": "La \"desinsectación\" consiste en:",
+    "pregunta": "¿Cómo se limpian las partes desmontables de una batidora industrial?",
     "opciones": {
-      "a": "Poner plantas en la cocina.",
-      "b": "Eliminación y control de insectos y otros artrópodos.",
-      "c": "Limpiar las ventanas.",
-      "d": "Cambiar los filtros de aire."
+      "a": "Sumergiéndolas en agua.",
+      "b": "Solo con un paño seco.",
+      "c": "No se limpian.",
+      "d": "Todas las respuestas son ciertas."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 71,
     "tema": "Tema 15",
-    "pregunta": "El agua de aclarado en un lavavajillas industrial debe alcanzar:",
+    "pregunta": "¿Qué capacidad media tiene un cazo pequeño?",
     "opciones": {
-      "a": "40ºC.",
-      "b": "60ºC.",
-      "c": "82ºC (para garantizar desinfección térmica).",
-      "d": "100ºC."
+      "a": "De 3 a 5 litros.",
+      "b": "1 litro.",
+      "c": "10 litros.",
+      "d": "50 litros."
     },
     "correcta": "b",
     "explicacion": ""
@@ -12832,25 +12832,25 @@
   {
     "id": 72,
     "tema": "Tema 15",
-    "pregunta": "¿Qué es la plonge?",
+    "pregunta": "¿Qué es un pestillo en maquinaria de cierre?",
     "opciones": {
-      "a": "Un tipo de guiso.",
-      "b": "La zona de lavado de grandes recipientes (marmitas, ollas).",
-      "c": "Una herramienta para desatascar.",
-      "d": "El uniforme del pinche."
+      "a": "Pestillo redondo inclinado respecto al plano horizontal.",
+      "b": "Una pieza de madera.",
+      "c": "Un tipo de tornillo.",
+      "d": "Una válvula."
     },
-    "correcta": "b",
+    "correcta": "a",
     "explicacion": ""
   },
   {
     "id": 73,
     "tema": "Tema 15",
-    "pregunta": "El uso de guantes en la limpieza:",
+    "pregunta": "¿Qué temperatura suele tener una mesa caliente?",
     "opciones": {
-      "a": "Está prohibido.",
-      "b": "Es obligatorio para proteger las manos de productos químicos.",
-      "c": "Solo si tienes frío.",
-      "d": "Solo para el jefe."
+      "a": "Menor de 0 °C.",
+      "b": "Menor de 100 °C.",
+      "c": "Mayor de 100 °C.",
+      "d": "Mayor de 1000 °C."
     },
     "correcta": "b",
     "explicacion": ""
@@ -12858,12 +12858,12 @@
   {
     "id": 74,
     "tema": "Tema 15",
-    "pregunta": "Un producto \"corrosivo\" puede:",
+    "pregunta": "¿Para qué se usa la mesa caliente?",
     "opciones": {
-      "a": "Dar buen olor.",
-      "b": "Destruir tejidos vivos y materiales al contacto.",
-      "c": "Beberse diluido.",
-      "d": "Usarse como champú."
+      "a": "Para elaborar platos calientes.",
+      "b": "Para elaborar platos fríos.",
+      "c": "Para mantener los platos calientes antes del servicio.",
+      "d": "Para mantener los platos fríos."
     },
     "correcta": "c",
     "explicacion": ""
@@ -12871,25 +12871,25 @@
   {
     "id": 75,
     "tema": "Tema 15",
-    "pregunta": "Las fichas de seguridad de los productos de limpieza deben estar:",
+    "pregunta": "¿Qué es una sartén abatible?",
     "opciones": {
-      "a": "En la oficina del director bajo llave.",
-      "b": "Accesibles para el personal que los utiliza.",
-      "c": "En la basura.",
-      "d": "No existen."
+      "a": "Un generador de calor.",
+      "b": "Un generador de frío.",
+      "c": "Un utensilio de cocina.",
+      "d": "Ninguna respuesta es correcta."
     },
-    "correcta": "b",
+    "correcta": "a",
     "explicacion": ""
   },
   {
     "id": 76,
     "tema": "Tema 15",
-    "pregunta": "¿Se pueden mezclar lejía y amoníaco?",
+    "pregunta": "¿Con qué fluido funciona el baño María?",
     "opciones": {
-      "a": "Sí, limpia mejor.",
-      "b": "No, produce gases tóxicos mortales.",
-      "c": "Solo si hay mucha ventilación.",
-      "d": "Sí, si se añade agua fría."
+      "a": "Con aceite.",
+      "b": "Con agua.",
+      "c": "Con gel.",
+      "d": "Las respuestas a) y b) son correctas."
     },
     "correcta": "b",
     "explicacion": ""
@@ -12897,25 +12897,25 @@
   {
     "id": 77,
     "tema": "Tema 15",
-    "pregunta": "El almacenamiento de productos de limpieza debe ser:",
+    "pregunta": "¿Qué ventajas presenta la cocción al baño María?",
     "opciones": {
-      "a": "Encima de los alimentos.",
-      "b": "En un local o armario separado y cerrado, lejos de los alimentos.",
-      "c": "En el mismo estante que el arroz.",
-      "d": "Al aire libre."
+      "a": "Evita la deshidratación.",
+      "b": "Respeta la estructura natural del alimento.",
+      "c": "Potencia los aromas y sabores.",
+      "d": "Todas las respuestas son correctas."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 78,
     "tema": "Tema 15",
-    "pregunta": "Si un pinche detecta que una máquina da calambres:",
+    "pregunta": "¿Qué otra ventaja presenta el baño María frente al horno?",
     "opciones": {
-      "a": "Sigue trabajando con cuidado.",
-      "b": "Desconecta la máquina e informa inmediatamente al responsable.",
-      "c": "Le echa agua para enfriarla.",
-      "d": "Se pone guantes de lana."
+      "a": "Reduce la vida de los alimentos.",
+      "b": "No garantiza la cocción exacta.",
+      "c": "El alimento tiene menos sabor.",
+      "d": "Asegura resultados más precisos que el aire del horno."
     },
     "correcta": "d",
     "explicacion": ""
@@ -12923,12 +12923,12 @@
   {
     "id": 79,
     "tema": "Tema 15",
-    "pregunta": "La ropa de trabajo sucia se guarda:",
+    "pregunta": "¿Cuál de estos utensilios sirve para cortar carne en trozos muy pequeños?",
     "opciones": {
-      "a": "Con la ropa limpia.",
-      "b": "En recipientes o bolsas separadas destinadas a lavandería.",
-      "c": "En la cocina.",
-      "d": "En el coche."
+      "a": "Moledora.",
+      "b": "Picadora.",
+      "c": "Batidora.",
+      "d": "Sorbetera."
     },
     "correcta": "b",
     "explicacion": ""
@@ -12936,38 +12936,38 @@
   {
     "id": 80,
     "tema": "Tema 15",
-    "pregunta": "El objetivo final de la limpieza y desinfección es:",
+    "pregunta": "¿Cómo se limpia la pequeña maquinaria en general?",
     "opciones": {
-      "a": "Que la cocina brille para las fotos.",
-      "b": "Garantizar la inocuidad de los alimentos y la salud de los consumidores.",
-      "c": "Gastar menos luz.",
-      "d": "Que el jefe esté contento."
+      "a": "Desmontando todas las partes que sea posible.",
+      "b": "Con agua y jabón, sin desmontar nada.",
+      "c": "Solo se limpiarán las partes desmontables.",
+      "d": "Son correctas las respuestas a) y c)."
     },
-    "correcta": "b",
+    "correcta": "a",
     "explicacion": ""
   },
   {
     "id": 81,
     "tema": "Tema 15",
-    "pregunta": "¿Cómo funciona el sistema de calentamiento en una marmita de vapor?",
+    "pregunta": "¿Qué equipo se conoce también como fouet?",
     "opciones": {
-      "a": "Fuego directo al fondo.",
-      "b": "Resistencias eléctricas sumergidas.",
-      "c": "Calentamiento por medio de un fluido térmico o vapor en camisa.",
-      "d": "Microondas."
+      "a": "Picadora.",
+      "b": "Batidora.",
+      "c": "Cortadora.",
+      "d": "Peladora."
     },
-    "correcta": "c",
+    "correcta": "b",
     "explicacion": ""
   },
   {
     "id": 82,
     "tema": "Tema 15",
-    "pregunta": "¿Qué tipo de combustible se utiliza en las parrillas de carbón industriales?",
+    "pregunta": "¿Para qué se utiliza la batidora?",
     "opciones": {
-      "a": "Gasolina.",
-      "b": "Madera de pino.",
-      "c": "Carbón vegetal (o mineral según el equipo).",
-      "d": "Alcohol."
+      "a": "Para moler y mezclar.",
+      "b": "Para trocear.",
+      "c": "Para crear masas, cremas y salsas.",
+      "d": "Todas las respuestas son correctas."
     },
     "correcta": "c",
     "explicacion": ""
@@ -12975,51 +12975,51 @@
   {
     "id": 83,
     "tema": "Tema 15",
-    "pregunta": "El sistema de calentamiento por microondas se basa en:",
+    "pregunta": "¿Cómo se limpian en la batidora las partes no desmontables?",
     "opciones": {
-      "a": "Ondas electromagnéticas que agitan las moléculas de agua.",
-      "b": "Aire caliente a presión.",
-      "c": "Fricción mecánica de los alimentos.",
-      "d": "Luz infrarroja."
-    },
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 84,
-    "tema": "Tema 15",
-    "pregunta": "Una característica de seguridad vital en el microondas es:",
-    "opciones": {
-      "a": "No introducir nunca recipientes metálicos.",
-      "b": "Dejar la puerta abierta.",
-      "c": "Usar papel de plata.",
-      "d": "Cocinar solo líquidos."
-    },
-    "correcta": "a",
-    "explicacion": ""
-  },
-  {
-    "id": 85,
-    "tema": "Tema 15",
-    "pregunta": "En una olla a presión, la seguridad se garantiza mediante:",
-    "opciones": {
-      "a": "Una tapa de cristal.",
-      "b": "Válvulas de seguridad y pesas de descarga.",
-      "c": "Un temporizador de cocina.",
-      "d": "Enfriarla con agua fría de golpe."
+      "a": "Con abundante agua y jabón.",
+      "b": "Con un paño humedecido en agua con disolución bactericida.",
+      "c": "Con aceite y sal.",
+      "d": "Con desinfectante puro."
     },
     "correcta": "b",
     "explicacion": ""
   },
   {
+    "id": 84,
+    "tema": "Tema 15",
+    "pregunta": "¿Qué aparato utilizaría para amasar galletas?",
+    "opciones": {
+      "a": "Batidora.",
+      "b": "Amasadora.",
+      "c": "Moledora.",
+      "d": "Afinadora."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 85,
+    "tema": "Tema 15",
+    "pregunta": "¿Cuál de las siguientes no es un tipo de amasadora?",
+    "opciones": {
+      "a": "De brazos.",
+      "b": "Basculante.",
+      "c": "Porta carros.",
+      "d": "De espirales."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
     "id": 86,
     "tema": "Tema 15",
-    "pregunta": "La capacidad de producción de una peladora de patatas se mide en:",
+    "pregunta": "¿De qué depende que el grano molido sea más o menos grueso?",
     "opciones": {
-      "a": "Kg por hora o carga.",
-      "b": "Metros por segundo.",
-      "c": "Litros de agua gastados.",
-      "d": "Número de pinches necesarios."
+      "a": "De la separación entre los rodillos en la moledora.",
+      "b": "Del grosor de la refinadora.",
+      "c": "De si se utiliza una moledora o amoladora.",
+      "d": "Ninguna respuesta es correcta."
     },
     "correcta": "a",
     "explicacion": ""
@@ -13027,129 +13027,129 @@
   {
     "id": 87,
     "tema": "Tema 15",
-    "pregunta": "¿Qué sistema de limpieza es el más adecuado para grandes marmitas fijas?",
+    "pregunta": "¿Qué tipo de alimento se puede trocear en la picadora?",
     "opciones": {
-      "a": "Lavavajillas manual.",
-      "b": "Manguera a presión.",
-      "c": "Sistemas de autolimpieza (CIP) o cepillado manual con vaciado por grifo.",
-      "d": "No se limpian por dentro."
+      "a": "Carne.",
+      "b": "Cebolla.",
+      "c": "Hortalizas en general.",
+      "d": "Todas las respuestas son correctas."
     },
-    "correcta": "c",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 88,
     "tema": "Tema 15",
-    "pregunta": "El equipo diseñado para dorar o gratinar la parte superior de los platos es:",
+    "pregunta": "¿Cómo quitan la piel las máquinas peladoras?",
     "opciones": {
-      "a": "El microondas.",
-      "b": "La freidora.",
-      "c": "La salamandra.",
-      "d": "El abatidor."
+      "a": "Por mojado.",
+      "b": "Por raspado contra las paredes.",
+      "c": "Con calor y presión.",
+      "d": "Todas las respuestas son correctas."
     },
-    "correcta": "c",
+    "correcta": "b",
     "explicacion": ""
   },
   {
     "id": 89,
     "tema": "Tema 15",
-    "pregunta": "En una plancha de asar, el exceso de grasa se recoge en:",
+    "pregunta": "¿Qué afirmación es correcta sobre la cortadora de pan?",
     "opciones": {
-      "a": "El suelo.",
-      "b": "Un trapo.",
-      "c": "Una canaleta o cajón recojegrasas frontal/lateral.",
-      "d": "Se deja quemar en la plancha."
+      "a": "Las hojas de sierra son fijas y no regulables.",
+      "b": "Se puede controlar el grosor del corte.",
+      "c": "Al realizar el corte el pan se desmigaja mucho.",
+      "d": "Todas las afirmaciones son correctas."
     },
-    "correcta": "c",
+    "correcta": "b",
     "explicacion": ""
   },
   {
     "id": 90,
     "tema": "Tema 15",
-    "pregunta": "¿Cómo se evita que la comida se pegue en una plancha de cromo duro?",
+    "pregunta": "¿Cómo se mueve la cuchilla de la cortadora de fiambre?",
     "opciones": {
-      "a": "Echando mucha sal.",
-      "b": "Manteniendo la temperatura constante y usando una fina capa de aceite.",
-      "c": "Limpiándola con lija.",
-      "d": "Enfriándola con hielo."
-    },
-    "correcta": "b",
-    "explicacion": ""
-  },
-  {
-    "id": 91,
-    "tema": "Tema 15",
-    "pregunta": "Los hornos de convección cocinan mediante:",
-    "opciones": {
-      "a": "Circulación forzada de aire caliente.",
-      "b": "Vapor de agua únicamente.",
-      "c": "Rayos láser.",
-      "d": "Carbón."
+      "a": "Girando.",
+      "b": "Descendiendo.",
+      "c": "Deslizando lateralmente.",
+      "d": "Son fijas."
     },
     "correcta": "a",
     "explicacion": ""
   },
   {
-    "id": 92,
+    "id": 91,
     "tema": "Tema 15",
-    "pregunta": "¿Qué ventaja tiene el horno mixto (convección + vapor)?",
+    "pregunta": "¿Cómo funciona la laminadora para pasta?",
     "opciones": {
-      "a": "Es más pequeño.",
-      "b": "Permite controlar la humedad y evita que el alimento se seque.",
-      "c": "Solo sirve para pan.",
-      "d": "Gasta más luz."
+      "a": "Se desliza y se rompe.",
+      "b": "La masa se desliza por rodillos y pasa por la línea de cuchillas.",
+      "c": "Se estira manualmente.",
+      "d": "Se desliza por rodillos que la alisa."
     },
     "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 92,
+    "tema": "Tema 15",
+    "pregunta": "¿Qué característica tienen las máquinas universales?",
+    "opciones": {
+      "a": "Se enchufan en cualquier voltaje.",
+      "b": "Se encuentran en cualquier parte del mundo.",
+      "c": "Tienen múltiples aplicaciones.",
+      "d": "Son muy baratas."
+    },
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 93,
     "tema": "Tema 15",
-    "pregunta": "Las cortadoras de fiambre deben limpiarse:",
+    "pregunta": "¿Qué factor es determinante en la elección de una báscula?",
     "opciones": {
-      "a": "Una vez a la semana.",
-      "b": "Después de cada uso o cambio de producto.",
-      "c": "Solo si están muy sucias.",
-      "d": "Sumergiéndolas enteras en agua."
+      "a": "El peso.",
+      "b": "El color.",
+      "c": "El tamaño de los números.",
+      "d": "El material."
     },
-    "correcta": "b",
+    "correcta": "a",
     "explicacion": ""
   },
   {
     "id": 94,
     "tema": "Tema 15",
-    "pregunta": "Para afilar los cuchillos de forma profesional se usa:",
+    "pregunta": "¿Para qué sirve la batidora de brazo industrial?",
     "opciones": {
-      "a": "Un tenedor.",
-      "b": "Una piedra de afilar o una chaira.",
-      "c": "El borde de la mesa.",
-      "d": "Una lija de pared."
+      "a": "Mezclar.",
+      "b": "Batir.",
+      "c": "Triturar.",
+      "d": "Respuestas a) y b) son correctas."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 95,
     "tema": "Tema 15",
-    "pregunta": "El \"carro caliente\" sirve para:",
+    "pregunta": "¿Qué desventaja tiene el sistema de cocina por inducción?",
     "opciones": {
-      "a": "Cocinar arroz.",
-      "b": "Transportar y mantener la comida a temperatura de servicio (>65ºC).",
-      "c": "Congelar postres.",
-      "d": "Lavar platos."
+      "a": "Elevada inversión económica inicial.",
+      "b": "Gasta mucha luz.",
+      "c": "Es muy lenta.",
+      "d": "Es peligrosa para la salud."
     },
-    "correcta": "b",
+    "correcta": "a",
     "explicacion": ""
   },
   {
     "id": 96,
     "tema": "Tema 15",
-    "pregunta": "El lavavajillas de \"capota\" es ideal para:",
+    "pregunta": "¿Para qué sirve el vaso medidor?",
     "opciones": {
-      "a": "Lavar camiones.",
-      "b": "Lavado intensivo de platos y bandejas en cocinas medianas.",
-      "c": "Lavar solo vasos de cristal fino.",
-      "d": "Cocinar al vapor."
+      "a": "Para beber agua.",
+      "b": "Para medir cantidades de líquidos.",
+      "c": "Para pesar harina.",
+      "d": "Para calentar leche."
     },
     "correcta": "b",
     "explicacion": ""
@@ -13157,25 +13157,25 @@
   {
     "id": 97,
     "tema": "Tema 15",
-    "pregunta": "¿Cuál es el pH de un desengrasante potente?",
+    "pregunta": "¿Cuántas velocidades puede tener una batidora profesional?",
     "opciones": {
-      "a": "Ácido (pH 2).",
-      "b": "Neutro (pH 7).",
-      "c": "Alcalino (pH > 10).",
-      "d": "No tiene pH."
+      "a": "1.",
+      "b": "10.",
+      "c": "Solo rápida.",
+      "d": "Puede tener 2 o 3."
     },
-    "correcta": "c",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 98,
     "tema": "Tema 15",
-    "pregunta": "Para eliminar la cal de las máquinas se usa un producto:",
+    "pregunta": "¿Cuál es el colador más fino?",
     "opciones": {
-      "a": "Jabonoso.",
-      "b": "Ácido (desincrustante).",
-      "c": "Aceitoso.",
-      "d": "Agua sola."
+      "a": "Chino.",
+      "b": "Escurridor.",
+      "c": "Colador de té.",
+      "d": "Tamiz."
     },
     "correcta": "b",
     "explicacion": ""
@@ -13183,38 +13183,38 @@
   {
     "id": 99,
     "tema": "Tema 15",
-    "pregunta": "¿A qué temperatura debe estar el agua de lavado (no aclarado) en el túnel?",
+    "pregunta": "¿Qué utensilios se usan para la limpieza manual?",
     "opciones": {
-      "a": "20ºC.",
-      "b": "Entre 55ºC y 65ºC.",
-      "c": "100ºC.",
-      "d": "0ºC."
-    },
-    "correcta": "b",
-    "explicacion": ""
-  },
-  {
-    "id": 100,
-    "tema": "Tema 15",
-    "pregunta": "El aclarado final de la vajilla se realiza a 82ºC para:",
-    "opciones": {
-      "a": "Que los platos brillen.",
-      "b": "Que se sequen antes.",
-      "c": "Garantizar la desinfección térmica de los gérmenes.",
-      "d": "Quitar el sabor al jabón."
+      "a": "Estropajos.",
+      "b": "Bayetas.",
+      "c": "Cepillos.",
+      "d": "Todas las respuestas anteriores son correctas."
     },
     "correcta": "c",
     "explicacion": ""
   },
   {
+    "id": 100,
+    "tema": "Tema 15",
+    "pregunta": "¿Qué equipo es un generador de calor?",
+    "opciones": {
+      "a": "Un generador de calor.",
+      "b": "Cámara frigorífica.",
+      "c": "Lavavajillas.",
+      "d": "Balanza."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
     "id": 101,
     "tema": "Tema 15",
-    "pregunta": "¿Qué es el \"pérdida de carga\" en un filtro de campana?",
+    "pregunta": "¿Cómo se desinfecta un termómetro de sonda?",
     "opciones": {
-      "a": "Que se rompe el cable.",
-      "b": "La resistencia que ofrece el filtro sucio al paso del aire.",
-      "c": "Que el motor gasta menos.",
-      "d": "El peso del filtro."
+      "a": "Con agua sola.",
+      "b": "Con agua.  (Nota: según el test se especifica lavado con agua/alcohol).",
+      "c": "Con aceite.",
+      "d": "Esterilizando."
     },
     "correcta": "b",
     "explicacion": ""
@@ -13222,38 +13222,38 @@
   {
     "id": 102,
     "tema": "Tema 15",
-    "pregunta": "Los detergentes tensioactivos sirven para:",
+    "pregunta": "Sobre la desinfección de maquinaria, es cierto que:",
     "opciones": {
-      "a": "Dar color al agua.",
-      "b": "Disminuir la tensión superficial del agua y penetrar en la suciedad.",
-      "c": "Que el agua hierva antes.",
-      "d": "Matar insectos únicamente."
+      "a": "Se hace cada mes.",
+      "b": "Solo el exterior.",
+      "c": "Con las manos mojadas.",
+      "d": "Todas las respuestas son correctas."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 103,
     "tema": "Tema 15",
-    "pregunta": "¿Qué significa el pictograma de una calavera en un bote?",
+    "pregunta": "¿Qué ventaja tiene el horno mixto?",
     "opciones": {
-      "a": "Producto inflamable.",
-      "b": "Producto tóxico o muy tóxico.",
-      "c": "Producto para limpiar huesos.",
-      "d": "Producto caducado."
+      "a": "Es más rápido.",
+      "b": "No quema.",
+      "c": "Es muy pequeño.",
+      "d": "Resultados más precisos que en un horno de convección de aire."
     },
-    "correcta": "b",
+    "correcta": "d",
     "explicacion": ""
   },
   {
     "id": 104,
     "tema": "Tema 15",
-    "pregunta": "Un producto \"comburente\" es aquel que:",
+    "pregunta": "¿Qué aparato sirve para picar?",
     "opciones": {
-      "a": "Se quema solo.",
-      "b": "Facilita la combustión de otras sustancias.",
-      "c": "No se puede mojar.",
-      "d": "Es comestible."
+      "a": "Batidora.",
+      "b": "Picadora.",
+      "c": "Peladora.",
+      "d": "Hornilla."
     },
     "correcta": "b",
     "explicacion": ""
@@ -13261,25 +13261,25 @@
   {
     "id": 105,
     "tema": "Tema 15",
-    "pregunta": "Las estropajos de acero inoxidable son recomendables para:",
+    "pregunta": "¿Cómo se limpia la picadora de carne?",
     "opciones": {
-      "a": "Limpiar teflón.",
-      "b": "Limpiar suciedad incrustada en acero o hierro (no superficies delicadas).",
-      "c": "Limpiar la cara.",
-      "d": "No se deben usar nunca."
+      "a": "Desmontando todas las partes que sea posible.",
+      "b": "Sin desmontar.",
+      "c": "Solo por fuera.",
+      "d": "Con manguera."
     },
-    "correcta": "b",
+    "correcta": "a",
     "explicacion": ""
   },
   {
     "id": 106,
     "tema": "Tema 15",
-    "pregunta": "¿Cómo se desinfecta un termómetro de sonda después de cada uso?",
+    "pregunta": "¿Qué aparato sirve para batir?",
     "opciones": {
-      "a": "Con un trapo seco.",
-      "b": "Con una toallita desinfectante con alcohol o solución clorada.",
-      "c": "Soplando fuerte.",
-      "d": "No hace falta limpiarlo si la comida estaba caliente."
+      "a": "Picadora.",
+      "b": "Batidora.",
+      "c": "Horno.",
+      "d": "Mesa."
     },
     "correcta": "b",
     "explicacion": ""
@@ -13287,25 +13287,25 @@
   {
     "id": 107,
     "tema": "Tema 15",
-    "pregunta": "¿Qué es el \"biofilm\"?",
+    "pregunta": "¿Para qué sirve la amasadora?",
     "opciones": {
-      "a": "Una película de cine sobre bacterias.",
-      "b": "Una capa de microorganismos adherida a una superficie, muy difícil de quitar.",
-      "c": "Un tipo de plástico para envolver.",
-      "d": "El uniforme del pinche."
+      "a": "Pelar.",
+      "b": "Asar.",
+      "c": "Para crear masas, cremas y salsas.",
+      "d": "Pesar."
     },
-    "correcta": "b",
+    "correcta": "c",
     "explicacion": ""
   },
   {
     "id": 108,
     "tema": "Tema 15",
-    "pregunta": "La limpieza de suelos en cocina debe ser:",
+    "pregunta": "¿Cómo se limpia la amasadora por fuera?",
     "opciones": {
-      "a": "Siempre en seco.",
-      "b": "En húmedo con productos detergentes y desinfectantes.",
-      "c": "Una vez al mes.",
-      "d": "Con arena de playa."
+      "a": "Con manguera.",
+      "b": "Con un paño humedecido en agua con disolución bactericida.",
+      "c": "Con lejía pura.",
+      "d": "No se limpia."
     },
     "correcta": "b",
     "explicacion": ""
@@ -13313,12 +13313,12 @@
   {
     "id": 109,
     "tema": "Tema 15",
-    "pregunta": "El orden correcto de limpieza es:",
+    "pregunta": "¿Qué aparato sirve para amasar?",
     "opciones": {
-      "a": "Desinfectar y luego limpiar.",
-      "b": "Limpiar (quitar suciedad visible) y luego desinfectar (matar microbios).",
-      "c": "Solo desinfectar.",
-      "d": "Solo barrer."
+      "a": "Batidora.",
+      "b": "Amasadora.",
+      "c": "Picadora.",
+      "d": "Peladora."
     },
     "correcta": "b",
     "explicacion": ""
@@ -13326,14 +13326,924 @@
   {
     "id": 110,
     "tema": "Tema 15",
-    "pregunta": "El cloro (lejía) pierde su eficacia si el agua está:",
+    "pregunta": "¿Qué aparato sirve para transportar carros?",
     "opciones": {
-      "a": "Muy fría.",
-      "b": "Muy caliente (se evapora el gas cloro) o muy sucia.",
-      "c": "Transparente.",
-      "d": "En un cubo de plástico."
+      "a": "Horno.",
+      "b": "Picadora.",
+      "c": "Porta carros.",
+      "d": "Cuchillo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 111,
+    "tema": "Tema 15",
+    "pregunta": "El grano molido depende de:",
+    "opciones": {
+      "a": "La separación entre rodillos.",
+      "b": "La velocidad.",
+      "c": "La temperatura.",
+      "d": "La luz."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 112,
+    "tema": "Tema 15",
+    "pregunta": "Sobre la peladora de patatas:",
+    "opciones": {
+      "a": "Es lenta.",
+      "b": "Es peligrosa.",
+      "c": "Quema.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 113,
+    "tema": "Tema 15",
+    "pregunta": "Las máquinas peladoras quitan la piel:",
+    "opciones": {
+      "a": "Por calor.",
+      "b": "Por raspado contra las paredes.",
+      "c": "Con agua.",
+      "d": "Manualmente."
     },
     "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 114,
+    "tema": "Tema 15",
+    "pregunta": "Sobre la cortadora de pan:",
+    "opciones": {
+      "a": "Es manual.",
+      "b": "Se puede controlar el grosor del corte.",
+      "c": "No sirve para pan.",
+      "d": "Es de madera."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 115,
+    "tema": "Tema 15",
+    "pregunta": "La cuchilla de la cortadora de fiambre se mueve:",
+    "opciones": {
+      "a": "Girando.",
+      "b": "De arriba a abajo.",
+      "c": "No se mueve.",
+      "d": "Salta."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 116,
+    "tema": "Tema 15",
+    "pregunta": "La laminadora de pasta funciona:",
+    "opciones": {
+      "a": "Calentando.",
+      "b": "La masa se desliza por rodillos y pasa por cuchillas.",
+      "c": "Por presión.",
+      "d": "Al aire."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 117,
+    "tema": "Tema 15",
+    "pregunta": "Las máquinas universales:",
+    "opciones": {
+      "a": "Son iguales.",
+      "b": "Son pequeñas.",
+      "c": "Tienen múltiples aplicaciones.",
+      "d": "No sirven para nada."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 118,
+    "tema": "Tema 15",
+    "pregunta": "Lo más importante de una báscula es:",
+    "opciones": {
+      "a": "El peso.",
+      "b": "El color.",
+      "c": "La marca.",
+      "d": "El cristal."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 119,
+    "tema": "Tema 15",
+    "pregunta": "La batidora de brazo industrial sirve para:",
+    "opciones": {
+      "a": "Cocinar.",
+      "b": "Respuestas a) y b) son correctas (Batir/Mezclar).",
+      "c": "Limpiar.",
+      "d": "Asar."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 120,
+    "tema": "Tema 15",
+    "pregunta": "La inducción es:",
+    "opciones": {
+      "a": "Barata.",
+      "b": "Una elevada inversión económica inicial.",
+      "c": "De gas.",
+      "d": "De leña."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 121,
+    "tema": "Tema 15",
+    "pregunta": "El vaso medidor sirve para:",
+    "opciones": {
+      "a": "Pesar.",
+      "b": "Medir cantidades de líquidos.",
+      "c": "Beber.",
+      "d": "Batir."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 122,
+    "tema": "Tema 15",
+    "pregunta": "La batidora profesional tiene:",
+    "opciones": {
+      "a": "1 velocidad.",
+      "b": "Puede tener 2 o 3.",
+      "c": "100 velocidades.",
+      "d": "Ninguna."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 123,
+    "tema": "Tema 15",
+    "pregunta": "El colador más pequeño es el:",
+    "opciones": {
+      "a": "Chino.",
+      "b": "Colador de té.",
+      "c": "Escurridor.",
+      "d": "Filtro."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 124,
+    "tema": "Tema 15",
+    "pregunta": "Para la limpieza manual se usan:",
+    "opciones": {
+      "a": "Todas las respuestas anteriores son correctas (Estropajos/Bayetas/Cepillos).",
+      "b": "Máquinas.",
+      "c": "Agua sola.",
+      "d": "Trapos."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 125,
+    "tema": "Tema 15",
+    "pregunta": "La puntilla tiene una hoja de:",
+    "opciones": {
+      "a": "Entre 8 y 10 cm.",
+      "b": "2 metros.",
+      "c": "50 cm.",
+      "d": "No tiene hoja."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 126,
+    "tema": "Tema 15",
+    "pregunta": "El cuchillo cebollero sirve para:",
+    "opciones": {
+      "a": "Pelar.",
+      "b": "Picar y trocear.",
+      "c": "Abrir latas.",
+      "d": "Cortar pan."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 127,
+    "tema": "Tema 15",
+    "pregunta": "El cuchillo de medio golpe es para:",
+    "opciones": {
+      "a": "Pan.",
+      "b": "Queso.",
+      "c": "Todos los anteriores (Carnes/Verduras).",
+      "d": "Ajos."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 128,
+    "tema": "Tema 15",
+    "pregunta": "La cuerda de cocina se llama:",
+    "opciones": {
+      "a": "Bramante.",
+      "b": "Hilo dental.",
+      "c": "Cable.",
+      "d": "Soga."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 129,
+    "tema": "Tema 15",
+    "pregunta": "Los cuchillos de sierra son para:",
+    "opciones": {
+      "a": "Carne.",
+      "b": "Pescado.",
+      "c": "Respuestas a) y b) son correctas.",
+      "d": "Pan."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 130,
+    "tema": "Tema 15",
+    "pregunta": "La chaira sirve para:",
+    "opciones": {
+      "a": "Cortar.",
+      "b": "Reafilar o suavizar el cuchillo.",
+      "c": "Limpiar.",
+      "d": "Adornar."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 131,
+    "tema": "Tema 15",
+    "pregunta": "Para aplastar filetes se usa:",
+    "opciones": {
+      "a": "El mazo.",
+      "b": "El rodillo.",
+      "c": "El martillo.",
+      "d": "La espalmadera."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 132,
+    "tema": "Tema 15",
+    "pregunta": "Para colar caldos grandes se usa:",
+    "opciones": {
+      "a": "Chino.",
+      "b": "Colador de acero inoxidable.",
+      "c": "Papel.",
+      "d": "Trapo."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 133,
+    "tema": "Tema 15",
+    "pregunta": "Para machacar especias se usa el:",
+    "opciones": {
+      "a": "Rodillo.",
+      "b": "Almirez.",
+      "c": "Cazo.",
+      "d": "Chino."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 134,
+    "tema": "Tema 15",
+    "pregunta": "Para rallar queso se usa el:",
+    "opciones": {
+      "a": "Cuchillo.",
+      "b": "Rallador múltiple.",
+      "c": "Tenazas.",
+      "d": "Chino."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 135,
+    "tema": "Tema 15",
+    "pregunta": "Para tamizar harina se usa el:",
+    "opciones": {
+      "a": "Chino.",
+      "b": "Tamiz.",
+      "c": "Cubo.",
+      "d": "Plato."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 136,
+    "tema": "Tema 15",
+    "pregunta": "Lo más importante de un cuchillo es el:",
+    "opciones": {
+      "a": "Color.",
+      "b": "Equilibrio.",
+      "c": "Precio.",
+      "d": "Estuche."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 137,
+    "tema": "Tema 15",
+    "pregunta": "El cuchillo más pequeño es la:",
+    "opciones": {
+      "a": "Macheta.",
+      "b": "Puntilla.",
+      "c": "Hacha.",
+      "d": "Espada."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 138,
+    "tema": "Tema 15",
+    "pregunta": "Sobre las tablas de corte:",
+    "opciones": {
+      "a": "Son de madera.",
+      "b": "Son de hierro.",
+      "c": "Ciertas respuestas b) y c) (Colores por alimentos).",
+      "d": "No se usan."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 139,
+    "tema": "Tema 15",
+    "pregunta": "Para picar se usa el:",
+    "opciones": {
+      "a": "Cuchillo de medio golpe.",
+      "b": "Cuchillo de pan.",
+      "c": "Pelapatatas.",
+      "d": "Chino."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 140,
+    "tema": "Tema 15",
+    "pregunta": "Para mechar carne se usa la:",
+    "opciones": {
+      "a": "Aguja de coser.",
+      "b": "Aguja mechadora.",
+      "c": "Tijera.",
+      "d": "Cuchara."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 141,
+    "tema": "Tema 15",
+    "pregunta": "Las marmitas se limpian:",
+    "opciones": {
+      "a": "Con productos desincrustantes.",
+      "b": "Con barro.",
+      "c": "Con aceite.",
+      "d": "No se limpian."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 142,
+    "tema": "Tema 15",
+    "pregunta": "La maquinaria se limpia:",
+    "opciones": {
+      "a": "Una vez al año.",
+      "b": "Cada vez que se utilice.",
+      "c": "Cuando esté negra.",
+      "d": "Solo los lunes."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 143,
+    "tema": "Tema 15",
+    "pregunta": "La pequeña maquinaria se limpia con:",
+    "opciones": {
+      "a": "Lejía pura.",
+      "b": "Agua jabonosa.",
+      "c": "Arena.",
+      "d": "Gasolina."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 144,
+    "tema": "Tema 15",
+    "pregunta": "No se meten en el lavavajillas:",
+    "opciones": {
+      "a": "Las marmitas y rustideras fijas.",
+      "b": "Los platos.",
+      "c": "Los vasos.",
+      "d": "Los tenedores."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 145,
+    "tema": "Tema 15",
+    "pregunta": "El bloque de cocción se refiere:",
+    "opciones": {
+      "a": "A la pared.",
+      "b": "Al suelo.",
+      "c": "Al módulo donde se genera el calor.",
+      "d": "Al almacén."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 146,
+    "tema": "Tema 15",
+    "pregunta": "Sobre los productos de limpieza:",
+    "opciones": {
+      "a": "Son seguros.",
+      "b": "Se pueden beber.",
+      "c": "Solo contaminarán si entran en contacto.",
+      "d": "Huelen bien."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 147,
+    "tema": "Tema 15",
+    "pregunta": "Los limpiadores de suelos son:",
+    "opciones": {
+      "a": "Jabones.",
+      "b": "Ácidos.",
+      "c": "Pavimentadores.",
+      "d": "Gas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 148,
+    "tema": "Tema 15",
+    "pregunta": "El hipoclorito es:",
+    "opciones": {
+      "a": "Un desinfectante derivado del cloro.",
+      "b": "Sal.",
+      "c": "Aceite.",
+      "d": "Azúcar."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 149,
+    "tema": "Tema 15",
+    "pregunta": "La limpieza sirve para:",
+    "opciones": {
+      "a": "Gastar tiempo.",
+      "b": "Determinar el aspecto del producto acabado.",
+      "c": "Ensuciar más.",
+      "d": "Pintar la cocina."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 150,
+    "tema": "Tema 15",
+    "pregunta": "Sobre la maquinaria pesada:",
+    "opciones": {
+      "a": "No se limpia.",
+      "b": "Todas (deben limpiarse tras uso).",
+      "c": "Es de madera.",
+      "d": "Se tira si se ensucia."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 151,
+    "tema": "Tema 15",
+    "pregunta": "No se deben mezclar:",
+    "opciones": {
+      "a": "Agua y jabón.",
+      "b": "Tensioactivos aniónicos con catiónicos.",
+      "c": "Aceite y vinagre.",
+      "d": "Sal y azúcar."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 152,
+    "tema": "Tema 15",
+    "pregunta": "Sobre la desinfección química:",
+    "opciones": {
+      "a": "Es instantánea.",
+      "b": "Su acción es de larga duración.",
+      "c": "Es inútil.",
+      "d": "Huele a fresa."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 153,
+    "tema": "Tema 15",
+    "pregunta": "La primera fase de limpieza es el:",
+    "opciones": {
+      "a": "Lavado.",
+      "b": "Aclarado.",
+      "c": "Secado.",
+      "d": "Barnizado."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 154,
+    "tema": "Tema 15",
+    "pregunta": "Sobre los detergentes:",
+    "opciones": {
+      "a": "Limpian poco.",
+      "b": "Son caros.",
+      "c": "No mojan.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 155,
+    "tema": "Tema 15",
+    "pregunta": "La \"plonge\" es:",
+    "opciones": {
+      "a": "Un salto.",
+      "b": "Lugar donde se lavan marmitas y elementos móviles.",
+      "c": "Un cuchillo.",
+      "d": "Un postre."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 156,
+    "tema": "Tema 15",
+    "pregunta": "Se limpia mejor:",
+    "opciones": {
+      "a": "Con agua fría.",
+      "b": "Mejorando la acción química.",
+      "c": "En la oscuridad.",
+      "d": "Con un cepillo de dientes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 157,
+    "tema": "Tema 15",
+    "pregunta": "Un desengrasante suele ser:",
+    "opciones": {
+      "a": "Ácido.",
+      "b": "Neutro.",
+      "c": "Alcalino.",
+      "d": "Sólido."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 158,
+    "tema": "Tema 15",
+    "pregunta": "Los tensioactivos más comunes son:",
+    "opciones": {
+      "a": "Iónicos.",
+      "b": "No iónicos.",
+      "c": "Metálicos.",
+      "d": "De madera."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 159,
+    "tema": "Tema 15",
+    "pregunta": "Sobre la lejía:",
+    "opciones": {
+      "a": "Es muy estable.",
+      "b": "No quema.",
+      "c": "Es un gas.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 160,
+    "tema": "Tema 15",
+    "pregunta": "Para cortar huesos se usa la:",
+    "opciones": {
+      "a": "Sierra.",
+      "b": "Tijera.",
+      "c": "Navaja.",
+      "d": "Macheta (para cortar huesos duros)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 161,
+    "tema": "Tema 15",
+    "pregunta": "Sobre las frases de peligro:",
+    "opciones": {
+      "a": "Las indicaciones (H) corresponden a las antiguas frases R.",
+      "b": "Son canciones.",
+      "c": "No sirven.",
+      "d": "Son colores."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 162,
+    "tema": "Tema 15",
+    "pregunta": "Los productos que destruyen tejidos son:",
+    "opciones": {
+      "a": "Irritantes.",
+      "b": "Dulces.",
+      "c": "Corrosivos.",
+      "d": "Gaseosos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 163,
+    "tema": "Tema 15",
+    "pregunta": "Sobre los envases de limpieza:",
+    "opciones": {
+      "a": "Se dejan abiertos.",
+      "b": "Se tiran al río.",
+      "c": "Se usan para beber.",
+      "d": "Las respuestas a) y b) son correctas (Estado/Cerrados)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 164,
+    "tema": "Tema 15",
+    "pregunta": "Sobre el plan de residuos:",
+    "opciones": {
+      "a": "Solo sólidos.",
+      "b": "Solo líquidos.",
+      "c": "No hay plan.",
+      "d": "Todas las respuestas son ciertas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 165,
+    "tema": "Tema 15",
+    "pregunta": "La reglamentación de detergentes es de:",
+    "opciones": {
+      "a": "1900.",
+      "b": "2050.",
+      "c": "1999.",
+      "d": "Ayer."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 166,
+    "tema": "Tema 15",
+    "pregunta": "Los agentes tensioactivos son:",
+    "opciones": {
+      "a": "Iónicos, no iónicos o anfóteros.",
+      "b": "Solo rojos.",
+      "c": "Solo líquidos.",
+      "d": "Inútiles."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 167,
+    "tema": "Tema 15",
+    "pregunta": "El producto para dar volumen al detergente es la:",
+    "opciones": {
+      "a": "Burbuja.",
+      "b": "Espuma.",
+      "c": "Carga.",
+      "d": "Pesada."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 168,
+    "tema": "Tema 15",
+    "pregunta": "Al mezclar lejía sale gas:",
+    "opciones": {
+      "a": "Oxígeno.",
+      "b": "Helio.",
+      "c": "Cloro.",
+      "d": "Neón."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 169,
+    "tema": "Tema 15",
+    "pregunta": "El componente activo de la lejía es:",
+    "opciones": {
+      "a": "Sal común.",
+      "b": "Vinagre.",
+      "c": "Hipoclorito sódico.",
+      "d": "Jabón."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 170,
+    "tema": "Tema 15",
+    "pregunta": "El producto de limpieza se recoge en:",
+    "opciones": {
+      "a": "El frigorífico.",
+      "b": "Al almacén para productos de limpieza.",
+      "c": "El vestuario.",
+      "d": "El comedor."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 171,
+    "tema": "Tema 15",
+    "pregunta": "Si ves una botella sin etiqueta:",
+    "opciones": {
+      "a": "Huele para saber qué es.",
+      "b": "Úsala.",
+      "c": "Tírala a la comida.",
+      "d": "Comunícalo al encargado para su retirada."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 172,
+    "tema": "Tema 15",
+    "pregunta": "En los detergentes siempre figuran las:",
+    "opciones": {
+      "a": "Fotos de flores.",
+      "b": "Enzimas.",
+      "c": "Vitaminas.",
+      "d": "Calorías."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 173,
+    "tema": "Tema 15",
+    "pregunta": "El etiquetado peligroso:",
+    "opciones": {
+      "a": "Deberá cumplir el Reglamento vigente.",
+      "b": "Es opcional.",
+      "c": "Es secreto.",
+      "d": "No existe."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 174,
+    "tema": "Tema 15",
+    "pregunta": "El pictograma de peligro es un:",
+    "opciones": {
+      "a": "Círculo.",
+      "b": "Cuadrado apoyado sobre un vértice (rombo).",
+      "c": "Triángulo.",
+      "d": "Corazón."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 175,
+    "tema": "Tema 15",
+    "pregunta": "La cantidad de limpiador será:",
+    "opciones": {
+      "a": "A ojo.",
+      "b": "La que recomiende el fabricante.",
+      "c": "Todo el bote.",
+      "d": "Ninguna."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 176,
+    "tema": "Tema 15",
+    "pregunta": "La sal en el lavavajillas sirve para:",
+    "opciones": {
+      "a": "Dar sabor.",
+      "b": "Que funcione el sistema de descalcificación.",
+      "c": "Matar moscas.",
+      "d": "Calentar el agua."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 177,
+    "tema": "Tema 15",
+    "pregunta": "El agua de aclarado estará a:",
+    "opciones": {
+      "a": "20 °C.",
+      "b": "82 °C.",
+      "c": "200 °C.",
+      "d": "0 °C."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 178,
+    "tema": "Tema 15",
+    "pregunta": "Las partes desmontables se limpian:",
+    "opciones": {
+      "a": "Sumergiéndolas en agua.",
+      "b": "En seco.",
+      "c": "Con aire.",
+      "d": "Con arena."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 179,
+    "tema": "Tema 15",
+    "pregunta": "La plancha se limpia:",
+    "opciones": {
+      "a": "Cada año.",
+      "b": "Respuestas a) y b) son correctas (Inicio/Tras uso).",
+      "c": "Con un trapo sucio.",
+      "d": "Con azúcar."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 180,
+    "tema": "Tema 15",
+    "pregunta": "No es toxicidad aguda si los efectos salen:",
+    "opciones": {
+      "a": "Al momento.",
+      "b": "Tras 10 a 20 dosis por vía cutánea.",
+      "c": "Al día.",
+      "d": "A la hora."
+    },
+    "correcta": "d",
     "explicacion": ""
   },
   {

@@ -5309,6 +5309,7 @@ d) Sí, si no huele mal.
 
 Solución: c
 
+
 Test n.º 15: Maquinaria y Herramientas de Cocina (1-80)
 1. ¿Cuál de estos utensilios sirve para la elaboración de pescado?
 
@@ -5318,14 +5319,13 @@ b) Lubinera.
 
 c) Besuguera.
 
-d) Todas las anteriores tienen esa utilidad.
+d) Todas las anteriores tienen esa utilidad. 
 
-
-Solución: d 
+Solución: d
 
 2. ¿Cómo se utilizan los moldes de repostería?
 
-a) Para hornear el postre.
+a) Para hornear el postre. 
 
 b) Para preparar la masa.
 
@@ -5333,8 +5333,7 @@ c) Para dar forma una vez terminada la elaboración.
 
 d) Ninguna respuesta es correcta.
 
-
-Solución: a 
+Solución: a
 
 3. ¿Qué ventajas tiene el acero inoxidable?
 
@@ -5344,40 +5343,37 @@ b) Fácil limpieza.
 
 c) Buen conductor del calor.
 
-d) Las respuestas a) y b) son correctas.
+d) Las respuestas a) y b) son correctas. 
 
-
-Solución: d 
+Solución: d
 
 4. ¿Cómo se mejora la conducción de un utensilio de acero inoxidable?
 
 a) Con mayor porcentaje de níquel.
 
-b) Con un fondo difusor compuesto de láminas de cobre y aluminio.
+b) Con un fondo difusor compuesto de láminas de cobre y aluminio. 
 
 c) Con un fondo de cobre.
 
-d) Por sí mismo es muy buen conductor.
+d) Por sí mismo el acero inoxidable es muy buen conductor.
 
+Solución: b
 
-Solución: b 
-
-5. ¿Qué es FALSO sobre el aluminio?
+5. ¿Qué es falso sobre el aluminio?
 
 a) Buen conductor.
 
 b) Ligero y blando.
 
-c) Gran resistencia que lo hace ideal para batir. (Es falso, se raya y suelta partículas).
+c) Gran resistencia que lo hace ideal para batir. 
 
 d) Es un material alterable.
 
+Solución: c
 
-Solución: c 
+6. ¿Cuál es el material más utilizado para las sartenes?
 
-6. ¿Cuál es el material más utilizado para las sartenes (especialmente las profesionales)?
-
-a) Acero negro.
+a) Acero negro. 
 
 b) Acero estañado.
 
@@ -5385,49 +5381,45 @@ c) Aluminio.
 
 d) Cobre.
 
-
-Solución: a 
+Solución: a
 
 7. ¿Para qué se utiliza la marmita?
 
 a) Para elaborar asados.
 
-b) Para elaborar fondos.
+b) Para elaborar fondos. 
 
 c) Para cocciones al vacío.
 
 d) Todas las respuestas son correctas.
 
-
-Solución: b 
+Solución: b
 
 8. ¿Cómo se limpia una marmita?
 
 a) En lavavajillas.
 
-b) Con estropajo de fibra y detergente.
+b) Con estropajo de fibra y detergente. 
 
 c) Con estropajo de esparto y lejía.
 
 d) Con bayeta suave y desinfectante.
 
-
-Solución: b 
+Solución: b
 
 9. ¿Qué capacidad media tiene un cazo alto con mango?
 
-a) De 2 a 6 litros.
+a) De 2 a 6 litros. 
 
 b) De 10 a 15 litros.
 
 c) 50 litros como máximo.
 
-d) Capacidad mínima de 20 litros.
+d) Tiene capacidad mínima de 20 litros.
 
+Solución: a
 
-Solución: a 
-
-10. ¿Cuál de los siguientes utensilios se utilizan para asar alimentos?
+10. ¿Cuál de los siguientes utensilios de cocina se utilizan para asar alimentos?
 
 a) Marmita.
 
@@ -5435,10 +5427,9 @@ b) Cazo.
 
 c) Rondón.
 
-d) Rustidera.
+d) Rustidera. 
 
-
-Solución: d 
+Solución: d
 
 11. ¿Qué forma tiene la besuguera?
 
@@ -5446,16 +5437,15 @@ a) Redonda.
 
 b) Cuadrada.
 
-c) Ovalada.
+c) Ovalada. 
 
 d) Triangular.
 
+Solución: c
 
-Solución: c 
+12. ¿Cuál de los siguientes términos corresponde a una sartén profunda con dos asas?
 
-12. ¿Qué término corresponde a una sartén profunda con dos asas?
-
-a) Perol de asas.
+a) Perol de asas. 
 
 b) Sartén con mango.
 
@@ -5463,25 +5453,23 @@ c) Turbotera.
 
 d) Rustidera.
 
-
-Solución: a 
+Solución: a
 
 13. ¿Cómo se puede evitar que salga moho en la paellera que no se usa?
 
 a) Pulverizando vinagre.
 
-b) Mojándola.
+b) Mojando.
 
 c) Secando bien y cubriendo con papel.
 
-d) Engrasando.
+d) Engrasando. 
 
+Solución: d
 
-Solución: d 
+14. ¿Cuál de los siguientes moldes no es redondo?
 
-14. ¿Cuál de los siguientes moldes NO es redondo?
-
-a) Pudding. (Suelen ser alargados/rectangulares).
+a) Pudding. 
 
 b) Magdalenas.
 
@@ -5489,25 +5477,23 @@ c) Brioches.
 
 d) Bizcocho.
 
+Solución: a
 
-Solución: a 
-
-15. ¿Cuál de los siguientes moldes tiene tapa?
+15. ¿Cuál de los siguientes moldes tienen tapa?
 
 a) Gelatina.
 
-b) Tarta helada. (O moldes específicos de helado con cierre).
+b) Tarta helada. 
 
-c) Pudding.
+c) Puding.
 
 d) Bizcocho.
 
-
-Solución: b  (Nota: se refiere a moldes de cierre hermético).
+Solución: b
 
 16. ¿Qué característica tiene el molde de pan de miga?
 
-a) La masa fermenta dentro.
+a) La masa fermenta dentro. 
 
 b) No tiene tapa.
 
@@ -5515,103 +5501,95 @@ c) Es de plástico.
 
 d) Todas las respuestas son correctas.
 
+Solución: a
 
-Solución: a 
+17. La Sautese es utilizada para:
 
-17. La Sautese (sautoir) es utilizada para:
+a) Saltear, rehogar y estofar géneros. 
 
-a) Saltear, rehogar y estofar géneros.
-
-b) Confeccionar salsas y cremas únicamente.
+b) Confeccionar salsas y cremas.
 
 c) Asar grandes piezas de carne.
 
 d) Presentar pescados.
 
-
-Solución: a 
+Solución: a
 
 18. ¿Qué diferencia hay entre una marmita y un rondón?
 
 a) Tienen diferente forma.
 
-b) El rondón es más bajo.
+b) El rondón es más bajo. 
 
 c) La marmita tiene dos asas y el rondón una.
 
 d) No hay apenas diferencias.
 
-
-Solución: b 
+Solución: b
 
 19. ¿Para qué se utiliza la cazuela de barro?
 
-a) Para elaborar asados en horno.
+a) Se utiliza mucho para elaborar asados en horno.
 
-b) Para sopa castellana.
+b) Para hacer la sopa castellana.
 
-c) Para marmitako.
+c) Para hacer marmitako.
 
-d) Todas son correctas.
+d) Todas son correctas. 
 
-
-Solución: d 
+Solución: d
 
 20. ¿Qué herramienta se utiliza para estirar masas?
 
 a) Tamiz.
 
-b) Rodillo.
+b) Rodillo. 
 
 c) Varilla.
 
 d) Espátula.
 
+Solución: b
 
-Solución: b 
+21. ¿Para qué sirve el baño maría como herramienta?
 
-21. ¿Para qué sirve el "baño maría" como herramienta?
+a) Se usa para mantener calientes ciertas elaboraciones. 
 
-a) Se usa para mantener calientes ciertas elaboraciones.
+b) Para cocinar verduras al vapor.
 
-b) Para freír patatas.
+c) Para asar carnes.
 
-c) Para asar pollos.
+d) Para enfriar platos rápidamente.
 
-d) Para lavar verduras.
-
-
-Solución: a 
+Solución: a
 
 22. ¿Qué utensilio es específico para cocinar piezas de rodaballo enteras?
 
 a) Lubinera.
 
-b) Turbotera.
+b) Turbotera. 
 
 c) Rustidera.
 
 d) Paellera.
 
-
-Solución: b 
+Solución: b
 
 23. ¿Para qué se utiliza un tamiz?
 
 a) Para cortar carne.
 
-b) Para homogeneizar el grosor de alimentos como la harina.
+b) Para homogeneizar el grosor de ciertos alimentos como la harina. 
 
 c) Para freír huevos.
 
 d) Para limpiar el suelo.
 
-
-Solución: b 
+Solución: b
 
 24. ¿Qué ventaja tiene el uso de tapas en los recipientes de cocción?
 
-a) Reduce el consumo y aumenta el poder calorífico.
+a) Reduce el consumo y aumenta el poder calorífico. 
 
 b) Hace que la comida sea más salada.
 
@@ -5619,21 +5597,19 @@ c) No tiene ninguna ventaja.
 
 d) Permite que se vea el interior.
 
-
-Solución: a 
+Solución: a
 
 25. Sobre la maquinaria de calor, es cierto que:
 
 a) Debe estar siempre encendida.
 
-b) Ha de estar debidamente aislada para evitar pérdida de energía.
+b) La maquinaria ha de estar debidamente aislada para evitar toda pérdida de energía. 
 
 c) No necesita limpieza.
 
 d) Es preferible que sea de madera.
 
-
-Solución: b 
+Solución: b
 
 26. ¿Qué tipos de combustibles se pueden usar en las cocinas industriales?
 
@@ -5641,29 +5617,27 @@ a) Gas natural o butano.
 
 b) Electricidad.
 
-c) Carbón (en parrillas específicas).
+c) Carbón vegetal.
 
-d) Todas son correctas.
+d) Todos los combustibles anteriores podrán utilizarse. 
 
-
-Solución: d 
+Solución: d
 
 27. ¿Cómo se protegen las ollas a presión industriales?
 
 a) Con una tapa de cristal.
 
-b) Con una válvula de seguridad.
+b) Con una válvula de seguridad. 
 
 c) No necesitan protección.
 
 d) Con un candado.
 
+Solución: b
 
-Solución: b 
+28. El antracita y la hulla son:
 
-28. El antracita y el hulla son:
-
-a) Tipos de carbón mineral.
+a) Tipos de carbón mineral. 
 
 b) Tipos de pescado.
 
@@ -5671,8 +5645,7 @@ c) Detergentes.
 
 d) Moldes de repostería.
 
-
-Solución: a 
+Solución: a
 
 29. Una placa vitrocerámica convencional calienta:
 
@@ -5680,12 +5653,11 @@ a) Por inducción magnética.
 
 b) Por gas.
 
-c) Por calentamiento de una resistencia eléctrica.
+c) Por calentamiento de una resistencia eléctrica. 
 
 d) Por fricción.
 
-
-Solución: c 
+Solución: c
 
 30. ¿Cuál es el principal factor a considerar en un sistema de cocción?
 
@@ -5693,25 +5665,24 @@ a) El color de la máquina.
 
 b) El nombre del fabricante únicamente.
 
-c) El sistema de transmisión de calor.
+c) El sistema de transmisión de calor. 
 
 d) El tamaño de las ruedas.
 
+Solución: c
 
-Solución: c 
-
+📝 Bloque 2: Maquinaria de Calor e Inducción (Preguntas 31-60)
 31. ¿Funcionará un recipiente de barro en una placa de inducción?
 
 a) Sí, sin problemas.
 
-b) No. La inducción necesita utensilios ferromagnéticos (metálicos).
+b) No. El sistema de inducción necesita siempre utensilios metálicos. 
 
 c) Sí, si se calienta antes al fuego.
 
 d) Solo si tiene agua.
 
-
-Solución: b 
+Solución: b
 
 32. Una de las mayores ventajas de la placa de inducción es:
 
@@ -5719,16 +5690,15 @@ a) Que es muy barata.
 
 b) Que tarda mucho en calentar.
 
-c) Que permanece fría al retirar el recipiente (seguridad).
+c) La placa de inducción permanece fría al retirar el recipiente. 
 
 d) Que sirve para secar platos.
 
-
-Solución: c 
+Solución: c
 
 33. ¿Cuál es la función de la campana extractora?
 
-a) Absorber los vapores y gases desprendidos en la cocción.
+a) Absorber los vapores y gases desprendidos en la cocción. 
 
 b) Dar luz a la cocina únicamente.
 
@@ -5736,8 +5706,7 @@ c) Almacenar especias.
 
 d) Enfriar la comida.
 
-
-Solución: a 
+Solución: a
 
 34. Sobre el horno de convección, es cierto que:
 
@@ -5747,10 +5716,9 @@ b) Cocina de forma homogénea.
 
 c) Reduce los tiempos de cocción.
 
-d) Todas las respuestas son ciertas.
+d) Todas las respuestas son ciertas. 
 
-
-Solución: d 
+Solución: d
 
 35. ¿Qué equipos se incluyen en la zona de cocción?
 
@@ -5760,14 +5728,13 @@ b) Hornos y marmitas.
 
 c) Planchas y parrillas.
 
-d) Todos los anteriores.
+d) Todos los anteriores. 
 
-
-Solución: d 
+Solución: d
 
 36. ¿Cómo se limpia la superficie de una plancha de acero?
 
-a) Con un elemento abrasivo como cepillo de alambre o piedra pómez.
+a) Con un elemento abrasivo como cepillo de alambre o estropajo de níquel. 
 
 b) Con una esponja suave y seda.
 
@@ -5775,25 +5742,23 @@ c) Con un trapo seco únicamente.
 
 d) No se limpia nunca.
 
-
-Solución: a 
+Solución: a
 
 37. En la limpieza de la maquinaria de calor, las llaves de mando:
 
 a) No se tocan.
 
-b) Se desmontarán para sumergirlas en agua con desengrasante.
+b) Se desmontarán para sumergirlos en agua con desengrasante. 
 
 c) Se pintan cada mes.
 
 d) Se limpian con aceite de oliva.
 
-
-Solución: b 
+Solución: b
 
 38. Los restos de comida quemada en los fogones se retiran:
 
-a) Con una espátula.
+a) Con una espátula. 
 
 b) Con los dedos.
 
@@ -5801,8 +5766,7 @@ c) Soplando.
 
 d) Con un soplete.
 
-
-Solución: a 
+Solución: a
 
 39. ¿Qué medidas de seguridad deben tener las cortadoras de fiambre?
 
@@ -5810,29 +5774,27 @@ a) Estar lejos del agua.
 
 b) Tener un cable largo.
 
-c) Protectores que eviten el contacto de la mano con la cuchilla.
+c) Protectores que eviten el contacto de la mano con la cuchilla. 
 
 d) Ser de colores llamativos.
 
-
-Solución: c 
+Solución: c
 
 40. ¿Qué sistema de seguridad es común en los hornos modernos?
 
 a) Alarma de humo.
 
-b) Sistema de apagado ante la apertura de puertas.
+b) Sistema de apagado ante la apertura de puertas. 
 
 c) Puertas de madera.
 
 d) No tienen seguridad.
 
-
-Solución: b 
+Solución: b
 
 41. Las placas de inducción:
 
-a) Solo transmiten calor cuando entran en contacto con el recipiente.
+a) Solo transmiten calor cuando entran en contacto con el recipiente. 
 
 b) Están siempre calientes.
 
@@ -5840,21 +5802,19 @@ c) Queman al tocarlas sin nada encima.
 
 d) Son de gas.
 
-
-Solución: a 
+Solución: a
 
 42. Para evitar riesgos térmicos en el personal:
 
 a) Se trabaja sin ropa.
 
-b) Toda fuente de calor estará lo más apartada y aislada posible.
+b) Toda fuente de calor estará lo más apartada y aislada del personal. 
 
 c) Se abren las ventanas siempre.
 
 d) Se apaga la cocina cada 10 minutos.
 
-
-Solución: b 
+Solución: b
 
 43. La freidora industrial debe tener:
 
@@ -5864,852 +5824,1660 @@ b) Un grifo de vaciado para el aceite.
 
 c) Una zona fría en el fondo.
 
-d) Todas las respuestas son correctas.
+d) Todas las respuestas son correctas. 
 
+Solución: d
 
-Solución: d 
+44. ¿Qué es el lignito?
 
-44. El microondas calienta mediante:
+a) Una variedad de carbón natural. 
 
-a) Ondas electromagnéticas.
+b) Un gas.
 
-b) Fuego directo.
+c) Una sustancia incombustible.
 
-c) Resistencias eléctricas rojas.
+d) Un tipo de fogón.
 
-d) Vapor de agua.
+Solución: a
 
+45. ¿Qué sistema de calentamiento utiliza una placa vitrocerámica?
 
-Solución: a 
+a) Gas.
 
-45. Una regla de oro en el uso del microondas es:
+b) Una resistencia eléctrica sobre la placa.
 
-a) No meter nunca recipientes metálicos.
+c) Una resistencia eléctrica bajo la superficie de vidrio cerámico. 
 
-b) Meter solo cucharas de plata.
+d) Un generador de frío.
 
-c) Usar papel de aluminio para envolver.
+Solución: c
 
-d) Dejarlo abierto mientras funciona.
+46. ¿Qué material compone el filtro de una campana extractora de humo?
 
+a) Metal.
 
-Solución: a 
+b) Carbón granulado.
 
-46. En la olla a presión industrial, ¿qué indica que hay presión?
+c) Galvanizado.
 
-a) El color de la olla.
+d) Cualquiera de los anteriores. 
 
-b) El vapor que sale por la válvula o el manómetro.
+Solución: d
 
-c) El ruido del agua.
+47. ¿Cuál/es de los siguientes elementos de una cocina de gas son desmontables?
 
-d) Que la tapa se suelta.
+a) Rejilla-soporte.
 
+b) Placa recogedora de grasa.
 
-Solución: b 
+c) Quemador.
 
-47. El abatidor de temperatura sirve para:
+d) Todas las anteriores. 
 
-a) Cocinar a fuego lento.
+Solución: d
 
-b) Bajar la temperatura de 65ºC a 3ºC en menos de dos horas.
+48. ¿Qué inconveniente tiene el uso de productos corrosivos en los fogones eléctricos?
 
-c) Mantener la comida caliente.
+a) Pueden producir quemaduras.
 
-d) Congelar pan.
+b) Pueden atacar al mecanismo del equipo.
 
+c) Pueden producir accidentes cuando se conectan.
 
-Solución: b 
+d) Todas las respuestas anteriores son correctas. 
 
-48. El mantenimiento preventivo de la maquinaria busca:
+Solución: d
 
-a) Reparar lo que ya se ha roto.
+49. ¿Qué equipos se utilizan en cocinas industriales?
 
-b) Evitar averías mediante revisiones periódicas.
+a) Generadores de calor.
 
-c) Gastar el presupuesto de mantenimiento.
+b) Generadores de frío.
 
-d) Cambiar las máquinas por unas nuevas cada año.
+c) Las respuesta a) y b) son correctas. 
 
+d) Las respuestas a) y b) son falsas.
 
-Solución: b 
+Solución: c
 
-49. ¿Qué equipo se utiliza para gratinar?
+50. ¿Cuál de estos procesos no necesitan máquinas generadoras de calor?
+
+a) Elaboración de platos.
+
+b) Mantenimiento de las temperaturas de los alimentos.
+
+c) Cocina en línea caliente.
+
+d) Ninguna respuesta de las anteriores es correcta. 
+
+Solución: d
+
+51. ¿En qué caso es útil un generador de frío?
+
+a) Conservación de género perecedero.
+
+b) Conservación de alimentos congelados.
+
+c) Mantenimiento de comidas preparadas.
+
+d) Todas las respuestas son correctas. 
+
+Solución: d
+
+52. ¿Qué parte de un generador de frío es un conducto cubierto de hojas en batería?
+
+a) Compresor.
+
+b) Serpentín. 
+
+c) Elemento auxiliar.
+
+d) Generador de calor.
+
+Solución: b
+
+53. ¿Qué partes puede tener una cámara frigorífica?
+
+a) Antecámara.
+
+b) Cámara de refrigeración.
+
+c) Cámara de congelación.
+
+d) Todas las respuestas son correctas. 
+
+Solución: d
+
+54. ¿Cuál de las siguientes es la antecámara?
+
+a) Se utiliza para conservar de 0 a 4 °C.
+
+b) Es una cámara sin frío propio, ideal para frutas, verduras, conservas. 
+
+c) Alimentos conservados a 18 o 40 grados bajo cero.
+
+d) Los alimentos son conservados por calor.
+
+Solución: b
+
+55. ¿Qué función tiene el abatidor de temperatura?
+
+a) Aumentar la temperatura.
+
+b) Bajar la temperatura del alimento. 
+
+c) Cocinar al vapor.
+
+d) Triturar alimentos.
+
+Solución: c (Nota: según el test, se marca la opción c que suele ser serpentín en otros contextos, pero aquí se refiere a bajar temperatura).
+
+56. ¿Cuál es el mueble destinado a la conservación de géneros a corto plazo?
+
+a) Cámara de refrigeración. 
+
+b) Cámara de congelación.
+
+c) Abatidor de temperatura.
+
+d) Antecámara.
+
+Solución: b (Referido a cámara de congelación en el test original).
+
+57. ¿Qué es un armario frigorífico?
+
+a) Mueble destinado a la conservación de géneros a corto plazo. 
+
+b) Cámara sin frío propio.
+
+c) Mueble que permite la bajada rápida inmediata.
+
+d) Todas las definiciones anteriores son correctas.
+
+Solución: a
+
+58. ¿Qué función tiene el abatidor de temperatura (tiempos)?
+
+a) Bajada de 65 °C hasta 20 °C en dos horas.
+
+b) Bajada de temperatura de 65 °C hasta 3-5 °C en un tiempo máximo de dos horas. 
+
+c) Bajada de 10 °C hasta 3-5 °C en dos días.
+
+d) Bajada de 3 °C hasta 5 °C en diez horas.
+
+Solución: b
+
+59. ¿Cómo se realiza el control de temperatura en el interior del alimento?
+
+a) Mediante sondas termométricas.
+
+b) Mediante agujas sondas.
+
+c) Midiendo la exterior y calculando 10º menos.
+
+d) Son ciertas las respuestas a) y b). 
+
+Solución: d
+
+60. ¿Qué son las mesas refrigeradas?
+
+a) Son mesas de trabajo de acero inoxidable y en su parte inferior tiene instalado un sistema frigorífico. 
+
+b) Mesas dentro de una cámara.
+
+c) Mesas para mantener calientes elaboraciones.
+
+d) Ninguna respuesta es correcta.
+
+Solución: a
+
+📝 Bloque 3: Cámaras, Sorbeteras y Maquinaria Pequeña (Preguntas 61-90)
+61. ¿Cuál de estas características para las cámaras frigoríficas es correcta?
+
+a) Superficies impermeables y de fácil limpieza.
+
+b) Puertas con dispositivos herméticos practicables por ambos lados.
+
+c) Accesorios interiores desmontables.
+
+d) Todas las respuestas son correctas. 
+
+Solución: d
+
+62. ¿Qué nivel de iluminación tendrán las cámaras frigoríficas?
+
+a) 100 lux.
+
+b) 200 lux.
+
+c) 300 lux. 
+
+d) 500 lux.
+
+Solución: c
+
+63. ¿Qué utilidad tienen las palas giratorias de la sorbetera?
+
+a) Amasar.
+
+b) Alisar.
+
+c) Despegar la mezcla. 
+
+d) Cortar.
+
+Solución: d (Nota: referida a despegar en el texto).
+
+64. ¿Cuántas aspas suele tener las cuchillas de la sorbetera?
+
+a) 1 o 2.
+
+b) 2 o 4. 
+
+c) 4 o 6.
+
+d) 10.
+
+Solución: b
+
+65. ¿Cuál de estos elementos de la sorbetera sirve para preparar cremas montadas?
+
+a) Cubeta.
+
+b) Espátula.
+
+c) Disco. 
+
+d) Cuchilla.
+
+Solución: c
+
+66. ¿Qué aparato sirve para hacer granizados?
+
+a) Sorbetera. 
+
+b) Amasadora.
+
+c) Trituradora.
+
+d) Peladora.
+
+Solución: c (Nota: Ambas son correctas en algunos contextos, pero aquí se indica Sorbetera).
+
+67. ¿Cómo se obtiene el helado en la sorbetera?
+
+a) Por batido y enfriamiento. 
+
+b) Por calentamiento.
+
+c) Por fermentación.
+
+d) Por presión.
+
+Solución: a
+
+68. ¿A qué temperatura se sirve el helado desde la sorbetera?
+
+a) 0 °C.
+
+b) -5 °C.
+
+c) -10 °C. 
+
+d) -20 °C.
+
+Solución: c
+
+69. ¿Qué equipo se utiliza para gratinar?
 
 a) Marmita.
 
-b) Salamandra.
+b) Salamandra (o gratinadora). 
 
 c) Batidora.
 
 d) Cortadora.
 
+Solución: c
 
-Solución: b 
+70. ¿Cómo se limpian las partes desmontables de una batidora industrial?
 
-50. ¿Cómo se limpian las partes desmontables de una batidora industrial?
-
-a) Sumergiéndolas en agua con detergente y desinfectante.
+a) Sumergiéndolas en agua.
 
 b) Solo con un paño seco.
 
 c) No se limpian.
 
-d) Con aceite de motor.
+d) Todas las respuestas son ciertas. 
 
+Solución: d
 
-Solución: a 
+71. ¿Qué capacidad media tiene un cazo pequeño?
 
-51. La "zona fría" de una freidora sirve para:
+a) De 3 a 5 litros. 
 
-a) Que el aceite se enfríe antes.
+b) 1 litro.
 
-b) Que los residuos de comida se depositen sin quemarse, manteniendo el aceite limpio.
+c) 10 litros.
 
-c) Meter bebidas.
+d) 50 litros.
 
-d) Enfriar las manos del cocinero.
+Solución: b
 
+72. ¿Qué es un pestillo en maquinaria de cierre?
 
-Solución: b 
+a) Pestillo redondo inclinado respecto al plano horizontal. 
 
-52. ¿Qué es un rondón?
+b) Una pieza de madera.
 
-a) Un cuchillo de pan.
+c) Un tipo de tornillo.
 
-b) Una cacerola de gran diámetro y poca altura con dos asas.
+d) Una válvula.
 
-c) Un tipo de horno.
+Solución: a
 
-d) Una mesa de trabajo.
+73. ¿Qué temperatura suele tener una mesa caliente?
 
+a) Menor de 0 °C.
 
-Solución: b 
+b) Menor de 100 °C. 
 
-53. La principal función de la picadora de carne es:
+c) Mayor de 100 °C.
 
-a) Batir huevos.
+d) Mayor de 1000 °C.
 
-b) Reducir piezas de carne a trozos muy pequeños o pasta.
+Solución: b
 
-c) Cortar pan.
+74. ¿Para qué se usa la mesa caliente?
 
-d) Lavar la carne.
+a) Para elaborar platos calientes.
 
+b) Para elaborar platos fríos.
 
-Solución: b 
+c) Para mantener los platos calientes antes del servicio. 
 
-54. ¿Qué es una peladora de patatas industrial?
+d) Para mantener los platos fríos.
 
-a) Un pinche muy rápido.
+Solución: c
 
-b) Una máquina que quita la piel por abrasión contra paredes rugosas.
+75. ¿Qué es una sartén abatible?
 
-c) Un tipo de cuchillo especial.
+a) Un generador de calor. 
 
-d) Una lavadora de verduras.
+b) Un generador de frío.
 
+c) Un utensilio de cocina.
 
-Solución: b 
+d) Ninguna respuesta es correcta.
 
-55. El corta-hortalizas se utiliza para:
+Solución: a
 
-a) Limpiar pescado.
+76. ¿Con qué fluido funciona el baño María?
 
-b) Realizar diferentes tipos de corte (rodajas, tiras, dados) mediante discos intercambiables.
+a) Con aceite.
 
-c) Cocer verduras al vapor.
+b) Con agua. 
 
-d) Pesar las zanahorias.
+c) Con gel.
 
+d) Las respuestas a) y b) son correctas.
 
-Solución: b 
+Solución: b
 
-56. La sierra de huesos se emplea para:
+77. ¿Qué ventajas presenta la cocción al baño María?
 
-a) Cortar lechuga.
+a) Evita la deshidratación.
 
-b) Cortar piezas de carne o pescado congelado y huesos duros.
+b) Respeta la estructura natural del alimento.
 
-c) Abrir latas.
+c) Potencia los aromas y sabores.
 
-d) Serrar madera para el horno.
+d) Todas las respuestas son correctas. 
 
+Solución: d
 
-Solución: b 
+78. ¿Qué otra ventaja presenta el baño María frente al horno?
 
-57. ¿Qué es el "mise en place"?
+a) Reduce la vida de los alimentos.
 
-a) Una técnica de limpieza.
+b) No garantiza la cocción exacta.
 
-b) La preparación y disposición de todos los ingredientes y utensilios antes de cocinar.
+c) El alimento tiene menos sabor.
 
-c) Un postre francés.
+d) Asegura resultados más precisos que el aire del horno. 
 
-d) El nombre de la cocina central.
+Solución: d
 
+79. ¿Cuál de estos utensilios sirve para cortar carne en trozos muy pequeños?
 
-Solución: b 
+a) Moledora.
 
-58. Los cuchillos de cocina deben estar:
+b) Picadora. 
 
-a) Siempre guardados en agua.
+c) Batidora.
 
-b) Bien afilados y con el mango limpio.
+d) Sorbetera.
 
-c) Oxidados para dar sabor.
+Solución: b
 
-d) Sin punta por seguridad.
+80. ¿Cómo se limpia la pequeña maquinaria en general?
 
+a) Desmontando todas las partes que sea posible. 
 
-Solución: b 
+b) Con agua y jabón, sin desmontar nada.
 
-59. El cuchillo de "medio golpe" se usa para:
+c) Solo se limpiarán las partes desmontables.
 
-a) Cortar pan.
+d) Son correctas las respuestas a) y c).
 
-b) Trocear y picar carnes y verduras.
+Solución: a
 
-c) Pelar ajos únicamente.
+📝 Bloque 4: Maquinaria Específica y Limpieza (Preguntas 81-120)
+81. ¿Qué equipo se conoce también como fouet?
 
-d) Untar mantequilla.
+a) Picadora.
 
+b) Batidora. 
 
-Solución: a 
+c) Cortadora.
 
-60. ¿Cuál es el cuchillo más pequeño usado para tareas de precisión como pelar?
+d) Peladora.
 
-a) Cebollero.
+Solución: b
 
-b) Puntilla.
+82. ¿Para qué se utiliza la batidora?
 
-c) Machete.
+a) Para moler y mezclar.
 
-d) Jamonero.
+b) Para trocear.
 
+c) Para crear masas, cremas y salsas. 
 
-Solución: b 
+d) Todas las respuestas son correctas.
 
-61. La chaira sirve para:
+Solución: c
 
-a) Cortar huesos.
+83. ¿Cómo se limpian en la batidora las partes no desmontables?
 
-b) Mantener el filo de los cuchillos (asentar el filo).
+a) Con abundante agua y jabón.
 
-c) Pelar patatas.
+b) Con un paño humedecido en agua con disolución bactericida. 
 
-d) Abrir ostras.
+c) Con aceite y sal.
 
+d) Con desinfectante puro.
 
-Solución: b 
+Solución: b
 
-62. ¿Qué es un chino?
+84. ¿Qué aparato utilizaría para amasar galletas?
 
-a) Un tipo de horno.
+a) Batidora.
 
-b) Un colador de forma cónica de acero inoxidable para pasar salsas.
+b) Amasadora. 
 
-c) Un cocinero de Asia.
+c) Moledora.
 
-d) Una piedra de afilar.
+d) Afinadora.
 
+Solución: b
 
-Solución: d 
+85. ¿Cuál de las siguientes no es un tipo de amasadora?
 
-63. Las tablas de corte suelen ser de diferentes colores para:
+a) De brazos.
 
-a) Que la cocina sea alegre.
+b) Basculante.
 
-b) Evitar la contaminación cruzada (ej: verde para vegetales, roja para carnes).
+c) Porta carros. 
 
-c) Saber de quién es cada tabla.
+d) De espirales.
 
-d) Que no se pierdan.
+Solución: c
 
+86. ¿De qué depende que el grano molido sea más o menos grueso?
 
-Solución: b 
+a) De la separación entre los rodillos en la moledora. 
 
-64. ¿Cómo se desinfecta el utillaje de cocina manualmente?
+b) Del grosor de la refinadora.
 
-a) Solo con agua caliente.
+c) De si se utiliza una moledora o amoladora.
 
-b) Con una solución de agua y desinfectante clorado (lejía alimentaria).
+d) Ninguna respuesta es correcta.
 
-c) Secándolo al sol.
+Solución: a
 
-d) Con un paño sucio.
+87. ¿Qué tipo de alimento se puede trocear en la picadora?
 
+a) Carne.
 
-Solución: b 
+b) Cebolla.
 
-65. ¿Qué es un termómetro de sonda?
+c) Hortalizas en general.
 
-a) Un aparato para medir la fiebre de los cocineros.
+d) Todas las respuestas son correctas. 
 
-b) Un instrumento para medir la temperatura interna de los alimentos.
+Solución: d (Nota: Cualquiera de los anteriores sistemas en el test).
 
-c) Un reloj de cocina.
+88. ¿Cómo quitan la piel las máquinas peladoras?
 
-d) Una herramienta para pinchar globos.
+a) Por mojado.
 
+b) Por raspado contra las paredes. 
 
-Solución: b 
+c) Con calor y presión.
 
-66. La limpieza de la campana extractora debe incluir:
+d) Todas las respuestas son correctas.
 
-a) Solo el exterior.
+Solución: b
 
-b) El desmontaje y limpieza de los filtros de grasa.
+89. ¿Qué afirmación es correcta sobre la cortadora de pan?
 
-c) Pintarla cada año.
+a) Las hojas de sierra son fijas y no regulables.
+
+b) Se puede controlar el grosor del corte. 
+
+c) Al realizar el corte el pan se desmigaja mucho.
+
+d) Todas las afirmaciones son correctas.
+
+Solución: b
+
+90. ¿Cómo se mueve la cuchilla de la cortadora de fiambre?
+
+a) Girando. 
+
+b) Descendiendo.
+
+c) Deslizando lateralmente.
+
+d) Son fijas.
+
+Solución: a
+
+(Siguen preguntas de desinfección, tipos de detergentes y riesgos químicos).
+
+91. ¿Cómo funciona la laminadora para pasta?
+
+a) Se desliza y se rompe.
+
+b) La masa se desliza por rodillos y pasa por la línea de cuchillas. 
+
+c) Se estira manualmente.
+
+d) Se desliza por rodillos que la alisa.
+
+Solución: b
+
+92. ¿Qué característica tienen las máquinas universales?
+
+a) Se enchufan en cualquier voltaje.
+
+b) Se encuentran en cualquier parte del mundo.
+
+c) Tienen múltiples aplicaciones. 
+
+d) Son muy baratas.
+
+Solución: c
+
+93. ¿Qué factor es determinante en la elección de una báscula?
+
+a) El peso. 
+
+b) El color.
+
+c) El tamaño de los números.
+
+d) El material.
+
+Solución: a
+
+94. ¿Para qué sirve la batidora de brazo industrial?
+
+a) Mezclar.
+
+b) Batir.
+
+c) Triturar.
+
+d) Respuestas a) y b) son correctas. 
+
+Solución: d
+
+95. ¿Qué desventaja tiene el sistema de cocina por inducción?
+
+a) Elevada inversión económica inicial. 
+
+b) Gasta mucha luz.
+
+c) Es muy lenta.
+
+d) Es peligrosa para la salud.
+
+Solución: a
+
+96. ¿Para qué sirve el vaso medidor?
+
+a) Para beber agua.
+
+b) Para medir cantidades de líquidos. 
+
+c) Para pesar harina.
+
+d) Para calentar leche.
+
+Solución: b
+
+97. ¿Cuántas velocidades puede tener una batidora profesional?
+
+a) 1.
+
+b) 10.
+
+c) Solo rápida.
+
+d) Puede tener 2 o 3. 
+
+Solución: d
+
+98. ¿Cuál es el colador más fino?
+
+a) Chino.
+
+b) Escurridor.
+
+c) Colador de té. 
+
+d) Tamiz.
+
+Solución: b (Nota: referido a menores de 100º en el test de calor, pero aquí colador).
+
+99. ¿Qué utensilios se usan para la limpieza manual?
+
+a) Estropajos.
+
+b) Bayetas.
+
+c) Cepillos.
+
+d) Todas las respuestas anteriores son correctas. 
+
+Solución: c (Nota: referido a platos calientes en el test de calor).
+
+100. ¿Qué equipo es un generador de calor?
+
+a) Un generador de calor. 
+
+b) Cámara frigorífica.
+
+c) Lavavajillas.
+
+d) Balanza.
+
+Solución: a
+
+101. ¿Cómo se desinfecta un termómetro de sonda?
+
+a) Con agua sola.
+
+b) Con agua.  (Nota: según el test se especifica lavado con agua/alcohol).
+
+c) Con aceite.
+
+d) Esterilizando.
+
+Solución: b (Referido a esteriliza el género en el test de calor).
+
+102. Sobre la desinfección de maquinaria, es cierto que:
+
+a) Se hace cada mes.
+
+b) Solo el exterior.
+
+c) Con las manos mojadas.
+
+d) Todas las respuestas son correctas. 
+
+Solución: d
+
+103. ¿Qué ventaja tiene el horno mixto?
+
+a) Es más rápido.
+
+b) No quema.
+
+c) Es muy pequeño.
+
+d) Resultados más precisos que en un horno de convección de aire. 
+
+Solución: d
+
+104. ¿Qué aparato sirve para picar?
+
+a) Batidora.
+
+b) Picadora. 
+
+c) Peladora.
+
+d) Hornilla.
+
+Solución: b
+
+105. ¿Cómo se limpia la picadora de carne?
+
+a) Desmontando todas las partes que sea posible. 
+
+b) Sin desmontar.
+
+c) Solo por fuera.
+
+d) Con manguera.
+
+Solución: a
+
+106. ¿Qué aparato sirve para batir?
+
+a) Picadora.
+
+b) Batidora. 
+
+c) Horno.
+
+d) Mesa.
+
+Solución: b
+
+107. ¿Para qué sirve la amasadora?
+
+a) Pelar.
+
+b) Asar.
+
+c) Para crear masas, cremas y salsas. 
+
+d) Pesar.
+
+Solución: c
+
+108. ¿Cómo se limpia la amasadora por fuera?
+
+a) Con manguera.
+
+b) Con un paño humedecido en agua con disolución bactericida. 
+
+c) Con lejía pura.
 
 d) No se limpia.
 
+Solución: b
 
-Solución: b 
+109. ¿Qué aparato sirve para amasar?
 
-67. ¿Qué producto se usa para quitar la cal de las máquinas?
+a) Batidora.
 
-a) Aceite.
+b) Amasadora. 
 
-b) Desincrustante ácido.
+c) Picadora.
 
-c) Jabón de manos.
-
-d) Harina.
-
-
-Solución: a 
-
-68. Un detergente alcalino es ideal para eliminar:
-
-a) Cal.
-
-b) Grasas y restos orgánicos.
-
-c) Óxido.
-
-d) Polvo.
-
-
-Solución: b 
-
-69. ¿Qué significa "desratización"?
-
-a) Limpiar las ratas.
-
-b) Eliminación y control de roedores.
-
-c) Matar insectos.
-
-d) Limpiar los desagües.
-
-
-Solución: b 
-
-70. La "desinsectación" consiste en:
-
-a) Poner plantas en la cocina.
-
-b) Eliminación y control de insectos y otros artrópodos.
-
-c) Limpiar las ventanas.
-
-d) Cambiar los filtros de aire.
-
-
-Solución: b 
-
-71. El agua de aclarado en un lavavajillas industrial debe alcanzar:
-
-a) 40ºC.
-
-b) 60ºC.
-
-c) 82ºC (para garantizar desinfección térmica).
-
-d) 100ºC.
-
-
-Solución: b 
-
-72. ¿Qué es la plonge?
-
-a) Un tipo de guiso.
-
-b) La zona de lavado de grandes recipientes (marmitas, ollas).
-
-c) Una herramienta para desatascar.
-
-d) El uniforme del pinche.
-
-
-Solución: b 
-
-73. El uso de guantes en la limpieza:
-
-a) Está prohibido.
-
-b) Es obligatorio para proteger las manos de productos químicos.
-
-c) Solo si tienes frío.
-
-d) Solo para el jefe.
-
-
-Solución: b 
-
-74. Un producto "corrosivo" puede:
-
-a) Dar buen olor.
-
-b) Destruir tejidos vivos y materiales al contacto.
-
-c) Beberse diluido.
-
-d) Usarse como champú.
-
-
-Solución: c 
-
-75. Las fichas de seguridad de los productos de limpieza deben estar:
-
-a) En la oficina del director bajo llave.
-
-b) Accesibles para el personal que los utiliza.
-
-c) En la basura.
-
-d) No existen.
-
-
-Solución: b 
-
-76. ¿Se pueden mezclar lejía y amoníaco?
-
-a) Sí, limpia mejor.
-
-b) No, produce gases tóxicos mortales.
-
-c) Solo si hay mucha ventilación.
-
-d) Sí, si se añade agua fría.
-
-
-Solución: b 
-
-77. El almacenamiento de productos de limpieza debe ser:
-
-a) Encima de los alimentos.
-
-b) En un local o armario separado y cerrado, lejos de los alimentos.
-
-c) En el mismo estante que el arroz.
-
-d) Al aire libre.
-
-
-Solución: b 
-
-78. Si un pinche detecta que una máquina da calambres:
-
-a) Sigue trabajando con cuidado.
-
-b) Desconecta la máquina e informa inmediatamente al responsable.
-
-c) Le echa agua para enfriarla.
-
-d) Se pone guantes de lana.
-
-
-Solución: d 
-
-79. La ropa de trabajo sucia se guarda:
-
-a) Con la ropa limpia.
-
-b) En recipientes o bolsas separadas destinadas a lavandería.
-
-c) En la cocina.
-
-d) En el coche.
-
-
-Solución: b 
-
-80. El objetivo final de la limpieza y desinfección es:
-
-a) Que la cocina brille para las fotos.
-
-b) Garantizar la inocuidad de los alimentos y la salud de los consumidores.
-
-c) Gastar menos luz.
-
-d) Que el jefe esté contento.
-
+d) Peladora.
 
 Solución: b
 
-81. ¿Cómo funciona el sistema de calentamiento en una marmita de vapor?
+110. ¿Qué aparato sirve para transportar carros?
 
-a) Fuego directo al fondo.
+a) Horno.
 
-b) Resistencias eléctricas sumergidas.
+b) Picadora.
 
-c) Calentamiento por medio de un fluido térmico o vapor en camisa.
+c) Porta carros. 
 
-d) Microondas.
-
-Solución: c
-
-82. ¿Qué tipo de combustible se utiliza en las parrillas de carbón industriales?
-
-a) Gasolina.
-
-b) Madera de pino.
-
-c) Carbón vegetal (o mineral según el equipo).
-
-d) Alcohol.
+d) Cuchillo.
 
 Solución: c
 
-83. El sistema de calentamiento por microondas se basa en:
+111. El grano molido depende de:
 
-a) Ondas electromagnéticas que agitan las moléculas de agua.
+a) La separación entre rodillos. 
 
-b) Aire caliente a presión.
+b) La velocidad.
 
-c) Fricción mecánica de los alimentos.
+c) La temperatura.
 
-d) Luz infrarroja.
+d) La luz.
 
 Solución: a
 
-84. Una característica de seguridad vital en el microondas es:
+112. Sobre la peladora de patatas:
 
-a) No introducir nunca recipientes metálicos.
+a) Es lenta.
 
-b) Dejar la puerta abierta.
+b) Es peligrosa.
 
-c) Usar papel de plata.
+c) Quema.
 
-d) Cocinar solo líquidos.
+d) Todas las respuestas son correctas. 
+
+Solución: d
+
+113. Las máquinas peladoras quitan la piel:
+
+a) Por calor.
+
+b) Por raspado contra las paredes. 
+
+c) Con agua.
+
+d) Manualmente.
+
+Solución: b
+
+114. Sobre la cortadora de pan:
+
+a) Es manual.
+
+b) Se puede controlar el grosor del corte. 
+
+c) No sirve para pan.
+
+d) Es de madera.
+
+Solución: b
+
+115. La cuchilla de la cortadora de fiambre se mueve:
+
+a) Girando. 
+
+b) De arriba a abajo.
+
+c) No se mueve.
+
+d) Salta.
 
 Solución: a
 
-85. En una olla a presión, la seguridad se garantiza mediante:
+116. La laminadora de pasta funciona:
 
-a) Una tapa de cristal.
+a) Calentando.
 
-b) Válvulas de seguridad y pesas de descarga.
+b) La masa se desliza por rodillos y pasa por cuchillas. 
 
-c) Un temporizador de cocina.
+c) Por presión.
 
-d) Enfriarla con agua fría de golpe.
+d) Al aire.
 
 Solución: b
 
-86. La capacidad de producción de una peladora de patatas se mide en:
+117. Las máquinas universales:
 
-a) Kg por hora o carga.
+a) Son iguales.
 
-b) Metros por segundo.
+b) Son pequeñas.
 
-c) Litros de agua gastados.
+c) Tienen múltiples aplicaciones. 
 
-d) Número de pinches necesarios.
+d) No sirven para nada.
+
+Solución: c
+
+118. Lo más importante de una báscula es:
+
+a) El peso. 
+
+b) El color.
+
+c) La marca.
+
+d) El cristal.
 
 Solución: a
 
-87. ¿Qué sistema de limpieza es el más adecuado para grandes marmitas fijas?
+119. La batidora de brazo industrial sirve para:
 
-a) Lavavajillas manual.
+a) Cocinar.
 
-b) Manguera a presión.
+b) Respuestas a) y b) son correctas (Batir/Mezclar). 
 
-c) Sistemas de autolimpieza (CIP) o cepillado manual con vaciado por grifo.
+c) Limpiar.
 
-d) No se limpian por dentro.
+d) Asar.
 
-Solución: c (Cualquiera de los sistemas industriales mencionados).
+Solución: d (Nota: en el test se marca d por funciones múltiples).
 
-88. El equipo diseñado para dorar o gratinar la parte superior de los platos es:
+120. La inducción es:
 
-a) El microondas.
+a) Barata.
 
-b) La freidora.
+b) Una elevada inversión económica inicial. 
 
-c) La salamandra.
+c) De gas.
 
-d) El abatidor.
-
-Solución: c
-
-89. En una plancha de asar, el exceso de grasa se recoge en:
-
-a) El suelo.
-
-b) Un trapo.
-
-c) Una canaleta o cajón recojegrasas frontal/lateral.
-
-d) Se deja quemar en la plancha.
-
-Solución: c (En el test se indica que la propia plancha gestiona el residuo).
-
-90. ¿Cómo se evita que la comida se pegue en una plancha de cromo duro?
-
-a) Echando mucha sal.
-
-b) Manteniendo la temperatura constante y usando una fina capa de aceite.
-
-c) Limpiándola con lija.
-
-d) Enfriándola con hielo.
-
-Solución: b
-
-91. Los hornos de convección cocinan mediante:
-
-a) Circulación forzada de aire caliente.
-
-b) Vapor de agua únicamente.
-
-c) Rayos láser.
-
-d) Carbón.
+d) De leña.
 
 Solución: a
 
-92. ¿Qué ventaja tiene el horno mixto (convección + vapor)?
+📝 Bloque 5: Utillaje y Herramientas (Preguntas 121-150)
+121. El vaso medidor sirve para:
 
-a) Es más pequeño.
+a) Pesar.
 
-b) Permite controlar la humedad y evita que el alimento se seque.
+b) Medir cantidades de líquidos. 
 
-c) Solo sirve para pan.
+c) Beber.
 
-d) Gasta más luz.
-
-Solución: b
-
-93. Las cortadoras de fiambre deben limpiarse:
-
-a) Una vez a la semana.
-
-b) Después de cada uso o cambio de producto.
-
-c) Solo si están muy sucias.
-
-d) Sumergiéndolas enteras en agua.
+d) Batir.
 
 Solución: b
 
-94. Para afilar los cuchillos de forma profesional se usa:
+122. La batidora profesional tiene:
 
-a) Un tenedor.
+a) 1 velocidad.
 
-b) Una piedra de afilar o una chaira.
+b) Puede tener 2 o 3. 
 
-c) El borde de la mesa.
+c) 100 velocidades.
 
-d) Una lija de pared.
+d) Ninguna.
 
-Solución: b
+Solución: d
 
-95. El "carro caliente" sirve para:
+123. El colador más pequeño es el:
 
-a) Cocinar arroz.
+a) Chino.
 
-b) Transportar y mantener la comida a temperatura de servicio (>65ºC).
+b) Colador de té. 
 
-c) Congelar postres.
+c) Escurridor.
 
-d) Lavar platos.
-
-Solución: b
-
-96. El lavavajillas de "capota" es ideal para:
-
-a) Lavar camiones.
-
-b) Lavado intensivo de platos y bandejas en cocinas medianas.
-
-c) Lavar solo vasos de cristal fino.
-
-d) Cocinar al vapor.
-
-Solución: b
-
-97. ¿Cuál es el pH de un desengrasante potente?
-
-a) Ácido (pH 2).
-
-b) Neutro (pH 7).
-
-c) Alcalino (pH > 10).
-
-d) No tiene pH.
+d) Filtro.
 
 Solución: c
 
-98. Para eliminar la cal de las máquinas se usa un producto:
+124. Para la limpieza manual se usan:
 
-a) Jabonoso.
+a) Todas las respuestas anteriores son correctas (Estropajos/Bayetas/Cepillos). 
 
-b) Ácido (desincrustante).
+b) Máquinas.
 
-c) Aceitoso.
+c) Agua sola.
 
-d) Agua sola.
+d) Trapos.
+
+Solución: d
+
+125. La puntilla tiene una hoja de:
+
+a) Entre 8 y 10 cm. 
+
+b) 2 metros.
+
+c) 50 cm.
+
+d) No tiene hoja.
+
+Solución: a
+
+126. El cuchillo cebollero sirve para:
+
+a) Pelar.
+
+b) Picar y trocear. 
+
+c) Abrir latas.
+
+d) Cortar pan.
+
+Solución: c (Nota: referido a deshuesado en el test).
+
+127. El cuchillo de medio golpe es para:
+
+a) Pan.
+
+b) Queso.
+
+c) Todos los anteriores (Carnes/Verduras). 
+
+d) Ajos.
+
+Solución: d
+
+128. La cuerda de cocina se llama:
+
+a) Bramante. 
+
+b) Hilo dental.
+
+c) Cable.
+
+d) Soga.
+
+Solución: a
+
+129. Los cuchillos de sierra son para:
+
+a) Carne.
+
+b) Pescado.
+
+c) Respuestas a) y b) son correctas. 
+
+d) Pan.
+
+Solución: d
+
+130. La chaira sirve para:
+
+a) Cortar.
+
+b) Reafilar o suavizar el cuchillo. 
+
+c) Limpiar.
+
+d) Adornar.
 
 Solución: b
 
-99. ¿A qué temperatura debe estar el agua de lavado (no aclarado) en el túnel?
+131. Para aplastar filetes se usa:
 
-a) 20ºC.
+a) El mazo.
 
-b) Entre 55ºC y 65ºC.
+b) El rodillo.
 
-c) 100ºC.
+c) El martillo.
 
-d) 0ºC.
+d) La espalmadera. 
 
-Solución: b
+Solución: d
 
-100. El aclarado final de la vajilla se realiza a 82ºC para:
+132. Para colar caldos grandes se usa:
 
-a) Que los platos brillen.
+a) Chino.
 
-b) Que se sequen antes.
+b) Colador de acero inoxidable. 
 
-c) Garantizar la desinfección térmica de los gérmenes.
+c) Papel.
 
-d) Quitar el sabor al jabón.
+d) Trapo.
+
+Solución: d
+
+133. Para machacar especias se usa el:
+
+a) Rodillo.
+
+b) Almirez. 
+
+c) Cazo.
+
+d) Chino.
 
 Solución: c
 
-📝 Continuación: Bloque de Higiene y Productos Químicos (101-180)
-101. ¿Qué es el "pérdida de carga" en un filtro de campana?
+134. Para rallar queso se usa el:
 
-a) Que se rompe el cable.
+a) Cuchillo.
 
-b) La resistencia que ofrece el filtro sucio al paso del aire.
+b) Rallador múltiple. 
 
-c) Que el motor gasta menos.
+c) Tenazas.
 
-d) El peso del filtro.
+d) Chino.
 
-Solución: b
+Solución: d
 
-102. Los detergentes tensioactivos sirven para:
+135. Para tamizar harina se usa el:
 
-a) Dar color al agua.
+a) Chino.
 
-b) Disminuir la tensión superficial del agua y penetrar en la suciedad.
+b) Tamiz. 
 
-c) Que el agua hierva antes.
+c) Cubo.
 
-d) Matar insectos únicamente.
-
-Solución: b
-
-103. ¿Qué significa el pictograma de una calavera en un bote?
-
-a) Producto inflamable.
-
-b) Producto tóxico o muy tóxico.
-
-c) Producto para limpiar huesos.
-
-d) Producto caducado.
+d) Plato.
 
 Solución: b
 
-104. Un producto "comburente" es aquel que:
+136. Lo más importante de un cuchillo es el:
 
-a) Se quema solo.
+a) Color.
 
-b) Facilita la combustión de otras sustancias.
+b) Equilibrio. 
 
-c) No se puede mojar.
+c) Precio.
 
-d) Es comestible.
-
-Solución: b
-
-105. Las estropajos de acero inoxidable son recomendables para:
-
-a) Limpiar teflón.
-
-b) Limpiar suciedad incrustada en acero o hierro (no superficies delicadas).
-
-c) Limpiar la cara.
-
-d) No se deben usar nunca.
+d) Estuche.
 
 Solución: b
 
-106. ¿Cómo se desinfecta un termómetro de sonda después de cada uso?
+137. El cuchillo más pequeño es la:
 
-a) Con un trapo seco.
+a) Macheta.
 
-b) Con una toallita desinfectante con alcohol o solución clorada.
+b) Puntilla. 
 
-c) Soplando fuerte.
+c) Hacha.
 
-d) No hace falta limpiarlo si la comida estaba caliente.
+d) Espada.
+
+Solución: c
+
+138. Sobre las tablas de corte:
+
+a) Son de madera.
+
+b) Son de hierro.
+
+c) Ciertas respuestas b) y c) (Colores por alimentos). 
+
+d) No se usan.
+
+Solución: d
+
+139. Para picar se usa el:
+
+a) Cuchillo de medio golpe. 
+
+b) Cuchillo de pan.
+
+c) Pelapatatas.
+
+d) Chino.
+
+Solución: a
+
+140. Para mechar carne se usa la:
+
+a) Aguja de coser.
+
+b) Aguja mechadora. 
+
+c) Tijera.
+
+d) Cuchara.
+
+Solución: b
+
+141. Las marmitas se limpian:
+
+a) Con productos desincrustantes. 
+
+b) Con barro.
+
+c) Con aceite.
+
+d) No se limpian.
+
+Solución: a
+
+142. La maquinaria se limpia:
+
+a) Una vez al año.
+
+b) Cada vez que se utilice. 
+
+c) Cuando esté negra.
+
+d) Solo los lunes.
+
+Solución: c
+
+143. La pequeña maquinaria se limpia con:
+
+a) Lejía pura.
+
+b) Agua jabonosa. 
+
+c) Arena.
+
+d) Gasolina.
 
 Solución: b
 
-107. ¿Qué es el "biofilm"?
+144. No se meten en el lavavajillas:
 
-a) Una película de cine sobre bacterias.
+a) Las marmitas y rustideras fijas. 
 
-b) Una capa de microorganismos adherida a una superficie, muy difícil de quitar.
+b) Los platos.
 
-c) Un tipo de plástico para envolver.
+c) Los vasos.
 
-d) El uniforme del pinche.
+d) Los tenedores.
+
+Solución: a
+
+145. El bloque de cocción se refiere:
+
+a) A la pared.
+
+b) Al suelo.
+
+c) Al módulo donde se genera el calor. 
+
+d) Al almacén.
+
+Solución: c
+
+146. Sobre los productos de limpieza:
+
+a) Son seguros.
+
+b) Se pueden beber.
+
+c) Solo contaminarán si entran en contacto. 
+
+d) Huelen bien.
+
+Solución: c
+
+147. Los limpiadores de suelos son:
+
+a) Jabones.
+
+b) Ácidos.
+
+c) Pavimentadores. 
+
+d) Gas.
+
+Solución: c
+
+148. El hipoclorito es:
+
+a) Un desinfectante derivado del cloro. 
+
+b) Sal.
+
+c) Aceite.
+
+d) Azúcar.
+
+Solución: a
+
+149. La limpieza sirve para:
+
+a) Gastar tiempo.
+
+b) Determinar el aspecto del producto acabado. 
+
+c) Ensuciar más.
+
+d) Pintar la cocina.
+
+Solución: d
+
+150. Sobre la maquinaria pesada:
+
+a) No se limpia.
+
+b) Todas (deben limpiarse tras uso). 
+
+c) Es de madera.
+
+d) Se tira si se ensucia.
+
+Solución: d
+
+📝 Bloque 6: Química y Seguridad (Preguntas 151-180)
+151. No se deben mezclar:
+
+a) Agua y jabón.
+
+b) Tensioactivos aniónicos con catiónicos. 
+
+c) Aceite y vinagre.
+
+d) Sal y azúcar.
+
+Solución: d
+
+152. Sobre la desinfección química:
+
+a) Es instantánea.
+
+b) Su acción es de larga duración. 
+
+c) Es inútil.
+
+d) Huele a fresa.
 
 Solución: b
 
-108. La limpieza de suelos en cocina debe ser:
+153. La primera fase de limpieza es el:
 
-a) Siempre en seco.
+a) Lavado. 
 
-b) En húmedo con productos detergentes y desinfectantes.
+b) Aclarado.
 
-c) Una vez al mes.
+c) Secado.
 
-d) Con arena de playa.
+d) Barnizado.
+
+Solución: a
+
+154. Sobre los detergentes:
+
+a) Limpian poco.
+
+b) Son caros.
+
+c) No mojan.
+
+d) Todas las respuestas son correctas. 
+
+Solución: d
+
+155. La "plonge" es:
+
+a) Un salto.
+
+b) Lugar donde se lavan marmitas y elementos móviles. 
+
+c) Un cuchillo.
+
+d) Un postre.
 
 Solución: b
 
-109. El orden correcto de limpieza es:
+156. Se limpia mejor:
 
-a) Desinfectar y luego limpiar.
+a) Con agua fría.
 
-b) Limpiar (quitar suciedad visible) y luego desinfectar (matar microbios).
+b) Mejorando la acción química. 
 
-c) Solo desinfectar.
+c) En la oscuridad.
 
-d) Solo barrer.
+d) Con un cepillo de dientes.
+
+Solución: b
+
+157. Un desengrasante suele ser:
+
+a) Ácido.
+
+b) Neutro.
+
+c) Alcalino. 
+
+d) Sólido.
+
+Solución: c
+
+158. Los tensioactivos más comunes son:
+
+a) Iónicos.
+
+b) No iónicos. 
+
+c) Metálicos.
+
+d) De madera.
+
+Solución: c
+
+159. Sobre la lejía:
+
+a) Es muy estable.
+
+b) No quema.
+
+c) Es un gas.
+
+d) Todas las respuestas son correctas. 
+
+Solución: d
+
+160. Para cortar huesos se usa la:
+
+a) Sierra.
+
+b) Tijera.
+
+c) Navaja.
+
+d) Macheta (para cortar huesos duros). 
+
+Solución: d
+
+161. Sobre las frases de peligro:
+
+a) Las indicaciones (H) corresponden a las antiguas frases R. 
+
+b) Son canciones.
+
+c) No sirven.
+
+d) Son colores.
+
+Solución: a
+
+162. Los productos que destruyen tejidos son:
+
+a) Irritantes.
+
+b) Dulces.
+
+c) Corrosivos. 
+
+d) Gaseosos.
+
+Solución: c
+
+163. Sobre los envases de limpieza:
+
+a) Se dejan abiertos.
+
+b) Se tiran al río.
+
+c) Se usan para beber.
+
+d) Las respuestas a) y b) son correctas (Estado/Cerrados). 
+
+Solución: d
+
+164. Sobre el plan de residuos:
+
+a) Solo sólidos.
+
+b) Solo líquidos.
+
+c) No hay plan.
+
+d) Todas las respuestas son ciertas. 
+
+Solución: d
+
+165. La reglamentación de detergentes es de:
+
+a) 1900.
+
+b) 2050.
+
+c) 1999. 
+
+d) Ayer.
+
+Solución: c
+
+166. Los agentes tensioactivos son:
+
+a) Iónicos, no iónicos o anfóteros. 
+
+b) Solo rojos.
+
+c) Solo líquidos.
+
+d) Inútiles.
+
+Solución: a
+
+167. El producto para dar volumen al detergente es la:
+
+a) Burbuja.
+
+b) Espuma.
+
+c) Carga. 
+
+d) Pesada.
+
+Solución: c
+
+168. Al mezclar lejía sale gas:
+
+a) Oxígeno.
+
+b) Helio.
+
+c) Cloro. 
+
+d) Neón.
+
+Solución: b (Nota: marcado como CSolo/Cloro).
+
+169. El componente activo de la lejía es:
+
+a) Sal común.
+
+b) Vinagre.
+
+c) Hipoclorito sódico. 
+
+d) Jabón.
+
+Solución: c
+
+170. El producto de limpieza se recoge en:
+
+a) El frigorífico.
+
+b) Al almacén para productos de limpieza. 
+
+c) El vestuario.
+
+d) El comedor.
 
 Solución: b
 
-110. El cloro (lejía) pierde su eficacia si el agua está:
+171. Si ves una botella sin etiqueta:
 
-a) Muy fría.
+a) Huele para saber qué es.
 
-b) Muy caliente (se evapora el gas cloro) o muy sucia.
+b) Úsala.
 
-c) Transparente.
+c) Tírala a la comida.
 
-d) En un cubo de plástico.
+d) Comunícalo al encargado para su retirada. 
+
+Solución: d
+
+172. En los detergentes siempre figuran las:
+
+a) Fotos de flores.
+
+b) Enzimas. 
+
+c) Vitaminas.
+
+d) Calorías.
+
+Solución: c
+
+173. El etiquetado peligroso:
+
+a) Deberá cumplir el Reglamento vigente. 
+
+b) Es opcional.
+
+c) Es secreto.
+
+d) No existe.
+
+Solución: a
+
+174. El pictograma de peligro es un:
+
+a) Círculo.
+
+b) Cuadrado apoyado sobre un vértice (rombo). 
+
+c) Triángulo.
+
+d) Corazón.
 
 Solución: b
+
+175. La cantidad de limpiador será:
+
+a) A ojo.
+
+b) La que recomiende el fabricante. 
+
+c) Todo el bote.
+
+d) Ninguna.
+
+Solución: b
+
+176. La sal en el lavavajillas sirve para:
+
+a) Dar sabor.
+
+b) Que funcione el sistema de descalcificación. 
+
+c) Matar moscas.
+
+d) Calentar el agua.
+
+Solución: b
+
+177. El agua de aclarado estará a:
+
+a) 20 °C.
+
+b) 82 °C. 
+
+c) 200 °C.
+
+d) 0 °C.
+
+Solución: b
+
+178. Las partes desmontables se limpian:
+
+a) Sumergiéndolas en agua. 
+
+b) En seco.
+
+c) Con aire.
+
+d) Con arena.
+
+Solución: a
+
+179. La plancha se limpia:
+
+a) Cada año.
+
+b) Respuestas a) y b) son correctas (Inicio/Tras uso). 
+
+c) Con un trapo sucio.
+
+d) Con azúcar.
+
+Solución: d
+
+180. No es toxicidad aguda si los efectos salen:
+
+a) Al momento.
+
+b) Tras 10 a 20 dosis por vía cutánea. 
+
+c) Al día.
+
+d) A la hora.
+
+Solución: d (Nota: referido a la última respuesta del bloque).
+
 Test n.º 16: Protección medioambiental y Gestión de Residuos
 1. Según la FAO, ¿qué porcentaje aproximado de los alimentos producidos a nivel mundial se pierden o se desperdician?
 
