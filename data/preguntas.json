@@ -6127,5 +6127,681 @@
     },
     "correcta": "c",
     "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 9",
+    "pregunta": "El cumplimiento de las normas de higiene alimentaria va a asegurar la salubridad del alimento:",
+    "opciones": {
+      "a": "Al 100 %.",
+      "b": "Al 90 %.",
+      "c": "Al 75 %.",
+      "d": "Simplemente va a minimizar el riesgo para la salud."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 9",
+    "pregunta": "La mayoría de las enfermedades transmitidas por los alimentos están relacionadas con:",
+    "opciones": {
+      "a": "El país de donde procede.",
+      "b": "La etnia o país que los cultiva.",
+      "c": "Una inadecuada manipulación de los alimentos.",
+      "d": "Una ingesta desequilibrada de los usuarios."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 9",
+    "pregunta": "¿Cuál de estos es un error en la manipulación de alimentos que puede ocasionar una enfermedad en las personas?",
+    "opciones": {
+      "a": "Cocción suficiente en su elaboración.",
+      "b": "Elegir los alimentos tratados con fines higiénicos.",
+      "c": "Preparación de los alimentos varias horas antes de su consumo.",
+      "d": "Guardar cuidadosamente los alimentos cocinados."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 9",
+    "pregunta": "Durante la cocción de productos alimenticios hay que garantizar que el centro del producto cocinado alcanza al menos los:",
+    "opciones": {
+      "a": "50 °C.",
+      "b": "60 °C.",
+      "c": "70 °C.",
+      "d": "80 °C."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 9",
+    "pregunta": "Si un alimento cocinado se conserva en caliente, se hará por encima de la temperatura de:",
+    "opciones": {
+      "a": "40 °C.",
+      "b": "50 °C.",
+      "c": "60 °C.",
+      "d": "70 °C."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 9",
+    "pregunta": "Cuando un alimento crudo contaminado entra en contacto con el alimento cocinado tendremos:",
+    "opciones": {
+      "a": "Contaminación cruzada directa.",
+      "b": "Contaminación cruzada indirecta.",
+      "c": "Contaminación cruzada mixta.",
+      "d": "No habrá contaminación cruzada."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 9",
+    "pregunta": "Según la normativa vigente la responsabilidad en materia de formación de los manipuladores de alimentos recae en:",
+    "opciones": {
+      "a": "La oficina de empleo.",
+      "b": "Los operadores de empresas alimentarias.",
+      "c": "En centros especializados para esta tarea.",
+      "d": "Ayuntamientos respectivos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 9",
+    "pregunta": "¿En qué normativa se establecen las normas generales relativas a la higiene alimentaria, destinadas a los operadores de empresa alimentaria?",
+    "opciones": {
+      "a": "Reglamento CE 852/2004 (Parlamento Europeo y del Consejo).",
+      "b": "Real Decreto 109/2010.",
+      "c": "Ley 25/2009.",
+      "d": "Real Decreto 202/2000."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué medidas a llevar a cabo en animales o en productos animales no deberán llevar a cabo los operadores mediante registros sobre las medidas aplicadas para controlar peligros?",
+    "opciones": {
+      "a": "Enfermedades padecidas por el animal.",
+      "b": "Controles efectuados al animal.",
+      "c": "Utilización de productos fitosanitarios y biocidas.",
+      "d": "Medicamentos veterinarios y otros tratamientos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 9",
+    "pregunta": "¿En qué parte del Reglamento CE 852/2004 se especifican las características que tendrán los locales destinados a la producción de alimentos?",
+    "opciones": {
+      "a": "En el artículo 4.",
+      "b": "En el Anexo I.",
+      "c": "En el Anexo II.",
+      "d": "En el artículo 20."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué afirmación es INCORRECTA en cuanto a los requisitos específicos de las salas donde se manipulan alimentos?",
+    "opciones": {
+      "a": "Los materiales de construcción del suelo serán permeables y absorbentes.",
+      "b": "Los suelos dispondrán de sistema de desagüe.",
+      "c": "Las paredes deberán ser fáciles de limpiar y desinfectar.",
+      "d": "Los techos no permitirán la acumulación de suciedad o moho."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué operarios NO deben estar autorizados a manipular los alimentos?",
+    "opciones": {
+      "a": "Todos estarán autorizados.",
+      "b": "Aquellos portadores de una enfermedad transmitida por alimentos.",
+      "c": "Aquellos portadores de una enfermedad infecciosa aunque no sea transmisible por alimentos.",
+      "d": "Son ciertas las respuestas b) y c)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 9",
+    "pregunta": "¿En qué parte del Reglamento CE 852/2004, Anexo II se contempla los requisitos de la formación de manipuladores?",
+    "opciones": {
+      "a": "En el Capítulo IX.",
+      "b": "En el Capítulo X.",
+      "c": "En el Capítulo XI.",
+      "d": "En el Capítulo XII."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 9",
+    "pregunta": "La formación de los manipuladores puede ser impartida por:",
+    "opciones": {
+      "a": "Empresas o entidades formadoras.",
+      "b": "La propia empresa alimentaria.",
+      "c": "Centros o escuelas de formación profesional reconocidos.",
+      "d": "Cualquiera de los anteriores."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 9",
+    "pregunta": "¿Dónde vendrán recogidos los aspectos de formación de operarios en la manipulación de alimentos?",
+    "opciones": {
+      "a": "Plan anual de empresa.",
+      "b": "Plan de formación anual.",
+      "c": "Plan de autocontrol de la empresa.",
+      "d": "Ninguno de los anteriores es correcto."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 9",
+    "pregunta": "Para que se cumplan los objetivos del Plan Nacional de Control Oficial de la Cadena Alimentaria se realizará:",
+    "opciones": {
+      "a": "Auditorías externas únicamente.",
+      "b": "Auditorías internas únicamente.",
+      "c": "Auditorías mixtas.",
+      "d": "Auditorías externas e internas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué normativa española recoge que la autoridad competente realice auditorías para verificar que se cumplen los objetivos del Plan Nacional?",
+    "opciones": {
+      "a": "Real Decreto 202/2000.",
+      "b": "Real Decreto 109/2010.",
+      "c": "Ley Orgánica 5/2002.",
+      "d": "Ley 17/2011."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué regula la Ley Orgánica 5/2002, de 19 de junio?",
+    "opciones": {
+      "a": "El procedimiento de auditorías alimentarias.",
+      "b": "El Catálogo Nacional de Cualificaciones Profesionales.",
+      "c": "La formación de operarios en los centros de trabajo.",
+      "d": "Los cursos de seguridad e higiene."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 9",
+    "pregunta": "¿Cómo se denomina el sujeto que padece de una infección latente, sin síntomas, pero con capacidad de transmitirla?",
+    "opciones": {
+      "a": "Portador sano.",
+      "b": "Portador oligosintomático.",
+      "c": "Portador enfermo.",
+      "d": "Portador aparente."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 9",
+    "pregunta": "Las infracciones graves de la ley 17/2011 podrán alcanzar como máximo una multa de:",
+    "opciones": {
+      "a": "5.000 euros.",
+      "b": "10.000 euros.",
+      "c": "20.000 euros.",
+      "d": "100.000 euros."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 9",
+    "pregunta": "Si una infracción tiene clara intencionalidad, gravedad extrema y múltiples reincidencias, será catalogada como:",
+    "opciones": {
+      "a": "Muy leve.",
+      "b": "Leve.",
+      "c": "Grave.",
+      "d": "Muy grave."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 9",
+    "pregunta": "¿Cómo se denominan las enfermedades debidas a infección por un microorganismo presente en el alimento?",
+    "opciones": {
+      "a": "Infecciones alimentarias.",
+      "b": "Intoxicaciones alimentarias.",
+      "c": "Toxiinfecciones alimentarias.",
+      "d": "Enfermedades alimentarias."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 9",
+    "pregunta": "¿Cuándo es mayor la incidencia de toxiinfecciones alimentarias?",
+    "opciones": {
+      "a": "En verano e invierno.",
+      "b": "En otoño e invierno.",
+      "c": "En otoño y primavera.",
+      "d": "En primavera y verano."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué grupos son los de mayor riesgo de padecer toxiinfecciones alimentarias?",
+    "opciones": {
+      "a": "Los adultos.",
+      "b": "Los niños (y ancianos/inmunodeprimidos).",
+      "c": "Las personas sanas.",
+      "d": "Los adolescentes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 9",
+    "pregunta": "El enranciamiento de un alimento es una alteración alimentaria por un cambio:",
+    "opciones": {
+      "a": "Físico.",
+      "b": "Biológico.",
+      "c": "Químico.",
+      "d": "Térmico."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 9",
+    "pregunta": "La acumulación de microorganismos constituye una alteración que produce un riesgo:",
+    "opciones": {
+      "a": "Físico.",
+      "b": "Biológico.",
+      "c": "Químico.",
+      "d": "Térmico."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué denominación reciben los alimentos que se pueden conservar por tiempo prolongado sin frío?",
+    "opciones": {
+      "a": "Alimentos perecederos.",
+      "b": "Alimentos semiperecederos.",
+      "c": "Alimentos no perecederos.",
+      "d": "Alimentos estables."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 9",
+    "pregunta": "Las conservas entrarían dentro de la categoría de los alimentos:",
+    "opciones": {
+      "a": "Perecederos.",
+      "b": "Semiperecederos.",
+      "c": "No perecederos.",
+      "d": "Estables."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 9",
+    "pregunta": "¿Cómo se denomina la contaminación por crecimiento de microorganismos sobre los alimentos?",
+    "opciones": {
+      "a": "Directa.",
+      "b": "Indirecta.",
+      "c": "Cruzada.",
+      "d": "Biológica (o Mixta según contexto del test)."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué factores propician la contaminación de alimentos?",
+    "opciones": {
+      "a": "La humedad ambiental.",
+      "b": "Las altas temperaturas ambientales.",
+      "c": "El contenido en agua de los alimentos.",
+      "d": "Son correctos todos los anteriores."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 31,
+    "tema": "Tema 9",
+    "pregunta": "¿Entre qué temperaturas se sitúa la zona de peligro de multiplicación bacteriana?",
+    "opciones": {
+      "a": "10 y 20º.",
+      "b": "20 y 30º.",
+      "c": "10 y 60º (o 30-40º como zona óptima).",
+      "d": "40 y 50º."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 32,
+    "tema": "Tema 9",
+    "pregunta": "¿A qué se denomina todo elemento que se incorpora involuntariamente al alimento con consecuencias negativas?",
+    "opciones": {
+      "a": "Agente causal.",
+      "b": "Huésped.",
+      "c": "Autor.",
+      "d": "Contaminante."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué contaminante es abiótico?",
+    "opciones": {
+      "a": "Bacterias.",
+      "b": "Virus.",
+      "c": "Metales pesados.",
+      "d": "Insectos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 34,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué enfermedad de estas es BACTERIANA?",
+    "opciones": {
+      "a": "Brucelosis (o Salmonelosis).",
+      "b": "Hepatitis A.",
+      "c": "Enfermedad de las vacas locas.",
+      "d": "Intoxicación por insecticidas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 35,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué enfermedad de estas es PARASITARIA?",
+    "opciones": {
+      "a": "Salmonelosis.",
+      "b": "Hepatitis A.",
+      "c": "Enfermedad de las vacas locas.",
+      "d": "Triquinosis."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 36,
+    "tema": "Tema 9",
+    "pregunta": "Las bacterias que viven exclusivamente en AUSENCIA de oxígeno se denominan:",
+    "opciones": {
+      "a": "Microaerófilas.",
+      "b": "Aerobias.",
+      "c": "Anaerobias.",
+      "d": "Facultativas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 37,
+    "tema": "Tema 9",
+    "pregunta": "El periodo de incubación de la salmonelosis puede durar aproximadamente entre:",
+    "opciones": {
+      "a": "8 y 72 horas.",
+      "b": "48 y 96 horas.",
+      "c": "5 y 7 días.",
+      "d": "8 y 10 días."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 38,
+    "tema": "Tema 9",
+    "pregunta": "La bacteria Escherichia coli se destruye a la temperatura de:",
+    "opciones": {
+      "a": "70 °C.",
+      "b": "90 °C.",
+      "c": "110 °C.",
+      "d": "120 °C."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 39,
+    "tema": "Tema 9",
+    "pregunta": "¿En qué condiciones el Clostridium botulinum produce la toxina botulínica?",
+    "opciones": {
+      "a": "En condiciones microaerófilas.",
+      "b": "En condiciones aerobias.",
+      "c": "En condiciones anaerobias.",
+      "d": "En condiciones facultativas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 40,
+    "tema": "Tema 9",
+    "pregunta": "¿A qué temperatura se deben esterilizar las conservas para prevenir el botulismo?",
+    "opciones": {
+      "a": "A 100 °C durante 20 minutos.",
+      "b": "A 120 °C durante 10 minutos.",
+      "c": "A 120 °C durante 20 minutos.",
+      "d": "A 90 °C durante 10 minutos."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 41,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué dato es característico de la shigelosis?",
+    "opciones": {
+      "a": "La diarrea es mucosa.",
+      "b": "La diarrea es muy líquida.",
+      "c": "La diarrea es acuosa y con sangre.",
+      "d": "No hay diarrea."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 42,
+    "tema": "Tema 9",
+    "pregunta": "¿Dónde se encuentra con frecuencia la bacteria Bacillus cereus?",
+    "opciones": {
+      "a": "En el suelo.",
+      "b": "En vegetales.",
+      "c": "En carnes.",
+      "d": "En el aire."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 43,
+    "tema": "Tema 9",
+    "pregunta": "¿A qué vegetales frecuentemente pasa el Bacillus cereus desde el suelo?",
+    "opciones": {
+      "a": "A cereales.",
+      "b": "A aceitunas.",
+      "c": "A legumbres.",
+      "d": "A frutas."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 44,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué alimentos suelen ocasionar más frecuentemente brucelosis?",
+    "opciones": {
+      "a": "La leche sin pasteurizar y derivados.",
+      "b": "El arroz.",
+      "c": "Agua contaminada.",
+      "d": "Nada de lo anterior es correcto."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 45,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué agente de estos es el productor del cólera?",
+    "opciones": {
+      "a": "Vibrio (Vibrio cholerae).",
+      "b": "Clostridium.",
+      "c": "Escherichia coli.",
+      "d": "Listeria."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 46,
+    "tema": "Tema 9",
+    "pregunta": "La intoxicación paralítica por mariscos causa la muerte por:",
+    "opciones": {
+      "a": "Infarto agudo de miocardio.",
+      "b": "Parada cardiaca.",
+      "c": "Fallo renal.",
+      "d": "Parada respiratoria."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 47,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué patología causa el virus Norwalk?",
+    "opciones": {
+      "a": "Gastroenteritis benigna de 1 a 2 días.",
+      "b": "Hepatitis benigna.",
+      "c": "Gastroenteritis grave de 15 días.",
+      "d": "Encefalitis espongiforme."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 48,
+    "tema": "Tema 9",
+    "pregunta": "¿Qué técnica sobre la carne de cerdo garantiza la inocuidad contra la triquinosis?",
+    "opciones": {
+      "a": "Cocinar bien la carne a altas temperaturas.",
+      "b": "Ahumado.",
+      "c": "Desecado.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 49,
+    "tema": "Tema 9",
+    "pregunta": "El anisakis ocasiona:",
+    "opciones": {
+      "a": "Gastroenteritis aguda.",
+      "b": "Hidatidosis.",
+      "c": "Anisomiasis (o Anisakiasis).",
+      "d": "Giardiasis."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 50,
+    "tema": "Tema 9",
+    "pregunta": "El anisakis se destruye en pescados:",
+    "opciones": {
+      "a": "Por congelación (mínimo -20°C).",
+      "b": "Por hervido.",
+      "c": "Por frito.",
+      "d": "Por exposición a un fuerte adobo."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 51,
+    "tema": "Tema 9",
+    "pregunta": "La enfermedad de Minamata se produce por:",
+    "opciones": {
+      "a": "Mercurio.",
+      "b": "Cadmio.",
+      "c": "Plomo.",
+      "d": "Yodo."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 52,
+    "tema": "Tema 9",
+    "pregunta": "El \"plato testigo\" es una medida recogida en el Real Decreto:",
+    "opciones": {
+      "a": "2817/1983.",
+      "b": "3484/2000.",
+      "c": "202/2000.",
+      "d": "109/2010."
+    },
+    "correcta": "b",
+    "explicacion": ""
   }
 ]

@@ -1,624 +1,624 @@
-Test n.º 8: Prevención de Riesgos Laborales y Plan Perseo
-1. Los representantes de los trabajadores con competencia en materia de prevención de riesgos laborales son:
+Test n.º 9: Principios básicos de la higiene alimentaria
+1. El cumplimiento de las normas de higiene alimentaria va a asegurar la salubridad del alimento:
 
-a) Los miembros de la Junta de personal, Junta Facultativo y Junta de Enfermería.
+a) Al 100 %.
 
-b) Los técnicos de prevención de riesgos laborales.
+b) Al 90 %.
 
-c) El Servicio de Medicina Preventiva.
+c) Al 75 %.
 
-d) Los delegados de prevención.
+d) Simplemente va a minimizar el riesgo para la salud.
 
 Solución: d
 
-2. ¿Qué se entiende por “riesgo laboral”?
+2. La mayoría de las enfermedades transmitidas por los alimentos están relacionadas con:
 
-a) La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.
+a) El país de donde procede.
 
-b) La posibilidad de que un trabajador sufra una enfermedad en el trabajo.
+b) La etnia o país que los cultiva.
 
-c) La posibilidad de que un trabajador sufra acoso.
+c) Una inadecuada manipulación de los alimentos.
 
-d) El riesgo que supone el ir a trabajar.
+d) Una ingesta desequilibrada de los usuarios.
+
+Solución: c
+
+3. ¿Cuál de estos es un error en la manipulación de alimentos que puede ocasionar una enfermedad en las personas?
+
+a) Cocción suficiente en su elaboración.
+
+b) Elegir los alimentos tratados con fines higiénicos.
+
+c) Preparación de los alimentos varias horas antes de su consumo.
+
+d) Guardar cuidadosamente los alimentos cocinados.
+
+Solución: c
+
+4. Durante la cocción de productos alimenticios hay que garantizar que el centro del producto cocinado alcanza al menos los:
+
+a) 50 °C.
+
+b) 60 °C.
+
+c) 70 °C.
+
+d) 80 °C.
+
+Solución: c
+
+5. Si un alimento cocinado se conserva en caliente, se hará por encima de la temperatura de:
+
+a) 40 °C.
+
+b) 50 °C.
+
+c) 60 °C.
+
+d) 70 °C.
+
+Solución: c
+
+6. Cuando un alimento crudo contaminado entra en contacto con el alimento cocinado tendremos:
+
+a) Contaminación cruzada directa.
+
+b) Contaminación cruzada indirecta.
+
+c) Contaminación cruzada mixta.
+
+d) No habrá contaminación cruzada.
 
 Solución: a
 
-3. ¿Quién debe garantizar a los trabajadores la vigilancia periódica de su estado de salud?
+7. Según la normativa vigente la responsabilidad en materia de formación de los manipuladores de alimentos recae en:
 
-a) La Inspección de Trabajo.
+a) La oficina de empleo.
 
-b) El propio trabajador.
+b) Los operadores de empresas alimentarias.
 
-c) El empresario.
+c) En centros especializados para esta tarea.
 
-d) Las secciones sindicales.
-
-Solución: c
-
-4. Indica cuál es la definición de prevención:
-
-a) La probabilidad racional de que un riesgo se materialice de forma inminente.
-
-b) El estudio de los procesos potencialmente peligrosos para el trabajo.
-
-c) Conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos.
-
-d) Posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.
-
-Solución: c
-
-5. ¿Cuál es la vigente Ley de Prevención de Riesgos Laborales?
-
-a) Ley 32/1995, de 8 de noviembre.
-
-b) Ley 30/1996, de 8 de noviembre.
-
-c) Ley 31/1995, de 6 de noviembre.
-
-d) Ley 31/1995, de 8 de noviembre.
-
-Solución: d
-
-6. Entre los principios de la acción preventiva (art. 15 LPRL), NO figura:
-
-a) Evitar los riesgos.
-
-b) Evaluar los riesgos que se puedan evitar. (Nota: se evalúan los que NO se pueden evitar).
-
-c) Tener en cuenta la evolución de la técnica.
-
-d) Dar las debidas instrucciones a los trabajadores.
+d) Ayuntamientos respectivos.
 
 Solución: b
 
-7. Según la LPRL, se constituirá un Comité de Seguridad y Salud en centros que cuenten con:
+8. ¿En qué normativa se establecen las normas generales relativas a la higiene alimentaria, destinadas a los operadores de empresa alimentaria?
 
-a) 30 o más trabajadores.
+a) Reglamento CE 852/2004 (Parlamento Europeo y del Consejo).
 
-b) 50 o más trabajadores.
+b) Real Decreto 109/2010.
 
-c) 75 o más trabajadores.
+c) Ley 25/2009.
 
-d) 100 o más trabajadores.
-
-Solución: b
-
-8. Entre las obligaciones de los trabajadores, NO figura:
-
-a) Informar directamente al empresario de cualquier situación que entrañe riesgo.
-
-b) Contribuir al cumplimiento de las obligaciones establecidas por la autoridad.
-
-c) Cooperar con el empresario para garantizar condiciones seguras.
-
-d) Utilizar correctamente los medios y equipos de protección facilitados.
-
-Solución: a (Nota: la obligación es informar al superior jerárquico directo y a los trabajadores designados).
-
-9. El órgano paritario y colegiado destinado a la consulta regular de prevención es:
-
-a) El Comité de Empresa.
-
-b) El Consejo de Vigilancia de la Prevención.
-
-c) La Comisión de Evaluación de Riesgos Laborales.
-
-d) El Comité de Seguridad y Salud.
-
-Solución: d
-
-10. La evaluación de los riesgos laborales es:
-
-a) Un proceso técnico en la organización del trabajo.
-
-b) Un proceso dirigido a estimar la magnitud de los riesgos que no hayan podido evitarse.
-
-c) Un procedimiento estático.
-
-d) Una práctica para el control y la protección de los trabajadores.
-
-Solución: b
-
-11. Según el art. 4 de la LPRL, se define como "daños derivados del trabajo":
-
-a) La posibilidad de que un trabajador sufra un daño.
-
-b) El riesgo inminente y grave.
-
-c) Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.
-
-d) Cualquier máquina o instalación utilizada.
-
-Solución: c
-
-12. La paralización de la actividad ante riesgo grave e inminente será adoptada por:
-
-a) Acuerdo por mayoría absoluta de los representantes (plazo 48h).
-
-b) Acuerdo por mayoría de 2/3 (plazo 24h).
-
-c) Acuerdo por mayoría (plazo 48h).
-
-d) Acuerdo por mayoría de sus miembros. Comunicado de inmediato a empresa y autoridad laboral (plazo 24h).
-
-Solución: d
-
-13. De la documentación que el empresario debe conservar, NO está incluido:
-
-a) El Plan de prevención de riesgos laborales.
-
-b) Evaluación de los riesgos para la seguridad.
-
-c) La planificación de la actividad laboral. (Nota: es la planificación de la actividad preventiva).
-
-d) La relación de accidentes de trabajo y enfermedades profesionales.
-
-Solución: c
-
-14. NO se considera una obligación del trabajador (art. 29 LPRL):
-
-a) Utilizar correctamente los equipos de protección.
-
-b) Usar adecuadamente máquinas, herramientas y sustancias peligrosas.
-
-c) Informar de inmediato a su superior jerárquico directo y a los trabajadores designados para actualizaciones del EPI.
-
-d) No poner fuera de funcionamiento los dispositivos de seguridad.
-
-Solución: c
-
-15. Señale la afirmación INCORRECTA sobre el art. 35 LPRL:
-
-a) Los Delegados de Prevención son los representantes con funciones específicas.
-
-b) Son designados por y entre los representantes del personal.
-
-c) En una empresa de 2.500 trabajadores existirán 6 Delegados de Prevención.
-
-d) En las empresas de 31 trabajadores el Delegado de Prevención será el Delegado de Personal.
-
-Solución: d (Nota: en empresas de hasta 30 trabajadores el Delegado de Personal es el de Prevención).
-
-16. Los instrumentos esenciales para la gestión del Plan de prevención son:
-
-a) La evaluación de riesgos y la planificación de la actividad preventiva.
-
-b) La evaluación inicial y la formación.
-
-c) La planificación y la gestión.
-
-d) La identificación y la evaluación.
+d) Real Decreto 202/2000.
 
 Solución: a
 
-17. El posible cambio de puesto de trabajo para una trabajadora embarazada:
+9. ¿Qué medidas a llevar a cabo en animales o en productos animales no deberán llevar a cabo los operadores mediante registros sobre las medidas aplicadas para controlar peligros?
 
-a) Deberá realizarse en caso de imposibilidad de adaptación del propio puesto.
+a) Enfermedades padecidas por el animal.
 
-b) Se hará previo informe del Servicio de Prevención.
+b) Controles efectuados al animal.
 
-c) Se determinará por el empresario con información a representantes.
+c) Utilización de productos fitosanitarios y biocidas.
 
-d) Se extenderá al período de lactancia.
-
-Solución: a
-
-18. La prevención de riesgos laborales deberá integrarse en la gestión a través de:
-
-a) La política preventiva.
-
-b) El plan de prevención.
-
-c) El consenso de las partes.
-
-d) El poder de decisión del empresario.
-
-Solución: b
-
-19. La acción preventiva en la empresa se planificará por:
-
-a) El Comité de Seguridad y Salud.
-
-b) Los Delegados de Prevención.
-
-c) El empresario a partir de una evaluación inicial de riesgos.
-
-d) Los Delegados de Personal.
+d) Medicamentos veterinarios y otros tratamientos.
 
 Solución: c
 
-20. ¿Debe el trabajador prestar su consentimiento para la vigilancia de la salud?
+10. ¿En qué parte del Reglamento CE 852/2004 se especifican las características que tendrán los locales destinados a la producción de alimentos?
 
-a) No.
+a) En el artículo 4.
 
-b) Sí. (Regla general de voluntariedad, salvo excepciones).
+b) En el Anexo I.
 
-c) Depende del número de trabajadores.
+c) En el Anexo II.
 
-d) Solo para personal fijo.
+d) En el artículo 20.
 
-Solución: b
+Solución: c
 
-21. ¿En qué casos se podrán constituir los Comités de Seguridad y Salud?
+11. ¿Qué afirmación es INCORRECTA en cuanto a los requisitos específicos de las salas donde se manipulan alimentos?
 
-a) En cualquier empresa.
+a) Los materiales de construcción del suelo serán permeables y absorbentes.
 
-b) No existen.
+b) Los suelos dispondrán de sistema de desagüe.
 
-c) En centros con 100 o más trabajadores.
+c) Las paredes deberán ser fáciles de limpiar y desinfectar.
 
-d) En centros que cuenten con 50 o más trabajadores.
+d) Los techos no permitirán la acumulación de suciedad o moho.
+
+Solución: a
+
+12. ¿Qué operarios NO deben estar autorizados a manipular los alimentos?
+
+a) Todos estarán autorizados.
+
+b) Aquellos portadores de una enfermedad transmitida por alimentos.
+
+c) Aquellos portadores de una enfermedad infecciosa aunque no sea transmisible por alimentos.
+
+d) Son ciertas las respuestas b) y c).
 
 Solución: d
 
-22. La formación teórica y práctica en materia preventiva deberá:
+13. ¿En qué parte del Reglamento CE 852/2004, Anexo II se contempla los requisitos de la formación de manipuladores?
 
-a) Impartirse en horario dentro de la jornada de trabajo.
+a) En el Capítulo IX.
 
-b) Impartirse por igual dentro y fuera.
+b) En el Capítulo X.
 
-c) Impartirse, siempre que sea posible, dentro de la jornada o con descuento del tiempo invertido.
+c) En el Capítulo XI.
 
-d) Teórica dentro y práctica fuera.
-
-Solución: c
-
-23. ¿Cuál de los siguientes principios de la acción preventiva es INCORRECTO?
-
-a) Evaluar los riesgos que no se pueden evitar.
-
-b) Priorizar medidas individuales a las colectivas. (Nota: se prioriza la protección colectiva a la individual).
-
-c) Combatir los riesgos en su origen.
-
-d) Tener en cuenta la evolución de la técnica.
-
-Solución: b
-
-24. Cualquier característica del trabajo que pueda tener influencia en la generación de riesgos es:
-
-a) Una condición de trabajo.
-
-b) Un factor de riesgo.
-
-c) Un proceso peligroso.
-
-d) Una zona peligrosa.
-
-Solución: a
-
-25. El acceso a la información médica de carácter personal de la vigilancia de salud:
-
-a) Se limitará al empresario y al Servicio de Prevención.
-
-b) Se limitará al Jefe inmediato.
-
-c) Solo será accesible al propio trabajador.
-
-d) Se limitará al personal médico y a las autoridades sanitarias.
+d) En el Capítulo XII.
 
 Solución: d
 
-26. En relación a la vigilancia de la salud, NO es cierto que:
+14. La formación de los manipuladores puede ser impartida por:
 
-a) Puede prolongarse tras la finalización de la relación laboral.
+a) Empresas o entidades formadoras.
 
-b) Las medidas se llevarán a cabo por personal sanitario.
+b) La propia empresa alimentaria.
 
-c) Los resultados de la vigilancia de la salud serán comunicados a los representantes de los trabajadores. (Nota: solo se les comunica la aptitud/conclusiones, no los datos médicos).
+c) Centros o escuelas de formación profesional reconocidos.
 
-d) Se optará por las pruebas que causen las menores molestias.
-
-Solución: c
-
-27. El Plan de prevención de riesgos laborales debe ser aprobado por:
-
-a) La dirección de la empresa.
-
-b) La autoridad sanitaria.
-
-c) Los representantes de los trabajadores.
-
-d) Todos los trabajadores.
-
-Solución: a
-
-28. La actividad preventiva deberá planificarse:
-
-a) Para un período determinado.
-
-b) Para un período ilimitado.
-
-c) Anualmente.
-
-d) Para un período máximo de 3 años.
-
-Solución: a
-
-29. ¿Cuál de los siguientes departamentos forma parte de la Comisión Gestora de Seguridad del SESCAM?
-
-a) Sociedades científicas.
-
-b) Atención sanitaria.
-
-c) Inspección médica.
-
-d) Colegios profesionales.
-
-Solución: c
-
-30. ¿Cuál de los siguientes lidera y difunde la política de seguridad del SESCAM?
-
-a) El consejero de Sanidad.
-
-b) La secretaría general del SESCAM.
-
-c) El servicio jurídico del SESCAM.
-
-d) La Comisión Gestora de Seguridad del SESCAM.
-
-Solución: b
-
-31. En relación al Plan Perseo, corresponde al Director de Seguridad:
-
-a) Elaborar un Sistema de Información Regional.
-
-b) Liderar la difusión de campañas informativas.
-
-c) Realización de Expedientes disciplinarios.
-
-d) Asesoramiento para la elaboración de un mapa de riesgos.
+d) Cualquiera de los anteriores.
 
 Solución: d
 
-32. El SESCAM asume la acción preventiva basada en el principio de:
+15. ¿Dónde vendrán recogidos los aspectos de formación de operarios en la manipulación de alimentos?
 
-a) Transparencia.
+a) Plan anual de empresa.
 
-b) Descentralización.
+b) Plan de formación anual.
 
-c) Universalidad.
+c) Plan de autocontrol de la empresa.
 
-d) Mejora continua.
+d) Ninguno de los anteriores es correcto.
+
+Solución: c
+
+16. Para que se cumplan los objetivos del Plan Nacional de Control Oficial de la Cadena Alimentaria se realizará:
+
+a) Auditorías externas únicamente.
+
+b) Auditorías internas únicamente.
+
+c) Auditorías mixtas.
+
+d) Auditorías externas e internas.
 
 Solución: d
 
-33. La estrategia de prevención del SESCAM se basará en un Sistema de Gestión basado en:
+17. ¿Qué normativa española recoge que la autoridad competente realice auditorías para verificar que se cumplen los objetivos del Plan Nacional?
 
-a) Cartas de servicio.
+a) Real Decreto 202/2000.
 
-b) Compromisos de calidad.
+b) Real Decreto 109/2010.
 
-c) Normas UNE.
+c) Ley Orgánica 5/2002.
 
-d) Reglamentos comunitarios.
-
-Solución: c
-
-34. Es un objetivo general del Plan General de Prevención de Riesgos del SESCAM:
-
-a) Promover actividades destinadas a eliminar o minimizar los riesgos, incluidos los medioambientales.
-
-b) Planificar la prevención.
-
-c) Armonizar criterios y actuaciones.
-
-d) Control y evaluación de planes.
-
-Solución: a
-
-35. Órgano responsable de establecer un Sistema Integrado de Información en Salud Laboral:
-
-a) Al Consejero de Sanidad.
-
-b) Al Director General de Recursos Humanos.
-
-c) Al Director-Gerente del SESCAM.
-
-d) Al Servicio de Salud Laboral.
-
-Solución: b
-
-36. Es una función del Servicio de Prevención:
-
-a) Elaborar la política de prevención.
-
-b) Participar con voz y voto en los Comités.
-
-c) Planificar y evaluar el Plan General.
-
-d) Planificar, coordinar, ejecutar y evaluar los programas específicos de acción.
+d) Ley 17/2011.
 
 Solución: d
 
-37. Órganos responsables de garantizar al personal la seguridad y salud en su puesto:
+18. ¿Qué regula la Ley Orgánica 5/2002, de 19 de junio?
 
-a) Las Direcciones-Gerencias.
+a) El procedimiento de auditorías alimentarias.
 
-b) Las Comisiones de Área.
+b) El Catálogo Nacional de Cualificaciones Profesionales.
 
-c) Las Comisiones Técnicas.
+c) La formación de operarios en los centros de trabajo.
 
-d) Los Servicios de Prevención.
-
-Solución: a
-
-38. Las Comisiones Técnicas de Trabajo o Equipos de Mejora:
-
-a) Ejercen funciones ilimitadas.
-
-b) Estarán constituidas por profesionales encargados de trabajar en la mejora de un aspecto concreto.
-
-c) Supervisan el cumplimiento de instrucciones.
-
-d) Proporcionan medios para la evaluación.
+d) Los cursos de seguridad e higiene.
 
 Solución: b
 
-39. NO es un deber de los trabajadores del SESCAM:
+19. ¿Cómo se denomina el sujeto que padece de una infección latente, sin síntomas, pero con capacidad de transmitirla?
 
-a) Declarar incidentes y accidentes.
+a) Portador sano.
 
-b) Cumplir las instrucciones de trabajo.
+b) Portador oligosintomático.
 
-c) Difundir la política de prevención del SESCAM. (Nota: esto es función de la Secretaría General).
+c) Portador enfermo.
 
-d) Colaborar en la gestión identificando riesgos.
+d) Portador aparente.
 
-Solución: c
+Solución: a
 
-40. Órgano paritario de coordinación y control respecto a los Comités de Seguridad y Salud:
+20. Las infracciones graves de la ley 17/2011 podrán alcanzar como máximo una multa de:
 
-a) El Servicio de Prevención.
+a) 5.000 euros.
 
-b) El Consejo del Área de Salud.
+b) 10.000 euros.
 
-c) La Comisión Central de Seguridad y Salud.
+c) 20.000 euros.
 
-d) La Inspección de Seguridad y Salud.
-
-Solución: c
-
-41. Los Comités de Seguridad y Salud del SESCAM deberán reunirse al menos:
-
-a) Quincenalmente.
-
-b) Mensualmente.
-
-c) Trimestralmente.
-
-d) Semestralmente.
+d) 100.000 euros.
 
 Solución: c
 
-42. En relación a los Comités de Seguridad y Salud del SESCAM, es cierto que:
+21. Si una infracción tiene clara intencionalidad, gravedad extrema y múltiples reincidencias, será catalogada como:
 
-a) Formados por Delegados Sindicales y Gerente en número igual.
+a) Muy leve.
 
-b) Los Delegados de Prevención participan con voz pero sin voto.
+b) Leve.
 
-c) Elaboran la memoria anual de actividades.
+c) Grave.
 
-d) Son los órganos paritarios y colegiados de participación destinados a la consulta regular y periódica.
+d) Muy grave.
 
 Solución: d
 
-43. Los Delegados de Prevención en el SESCAM son:
+22. ¿Cómo se denominan las enfermedades debidas a infección por un microorganismo presente en el alimento?
 
-a) Los designados por las organizaciones sindicales presentes en Mesa Sectorial.
+a) Infecciones alimentarias.
 
-b) Los Técnicos de Seguridad.
+b) Intoxicaciones alimentarias.
 
-c) Los Inspectores de Seguridad y Salud.
+c) Toxiinfecciones alimentarias.
 
-d) Los Delegados Sindicales.
-
-Solución: a
-
-44. Es una función de la Comisión Central de Seguridad y Salud:
-
-a) Establecer la estructura y Sistema de Gestión.
-
-b) Participar y difundir la política de prevención y favorecer la ejecución del Plan.
-
-c) Proporcionar los medios para la evaluación.
-
-d) Comunicar los riesgos detectados por trabajadores.
-
-Solución: b
-
-45. El Plan General de Prevención del SESCAM se revisará con carácter general:
-
-a) Anualmente.
-
-b) Cada dos años.
-
-c) Cada tres años.
-
-d) Cada cuatro años.
-
-Solución: c
-
-46. La fase de establecimiento de prioridades de acción en el Plan General se realiza en:
-
-a) Fase Previa.
-
-b) Fase I.
-
-c) Fase II.
-
-d) Fase III.
-
-Solución: c
-
-47. Los instrumentos operativos que desarrollan el Plan General se concretan en:
-
-a) Planes mensuales.
-
-b) Programas específicos.
-
-c) Medidas de actuación.
-
-d) Objetivos generales.
-
-Solución: b
-
-48. La ejecución de las evaluaciones internas del Sistema de Gestión se realizará según la Norma:
-
-a) UNE 81900.
-
-b) UNE 1980.
-
-c) UNE 918.
-
-d) UNE 98001.
+d) Enfermedades alimentarias.
 
 Solución: a
 
-49. Para prevenir en la Cocina el contacto térmico (quemaduras) se propone:
+23. ¿Cuándo es mayor la incidencia de toxiinfecciones alimentarias?
 
-a) Orientar los mangos de cacerolas al exterior.
+a) En verano e invierno.
 
-b) Cambiar el aceite en caliente.
+b) En otoño e invierno.
 
-c) Llenar los recipientes en su totalidad.
+c) En otoño y primavera.
 
-d) Comprobar el termostato de la freidora antes de introducir los alimentos.
-
-Solución: d (Nota: orientar mangos al interior y llenar solo hasta 2/3).
-
-50. En caso de evacuación por incendio se recomienda:
-
-a) Bajar por el ascensor.
-
-b) Salir corriendo.
-
-c) Dejar el puesto de trabajo en las mejores condiciones de seguridad (llaves cerradas, máquinas desconectadas).
-
-d) Abrir bien las ventanas.
-
-Solución: c
-
-51. Es una manera correcta de proceder con extintores portátiles:
-
-a) Descolgar el extintor y dejarlo sobre el suelo en horizontal.
-
-b) Aproximarse al fuego hasta un máximo de 20 cm.
-
-c) Sacar el pasador de seguridad sin tirar de la anilla.
-
-d) Presionar la palanca y realizar una pequeña descarga de comprobación.
+d) En primavera y verano.
 
 Solución: d
 
-52. Los Delegados de Prevención son los representantes de los trabajadores con funciones específicas en materia de:
+24. ¿Qué grupos son los de mayor riesgo de padecer toxiinfecciones alimentarias?
 
-a) Negociación salarial.
+a) Los adultos.
 
-b) Formación continua.
+b) Los niños (y ancianos/inmunodeprimidos).
 
-c) Prevención de riesgos en el trabajo.
+c) Las personas sanas.
 
-d) Gestión de turnos.
+d) Los adolescentes.
+
+Solución: b
+
+25. El enranciamiento de un alimento es una alteración alimentaria por un cambio:
+
+a) Físico.
+
+b) Biológico.
+
+c) Químico.
+
+d) Térmico.
 
 Solución: c
+
+26. La acumulación de microorganismos constituye una alteración que produce un riesgo:
+
+a) Físico.
+
+b) Biológico.
+
+c) Químico.
+
+d) Térmico.
+
+Solución: b
+
+27. ¿Qué denominación reciben los alimentos que se pueden conservar por tiempo prolongado sin frío?
+
+a) Alimentos perecederos.
+
+b) Alimentos semiperecederos.
+
+c) Alimentos no perecederos.
+
+d) Alimentos estables.
+
+Solución: c
+
+28. Las conservas entrarían dentro de la categoría de los alimentos:
+
+a) Perecederos.
+
+b) Semiperecederos.
+
+c) No perecederos.
+
+d) Estables.
+
+Solución: c
+
+29. ¿Cómo se denomina la contaminación por crecimiento de microorganismos sobre los alimentos?
+
+a) Directa.
+
+b) Indirecta.
+
+c) Cruzada.
+
+d) Biológica (o Mixta según contexto del test).
+
+Solución: b (Nota: según el temario suele ser Biológica).
+
+30. ¿Qué factores propician la contaminación de alimentos?
+
+a) La humedad ambiental.
+
+b) Las altas temperaturas ambientales.
+
+c) El contenido en agua de los alimentos.
+
+d) Son correctos todos los anteriores.
+
+Solución: d
+
+31. ¿Entre qué temperaturas se sitúa la zona de peligro de multiplicación bacteriana?
+
+a) 10 y 20º.
+
+b) 20 y 30º.
+
+c) 10 y 60º (o 30-40º como zona óptima).
+
+d) 40 y 50º.
+
+Solución: c (Nota: el rango de peligro es amplio, de 10°C a 60°C).
+
+32. ¿A qué se denomina todo elemento que se incorpora involuntariamente al alimento con consecuencias negativas?
+
+a) Agente causal.
+
+b) Huésped.
+
+c) Autor.
+
+d) Contaminante.
+
+Solución: d
+
+33. ¿Qué contaminante es abiótico?
+
+a) Bacterias.
+
+b) Virus.
+
+c) Metales pesados.
+
+d) Insectos.
+
+Solución: c
+
+34. ¿Qué enfermedad de estas es BACTERIANA?
+
+a) Brucelosis (o Salmonelosis).
+
+b) Hepatitis A.
+
+c) Enfermedad de las vacas locas.
+
+d) Intoxicación por insecticidas.
+
+Solución: a
+
+35. ¿Qué enfermedad de estas es PARASITARIA?
+
+a) Salmonelosis.
+
+b) Hepatitis A.
+
+c) Enfermedad de las vacas locas.
+
+d) Triquinosis.
+
+Solución: d
+
+36. Las bacterias que viven exclusivamente en AUSENCIA de oxígeno se denominan:
+
+a) Microaerófilas.
+
+b) Aerobias.
+
+c) Anaerobias.
+
+d) Facultativas.
+
+Solución: c
+
+37. El periodo de incubación de la salmonelosis puede durar aproximadamente entre:
+
+a) 8 y 72 horas.
+
+b) 48 y 96 horas.
+
+c) 5 y 7 días.
+
+d) 8 y 10 días.
+
+Solución: a
+
+38. La bacteria Escherichia coli se destruye a la temperatura de:
+
+a) 70 °C.
+
+b) 90 °C.
+
+c) 110 °C.
+
+d) 120 °C.
+
+Solución: a
+
+39. ¿En qué condiciones el Clostridium botulinum produce la toxina botulínica?
+
+a) En condiciones microaerófilas.
+
+b) En condiciones aerobias.
+
+c) En condiciones anaerobias.
+
+d) En condiciones facultativas.
+
+Solución: c
+
+40. ¿A qué temperatura se deben esterilizar las conservas para prevenir el botulismo?
+
+a) A 100 °C durante 20 minutos.
+
+b) A 120 °C durante 10 minutos.
+
+c) A 120 °C durante 20 minutos.
+
+d) A 90 °C durante 10 minutos.
+
+Solución: c
+
+41. ¿Qué dato es característico de la shigelosis?
+
+a) La diarrea es mucosa.
+
+b) La diarrea es muy líquida.
+
+c) La diarrea es acuosa y con sangre.
+
+d) No hay diarrea.
+
+Solución: c
+
+42. ¿Dónde se encuentra con frecuencia la bacteria Bacillus cereus?
+
+a) En el suelo.
+
+b) En vegetales.
+
+c) En carnes.
+
+d) En el aire.
+
+Solución: a
+
+43. ¿A qué vegetales frecuentemente pasa el Bacillus cereus desde el suelo?
+
+a) A cereales.
+
+b) A aceitunas.
+
+c) A legumbres.
+
+d) A frutas.
+
+Solución: a
+
+44. ¿Qué alimentos suelen ocasionar más frecuentemente brucelosis?
+
+a) La leche sin pasteurizar y derivados.
+
+b) El arroz.
+
+c) Agua contaminada.
+
+d) Nada de lo anterior es correcto.
+
+Solución: a
+
+45. ¿Qué agente de estos es el productor del cólera?
+
+a) Vibrio (Vibrio cholerae).
+
+b) Clostridium.
+
+c) Escherichia coli.
+
+d) Listeria.
+
+Solución: a
+
+46. La intoxicación paralítica por mariscos causa la muerte por:
+
+a) Infarto agudo de miocardio.
+
+b) Parada cardiaca.
+
+c) Fallo renal.
+
+d) Parada respiratoria.
+
+Solución: d
+
+47. ¿Qué patología causa el virus Norwalk?
+
+a) Gastroenteritis benigna de 1 a 2 días.
+
+b) Hepatitis benigna.
+
+c) Gastroenteritis grave de 15 días.
+
+d) Encefalitis espongiforme.
+
+Solución: a
+
+48. ¿Qué técnica sobre la carne de cerdo garantiza la inocuidad contra la triquinosis?
+
+a) Cocinar bien la carne a altas temperaturas.
+
+b) Ahumado.
+
+c) Desecado.
+
+d) Todas las anteriores.
+
+Solución: a
+
+49. El anisakis ocasiona:
+
+a) Gastroenteritis aguda.
+
+b) Hidatidosis.
+
+c) Anisomiasis (o Anisakiasis).
+
+d) Giardiasis.
+
+Solución: c
+
+50. El anisakis se destruye en pescados:
+
+a) Por congelación (mínimo -20°C).
+
+b) Por hervido.
+
+c) Por frito.
+
+d) Por exposición a un fuerte adobo.
+
+Solución: a
+
+51. La enfermedad de Minamata se produce por:
+
+a) Mercurio.
+
+b) Cadmio.
+
+c) Plomo.
+
+d) Yodo.
+
+Solución: a
+
+52. El "plato testigo" es una medida recogida en el Real Decreto:
+
+a) 2817/1983.
+
+b) 3484/2000.
+
+c) 202/2000.
+
+d) 109/2010.
+
+Solución: b
