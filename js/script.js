@@ -210,48 +210,78 @@ function showTopics(category) {
         return;
     }
 
-    const temasRaw = [...new Set(relevantQuestions.map(q => q.tema))].filter(t => !t.toString().startsWith("Examen"));
-    const temas = temasRaw.sort((a, b) => {
-        // Sort properly
-        // Extract number from Tema X to sort numerically
-        const getNum = (str) => {
-            const m = str.match(/Tema (\d+)/);
-            if (m) return parseInt(m[1]) * 1000; // Major sort by Tema number
-            // Fallback for non-Tema strings or blocks
-            const m2 = str.match(/\d+/);
-            return m2 ? parseInt(m2[0]) : 9999;
-        };
+    const temas = [...new Set(relevantQuestions.map(q => q.tema))].filter(t => !t.toString().startsWith("Examen"));
 
-        // Secondary sort by Block number if present
-        const getBlockNum = (str) => {
-            const m = str.match(/Bloque (\d+)/);
-            return m ? parseInt(m[1]) : 0;
-        };
-
-        temasRaw.sort((a, b) => { // Changed 'topics' to 'temasRaw' to match variable name
-            const diff = getNum(a) - getNum(b);
-            if (diff !== 0) return diff;
-            return getBlockNum(a) - getBlockNum(b);
-        });
-
-        const container = document.getElementById('topics-container');
-        container.innerHTML = '';
-    });
-
-    const renderGroup = (title, list, color) => {
-        if (list.length === 0) return;
-        const h3 = document.createElement('h3');
-        h3.textContent = title;
-        h3.style.color = color;
-        h3.style.borderBottom = `2px solid ${color}`;
-        h3.style.paddingBottom = '5px';
-        h3.style.marginTop = '20px';
-        container.appendChild(h3);
-        list.forEach(tema => container.appendChild(createTopicButton(tema)));
+    // Extract number from Tema X to sort numerically
+    const getNum = (str) => {
+        const m = str.match(/Tema (\d+)/);
+        if (m) return parseInt(m[1]) * 1000; // Major sort by Tema number
+        // Fallback for non-Tema strings or blocks
+        const m2 = str.match(/\d+/);
+        return m2 ? parseInt(m2[0]) : 9999;
     };
 
-    renderGroup("📘 Temas Generales", generales, 'var(--primary)');
-    renderGroup("📙 Temas Específicos", especificos, 'var(--secondary)');
+    // Secondary sort by Block number if present
+    const getBlockNum = (str) => {
+        const m = str.match(/Bloque (\d+)/);
+        return m ? parseInt(m[1]) : 0;
+    };
+
+    temas.sort((a, b) => {
+        const diff = getNum(a) - getNum(b);
+        if (diff !== 0) return diff;
+        return getBlockNum(a) - getBlockNum(b);
+    });
+
+    const container = document.getElementById('topics-container');
+    container.innerHTML = '';
+
+    let lastGroup = "";
+
+    temas.forEach(tema => {
+        // Determine Group (e.g. "Tema 1", "Tema 2")
+        let currentGroup = "";
+        const match = tema.match(/(Tema \d+)/);
+        if (match) {
+            currentGroup = match[1];
+        } else if (tema.startsWith("CSIF")) {
+            currentGroup = "CSIF Otros";
+        } else {
+            currentGroup = "Otros";
+        }
+
+        // Render Header if group changed
+        if (currentGroup !== lastGroup && currentGroup !== "Otros" && currentGroup !== "CSIF Otros") {
+            const header = document.createElement('h3');
+            header.className = 'topic-group-header';
+            header.style.width = '100%';
+            header.style.textAlign = 'left';
+            header.style.color = '#6200ea';
+            header.style.borderBottom = '1px solid #ddd';
+            header.style.paddingBottom = '5px';
+            header.style.marginTop = '20px';
+            header.style.marginBottom = '10px';
+
+            // Add descriptive titles for known groups
+            let titleSuffix = "";
+            if (currentGroup === "Tema 1") titleSuffix = ": La Constitución";
+            if (currentGroup === "Tema 2") titleSuffix = ": Estatuto y Transparencia";
+            if (currentGroup === "Tema 3") titleSuffix = ": Ley General de Sanidad";
+
+            header.innerText = currentGroup + titleSuffix;
+            container.appendChild(header);
+            lastGroup = currentGroup;
+        } else if (currentGroup !== lastGroup) {
+            const separator = document.createElement('div');
+            separator.style.width = '100%';
+            separator.style.height = '10px';
+            container.appendChild(separator);
+            lastGroup = currentGroup;
+        }
+
+        const btn = createTopicButton(tema);
+        container.appendChild(btn);
+    });
 
     showView('topics');
 }
