@@ -486,16 +486,18 @@ function renderQuestion() {
         optionsDiv.appendChild(btn);
     });
 
-    // MODO EXAMEN: Permitir saltar (Next visible siempre)
-    // MODO ENTRENAMIENTO: Next oculto hasta responder
-    if (currentMode === 'exam') {
+    // MODO EXAMEN / REVISIÓN: Permitir saltar (Next visible siempre)
+    if (currentMode === 'exam' || currentMode === 'review') {
         document.getElementById('btn-next').classList.remove('hidden');
-        document.getElementById('btn-next').textContent = (currentIndex === currentQuestions.length - 1) ? "Finalizar Examen 🏁" : "Siguiente ➡";
+        document.getElementById('btn-next').textContent = (currentIndex === currentQuestions.length - 1) ?
+            (currentMode === 'exam' ? "Finalizar Examen 🏁" : "Volver a Resultados 🏁")
+            : "Siguiente ➡";
     }
 }
 
 function handleAnswer(selected) {
-    if (userAnswers[currentIndex]) return; // Ya respondida
+    if (currentMode === 'review') return; // Read-only in review
+    if (currentMode !== 'exam' && userAnswers[currentIndex]) return; // Block in training if answered
 
     const q = currentQuestions[currentIndex];
     userAnswers[currentIndex] = selected;
@@ -576,7 +578,11 @@ function nextQuestion() {
         currentIndex++;
         renderQuestion();
     } else {
-        finishGame();
+        if (currentMode === 'review') {
+            showView('results'); // Volver a pantalla de resultados 
+        } else {
+            finishGame();
+        }
     }
 }
 
