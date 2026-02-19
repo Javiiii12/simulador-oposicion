@@ -308,6 +308,95 @@ input[type="number"] {
     color: #999;
 }
 
+/* SPECIAL BUTTONS */
+.btn-menu.special-red {
+    background: linear-gradient(135deg, #ff5252, #c62828);
+    color: white;
+}
+
+.btn-menu.special-red:hover {
+    box-shadow: 0 6px 22px rgba(198, 40, 40, 0.4);
+}
+
+/* MODE SELECTION */
+.mode-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin-top: 25px;
+}
+
+.btn-mode {
+    background: #fdfdfd;
+    border: 2px solid #eee;
+    border-radius: var(--radius);
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn-mode:hover {
+    border-color: var(--primary);
+    background: #f0f0ff;
+    transform: translateY(-3px);
+}
+
+.btn-mode .icon {
+    font-size: 2.5rem;
+}
+
+.btn-mode strong {
+    font-size: 1.1rem;
+    color: var(--primary);
+}
+
+.btn-mode small {
+    color: var(--text-light);
+    font-size: 0.85rem;
+}
+
+/* PROGRESS TABLE */
+.progress-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.progress-table th,
+.progress-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.progress-table th {
+    color: var(--primary);
+    font-weight: 600;
+}
+
+.progress-table tr:last-child td {
+    border-bottom: none;
+}
+
+.score-good {
+    color: var(--success);
+    font-weight: bold;
+}
+
+.score-bad {
+    color: var(--error);
+    font-weight: bold;
+}
+
+/* QUESTION CARD ENHANCED */
+.question-card {
+    border-top: 5px solid var(--primary);
+}
+
 /* RESPONSIVE */
 @media (min-width: 768px) {
     .container {
@@ -317,5 +406,11 @@ input[type="number"] {
     .menu-grid {
         display: grid;
         grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .mode-grid {
+        grid-template-columns: 1fr;
     }
 }

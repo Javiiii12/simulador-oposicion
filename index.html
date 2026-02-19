@@ -38,33 +38,59 @@
 
             <div class="menu-grid">
                 <button id="btn-mad" class="btn-menu">
-                    📚 Test MAD
-                    <span class="badge">Por Temas</span>
+                    📚 Test por Temas
+                    <span class="badge">Oficiales</span>
                 </button>
-                <button id="btn-csif" class="btn-menu">
-                    🏥 Test CSIF
-                    <span class="badge">Próximamente</span>
+                <button id="btn-failures" class="btn-menu special-red">
+                    🧠 Repasar Fallos
+                    <span class="badge" id="badge-failures">0</span>
                 </button>
-                <button id="btn-examenes" class="btn-menu">
-                    📝 Exámenes Anteriores
-                    <span class="badge">Repaso</span>
-                </button>
-                <button id="btn-otras" class="btn-menu">
-                    🌍 Otras Comunidades
-                    <span class="badge">Próximamente</span>
-                </button>
-                <button id="btn-academia" class="btn-menu">
-                    🎓 Academia Test
-                    <span class="badge">Próximamente</span>
-                </button>
-                <button id="btn-2020" class="btn-menu">
-                    📅 Examen 2020
-                    <span class="badge">Próximamente</span>
-                </button>
-                <button id="btn-random" class="btn-menu special">
+                <button id="btn-random" class="btn-menu">
                     🎲 Modo Aleatorio
                     <span class="badge">Rápido</span>
                 </button>
+                <button id="btn-progress" class="btn-menu">
+                    📊 Mi Progreso
+                    <span class="badge">Estadísticas</span>
+                </button>
+
+                <!-- Secundarios -->
+                <button id="btn-examenes" class="btn-menu">
+                    📝 Exámenes Oficiales
+                    <span class="badge">En Construcción</span>
+                </button>
+                <button id="btn-academia" class="btn-menu">
+                    🎓 Academia Test
+                    <span class="badge">Pronto</span>
+                </button>
+            </div>
+            <p style="text-align:center; color:#999; margin-top:20px; font-size:0.8rem;">Más funciones próximamente...
+            </p>
+        </div>
+
+        <!-- VISTA: SELECCIÓN DE MODALIDAD (Entrenamiento vs Examen) -->
+        <div id="view-mode-selection" class="view hidden">
+            <header class="view-header">
+                <button id="btn-back-mode" class="btn-icon">⬅</button>
+                <h2>Configura tu Test</h2>
+            </header>
+
+            <div class="card" style="text-align:center;">
+                <h3 id="mode-topic-title">Tema Seleccionado</h3>
+                <p>Elige cómo quieres realizar este test:</p>
+
+                <div class="mode-grid">
+                    <button id="btn-mode-training" class="btn-mode">
+                        <span class="icon">🏋️‍♀️</span>
+                        <strong>Entrenamiento</strong>
+                        <small>Corrección inmediata. Ideal para estudiar.</small>
+                    </button>
+                    <button id="btn-mode-exam" class="btn-mode">
+                        <span class="icon">⏱</span>
+                        <strong>Simulacro Examen</strong>
+                        <small>Sin corrección hasta el final. Nota real.</small>
+                    </button>
+                </div>
             </div>
         </div>
 
@@ -80,6 +106,33 @@
             </div>
         </div>
 
+        <!-- VISTA: MI PROGRESO -->
+        <div id="view-progress" class="view hidden">
+            <header class="view-header">
+                <button id="btn-back-progress" class="btn-icon">⬅</button>
+                <h2>Mi Historial</h2>
+            </header>
+
+            <div class="card">
+                <div style="overflow-x:auto;">
+                    <table class="progress-table">
+                        <thead>
+                            <tr>
+                                <th>Fecha</th>
+                                <th>Test</th>
+                                <th>Nota</th>
+                            </tr>
+                        </thead>
+                        <tbody id="progress-body">
+                            <!-- JS -->
+                        </tbody>
+                    </table>
+                </div>
+                <button id="btn-clear-history" class="btn-small"
+                    style="margin-top:15px; background:#ffeba7; color:#555;">Borrar Historial</button>
+            </div>
+        </div>
+
         <!-- VISTA: CONFIGURACIÓN ALEATORIA -->
         <div id="view-random" class="view hidden">
             <header class="view-header">
@@ -87,10 +140,11 @@
                 <h2>Modo Aleatorio</h2>
             </header>
             <div class="config-box">
-                <label>¿Cuántas preguntas quieres?</label>
+                <label>¿Cuántas preguntas?</label>
                 <input type="number" id="random-count" min="1" max="100" value="20">
-                <br><br>
-                <button id="btn-start-random" class="btn-primary">Comenzar Test</button>
+                <p style="font-size:0.8rem; color:#777;">Selecciona entre 1 y 100</p>
+                <br>
+                <button id="btn-start-random" class="btn-primary">Continuar ➡</button>
             </div>
         </div>
 
@@ -107,9 +161,11 @@
                 </div>
             </header>
 
-            <div class="card">
+            <div class="card question-card">
                 <div class="card-header">
                     <span id="tema-tag" class="tag">Tema</span>
+                    <span id="mode-tag" class="tag"
+                        style="background:#e8f5e9; color:#2e7d32; margin-left:5px;">Modo</span>
                 </div>
                 <div class="card-body">
                     <h2 id="pregunta-texto">Cargando...</h2>
@@ -133,8 +189,17 @@
                     <span id="final-score">0</span>
                     <span class="total" id="final-total">/ 0</span>
                 </div>
-                <p id="final-message">¡Bien hecho!</p>
-                <button id="btn-home-results" class="btn-primary">Volver al Menú</button>
+                <p id="final-message" style="font-size:1.2rem; font-weight:bold;">¡Bien hecho!</p>
+
+                <div id="exam-feedback-container" class="hidden" style="text-align:left; margin-top:20px;">
+                    <!-- Aquí iría el desglose si quisiéramos, por ahora simple -->
+                </div>
+
+                <div style="margin-top:30px; display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+                    <button id="btn-retry" class="btn-primary" style="background:var(--secondary);">Repetir
+                        Test</button>
+                    <button id="btn-home-results" class="btn-primary">Volver al Menú</button>
+                </div>
             </div>
         </div>
 
