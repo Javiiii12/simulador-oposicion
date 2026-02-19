@@ -22,6 +22,17 @@ const views = {
 // Inicialización
 document.addEventListener('DOMContentLoaded', () => {
     loadData();
+
+    // Migración/Limpieza de IDs antiguos (Bug Fix)
+    // Si detectamos IDs numéricos simples (ej: "1", "2") o formato antiguo, limpiamos
+    // O simplemente forzamos limpieza una vez con una flag de versión.
+    const v_data = localStorage.getItem('ope_version_data');
+    if (v_data !== 'v1_unique_ids') {
+        console.log("Migrando a IDs únicos... Limpiando fallos antiguos.");
+        localStorage.removeItem('ope_failed_ids');
+        localStorage.setItem('ope_version_data', 'v1_unique_ids');
+    }
+
     updateFailureBadge();
     setupEventListeners();
 });
@@ -43,7 +54,22 @@ function setupEventListeners() {
     // Botones Extras
     document.getElementById('btn-examenes').addEventListener('click', () => alert("📝 Estamos recopilando exámenes oficiales. ¡Pronto!"));
     document.getElementById('btn-academia').addEventListener('click', () => alert("🎓 La Academia Test abrirá sus puertas próximamente."));
-    document.getElementById('btn-2020').addEventListener('click', () => alert("📅 El examen de 2020 se está digitalizando."));
+    document.getElementById('btn-2020').addEventListener('click', () => {
+        // Iniciar directamente Examen 2020 en modo EXAMEN (Simulacro)
+        const questions = allQuestions.filter(q => q.tema === "Examen 2020");
+        if (questions.length === 0) {
+            alert("Error: No se han cargado las preguntas del Examen 2020.");
+            return;
+        }
+        // Orden natural (1, 2, 3...)
+        questions.sort((a, b) => {
+            const na = parseInt(a.id.split('_')[1]);
+            const nb = parseInt(b.id.split('_')[1]);
+            return na - nb;
+        });
+
+        startGame(questions, 'exam', 'Examen Oficial 2020 (Pinche CLM)');
+    });
 
     // Navegación (Volver)
     document.getElementById('btn-back-topics').addEventListener('click', () => showView('menu'));
@@ -384,7 +410,23 @@ function renderQuestion() {
 
     // Contenido
     const temaMatch = q.tema.match(/Tema \d+/);
-    document.getElementById('tema-tag').textContent = temaMatch ? temaMatch[0] : 'General';
+    document.getElementById('tema-tag').textContent = temaMatch ? temaMatch[0] : (q.tema || 'General');
+
+    // Update Mode Tag
+    const modeTag = document.getElementById('mode-tag');
+    if (currentMode === 'exam') {
+        modeTag.textContent = "Examen";
+        modeTag.style.background = "#ffebee"; // Red tint
+        modeTag.style.color = "#c62828";
+    } else if (currentMode === 'failures') {
+        modeTag.textContent = "Repaso Fallos";
+        modeTag.style.background = "#fff3e0"; // Orange tint
+        modeTag.style.color = "#ef6c00";
+    } else {
+        modeTag.textContent = "Entrenamiento";
+        modeTag.style.background = "#e8f5e9"; // Green tint
+        modeTag.style.color = "#2e7d32";
+    }
 
     document.getElementById('pregunta-texto').textContent = q.pregunta;
 
