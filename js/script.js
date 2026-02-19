@@ -213,9 +213,11 @@ function showTopics(category) {
     const temasRaw = [...new Set(relevantQuestions.map(q => q.tema))].filter(t => !t.toString().startsWith("Examen"));
     const temas = temasRaw.sort((a, b) => {
         // Try numerical sort e.g. "Tema 1", "Tema 10"
-        const numA = parseInt(a.replace(/\D/g, '')) || 999;
-        const numB = parseInt(b.replace(/\D/g, '')) || 999;
-        return numA - numB;
+        const getNum = (str) => {
+            const m = str.match(/\d+/);
+            return m ? parseInt(m[0]) : 999;
+        };
+        return getNum(a) - getNum(b);
     });
 
     const container = document.getElementById('topics-container');
@@ -227,7 +229,8 @@ function showTopics(category) {
     // Simple heuristic: If "Tema X" with X <= 6 -> General. Or assume all CSIF Tema 1 is General?
     // Let's stick to the numerical logic.
     temas.forEach(tema => {
-        const num = parseInt(tema.replace(/\D/g, '')) || 0;
+        const m = tema.match(/\d+/);
+        const num = m ? parseInt(m[0]) : 999;
         if (num <= 6) generales.push(tema);
         else especificos.push(tema);
     });
@@ -267,8 +270,7 @@ const TOPIC_TITLES = {
     "Tema 13": "Manipulación de alimentos y formación",
     "Tema 14": "Tecnología culinaria: cocción y conservación",
     "Tema 15": "Cocina Hospitalaria: sistemas y emplatado",
-    "Tema 16": "Protección medioambiental y eficiencia",
-    "Tema 1: La Constitución": "Bloques 1, 2 y 3 (Igualdad, Constitución, Violencia)"
+    "Tema 16": "Protección medioambiental y eficiencia"
 };
 
 function createTopicButton(tema) {
@@ -354,13 +356,63 @@ function removeFailedId(id) {
     let ids = getFailedIds();
     ids = ids.filter(x => x !== id);
     localStorage.setItem('ope_failed_ids', JSON.stringify(ids));
+    // Event Listeners for new Clear Buttons
+    const btnClearMenu = document.getElementById('btn-clear-failures-menu');
+    if (btnClearMenu) {
+        btnClearMenu.addEventListener('click', (e) => {
+            e.stopPropagation();
+            if (confirm("¿Estás seguro de que quieres borrar el historial de fallos?")) {
+                clearFailures();
+            }
+        });
+    }
+
+    const btnClearResults = document.getElementById('btn-clear-failures');
+    if (btnClearResults) {
+        btnClearResults.addEventListener('click', () => {
+            if (confirm("¿Borrar todos los fallos guardados?")) {
+                clearFailures();
+                // Hide filters since no failures left
+                document.getElementById('btn-review-failed').classList.add('hidden');
+                document.getElementById('btn-clear-failures').classList.add('hidden');
+            }
+        });
+    }
+
     updateFailureBadge();
 }
 
+function clearFailures() {
+    localStorage.removeItem('ope_failed_ids'); // Changed from 'failed_questions' to 'ope_failed_ids' to match getFailedIds/saveFailedId
+    updateFailureBadge();
+    alert("Historial de fallos borrado.");
+    // If we are in the main menu, the badge updates automatically.
+    // If we are in results view, the buttons might need hiding (handled in click listener).
+}
+
 function updateFailureBadge() {
-    const ids = getFailedIds();
+    const ids = getFailedIds(); // Use getFailedIds to ensure consistency
     const badge = document.getElementById('badge-failures');
-    if (badge) badge.textContent = ids.length;
+    const btnFailures = document.getElementById('btn-failures'); // Assuming this is the button to start failure test
+
+    if (ids.length > 0) {
+        if (badge) {
+            badge.innerText = ids.length;
+            badge.classList.remove('hidden');
+        }
+        if (btnFailures) {
+            btnFailures.disabled = false;
+            btnFailures.style.opacity = "1";
+        }
+    } else {
+        if (badge) {
+            badge.classList.add('hidden');
+        }
+        if (btnFailures) {
+            btnFailures.disabled = true;
+            btnFailures.style.opacity = "0.5";
+        }
+    }
 }
 
 function startFailureTest() {
