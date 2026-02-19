@@ -768,7 +768,11 @@ function startReviewMode(onlyFailures = false) {
         // Filter: Failures AND Unanswered
         const indicesToKeep = currentQuestions.map((q, i) => i).filter(i => {
             const ans = userAnswers[i];
-            return !ans || ans !== currentQuestions[i].correcta;
+            const correct = q.correcta ? q.correcta.toLowerCase() : '';
+            const selected = ans ? ans.toLowerCase() : '';
+
+            // Keep if unanswered OR wrong
+            return !ans || selected !== correct;
         });
 
         if (indicesToKeep.length === 0) {
@@ -776,10 +780,13 @@ function startReviewMode(onlyFailures = false) {
             return;
         }
 
+        // Feedback para confirmar
+        alert(`Entrando en revisión de ${indicesToKeep.length} fallos/blancas.`);
+
         const newQuestions = indicesToKeep.map(i => currentQuestions[i]);
         const newAnswers = {};
 
-        // Remap answers to new indices
+        // Remap answers to new indices (0, 1, 2...)
         indicesToKeep.forEach((oldIndex, newIndex) => {
             if (userAnswers[oldIndex]) {
                 newAnswers[newIndex] = userAnswers[oldIndex];
