@@ -403,11 +403,34 @@ function renderQuestion() {
         btn.innerHTML = `<strong>${letter.toUpperCase()})</strong> ${q.opciones[letter]}`;
         btn.onclick = () => handleAnswer(letter);
 
-        // Si ya respondimos (navegar atrás/adelante en futuro?), restaurar estado
-        // De momento solo vamos hacia adelante.
+        // Restaurar estado si ya se respondió (navegación atrás)
+        if (userAnswers[currentIndex] === letter) {
+            btn.disabled = true;
+            if (currentMode === 'exam') {
+                btn.classList.add('selected'); // Estilo visual simple
+                btn.style.border = "2px solid var(--primary)";
+                btn.style.background = "#eef";
+            } else {
+                // Training/Failures coloring
+                if (letter === q.correcta) btn.classList.add('correct');
+                else btn.classList.add('incorrect');
+            }
+        } else if (userAnswers[currentIndex]) {
+            btn.disabled = true; // Deshabilitar las no elegidas
+            if (currentMode !== 'exam' && letter === q.correcta) {
+                btn.classList.add('correct'); // Mostrar la correcta si falló
+            }
+        }
 
         optionsDiv.appendChild(btn);
     });
+
+    // MODO EXAMEN: Permitir saltar (Next visible siempre)
+    // MODO ENTRENAMIENTO: Next oculto hasta responder
+    if (currentMode === 'exam') {
+        document.getElementById('btn-next').classList.remove('hidden');
+        document.getElementById('btn-next').textContent = (currentIndex === currentQuestions.length - 1) ? "Finalizar Examen 🏁" : "Siguiente ➡";
+    }
 }
 
 function handleAnswer(selected) {
@@ -424,19 +447,14 @@ function handleAnswer(selected) {
             removeFailedId(q.id); // ¡Superada!
         }
     } else {
-        saveFailedId(q.id); // Guardar fallo para siempre (hasta acierto en modo fallos)
+        saveFailedId(q.id); // Guardar fallo para siempre
     }
 
     // UI Feedback
     const options = document.getElementById('opciones-container').children;
 
-    // En modo 'exam', solo marcamos la seleccionada (sin color de verdad/mentira, solo "selected")
-    // Pero el usuario pidió "veo la nota al final". 
-    // Vamos a ser visualmente neutros en EXAMEN, visualmente explicativos en ENTRENAMIENTO/FALLOS.
-
     if (currentMode === 'exam') {
-        // En examen solo iluminamos la que pulsó el usuario para que sepa que la marcó.
-        // No decimos si es buena o mala
+        // En examen solo iluminamos la que pulsó el usuario
         for (let btn of options) {
             btn.disabled = true;
             if (btn.innerText.startsWith(`${selected.toUpperCase()})`)) {
@@ -444,14 +462,6 @@ function handleAnswer(selected) {
                 btn.style.background = "#eef";
             }
         }
-        // Pasamos automáticamente o mostramos botón siguiente?
-        // Mejor botón siguiente para consistencia
-        document.getElementById('btn-next').classList.remove('hidden');
-        // Auto-next en examen para velocidad? 
-        // Mejor manual para evitar clicks accidentales.
-        // Pero espera, si no hay feedback, next es solo pasar. 
-        // Vamos a dejarlo manual pero sin feedback de texto.
-
     } else {
         // MODO ENTRENAMIENTO / FALLOS
         // Colorear
@@ -482,13 +492,14 @@ function handleAnswer(selected) {
         }
 
         document.getElementById('btn-next').classList.remove('hidden');
-        // Scroll to feedback
         setTimeout(() => document.getElementById('btn-next').scrollIntoView({ behavior: 'smooth', block: 'center' }), 100);
     }
 
-    // Update botón Next text
-    const btnNext = document.getElementById('btn-next');
-    btnNext.textContent = (currentIndex === currentQuestions.length - 1) ? "Finalizar Test 🏁" : "Siguiente ➡";
+    // Update botón Next text (For training, becase Exam is always visible)
+    if (currentMode !== 'exam') {
+        const btnNext = document.getElementById('btn-next');
+        btnNext.textContent = (currentIndex === currentQuestions.length - 1) ? "Finalizar Test 🏁" : "Siguiente ➡";
+    }
 }
 
 function nextQuestion() {
@@ -501,19 +512,98 @@ function nextQuestion() {
 }
 
 function finishGame() {
-    // Guardar Historial
-    saveHistory(currentTopicName + ` [${currentMode}]`, score, currentQuestions.length);
+    // Calcular Estadísticas
+    const total = currentQuestions.length;
+    let aciertos = 0;
+    let fallos = 0;
+    let blancas = 0;
+
+    // Recalcular basado en userAnswers (más seguro que variable score)
+    currentQuestions.forEach((q, index) => {
+        const answer = userAnswers[index];
+        if (!answer) {
+            blancas++;
+        } else if (answer === q.correcta) {
+            aciertos++;
+        } else {
+            fallos++;
+        }
+    });
+
+    // Puntuación Final
+    let finalScore = 0;
+    let maxScore = total; // En entrenamiento es simples aciertos
+    let message = "";
+
+    if (currentMode === 'exam') {
+        // Fórmula: Aciertos - (Fallos / 3)
+        // Nota sobre 10 para visualización
+        const rawScore = aciertos - (fallos / 3);
+        finalScore = Math.max(0, rawScore); // No negativos
+
+        // Puntuación para vista (ajustada a escala 0-10)
+        // Valor de cada pregunta = 10 / total
+        const pointsPerQ = 10 / total;
+        const notaNumerica = finalScore * pointsPerQ;
+
+        score = finalScore.toFixed(2); // Guardamos la neta para display
+
+        // Mensaje Examen
+        if (notaNumerica >= 5) message = `¡Aprobado! (Nota: ${notaNumerica.toFixed(2)}) 🎉`;
+        else message = `Suspenso (Nota: ${notaNumerica.toFixed(2)}) 📚`;
+
+        // Detalles para Examen
+        const detailsEnv = document.getElementById('exam-feedback-container');
+        detailsEnv.classList.remove('hidden');
+        detailsEnv.innerHTML = `
+            <div style="background:#f9f9f9; padding:15px; border-radius:8px; border:1px solid #ddd;">
+                <h4>📊 Desglose de Puntuación</h4>
+                <ul style="list-style:none; padding:0; line-height:1.6;">
+                    <li>✅ <strong>Aciertos:</strong> ${aciertos} <span style="color:green;">(+1.00)</span></li>
+                    <li>❌ <strong>Errores:</strong> ${fallos} <span style="color:red;">(-0.33)</span></li>
+                    <li>⚪ <strong>Blancas:</strong> ${blancas} <span style="color:gray;">(0.00)</span></li>
+                    <li style="margin-top:10px; border-top:1px solid #ccc; padding-top:5px;">
+                        <strong>Puntuación Neta:</strong> ${Math.round(aciertos)} - ${(fallos / 3).toFixed(2)} = <strong>${finalScore.toFixed(2)}</strong> / ${total}
+                    </li>
+                    <li style="font-size:1.1em; color:var(--primary); margin-top:5px;">
+                        <strong>Nota Final (0-10): ${notaNumerica.toFixed(2)}</strong>
+                    </li>
+                </ul>
+                <p style="font-size:0.85em; color:#777; margin-top:10px;">
+                    * Fórmula: Aciertos - (Errores / 3).
+                </p>
+            </div>
+        `;
+
+        // Guardar en historial la nota numérica (más representativa)
+        saveHistory(currentTopicName + ` [Examen]`, notaNumerica.toFixed(2), 10);
+
+    } else {
+        // MODO ENTRENAMIENTO / FALLOS
+        score = aciertos;
+        const pct = (aciertos / total) * 100;
+
+        if (pct === 100) message = "¡Perfecto! 🏆";
+        else if (pct >= 80) message = "¡Excelente! 🌟";
+        else if (pct >= 50) message = "Aprobado 👍";
+        else message = "A repasar... 📚";
+
+        document.getElementById('exam-feedback-container').classList.add('hidden');
+        saveHistory(currentTopicName + ` [${currentMode}]`, aciertos, total);
+    }
 
     showView('results');
-    document.getElementById('final-score').textContent = score;
-    document.getElementById('final-total').textContent = `/ ${currentQuestions.length}`;
 
-    const pct = (score / currentQuestions.length) * 100;
-    let msg = "¡Sigue así!";
-    if (pct === 100) msg = "¡Perfecto! 🏆";
-    else if (pct >= 80) msg = "¡Excelente! 🌟";
-    else if (pct >= 50) msg = "Aprobado 👍";
-    else msg = "A repasar... 📚";
+    // Display Principal
+    if (currentMode === 'exam') {
+        // En examen mostramos la nota sobre 10 en grande
+        const nota = (Math.max(0, aciertos - (fallos / 3)) * (10 / total));
+        document.getElementById('final-score').textContent = nota.toFixed(1);
+        document.getElementById('final-total').textContent = "/ 10";
+    } else {
+        document.getElementById('final-score').textContent = score;
+        document.getElementById('final-total').textContent = `/ ${total}`;
+    }
 
-    document.getElementById('final-message').textContent = msg;
+    document.getElementById('final-message').textContent = message;
 }
