@@ -1,741 +1,514 @@
-Test n.º 2: Estatuto de Autonomía y Administración de CLM
-1. El Estatuto de Autonomía de Castilla-La Mancha, fue aprobado por: 
+Test n.º 3: Ley General de Sanidad (Parte 1/30)
+1. ¿Cuál es la definición de Sistema Nacional de Salud que establece la Ley General de Sanidad (Ley 14/1986, de 25 de abril)? 
 
-a) Ley Orgánica 9/1982, de 10 de agosto. 
+a) Es el conjunto de los Servicios de Salud de las Comunidades Autónomas, coordinados en el Consejo Interterritorial del Sistema Nacional de Salud. 
++1
 
-b) Ley Orgánica 8/1982, de 10 de agosto. 
-
-c) Ley Orgánica 9/1983, de 15 de agosto. 
-
-d) Ley Orgánica 9/1982, de 30 de septiembre. 
+b) Es el conjunto de los Servicios de Salud dependientes del Instituto Nacional de la Salud y de los Servicios de Salud de las Comunidades Autónomas en los términos establecidos en la Ley General de Sanidad. 
++1
 
 
-Solución: a 
+c) Es el conjunto de los Servicios de Salud de la Administración del Estado y de los Servicios de Salud de las Comunidades Autónomas en los términos establecidos en la Ley General de Sanidad. 
++2
 
-2. El Estatuto de Autonomía de Castilla-La Mancha: 
-
-a) Consta de 64 artículos y se estructura en un Título Preliminar, 6 Títulos, 2 disposiciones adicionales, seis disposiciones transitorias y una disposición final. 
-
-b) Consta de 54 artículos y se estructura en un Título Preliminar 6 Títulos, 3 disposiciones adicionales, seis disposiciones transitorias y una disposición final. 
-
-c) Consta de 54 artículos y se estructura en un Título Preliminar, 6 Títulos, 3 disposiciones adicionales, siete disposiciones transitorias y una disposición final. 
-
-d) Consta de 64 artículos y se estructura en un Título Preliminar, 6 Títulos, 2 disposiciones adicionales, siete disposiciones transitorias y una disposición final. 
+d) Es el conjunto de los servicios de Salud de las Comunidades Autónomas y de las Corporaciones Locales en los términos establecidos en la Ley General de Sanidad. 
++1
 
 
 Solución: c 
 
-3. El Título Preliminar comprende los: 
+2. El objeto de la Ley General de Sanidad es: 
++1
 
-a) Seis primeros artículos del Estatuto. 
+a) La reforma del sistema sanitario privado. 
++1
 
-b) Siete primeros artículos del Estatuto. 
+b) Las necesidades de mejora en los servicios prestados a los ciudadanos extranjeros. 
++1
 
-c) Nueve primeros artículos del Estatuto. 
-
-d) Once primeros artículos del Estatuto. 
-
-
-Solución: b 
-
-4. La Junta de Comunidades ejercerá sus poderes los objetivos básicos establecidos en el: 
-
-a) Artículo 3. 
-
-b) Artículo 4. 
-
-c) Artículo 5. 
-
-d) Artículo 6. 
+c) La distribución de competencias entre el Estado y las Comunidades Autónomas y las Corporaciones Locales. 
++1
 
 
-Solución: b 
-
-5. La Ley del Gobierno y del Consejo Consultivo de Castilla-La Mancha es la: 
-
-a) Ley 10/2003, de 25 de septiembre. 
-
-b) Ley 11/2003, de 25 de septiembre. 
-
-c) Ley 11/2006, de 25 de septiembre. 
-
-d) Ley 11/2003, de 26 de septiembre. 
-
-
-Solución: b 
-
-6. Los ex-Presidentes tendrán el tratamiento de: 
-
-a) Ilustrísima. 
-
-b) Excelencia. 
-
-c) Excelentísimo. 
-
-d) Presidente. 
-
-
-Solución: b 
-
-7. Las Cortes de Castilla-La Mancha aprobarán una Ley del Gobierno y del Consejo Consultivo, en la que se incluirá la limitación de los mandatos del Presidente, por mayoría: 
-
-a) Simple de los miembros del Pleno de la Cámara. 
-
-b) Absoluta de los miembros del Pleno de la Cámara. 
-
-c) De dos tercios de los miembros del Pleno de la Cámara. 
-
-d) De tres quintos de los miembros del Pleno de la Cámara. 
+d) Hacer efectivo el derecho a la protección de la salud. 
++2
 
 
 Solución: d 
 
-8. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría: 
+3. Según dispone la Ley 14/1986, de 25 de abril, General de Sanidad, son titulares del derecho a la protección de la salud y a la atención sanitaria: 
++1
 
-a) Simple de los Diputados. 
+a) Únicamente los ciudadanos andaluces. 
++1
 
-b) Absoluta de los Diputados. 
+b) Todos los españoles. 
++1
 
-c) De dos tercios de los Diputados. 
+c) Cualquier ciudadano. 
++1
 
-d) De tres quintos de los Diputados. 
+
+d) Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en España. 
++2
 
 
-Solución: a 
+Solución: d 
 
-9. Si el Presidente plantease la cuestión de confianza sobre un proyecto de Ley, éste se considerará aprobado siempre que vote a favor la mayoría: 
+4. Los medios y actuaciones del sistema sanitario estarán orientadas prioritariamente a: 
++1
 
-a) Simple de los Diputados. 
+a) La curación y la rehabilitación. 
++1
 
-b) Absoluta de los Diputados. 
+b) La promoción de la salud. 
++1
 
-c) De dos tercios de los Diputados. 
+c) Atender los grupos de riesgos desde el punto de vista sanitario. 
++1
 
-d) De tres quintos de los Diputados. 
+
+d) La promoción de salud y prevención de las enfermedades. 
++2
+
+
+Solución: d 
+
+5. ¿Cómo se llaman las estructuras fundamentales del sistema sanitario en las Comunidades Autónomas, responsabilizadas de la gestión unitaria de los Centros y establecimientos de los Servicios de Salud de las CCAA? 
++1
+
+a) Centros hospitalarios. 
++1
+
+
+b) Áreas de Salud. 
++2
+
+c) Delegaciones Provinciales de Salud. 
++1
+
+d) Centros de Salud. 
++1
 
 
 Solución: b 
 
-10. La moción de censura deberá ser propuesta al menos por el: 
+6. Para conseguir la máxima operatividad y eficacia en el funcionamiento de los servicios a nivel primario, las Áreas de Salud se dividirán: 
++1
 
-a) 10% de los Diputados. 
 
-b) 15% de los Diputados. 
+a) En zonas básicas de salud. 
++2
 
-c) 20% de los Diputados. 
+b) En Centros de Salud. 
++1
 
-d) 5% de los Diputados. 
+c) En Distritos de Atención Primaria. 
++1
+
+d) En Primaria y Especializada. 
++1
+
+
+Solución: a 
+
+7. La ordenación territorial de los Servicios de Salud será competencia de: 
++1
+
+a) El Estado. 
++1
+
+
+b) Las Comunidades Autónomas. 
++2
+
+c) Los Ayuntamientos. 
++1
+
+d) Las Diputaciones Provinciales. 
++1
 
 
 Solución: b 
 
-11. El Presidente no podrá acordar la disolución de las Cortes: 
+8. Según la Ley 14/1986, los centros integrales de atención primaria son: 
++1
 
-a) Durante el cuarto período de sesiones de la legislatura, cuando reste menos de un año para su terminación. 
+a) Los hospitales. 
++1
 
-b) Cuando se esté planteando una cuestión de confianza. 
+b) Los ambulatorios. 
++1
 
-c) Antes de que transcurra el plazo de dos años desde la última disolución por este procedimiento. 
 
-d) Cuando se encuentre convocado un proceso electoral estatal. 
+c) Los centros de salud. 
++2
+
+d) Las clínicas de atención primaria. 
++1
+
+
+Solución: c 
+
+9. Cada Área de Salud estará vinculada o dispondrá: 
++1
+
+a) De un único hospital general. 
++1
+
+b) De al menos dos hospitales. 
++1
+
+c) De un máximo de dos hospitales generales. 
++1
+
+
+d) De al menos un hospital general. 
++2
 
 
 Solución: d 
 
-12. La Ley del Gobierno y del Consejo Consultivo de CLM trata del Consejo de Gobierno en su: 
+10. El marco territorial para la prestación de la Atención Primaria de Salud se denomina: 
++1
 
-a) Título I. 
+a) Distrito de Atención Primaria. 
++1
 
-b) Título II. 
 
-c) Título III. 
+b) Zona Básica de Salud. 
++2
 
-d) Título IV. 
+c) Centros de Atención Primaria de Salud. 
++1
+
+d) Mapa de Atención Primaria de Salud. 
++1
 
 
 Solución: b 
 
-13. Corresponde, en todo caso, al Consejo de Gobierno: 
+11. La Administración sanitaria establecerá sistemas de evaluación de calidad asistencial: 
++1
 
-a) Aprobar los Proyectos de Ley para su remisión a las Cortes y acordar retirarlos. 
+a) Oídos los Colegios Profesionales. 
++1
 
-b) Dictar los Decretos Legislativos. 
+b) Oídas las asociaciones de consumidores. 
++1
 
-c) Aprobar las normas reglamentarias de desarrollo de las leyes. 
-
-d) Todas las anteriores. 
-
-
-Solución: d 
-
-14. La válida constitución del Consejo de Gobierno requiere la asistencia del Presidente y de, al menos: 
-
-a) Un tercio de los restantes miembros. 
-
-b) Dos tercios de los restantes miembros. 
-
-c) La mitad de los restantes miembros. 
-
-d) Tres quintos de los restantes miembros. 
+c) Oídas las organizaciones sindicales sanitarias. 
++1
 
 
-Solución: c 
-
-15. Las decisiones y acuerdos del Consejo de Gobierno se adoptan mediante deliberación y: 
-
-a) Tras votación formal. 
-
-b) Sin votación formal. 
-
-c) Sin necesidad de votación. 
-
-d) Por acuerdos de unanimidad. 
-
-
-Solución: b 
-
-16. En las reuniones del Consejo de Gobierno: 
-
-a) Los documentos presentados tendrán carácter reservado hasta su publicación y las deliberaciones serán secretas. 
-
-b) Las deliberaciones serán reservadas y los documentos secretos. 
-
-c) Los documentos serán reservados y las deliberaciones secretas. 
-
-d) Los documentos serán secretos y las deliberaciones privadas. 
-
-
-Solución: a 
-
-17. Las actas de las sesiones del Consejo de Gobierno: 
-
-a) Son públicas. 
-
-b) Serán publicadas. 
-
-c) Son públicas salvo datos que afecten a la intimidad. 
-
-d) No son públicas. 
+d) Oídas las Sociedades científicas sanitarias. 
++2
 
 
 Solución: d 
 
-18. Las delegaciones legislativas otorgadas por las Cortes mientras el Gobierno esté en funciones: 
+12. Los hospitales generales del sector privado que lo soliciten serán vinculados al Sistema Nacional de Salud, de acuerdo con: 
++1
 
-a) Permanecerán en vigor. 
+a) Un Reglamento autonómico. 
++1
 
-b) Permanecerán en vigor salvo acuerdo en contrario. 
-
-c) Precisarán la ratificación de aquéllas cuando la causa de cese sea la celebración de elecciones regionales. 
-
-d) Quedarán en todo caso en suspenso. 
-
-
-Solución: c 
-
-19. Los miembros del Gobierno pueden ejercer administración del patrimonio personal salvo participación superior al: 
-
-a) 10% en empresas que tengan conciertos con la Junta. 
-
-b) 15% en empresas similares. 
-
-c) 20% en dichas empresas. 
-
-d) 25% en dichas empresas. 
+b) Un Convenio estatal. 
++1
 
 
-Solución: a 
+c) Un protocolo definido. 
++2
 
-20. No podrán realizar actividades privadas relacionadas con expedientes resueltos en el cargo: 
-
-a) Durante el año siguiente al cese. 
-
-b) Durante los dos años siguientes al cese. 
-
-c) Durante los tres años siguientes al cese. 
-
-d) Durante los cuatro años siguientes al cese. 
-
-
-Solución: b 
-
-21. Obligación de presentar declaración de actividades, bienes y rentas: 
-
-a) En el plazo de un mes desde el nombramiento o cese. 
-
-b) En el plazo de tres meses. 
-
-c) En el plazo de dos meses. 
-
-d) En el plazo de veinte días. 
-
-
-Solución: a 
-
-22. No corresponde a los Consejeros: 
-
-a) Formular programas de actuación de su Consejería. 
-
-b) Desarrollar la acción de gobierno en su área. 
-
-c) Dictar los Decretos Legislativos. 
-
-d) Ejercer la superior jefatura de su Consejería. 
+d) Una norma comunitaria. 
++1
 
 
 Solución: c 
 
-23. No son órganos de apoyo a los miembros del Consejo de Gobierno: 
+13. Señalar la opción correcta en relación con la vinculación de hospitales de titularidad privada al Sistema Nacional de Salud: 
++1
 
-a) El Secretario General de la Presidencia. 
+a) La vinculación a la red pública de los hospitales se realizará mediante convenios globales. 
++1
 
-b) Los Viceconsejeros. 
+b) Los hospitales generales del sector privado serán obligatoriamente vinculados al SNS cuando las necesidades asistenciales lo justifiquen. 
++1
 
-c) Los Delegados Provinciales de la Junta de Comunidades. 
+c) La titularidad de las relaciones laborales del personal de los hospitales privados vinculados corresponderá a la Comunidad Autónoma. 
++1
 
-d) Los Delegados Provinciales de las Consejerías. 
 
-
-Solución: c 
-
-24. Son órganos directivos de la Administración de la Junta de Comunidades de CLM: 
-
-a) Los Directores Generales. 
-
-b) Los Secretarios Generales Técnicos y Secretarios Generales. 
-
-c) Los Delegados Provinciales de la Junta. 
-
-d) Todos ellos. 
+d) El sector privado vinculado mantendrá la titularidad de centros y establecimientos dependientes del mismo. 
++2
 
 
 Solución: d 
 
-25. El Consejo de Gobierno: 
+14. ¿Pueden los hospitales privados vinculados cobrar alguna cantidad a los enfermos en concepto de atenciones no sanitarias? 
++1
 
-a) Ejerce la iniciativa legislativa mediante Proyectos de Ley. 
+a) No, en ningún caso. 
++1
 
-b) Ejerce la iniciativa mediante Decretos. 
-
-c) Ejerce la iniciativa mediante Decretos-Ley. 
-
-d) No puede ejercer la iniciativa legislativa. 
-
-
-Solución: a 
-
-26. El ejercicio de la potestad reglamentaria requiere que la iniciativa sea autorizada por: 
-
-a) El Presidente o el Consejero competente. 
-
-b) La Junta. 
-
-c) El Presidente. 
-
-d) No es necesaria autorización. 
+b) Sí, en cualquier caso. 
++1
 
 
-Solución: a 
+c) Sí, si previamente son autorizados por la Administración Sanitaria correspondiente el concepto y la cuantía que por él se pretende cobrar. 
++2
 
-27. El Estatuto trata de las competencias de la Junta en los artículos: 
-
-a) Del 21 al 42. 
-
-b) Del 31 al 42. 
-
-c) Del artículo 31 al 40. 
-
-d) Del artículo 31 al 43. 
+d) No, solo podrán cobrar por atenciones de tipo sanitario, siempre que sean autorizados por la Administración Sanitaria. 
++1
 
 
 Solución: c 
 
-28. Las competencias exclusivas se establecen en el: 
-
-a) Artículo 21. 
-
-b) Artículo 31. 
-
-c) Artículo 32. 
-
-d) Artículo 33. 
+15. La Administración sanitaria podrá denunciar un Convenio de vinculación de un hospital privado por la siguiente razón: 
++1
 
 
-Solución: b 
+a) Prestar atención sanitaria objeto de Convenio contraviniendo el principio de gratuidad. 
++2
 
-29. La Junta asume las siguientes competencias exclusivas: 
+b) Prestar servicios complementarios no sanitarios. 
++1
 
-a) Régimen local. 
+c) Contratar o despedir personal de carácter laboral sin autorización de la Administración sanitaria. 
++1
 
-b) Montes y aprovechamientos forestales. 
+d) Establecer servicios complementarios sanitarios sin previa autorización. 
++1
 
-c) Sanidad e higiene. 
 
-d) Caza y pesca fluvial. Acuicultura. 
+Solución: a 
+
+16. La representación de los ciudadanos en el Consejo de Salud de Área, a través de las Corporaciones Locales comprendidas en su demarcación, supondrá: 
+
+a) El 10% de su composición. 
+
+b) El 25% de su composición. 
+
+c) El 40% de su composición. 
+
+
+d) El 50% de su composición. 
 
 
 Solución: d 
 
-30. No son competencias exclusivas: 
+17. ¿De cuántos artículos consta la Ley 14/1986 de 25 de abril, General de Sanidad? 
 
-a) Cajas de Ahorros. 
+a) 109. 
 
-b) Promoción del deporte. 
+b) 111. 
 
-c) Ordenación farmacéutica. 
-
-d) Espectáculos públicos. 
+c) 113. 
 
 
-Solución: c 
-
-31. Son competencias de ejecución: 
-
-a) Asociaciones. 
-
-b) Ferias internacionales. 
-
-c) Pesas y medidas. 
-
-d) Todas las anteriores. 
+d) 116. 
 
 
 Solución: d 
 
-32. Como órganos directivos de la Vicepresidencia se encuentran: 
+18. La Ley 14/1986 de 25 de abril, General de Sanidad, se estructura en: 
 
-a) Dirección General de Información. 
 
-b) Dirección General de Relaciones con la Administración Central. 
+a) Un Título Preliminar, siete Títulos, diez Disposiciones Adicionales, seis Disposiciones Transitorias, dos disposiciones Derogatorias y dieciséis Disposiciones Finales. 
 
-c) Dirección General de Relaciones Internacionales. 
+b) Un Título Preliminar, seis Títulos, diez Disposiciones Adicionales, siete Disposiciones Transitorias... 
 
-d) Ninguna es correcta. 
+c) Un Título Preliminar, siete Títulos, diez Disposiciones Adicionales, siete Disposiciones Transitorias... 
+
+d) Un Título Preliminar, siete Títulos, diez Disposiciones Adicionales, seis Disposiciones Transitorias, tres Disposiciones Derogatorias... 
+
+
+Solución: a 
+
+19. La Ley 14/1986, de 25 de abril, General de Sanidad, establece que las piezas básicas de los Servicios de Salud de las Comunidades Autónomas son: 
+
+
+a) Las Áreas de Salud. 
+
+b) Los Distritos Sanitarios. 
+
+c) Las Comarcas Sanitarias. 
+
+d) Las Zonas de Salud. 
+
+
+Solución: a 
+
+20. La Ley 14/1986, de 25 de abril, General de Sanidad, tiene como objeto la regulación general de todas las acciones que permitan hacer efectivo el derecho a la protección de la salud reconocido en el artículo: 
+
+a) 15 de la Constitución Española. 
+
+b) 19 de la Constitución Española. 
+
+c) 33 de la Constitución Española. 
+
+
+d) 43 de la Constitución Española. 
 
 
 Solución: d 
 
-33. Entre los órganos adscritos a la Vicepresidencia NO se encuentra: 
+21. Las Áreas de Salud se delimitan teniendo en cuenta factores: 
 
-a) El Instituto de Empleo. 
+a) Climatológicos y de dotación de vías y medios de comunicación. 
 
-b) La Oficina de Transparencia. 
+b) Geográficos y demográficos. 
 
-c) Radio Televisión CLM. 
+c) Socioeconómicos y culturales. 
 
-d) El Gabinete Jurídico. 
-
-
-Solución: a 
-
-34. ¿Cuál es un órgano central de la Consejería de Economía, Empresas y Empleo? 
-
-a) La Secretaría General. 
-
-b) Viceconsejería de Empleo. 
-
-c) Dirección General de Turismo. 
-
-d) Todos lo son. 
-
-
-Solución: d 
-
-35. La Dirección General de la Función Pública está adscrita a la Consejería de: 
-
-a) Hacienda y Administraciones Públicas. 
-
-b) Economía. 
-
-c) Vicepresidencia. 
-
-d) Fomento. 
-
-
-Solución: a 
-
-36. Una de las siguientes NO es una Consejería de Castilla-La Mancha: 
-
-a) Consejería de Fomento. 
-
-b) Consejería de Sanidad. 
-
-c) Consejería de Turismo. 
-
-d) Consejería de Educación. 
-
-
-Solución: c 
-
-37. ¿Qué órganos centrales componen la Consejería de Bienestar Social? 
-
-a) Secretaría General. 
-
-b) Dirección General de Juventud. 
-
-c) Dirección General de la Infancia y Familia. 
-
-d) Todas son correctas. 
-
-
-Solución: c 
-
-38. ¿Cuál es el órgano superior de CLM en materia de transparencia y buen gobierno? 
-
-a) La Comisión Ejecutiva Regional de Transparencia. 
-
-b) El Consejo Consultivo Regional de Transparencia. 
-
-c) El Consejo Regional de Transparencia y Buen Gobierno. 
-
-d) La Junta Regional de Transparencia. 
-
-
-Solución: c 
-
-39. ¿Cuál fue la primera ley en la universalización del derecho de acceso a la información? 
-
-a) La Ley 38/1995, de 12 de diciembre. 
-
-b) La Ley 37/2007. 
-
-c) La Ley 27/2006. 
-
-d) La Ley 11/2007. 
-
-
-Solución: a 
-
-40. ¿Qué artículo del Estatuto impone el deber de promover libertad e igualdad? 
-
-a) El artículo 4.2. 
-
-b) El artículo 5.1. 
-
-c) El artículo 5.3. 
-
-d) El artículo 9.3. 
-
-
-Solución: a 
-
-41. ¿Mediante qué norma se reconoció el derecho a conocer actuaciones que atañen a las personas? 
-
-a) Ley 4/2016. 
-
-b) Ley 6/1994. 
-
-c) Mediante la Ley 19/2002, de 24 de octubre. 
-
-d) Mediante la Ley 11/2003. 
-
-
-Solución: c 
-
-42. ¿Qué Título de la Ley 4/2016 contiene normas sobre buen gobierno y gobierno abierto? 
-
-a) El título I. 
-
-b) El título II. 
-
-c) El título III. 
-
-d) El título V. 
-
-
-Solución: c 
-
-43. ¿Cómo denomina la Ley 4/2016 a las unidades para velar por publicidad activa? 
-
-a) Unidades de acceso. 
-
-b) Unidades de transparencia. 
-
-c) Unidades de acceso público. 
-
-d) Unidades de Transparencia y Buen Gobierno. 
-
-
-Solución: b 
-
-44. ¿Cuáles son los dos órganos colegiados que componen el Consejo Regional de Transparencia? 
-
-a) El Consejo Consultivo y la Comisión Técnica. 
-
-b) El Consejo Ejecutivo y la Junta Consultiva. 
-
-c) La Comisión Ejecutiva y la Comisión Consultiva. 
-
-d) La Comisión Disciplinaria y la Comisión Técnica. 
-
-
-Solución: c 
-
-45. ¿En qué órgano del Consejo Regional están representadas Cortes, Administración, FEMP y Universidad? 
-
-a) En la Comisión Consultiva. 
-
-b) En la Junta Consultiva. 
-
-c) En la Comisión Ejecutiva. 
-
-d) En el Consejo Consultivo. 
-
-
-Solución: a 
-
-46. ¿Quiénes forman la Comisión Ejecutiva del Consejo Regional de Transparencia? 
-
-a) La Presidencia, Secretaría General y tres Adjuntías. 
-
-b) La Presidencia y dos Adjuntías. 
-
-c) La Presidencia y tres Adjuntías. 
-
-d) La Presidencia, Secretaría General y dos Adjuntías. 
-
-
-Solución: b 
-
-47. ¿Qué artículo de la CE remite a la regulación del acceso a archivos y registros? 
-
-a) El artículo 93.3. 
-
-b) El artículo 97.1. 
-
-c) El artículo 103.2. 
-
-d) El artículo 105 b). 
-
-
-Solución: d 
-
-48. ¿Dónde se regula el régimen de solicitudes en trámite hasta la creación de unidades de transparencia? 
-
-a) En el Título II. 
-
-b) En el Título IV. 
-
-c) En sus disposiciones transitorias. 
-
-d) En sus disposiciones adicionales. 
-
-
-Solución: c 
-
-49. Señala la respuesta incorrecta respecto al Consejo Regional de Transparencia: 
-
-a) Tiene personalidad jurídica propia. 
-
-b) Se trata de un órgano dependiente de las Cortes de CLM. 
-
-c) Cuenta con autonomía orgánica y funcional. 
-
-d) Desarrolla su actividad con independencia. 
-
-
-Solución: b (Es independiente) 
-
-50. ¿A quién atribuye la Ley 4/2016 el diseño y evaluación de las políticas sobre transparencia? 
-
-a) A la Oficina de Transparencia y Buen Gobierno. 
-
-b) A la Secretaría de Transparencia. 
-
-c) A la Intervención General de Transparencia. 
-
-d) A la Oficina de Transparencia. 
-
-
-Solución: d 
-
-51. ¿En qué título de la Ley se establece el entramado institucional? 
-
-a) En el título III. 
-
-b) En el título IV. 
-
-c) En el título V. 
-
-d) En el título VII. 
-
-
-Solución: c 
-
-52. Señala la respuesta incorrecta respecto al título IV de la Ley 4/2016: 
-
-a) Dividido en cuatro capítulos (infracciones, responsabilidad...). 
-
-b) Distingue las de naturaleza disciplinaria de las que no. 
-
-c) Hace una tipificación de las infracciones en muy graves, graves, menos graves y leves. 
-
-d) Regula el régimen de responsabilidad por incumplimiento. 
-
-
-Solución: c 
-
-53. La Ley 4/2016 de Transparencia de CLM se compone de: 
-
-a) 5 títulos, 6 adicionales, 2 transitorias... 
-
-b) 5 títulos, 8 disposiciones adicionales, 2 disposiciones transitorias, 1 derogatoria y 2 finales. 
-
-c) 6 títulos, 2 adicionales, 8 transitorias... 
-
-d) 7 títulos, 5 adicionales, 2 transitorias... 
-
-
-Solución: b 
-
-54. La Ley 4/2016 tiene por objeto regular e impulsar: 
-
-a) Principios para código de buen gobierno. 
-
-b) Régimen de garantías y responsabilidades. 
-
-c) Transparencia y publicidad activa. 
 
 d) Todas las respuestas son correctas. 
 
 
 Solución: d 
 
-55. ¿Qué Directiva impone la obligación de autorizar la reutilización de documentos? 
+22. Como regla general el área de salud extenderá su acción a una población: 
 
-a) Directiva 2015/77/UE. 
-
-b) Directiva 2014/J 2/UE. 
-
-c) La Directiva 2013/37/UE, de 26 de junio de 2013. 
-
-d) Directiva 2003/98/CE. 
+a) No inferior a 100.000 habitantes ni superior a 150.000. 
 
 
-Solución: c 
+b) No inferior a 200.000 habitantes ni superior a 250.000. 
 
-56. ¿En qué artículos de la Carta de Derechos Fundamentales UE se reconoce buena administración y acceso? 
+c) No inferior a 250.000 habitantes ni superior a 300.000. 
 
-a) En los artículos 41 y 42. 
+d) No inferior a 300.000 habitantes ni superior a 500.000. 
 
-b) En los artículos 47 y 48. 
 
-c) En los artículos 55 y 56. 
+Solución: b 
 
-d) En los artículos 74 y 75. 
+23. ¿Qué Comunidades Autónomas y/o Ciudades Autónomas se exceptúan de la regla que hemos visto en la pregunta anterior, pudiéndose acomodar a rus específicas peculiaridades? 
+
+a) Baleares, Ceuta y Melilla. 
+
+b) Baleares y Canarias. 
+
+c) Canarias, Ceuta y Melilla. 
+
+
+d) Baleares, Canarias, Ceuta y Melilla. 
+
+
+Solución: d 
+
+24. Según dispone al artículo 56.5 LGS, cada provincia tendrá, en todo caso y como mínimo: 
++1
+
+
+a) Un área de salud. 
++1
+
+b) Dos áreas de salud. 
+
+c) Tres áreas de salud. 
+
+d) Cuatro áreas de salud. 
 
 
 Solución: a 
++1
 
-57. ¿Qué ley reconoció la necesidad de un punto de acceso general sencillo? 
+25. ¿Cómo se denomina el órgano de participación de las Áreas de Salud? 
++1
 
-a) La Ley 11/2007, de 22 de junio, de acceso electrónico. 
 
-b) La Ley 30/1992. 
+a) Consejo de salud de área. 
++2
 
-c) La Ley 38/1995. 
+b) Consejo de dirección de área. 
 
-d) La Ley 37/2007. 
+c) Comisión de salud del área. 
+
+d) Comité de Participación del Área de Salud. 
+
+
+Solución: a 
++1
+
+26. Los Consejos de salud de área estarán constituidos por: 
++1
+
+a) Las organizaciones sindicales más representativas, en una proporción no inferior al 10%, a través de los profesionales sanitarios titulados. 
+
+b) La representación de los ciudadanos a través de las Corporaciones Locales, que supondrá el 25 % de sus miembros. 
+
+
+c) La Administración sanitaria del área de salud. 
++2
+
+d) Todas las respuestas son correctas. 
+
+
+Solución: c 
++1
+
+27. El Gerente del área de salud será nombrado y cesado por la dirección del servicio de salud de la Comunidad Autónoma, a propuesta de: 
++1
+
+
+a) El Consejo de dirección del área. 
++2
+
+b) El Consejo de salud del área. 
+
+c) La Consejería de Sanidad de la Comunidad Autónoma. 
+
+d) El Consejo de Gerencia de la zona. 
+
+
+Solución: a 
++1
+
+28. ¿A quién corresponde, según dispone el art. 60.3 LGS, presentar los anteproyectos del Plan de Salud y de sus adaptaciones anuales así como el proyecto de memoria anual del área de salud? 
++1
+
+a) Al Consejo de salud del área. 
+
+b) Al Consejo de dirección del área. 
+
+
+c) Al Gerente del área de salud. 
++2
+
+d) A las Consejerías de Sanidad de las Comunidades Autónomas. 
+
+
+Solución: c 
++1
+
+29. Señala cuál de las siguientes es una de las funciones de los Consejos de Salud: 
++1
+
+a) Conocer e informar el anteproyecto del Plan de Salud del área y de sus adaptaciones anuales. 
+
+b) Conocer e informar la memoria anual del área de salud. 
+
+c) Verificar la adecuación de las actuaciones en el área de salud a las normas y directrices de la política sanitaria y económica. 
+
+
+d) Todas las respuestas son correctas. 
++2
+
+
+Solución: d 
++1
+
+30. ¿Qué porcentaje de los miembros del Consejo de dirección representan a la Comunidad Autónoma? 
++1
+
+
+a) El 60 %. 
++1
+
+b) El 50 %. 
+
+c) El 40 %. 
+
+d) El 25 %. 
 
 
 Solución: a

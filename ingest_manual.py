@@ -19,8 +19,8 @@ def ingest_manual_data():
     # Solution: "Solución: x"
     re_sol = re.compile(r'Solución:\s*([a-d])', re.IGNORECASE)
 
-    # Force everything to Tema 2 as requested by User
-    current_tema = "Tema 2"
+    # Force everything to Tema 3 as requested by User
+    current_tema = "Tema 3"
     current_q = None
     questions = []
     

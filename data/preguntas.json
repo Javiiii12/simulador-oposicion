@@ -3444,5 +3444,395 @@
     },
     "correcta": "a",
     "explicacion": ""
+  },
+  {
+    "id": 1,
+    "tema": "Tema 3",
+    "pregunta": "¿Cuál es la definición de Sistema Nacional de Salud que establece la Ley General de Sanidad (Ley 14/1986, de 25 de abril)?",
+    "opciones": {
+      "a": "Es el conjunto de los Servicios de Salud de las Comunidades Autónomas, coordinados en el Consejo Interterritorial del Sistema Nacional de Salud.",
+      "b": "Es el conjunto de los Servicios de Salud dependientes del Instituto Nacional de la Salud y de los Servicios de Salud de las Comunidades Autónomas en los términos establecidos en la Ley General de Sanidad.",
+      "c": "Es el conjunto de los Servicios de Salud de la Administración del Estado y de los Servicios de Salud de las Comunidades Autónomas en los términos establecidos en la Ley General de Sanidad.",
+      "d": "Es el conjunto de los servicios de Salud de las Comunidades Autónomas y de las Corporaciones Locales en los términos establecidos en la Ley General de Sanidad."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 3",
+    "pregunta": "El objeto de la Ley General de Sanidad es:",
+    "opciones": {
+      "a": "La reforma del sistema sanitario privado.",
+      "b": "Las necesidades de mejora en los servicios prestados a los ciudadanos extranjeros.",
+      "c": "La distribución de competencias entre el Estado y las Comunidades Autónomas y las Corporaciones Locales.",
+      "d": "Hacer efectivo el derecho a la protección de la salud."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 3,
+    "tema": "Tema 3",
+    "pregunta": "Según dispone la Ley 14/1986, de 25 de abril, General de Sanidad, son titulares del derecho a la protección de la salud y a la atención sanitaria:",
+    "opciones": {
+      "a": "Únicamente los ciudadanos andaluces.",
+      "b": "Todos los españoles.",
+      "c": "Cualquier ciudadano.",
+      "d": "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en España."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 3",
+    "pregunta": "Los medios y actuaciones del sistema sanitario estarán orientadas prioritariamente a:",
+    "opciones": {
+      "a": "La curación y la rehabilitación.",
+      "b": "La promoción de la salud.",
+      "c": "Atender los grupos de riesgos desde el punto de vista sanitario.",
+      "d": "La promoción de salud y prevención de las enfermedades."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 3",
+    "pregunta": "¿Cómo se llaman las estructuras fundamentales del sistema sanitario en las Comunidades Autónomas, responsabilizadas de la gestión unitaria de los Centros y establecimientos de los Servicios de Salud de las CCAA?",
+    "opciones": {
+      "a": "Centros hospitalarios.",
+      "b": "Áreas de Salud.",
+      "c": "Delegaciones Provinciales de Salud.",
+      "d": "Centros de Salud."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 3",
+    "pregunta": "Para conseguir la máxima operatividad y eficacia en el funcionamiento de los servicios a nivel primario, las Áreas de Salud se dividirán:",
+    "opciones": {
+      "a": "En zonas básicas de salud.",
+      "b": "En Centros de Salud.",
+      "c": "En Distritos de Atención Primaria.",
+      "d": "En Primaria y Especializada."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 3",
+    "pregunta": "La ordenación territorial de los Servicios de Salud será competencia de:",
+    "opciones": {
+      "a": "El Estado.",
+      "b": "Las Comunidades Autónomas.",
+      "c": "Los Ayuntamientos.",
+      "d": "Las Diputaciones Provinciales."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 3",
+    "pregunta": "Según la Ley 14/1986, los centros integrales de atención primaria son:",
+    "opciones": {
+      "a": "Los hospitales.",
+      "b": "Los ambulatorios.",
+      "c": "Los centros de salud.",
+      "d": "Las clínicas de atención primaria."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 3",
+    "pregunta": "Cada Área de Salud estará vinculada o dispondrá:",
+    "opciones": {
+      "a": "De un único hospital general.",
+      "b": "De al menos dos hospitales.",
+      "c": "De un máximo de dos hospitales generales.",
+      "d": "De al menos un hospital general."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 3",
+    "pregunta": "El marco territorial para la prestación de la Atención Primaria de Salud se denomina:",
+    "opciones": {
+      "a": "Distrito de Atención Primaria.",
+      "b": "Zona Básica de Salud.",
+      "c": "Centros de Atención Primaria de Salud.",
+      "d": "Mapa de Atención Primaria de Salud."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 3",
+    "pregunta": "La Administración sanitaria establecerá sistemas de evaluación de calidad asistencial:",
+    "opciones": {
+      "a": "Oídos los Colegios Profesionales.",
+      "b": "Oídas las asociaciones de consumidores.",
+      "c": "Oídas las organizaciones sindicales sanitarias.",
+      "d": "Oídas las Sociedades científicas sanitarias."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 3",
+    "pregunta": "Los hospitales generales del sector privado que lo soliciten serán vinculados al Sistema Nacional de Salud, de acuerdo con:",
+    "opciones": {
+      "a": "Un Reglamento autonómico.",
+      "b": "Un Convenio estatal.",
+      "c": "Un protocolo definido.",
+      "d": "Una norma comunitaria."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 3",
+    "pregunta": "Señalar la opción correcta en relación con la vinculación de hospitales de titularidad privada al Sistema Nacional de Salud:",
+    "opciones": {
+      "a": "La vinculación a la red pública de los hospitales se realizará mediante convenios globales.",
+      "b": "Los hospitales generales del sector privado serán obligatoriamente vinculados al SNS cuando las necesidades asistenciales lo justifiquen.",
+      "c": "La titularidad de las relaciones laborales del personal de los hospitales privados vinculados corresponderá a la Comunidad Autónoma.",
+      "d": "El sector privado vinculado mantendrá la titularidad de centros y establecimientos dependientes del mismo."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 3",
+    "pregunta": "¿Pueden los hospitales privados vinculados cobrar alguna cantidad a los enfermos en concepto de atenciones no sanitarias?",
+    "opciones": {
+      "a": "No, en ningún caso.",
+      "b": "Sí, en cualquier caso.",
+      "c": "Sí, si previamente son autorizados por la Administración Sanitaria correspondiente el concepto y la cuantía que por él se pretende cobrar.",
+      "d": "No, solo podrán cobrar por atenciones de tipo sanitario, siempre que sean autorizados por la Administración Sanitaria."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 3",
+    "pregunta": "La Administración sanitaria podrá denunciar un Convenio de vinculación de un hospital privado por la siguiente razón:",
+    "opciones": {
+      "a": "Prestar atención sanitaria objeto de Convenio contraviniendo el principio de gratuidad.",
+      "b": "Prestar servicios complementarios no sanitarios.",
+      "c": "Contratar o despedir personal de carácter laboral sin autorización de la Administración sanitaria.",
+      "d": "Establecer servicios complementarios sanitarios sin previa autorización."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 3",
+    "pregunta": "La representación de los ciudadanos en el Consejo de Salud de Área, a través de las Corporaciones Locales comprendidas en su demarcación, supondrá:",
+    "opciones": {
+      "a": "El 10% de su composición.",
+      "b": "El 25% de su composición.",
+      "c": "El 40% de su composición.",
+      "d": "El 50% de su composición."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 3",
+    "pregunta": "¿De cuántos artículos consta la Ley 14/1986 de 25 de abril, General de Sanidad?",
+    "opciones": {
+      "a": "109.",
+      "b": "111.",
+      "c": "113.",
+      "d": "116."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 3",
+    "pregunta": "La Ley 14/1986 de 25 de abril, General de Sanidad, se estructura en:",
+    "opciones": {
+      "a": "Un Título Preliminar, siete Títulos, diez Disposiciones Adicionales, seis Disposiciones Transitorias, dos disposiciones Derogatorias y dieciséis Disposiciones Finales.",
+      "b": "Un Título Preliminar, seis Títulos, diez Disposiciones Adicionales, siete Disposiciones Transitorias...",
+      "c": "Un Título Preliminar, siete Títulos, diez Disposiciones Adicionales, siete Disposiciones Transitorias...",
+      "d": "Un Título Preliminar, siete Títulos, diez Disposiciones Adicionales, seis Disposiciones Transitorias, tres Disposiciones Derogatorias..."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 3",
+    "pregunta": "La Ley 14/1986, de 25 de abril, General de Sanidad, establece que las piezas básicas de los Servicios de Salud de las Comunidades Autónomas son:",
+    "opciones": {
+      "a": "Las Áreas de Salud.",
+      "b": "Los Distritos Sanitarios.",
+      "c": "Las Comarcas Sanitarias.",
+      "d": "Las Zonas de Salud."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 3",
+    "pregunta": "La Ley 14/1986, de 25 de abril, General de Sanidad, tiene como objeto la regulación general de todas las acciones que permitan hacer efectivo el derecho a la protección de la salud reconocido en el artículo:",
+    "opciones": {
+      "a": "15 de la Constitución Española.",
+      "b": "19 de la Constitución Española.",
+      "c": "33 de la Constitución Española.",
+      "d": "43 de la Constitución Española."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 3",
+    "pregunta": "Las Áreas de Salud se delimitan teniendo en cuenta factores:",
+    "opciones": {
+      "a": "Climatológicos y de dotación de vías y medios de comunicación.",
+      "b": "Geográficos y demográficos.",
+      "c": "Socioeconómicos y culturales.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 3",
+    "pregunta": "Como regla general el área de salud extenderá su acción a una población:",
+    "opciones": {
+      "a": "No inferior a 100.000 habitantes ni superior a 150.000.",
+      "b": "No inferior a 200.000 habitantes ni superior a 250.000.",
+      "c": "No inferior a 250.000 habitantes ni superior a 300.000.",
+      "d": "No inferior a 300.000 habitantes ni superior a 500.000."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 3",
+    "pregunta": "¿Qué Comunidades Autónomas y/o Ciudades Autónomas se exceptúan de la regla que hemos visto en la pregunta anterior, pudiéndose acomodar a rus específicas peculiaridades?",
+    "opciones": {
+      "a": "Baleares, Ceuta y Melilla.",
+      "b": "Baleares y Canarias.",
+      "c": "Canarias, Ceuta y Melilla.",
+      "d": "Baleares, Canarias, Ceuta y Melilla."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 3",
+    "pregunta": "Según dispone al artículo 56.5 LGS, cada provincia tendrá, en todo caso y como mínimo:",
+    "opciones": {
+      "a": "Un área de salud.",
+      "b": "Dos áreas de salud.",
+      "c": "Tres áreas de salud.",
+      "d": "Cuatro áreas de salud."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 3",
+    "pregunta": "¿Cómo se denomina el órgano de participación de las Áreas de Salud?",
+    "opciones": {
+      "a": "Consejo de salud de área.",
+      "b": "Consejo de dirección de área.",
+      "c": "Comisión de salud del área.",
+      "d": "Comité de Participación del Área de Salud."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 3",
+    "pregunta": "Los Consejos de salud de área estarán constituidos por:",
+    "opciones": {
+      "a": "Las organizaciones sindicales más representativas, en una proporción no inferior al 10%, a través de los profesionales sanitarios titulados.",
+      "b": "La representación de los ciudadanos a través de las Corporaciones Locales, que supondrá el 25 % de sus miembros.",
+      "c": "La Administración sanitaria del área de salud.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 3",
+    "pregunta": "El Gerente del área de salud será nombrado y cesado por la dirección del servicio de salud de la Comunidad Autónoma, a propuesta de:",
+    "opciones": {
+      "a": "El Consejo de dirección del área.",
+      "b": "El Consejo de salud del área.",
+      "c": "La Consejería de Sanidad de la Comunidad Autónoma.",
+      "d": "El Consejo de Gerencia de la zona."
+    },
+    "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 3",
+    "pregunta": "¿A quién corresponde, según dispone el art. 60.3 LGS, presentar los anteproyectos del Plan de Salud y de sus adaptaciones anuales así como el proyecto de memoria anual del área de salud?",
+    "opciones": {
+      "a": "Al Consejo de salud del área.",
+      "b": "Al Consejo de dirección del área.",
+      "c": "Al Gerente del área de salud.",
+      "d": "A las Consejerías de Sanidad de las Comunidades Autónomas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 3",
+    "pregunta": "Señala cuál de las siguientes es una de las funciones de los Consejos de Salud:",
+    "opciones": {
+      "a": "Conocer e informar el anteproyecto del Plan de Salud del área y de sus adaptaciones anuales.",
+      "b": "Conocer e informar la memoria anual del área de salud.",
+      "c": "Verificar la adecuación de las actuaciones en el área de salud a las normas y directrices de la política sanitaria y económica.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 3",
+    "pregunta": "¿Qué porcentaje de los miembros del Consejo de dirección representan a la Comunidad Autónoma?",
+    "opciones": {
+      "a": "El 60 %.",
+      "b": "El 50 %.",
+      "c": "El 40 %.",
+      "d": "El 25 %."
+    },
+    "correcta": "a",
+    "explicacion": ""
   }
 ]
