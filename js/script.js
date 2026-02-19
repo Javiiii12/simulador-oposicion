@@ -8,6 +8,7 @@ let userAnswers = {};
 // Elementos DOM - Cache
 const views = {
     menu: document.getElementById('view-menu'),
+    roleSelection: document.getElementById('view-role-selection'),
     topics: document.getElementById('view-topics'),
     random: document.getElementById('view-random'),
     game: document.getElementById('view-game'),
@@ -23,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function setupEventListeners() {
     // Selección de Rol
     document.getElementById('btn-role-pinche').addEventListener('click', () => {
-        showView('view-menu');
+        showView('menu');
     });
 
     document.getElementById('btn-role-celador').addEventListener('click', () => {
@@ -31,7 +32,7 @@ function setupEventListeners() {
     });
 
     // Menú Principal
-    document.getElementById('btn-back-menu').addEventListener('click', () => showView('view-role-selection')); // Back to roles
+    document.getElementById('btn-back-menu').addEventListener('click', () => showView('roleSelection')); // Back to roles
     document.getElementById('btn-mad').addEventListener('click', () => showTopics('MAD'));
     document.getElementById('btn-csif').addEventListener('click', () => alert("🏥 Test CSIF disponible próximamente."));
     document.getElementById('btn-examenes').addEventListener('click', () => alert("📂 Sección de Exámenes Anteriores en construcción."));
