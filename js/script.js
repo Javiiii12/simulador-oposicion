@@ -657,14 +657,34 @@ function finishGame() {
 
     // Display Principal
     if (currentMode === 'exam') {
-        // En examen mostramos la nota sobre 10 en grande
         const nota = (Math.max(0, aciertos - (fallos / 3)) * (10 / total));
         document.getElementById('final-score').textContent = nota.toFixed(1);
         document.getElementById('final-total').textContent = "/ 10";
+
+        // Show Review Button
+        const btnReview = document.getElementById('btn-review-exam');
+        if (btnReview) {
+            btnReview.classList.remove('hidden');
+            btnReview.onclick = () => startReviewMode(); // Bind logic
+        }
+
     } else {
         document.getElementById('final-score').textContent = score;
         document.getElementById('final-total').textContent = `/ ${total}`;
+        document.getElementById('btn-review-exam').classList.add('hidden');
     }
 
     document.getElementById('final-message').textContent = message;
+}
+
+function startReviewMode() {
+    // Preserve current state
+    const answersToReview = { ...userAnswers };
+    const questionsToReview = currentQuestions;
+    const topicToReview = currentTopicName;
+
+    startGame(questionsToReview, 'review', topicToReview);
+    // Restore answers because startGame clears them
+    userAnswers = answersToReview;
+    renderQuestion(); // Re-render with answers
 }
