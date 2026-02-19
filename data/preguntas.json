@@ -13337,24 +13337,718 @@
     "explicacion": ""
   },
   {
-    "id": 282,
+    "id": 1,
     "tema": "Tema 16",
-    "pregunta": ". El vidrio de los sueros pertenecen a la clase:",
-    "opciones": {},
+    "pregunta": "Según la FAO, ¿qué porcentaje aproximado de los alimentos producidos a nivel mundial se pierden o se desperdician?",
+    "opciones": {
+      "a": "El 15,5 %.",
+      "b": "El 33,3 %.",
+      "c": "El 45 %.",
+      "d": "El 65 %."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 2,
+    "tema": "Tema 16",
+    "pregunta": "¿Cómo se denomina a aquellos alimentos que, siendo aún útiles para el consumo humano, se descartan para este uso?",
+    "opciones": {
+      "a": "Desperdicios de alimentos.",
+      "b": "Residuos hospitalarios.",
+      "c": "Basura extrahospitalaria.",
+      "d": "Basura de restauración."
+    },
     "correcta": "a",
     "explicacion": ""
   },
   {
-    "id": 286,
+    "id": 3,
     "tema": "Tema 16",
-    "pregunta": ". No consideraremos residuos sanitarios no peligrosos: Colchones inservibles. Pequenos escombros. Escombros productos de obras. Lencería deteriorada. Los residuos de clase I serán retirados: Cada 24 horas. Una vez por turno. Siempre por la noche. Por la mañana, por la tarde y siempre que sea necesario en medio. Las labores de recogida, transporte y almacenaje de los residuos no peligro- sos serán atribuciones de: El servicio de limpieza. El ayuntamiento. c] El servicio de medicina preventiva.",
+    "pregunta": "¿Cómo se denomina el desarrollo que satisface las necesidades de las generaciones presentes sin comprometer las de las futuras (Río-1992)?",
     "opciones": {
-      "d": "Todas son ciertas.",
-      "b": "2.",
-      "a": "Objetos punzantes y cortantes.",
-      "c": "Contenedores rígidos negros de tapa verde."
+      "a": "Desarrollo ambiental.",
+      "b": "Desarrollo con futuro.",
+      "c": "Desarrollo sostenible.",
+      "d": "Desarrollo moderno."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 4,
+    "tema": "Tema 16",
+    "pregunta": "¿En qué año se celebró la Cumbre de la Tierra de Río +20?",
+    "opciones": {
+      "a": "En 1970.",
+      "b": "En 1996.",
+      "c": "En 2002.",
+      "d": "En 2012."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 5,
+    "tema": "Tema 16",
+    "pregunta": "¿Cómo se denomina la introducción de una sustancia nociva o energía que altera el medio y provoca efectos perjudiciales?",
+    "opciones": {
+      "a": "Desequilibrio ambiental.",
+      "b": "Desastre ambiental.",
+      "c": "Contaminación ambiental.",
+      "d": "Siniestro ambiental."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 6,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué gases contribuyen al efecto invernadero de forma NO natural (o incrementados por el hombre)?",
+    "opciones": {
+      "a": "Metano (CH4).",
+      "b": "Vapor de agua (H2O).",
+      "c": "Dióxido de carbono (CO2).",
+      "d": "Ninguno de los anteriores son exclusivamente artificiales, pero su exceso es el problema. (Nota: Se refiere a que todos están presentes pero el CO2 es el principal factor humano)."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 7,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué gas contribuye más al efecto invernadero por causas tanto naturales como humanas (combustión, incendios, tala)?",
+    "opciones": {
+      "a": "CH4.",
+      "b": "CO2.",
+      "c": "H2O en vapor.",
+      "d": "N2O."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 8,
+    "tema": "Tema 16",
+    "pregunta": "¿Dónde se encuentra la mayoría del ozono en nuestra atmósfera?",
+    "opciones": {
+      "a": "En la troposfera.",
+      "b": "En la estratosfera.",
+      "c": "En la termosfera.",
+      "d": "En la exosfera."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 9,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué sustancias son las principales responsables de la destrucción de la capa de ozono?",
+    "opciones": {
+      "a": "Los nitratos.",
+      "b": "Los fosfatos.",
+      "c": "Los clorofluorocarbonos (CFC).",
+      "d": "El dióxido de carbono."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 10,
+    "tema": "Tema 16",
+    "pregunta": "El ruido se define como un sonido:",
+    "opciones": {
+      "a": "Muy alto.",
+      "b": "Musical.",
+      "c": "No deseado y molesto que puede afectar a la salud.",
+      "d": "Agudo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 11,
+    "tema": "Tema 16",
+    "pregunta": "La unidad de medida de la intensidad del sonido es el:",
+    "opciones": {
+      "a": "Kilómetro.",
+      "b": "Julio.",
+      "c": "Decibelio (dB).",
+      "d": "Vatio."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 12,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué normativa estatal regula actualmente la gestión de residuos y suelos contaminados?",
+    "opciones": {
+      "a": "Ley 10/1998.",
+      "b": "Ley 22/2011, de 28 de julio.",
+      "c": "Ley 34/2007.",
+      "d": "Ley 14/1986."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 13,
+    "tema": "Tema 16",
+    "pregunta": "¿Cómo se clasifican los residuos hospitalarios del Grupo I?",
+    "opciones": {
+      "a": "Residuos sanitarios infecciosos.",
+      "b": "Residuos generales (no sanitarios, similares a urbanos).",
+      "c": "Residuos químicos.",
+      "d": "Residuos radiactivos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 14,
+    "tema": "Tema 16",
+    "pregunta": "Los residuos del Grupo II en un hospital son:",
+    "opciones": {
+      "a": "Restos de citostáticos.",
+      "b": "Residuos sanitarios no específicos (curas, yesos, ropa usada).",
+      "c": "Agujas y material cortante.",
+      "d": "Comida sobrante."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 15,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué color de bolsa se utiliza para los residuos del Grupo III (específicos de riesgo)?",
+    "opciones": {
+      "a": "Negra.",
+      "b": "Roja (o en recipientes rígidos amarillos para cortantes).",
+      "c": "Amarilla.",
+      "d": "Azul."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 16,
+    "tema": "Tema 16",
+    "pregunta": "Los residuos de cocina (orgánicos) se deben depositar en el contenedor de color:",
+    "opciones": {
+      "a": "Azul.",
+      "b": "Amarillo.",
+      "c": "Gris o Marrón (según localidad).",
+      "d": "Verde."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 17,
+    "tema": "Tema 16",
+    "pregunta": "El contenedor azul está destinado a:",
+    "opciones": {
+      "a": "Plásticos y latas.",
+      "b": "Vidrio.",
+      "c": "Papel y cartón.",
+      "d": "Pilas."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 18,
+    "tema": "Tema 16",
+    "pregunta": "En el contenedor amarillo debemos depositar:",
+    "opciones": {
+      "a": "Vidrio.",
+      "b": "Papel.",
+      "c": "Envases ligeros (plásticos, latas, briks).",
+      "d": "Aceite usado."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 19,
+    "tema": "Tema 16",
+    "pregunta": "El contenedor verde (tipo iglú) sirve para recoger:",
+    "opciones": {
+      "a": "Restos de comida.",
+      "b": "Vidrio (botellas, frascos).",
+      "c": "Bombillas fluorescentes.",
+      "d": "Periódicos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 20,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué se debe hacer con el aceite usado de las freidoras en la cocina hospitalaria?",
+    "opciones": {
+      "a": "Verterlo por el desagüe.",
+      "b": "Mezclarlo con la basura orgánica.",
+      "c": "Almacenarlo en bidones específicos para ser retirado por un gestor autorizado.",
+      "d": "Enterrarlo."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 21,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué es el compostaje?",
+    "opciones": {
+      "a": "Quemar la basura.",
+      "b": "Proceso biológico de descomposición de materia orgánica para obtener abono.",
+      "c": "Un método para limpiar el agua.",
+      "d": "El reciclaje de metales."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 22,
+    "tema": "Tema 16",
+    "pregunta": "La regla de las \"3 R\" en ecología significa:",
+    "opciones": {
+      "a": "Recoger, Reciclar, Reír.",
+      "b": "Reducir, Reutilizar, Reciclar.",
+      "c": "Rápido, Robusto, Real.",
+      "d": "Reemplazar, Reubicar, Recortar."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 23,
+    "tema": "Tema 16",
+    "pregunta": "El agua residual que proviene de la limpieza de la cocina se considera:",
+    "opciones": {
+      "a": "Agua potable.",
+      "b": "Agua gris/negra que debe ir a la red de saneamiento.",
+      "c": "Agua pura.",
+      "d": "No es un residuo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 24,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué es un \"gestor de residuos\"?",
+    "opciones": {
+      "a": "El director del hospital.",
+      "b": "Persona o entidad autorizada que realiza operaciones de manejo de residuos.",
+      "c": "El camión de la basura únicamente.",
+      "d": "El pinche de cocina."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 25,
+    "tema": "Tema 16",
+    "pregunta": "Los residuos del Grupo IV incluyen:",
+    "opciones": {
+      "a": "Papel de oficina.",
+      "b": "Residuos tipificados en normativas especiales (químicos, radiactivos, citostáticos).",
+      "c": "Restos de poda.",
+      "d": "Latas de refresco."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 26,
+    "tema": "Tema 16",
+    "pregunta": "La contaminación del suelo en una cocina puede ocurrir por:",
+    "opciones": {
+      "a": "Limpiar con agua.",
+      "b": "Derrame accidental de aceites o productos químicos de limpieza.",
+      "c": "Usar el horno.",
+      "d": "El aire acondicionado."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 27,
+    "tema": "Tema 16",
+    "pregunta": "El ahorro de agua en la cocina hospitalaria es una medida de:",
+    "opciones": {
+      "a": "Higiene.",
+      "b": "Protección medioambiental y eficiencia.",
+      "c": "Seguridad alimentaria únicamente.",
+      "d": "Decoración."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 28,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué es la lluvia ácida?",
+    "opciones": {
+      "a": "Lluvia que quema la piel.",
+      "b": "Precipitación con ácidos debido a contaminantes como óxidos de azufre y nitrógeno.",
+      "c": "Agua salada.",
+      "d": "Lluvia en zonas volcánicas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 29,
+    "tema": "Tema 16",
+    "pregunta": "El \"Punto Sigre\" sirve para recoger:",
+    "opciones": {
+      "a": "Papel usado.",
+      "b": "Medicamentos caducados y sus envases.",
+      "c": "Pilas botón.",
+      "d": "Ropa usada."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 30,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué se entiende por residuo \"peligroso\"?",
+    "opciones": {
+      "a": "El que pesa mucho.",
+      "b": "El que presenta características de toxicidad, inflamabilidad o riesgo biológico.",
+      "c": "El que huele mal.",
+      "d": "El que está en una caja cerrada."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 31,
+    "tema": "Tema 16",
+    "pregunta": "El etiquetado de los recipientes de residuos peligrosos debe contener:",
+    "opciones": {
+      "a": "El nombre del hospital.",
+      "b": "Código de identificación, nombre del residuo y pictograma de peligro.",
+      "c": "El precio del residuo.",
+      "d": "Una foto del residuo."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 32,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué es la \"valorización\" de un residuo?",
+    "opciones": {
+      "a": "Tirarlo al vertedero.",
+      "b": "Operación cuyo resultado principal es que el residuo sirva a una finalidad útil (energía o materia).",
+      "c": "Ponerle un precio de venta.",
+      "d": "Mezclarlo con otros."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 33,
+    "tema": "Tema 16",
+    "pregunta": "La incineración de residuos es un método de:",
+    "opciones": {
+      "a": "Reciclaje.",
+      "b": "Eliminación térmica.",
+      "c": "Reutilización.",
+      "d": "Compostaje."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 34,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué residuo de cocina se puede considerar \"biomasa\" para energía?",
+    "opciones": {
+      "a": "Plásticos de envolver.",
+      "b": "Restos vegetales y huesos.",
+      "c": "Latas de conservas.",
+      "d": "Detergentes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 35,
+    "tema": "Tema 16",
+    "pregunta": "La \"huella de carbono\" mide:",
+    "opciones": {
+      "a": "Los pasos que damos.",
+      "b": "La totalidad de gases de efecto invernadero emitidos por un individuo u organización.",
+      "c": "Las manchas de carbón en la cocina.",
+      "d": "El peso del cartón reciclado."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 36,
+    "tema": "Tema 16",
+    "pregunta": "Un producto de limpieza \"biodegradable\" es aquel que:",
+    "opciones": {
+      "a": "No limpia.",
+      "b": "Puede descomponerse en elementos químicos naturales por acción biológica.",
+      "c": "Es muy caro.",
+      "d": "No tiene color."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 37,
+    "tema": "Tema 16",
+    "pregunta": "¿Cuál es el principal residuo en volumen de una cocina hospitalaria?",
+    "opciones": {
+      "a": "Metales.",
+      "b": "Residuos orgánicos (comida).",
+      "c": "Vidrio.",
+      "d": "Pilas."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 38,
+    "tema": "Tema 16",
+    "pregunta": "La limpieza de los filtros de las campanas ayuda a evitar la contaminación:",
+    "opciones": {
+      "a": "Del agua.",
+      "b": "Atmosférica (emisión de grasas y olores) e incendios.",
+      "c": "Del suelo.",
+      "d": "Radiactiva."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 39,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué normativa regula la protección del aire y la atmósfera?",
+    "opciones": {
+      "a": "Ley 22/2011.",
+      "b": "Ley 34/2007, de 15 de noviembre.",
+      "c": "Constitución Española.",
+      "d": "Ley de Montes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 40,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué se debe hacer con los fluorescentes fundidos de la cocina?",
+    "opciones": {
+      "a": "Tirarlos al contenedor verde.",
+      "b": "Romperlos y tirarlos a la basura normal.",
+      "c": "Entregarlos como residuos peligrosos (contienen mercurio).",
+      "d": "Guardarlos en el almacén de víveres."
+    },
+    "correcta": "c",
+    "explicacion": ""
+  },
+  {
+    "id": 41,
+    "tema": "Tema 16",
+    "pregunta": "El desarrollo sostenible busca un equilibrio entre:",
+    "opciones": {
+      "a": "Trabajo y ocio.",
+      "b": "Economía, sociedad y medio ambiente.",
+      "c": "Cocina y planta de pacientes.",
+      "d": "Mañana y noche."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 42,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué significa el símbolo del \"punto verde\" en un envase?",
+    "opciones": {
+      "a": "Que el producto es ecológico.",
+      "b": "Que la empresa cumple con la ley de envases y financia su recogida.",
+      "c": "Que el envase es de color verde.",
+      "d": "Que se puede comer."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 43,
+    "tema": "Tema 16",
+    "pregunta": "La contaminación lumínica es producida por:",
+    "opciones": {
+      "a": "Velas.",
+      "b": "Luz artificial excesiva o mal dirigida hacia el cielo.",
+      "c": "El sol.",
+      "d": "Los rayos X."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 44,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué es un residuo \"inerte\"?",
+    "opciones": {
+      "a": "El que explota.",
+      "b": "El que no experimenta transformaciones físicas, químicas o biológicas significativas.",
+      "c": "La comida.",
+      "d": "Los ácidos."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 45,
+    "tema": "Tema 16",
+    "pregunta": "El almacenamiento de residuos en la cocina debe durar:",
+    "opciones": {
+      "a": "Un mes.",
+      "b": "El menor tiempo posible (recogida diaria).",
+      "c": "Hasta que el contenedor esté lleno.",
+      "d": "Una semana."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 46,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué zona de la cocina debe tener una ventilación más potente?",
+    "opciones": {
+      "a": "El almacén.",
+      "b": "La zona de cocción.",
+      "c": "La entrada.",
+      "d": "El vestuario."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 47,
+    "tema": "Tema 16",
+    "pregunta": "El uso de papel reciclado en las oficinas del hospital es una medida de:",
+    "opciones": {
+      "a": "Consumo responsable.",
+      "b": "Obligación penal.",
+      "c": "Gasto inútil.",
+      "d": "Higiene alimentaria."
     },
     "correcta": "a",
+    "explicacion": ""
+  },
+  {
+    "id": 48,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué es un \"vertedero controlado\"?",
+    "opciones": {
+      "a": "Un agujero en el monte.",
+      "b": "Instalación de eliminación de residuos en el suelo con medidas de protección.",
+      "c": "La plaza del pueblo.",
+      "d": "Una planta de reciclaje de vidrio."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 49,
+    "tema": "Tema 16",
+    "pregunta": "La educación ambiental del personal de cocina es:",
+    "opciones": {
+      "a": "Una pérdida de tiempo.",
+      "b": "Fundamental para el éxito de la gestión de residuos en el hospital.",
+      "c": "Solo para los médicos.",
+      "d": "Voluntaria y no recomendada."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 50,
+    "tema": "Tema 16",
+    "pregunta": "¿A qué temperatura se deben lavar las bolsas de basura reutilizables?",
+    "opciones": {
+      "a": "Con agua fría.",
+      "b": "Se deben usar bolsas desechables preferentemente por higiene.",
+      "c": "A 100ºC.",
+      "d": "No se lavan."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 51,
+    "tema": "Tema 16",
+    "pregunta": "La prevención de ruidos en la cocina protege:",
+    "opciones": {
+      "a": "La comida.",
+      "b": "La salud auditiva de los trabajadores.",
+      "c": "El horno.",
+      "d": "Las paredes."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 52,
+    "tema": "Tema 16",
+    "pregunta": "Los residuos químicos de limpieza (ácidos, bases) son del Grupo:",
+    "opciones": {
+      "a": "I.",
+      "b": "II.",
+      "c": "III.",
+      "d": "IV."
+    },
+    "correcta": "d",
+    "explicacion": ""
+  },
+  {
+    "id": 53,
+    "tema": "Tema 16",
+    "pregunta": "¿Qué autoridad supervisa el cumplimiento medioambiental en Castilla-La Mancha?",
+    "opciones": {
+      "a": "El Ayuntamiento únicamente.",
+      "b": "La Consejería con competencias en Desarrollo Sostenible/Medio Ambiente.",
+      "c": "El Ministerio de Defensa.",
+      "d": "La ONU directamente."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 54,
+    "tema": "Tema 16",
+    "pregunta": "La reducción del uso de plásticos de un solo uso en el hospital es:",
+    "opciones": {
+      "a": "Ilegal.",
+      "b": "Un objetivo prioritario de las políticas ambientales actuales.",
+      "c": "Imposible en sanidad.",
+      "d": "Solo para hospitales privados."
+    },
+    "correcta": "b",
+    "explicacion": ""
+  },
+  {
+    "id": 55,
+    "tema": "Tema 16",
+    "pregunta": "El objetivo final de la protección medioambiental en el hospital es:",
+    "opciones": {
+      "a": "Pagar menos multas.",
+      "b": "Minimizar el impacto negativo de la actividad sanitaria en el entorno.",
+      "c": "Que los pinches trabajen más.",
+      "d": "Que el hospital sea más bonito."
+    },
+    "correcta": "b",
     "explicacion": ""
   }
 ]
