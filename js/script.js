@@ -23,7 +23,7 @@ const views = {
 
 // Security & Supabase
 const _supabaseUrl = 'https://eykwcwgplldapzjnxuym.supabase.co';
-const _supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV5a3djd2dwbGxkYXB6am54dXltIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAwMjE2ODEsImV4cCI6MjA1NTU5NzY4MX0.sS9lq7W4O1T9zLqjC0zX8_4L7K1P3S_0H9k9uH8Z_8c';
+const _supabaseKey = 'sb_publishable_Ds016pgeKw5Z3j-Icu0SUA_wdKEoIyx';
 let supabaseClient = null;
 const VALID_HASH = "6df795bb7e73343384fb90ff03841e6f7b0a585ab9f50e2e6e7ec398b722f508";
 

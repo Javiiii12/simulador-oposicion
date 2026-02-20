@@ -93,6 +93,7 @@ h1 {
     align-items: center;
     color: var(--text);
     min-height: 48px;
+    height: auto;
     max-width: 100%;
     word-break: break-word;
     white-space: normal;
@@ -152,6 +153,8 @@ h1 {
     transition: all 0.2s;
     box-shadow: var(--shadow);
     min-height: 48px;
+    height: auto;
+    display: block;
     max-width: 100%;
     word-break: break-word;
     white-space: normal;
@@ -313,6 +316,8 @@ input[type="number"] {
     color: var(--text);
     width: 100%;
     min-height: 48px;
+    height: auto;
+    display: block;
     white-space: normal;
     word-break: break-word;
 }
