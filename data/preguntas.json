@@ -35571,5 +35571,2105 @@
     "correcta": "b",
     "explicacion": "",
     "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_0",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "Los hornos de convección pueden ser:",
+    "opciones": {
+      "a": "De gas carbónico.",
+      "b": "De aire comprimido.",
+      "c": "Eléctrico de 12 V.",
+      "d": "De gas y eléctricos."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_2",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿Qué tipo de material usado en cocina es alterable y no oxidable?",
+    "opciones": {
+      "a": "Acero negro.",
+      "b": "Cobre.",
+      "c": "Aluminio.",
+      "d": "Hierro fundido."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_4",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "Al utilizar el abrelatas eléctrico tendrá en cuenta:",
+    "opciones": {
+      "a": "En las cocinas hospitalarias no existen abrelatas eléctricos.",
+      "b": "No pisar en suelo mojado.",
+      "c": "Dar prioridad a las latas de mayor tamaño.",
+      "d": "Dar prioridad a las latas de productos crudos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_6",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿De qué material estaban hechos los primeros cuchillos?",
+    "opciones": {
+      "a": "Cobre.",
+      "b": "Cerámica.",
+      "c": "Sílex.",
+      "d": "Hierro."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_8",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿De qué materia debe estar fabricada la bresera?",
+    "opciones": {
+      "a": "Cobre estañado.",
+      "b": "Acero inoxidable.",
+      "c": "Aluminio.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_10",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿Para qué se usa la Turbotera?",
+    "opciones": {
+      "a": "Para asar o cocer pescados.",
+      "b": "Para cocer patatas.",
+      "c": "Para asar carnes en su jugo de manera rápida.",
+      "d": "Para asar manzanas o peras."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_12",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "La balanza normal de cocina puede llegar a medir pesos de:",
+    "opciones": {
+      "a": "Hasta 2 Kg.",
+      "b": "Hasta 3 Kg.",
+      "c": "Hasta 5 Kg.",
+      "d": "Hasta 10 Kg."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_14",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿Qué es una mandolina?",
+    "opciones": {
+      "a": "Un instrumento musical.",
+      "b": "Un utensilio para cortar hortalizas en diferentes grosores y formas.",
+      "c": "Una olla grande.",
+      "d": "Un tipo de horno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_16",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "El cuchillo de \"Cebollero\" o de medio golpe se usa para:",
+    "opciones": {
+      "a": "Solo cortar cebollas.",
+      "b": "Uso general: picar, cortar y trocear.",
+      "c": "Abrir ostras.",
+      "d": "Deshuesar pollo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_18",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "La marmita es:",
+    "opciones": {
+      "a": "Un tipo de pez.",
+      "b": "Un recipiente cilíndrico con asas y tapa para cocer grandes cantidades de líquido.",
+      "c": "Una cuchara de madera.",
+      "d": "Un armario frío."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_20",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿Qué es un \"abatidor de temperatura\"?",
+    "opciones": {
+      "a": "Un ventilador.",
+      "b": "Equipo que reduce rápidamente la Tª de alimentos cocinados para evitar riesgos.",
+      "c": "Un microondas.",
+      "d": "Una estufa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_22",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "El \"pasapurés\" sirve para:",
+    "opciones": {
+      "a": "Freír.",
+      "b": "Triturar alimentos cocinados separando pieles y semillas.",
+      "c": "Lavar la verdura.",
+      "d": "Calentar el café."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_24",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿De qué color suelen ser las tablas de corte para aves crudas?",
+    "opciones": {
+      "a": "Verdes.",
+      "b": "Rojas.",
+      "c": "Amarillas.",
+      "d": "Azules."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_26",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "El \"brazo triturador\" o batidora de mano industrial se usa para:",
+    "opciones": {
+      "a": "Cortar pan.",
+      "b": "Triturar directamente en la marmita o recipiente de cocción.",
+      "c": "Pelar patatas.",
+      "d": "Amasar pan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_28",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿Qué pieza se usa para afilar cuchillos diariamente?",
+    "opciones": {
+      "a": "Piedra de esmeril.",
+      "b": "Chaira.",
+      "c": "Un trozo de metal cualquiera.",
+      "d": "El borde de la mesa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_30",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "La pelapatatas industrial funciona por:",
+    "opciones": {
+      "a": "Rayos láser.",
+      "b": "Abrasión (plato giratorio con material rugoso).",
+      "c": "Cuchillas manuales.",
+      "d": "Aire a presión."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_32",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿Qué es una \"salamandra\"?",
+    "opciones": {
+      "a": "Un reptil.",
+      "b": "Aparato con fuente de calor superior para gratinar o calentar platos.",
+      "c": "Un tipo de sartén.",
+      "d": "Una estufa de leña."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_34",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "La sierra de huesos es obligatoria para:",
+    "opciones": {
+      "a": "Cortar lechuga.",
+      "b": "Seccionar piezas de carne con hueso o congelados.",
+      "c": "Cortar el pan de molde.",
+      "d": "No se usa en cocina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_36",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿Qué es el \"baño María\"?",
+    "opciones": {
+      "a": "Un tipo de ducha.",
+      "b": "Recipiente con agua caliente donde se introduce otro para cocinar suavemente.",
+      "c": "Una marca de detergente.",
+      "d": "Una técnica de congelación."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_38",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "La \"parrilla\" se usa para cocinar:",
+    "opciones": {
+      "a": "Al vapor.",
+      "b": "Por contacto directo con calor seco sobre rejilla.",
+      "c": "En abundante aceite.",
+      "d": "Guisos de larga duración."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_40",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "¿Cómo se debe fregar la cortadora de fiambre?",
+    "opciones": {
+      "a": "Con paño humedecido en alcohol 70%.",
+      "b": "Desconectándola, desmontándola, con agua y jabón y desinfectando con lejía.",
+      "c": "No se desmonta por tener cuchillas cortantes.",
+      "d": "Al final de la jornada simplemente pasando un trapo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_42",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "La máquina pelapatatas es:",
+    "opciones": {
+      "a": "Maquinaria articulada desmontable.",
+      "b": "Cinta lijadora.",
+      "c": "Cesta lijadora.",
+      "d": "Maquinaria articulada no desmontable."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_44",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "Una vez utilizada la máquina pelapatatas, como norma:",
+    "opciones": {
+      "a": "Será fregada al final de la jornada.",
+      "b": "Será fregada al final de cada uso.",
+      "c": "Será fregada cuando lo mande la gobernanta.",
+      "d": "Será fregada cuando se friegue la zona de máquinas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_46",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "La máquina pelapatatas habría que fregarla:",
+    "opciones": {
+      "a": "Con solución 70% alcohol, desconectada.",
+      "b": "Con abundante agua y conectada para que el movimiento limpie.",
+      "c": "Con agua y jabón, aclarando bien y desconectada de la red.",
+      "d": "Con agua y lejía en movimiento, conectada."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b1_48",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 1)",
+    "pregunta": "Si el cocinero pide una macheta ¿para qué la utilizará?",
+    "opciones": {
+      "a": "Para cortar hortalizas de gran tamaño.",
+      "b": "Para abrir solomillos.",
+      "c": "Para mechar carnes.",
+      "d": "Para cortar huesos."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_0",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Cómo se denomina el sistema que utiliza aire caliente con o sin vapor a baja presión para regenerar los alimentos?",
+    "opciones": {
+      "a": "Hornos de regeneración de multiporciones.",
+      "b": "Hornos mixtos de convección-vapor.",
+      "c": "Horno microondas.",
+      "d": "Zonas de regeneración."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_2",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "A la hora de utilizar un microondas habrá que tener en cuenta:",
+    "opciones": {
+      "a": "Que solo descongela.",
+      "b": "Que los alimentos hay que introducirlos en recipientes herméticos.",
+      "c": "Que dentro de sus funciones no cuenta con la esterilización.",
+      "d": "Tapar los alimentos con papel metálico."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_4",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Cuál de estos enunciados no coincide con las características de una cámara?",
+    "opciones": {
+      "a": "El aislamiento térmico es mediante el uso de paneles de polímeros sintéticos.",
+      "b": "Dispondrá de sistema de apertura exterior para evitar que alguien quede atrapado.",
+      "c": "El sistema de refrigeración extrae la energía térmica de los productos.",
+      "d": "La utilidad de la cámara es la conservación de los productos alimenticios."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_6",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "Para colar caldos y cremas utilizaremos:",
+    "opciones": {
+      "a": "Chino.",
+      "b": "Araña.",
+      "c": "Mortero.",
+      "d": "Mandolina."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_8",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "Para gratinar un plato utilizaremos:",
+    "opciones": {
+      "a": "Plancha.",
+      "b": "Freidora.",
+      "c": "Salamandra.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_10",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Cuál de los siguientes no es un instrumento para cocinar de diferentes maneras?",
+    "opciones": {
+      "a": "Cocina.",
+      "b": "Sartén basculante.",
+      "c": "Olla basculante.",
+      "d": "Tabla de corte."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_12",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "La Sautese es utilizada para:",
+    "opciones": {
+      "a": "Saltear.",
+      "b": "Asar.",
+      "c": "Freír.",
+      "d": "Cocer al vapor."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_14",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "El Roner es un aparato para cocinar:",
+    "opciones": {
+      "a": "A altas presiones.",
+      "b": "Al vacío a temperatura constante y controlada.",
+      "c": "En el microondas.",
+      "d": "Solo pescados."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_16",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Qué es una sartén basculante?",
+    "opciones": {
+      "a": "Una sartén pequeña de mano.",
+      "b": "Equipo de gran capacidad que permite freír, guisar o cocer y se inclina para vaciar.",
+      "c": "Una tapa de olla.",
+      "d": "Un tipo de cuchillo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_18",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "La envasadora al vacío sirve para:",
+    "opciones": {
+      "a": "Quitar el aire de las bolsas con alimento para prolongar su conservación.",
+      "b": "Pesar la comida.",
+      "c": "Triturar verduras.",
+      "d": "Calentar caldos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_20",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Qué es el \"tren de lavado\"?",
+    "opciones": {
+      "a": "Un juguete.",
+      "b": "Máquina industrial automática para el lavado continuo de vajilla.",
+      "c": "El transporte de la comida.",
+      "d": "La limpieza de los suelos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_22",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "El dosificador de jabón del tren de lavado debe revisarse:",
+    "opciones": {
+      "a": "Una vez al año.",
+      "b": "Diariamente para asegurar niveles correctos.",
+      "c": "Nunca.",
+      "d": "Solo si sale la vajilla sucia."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_24",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Qué temperatura alcanza el agua en la fase de aclarado/desinfección del lavavajillas?",
+    "opciones": {
+      "a": "40º C.",
+      "b": "80º-90º C.",
+      "c": "100º C.",
+      "d": "20º C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_26",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Qué es un \"carro térmico\"?",
+    "opciones": {
+      "a": "Un carro con ruedas de goma.",
+      "b": "Carro diseñado para transportar bandejas manteniendo el calor o frío.",
+      "c": "Un carro de supermercado.",
+      "d": "Un horno con ruedas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_28",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "El mantenimiento de los equipos eléctricos corresponde a:",
+    "opciones": {
+      "a": "El pinche.",
+      "b": "El Servicio de Mantenimiento técnico.",
+      "c": "El cocinero.",
+      "d": "La empresa de limpieza."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_30",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Qué es una marmita de vapor?",
+    "opciones": {
+      "a": "Una olla que usa vapor en una camisa exterior para calentar.",
+      "b": "Una cafetera grande.",
+      "c": "Un tipo de colador.",
+      "d": "Un horno microondas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_32",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "La picadora de carne debe limpiarse:",
+    "opciones": {
+      "a": "Una vez por semana.",
+      "b": "Inmediatamente después de cada uso tras ser desmontada.",
+      "c": "Con un trapo seco.",
+      "d": "Solo por fuera."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_34",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Cuál es la función del \"estante de secado\"?",
+    "opciones": {
+      "a": "Almacenar comida.",
+      "b": "Permitir que los utensilios laven al aire de forma higiénica.",
+      "c": "Guardar los productos de limpieza.",
+      "d": "Calentar los platos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_36",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Qué es un \"termocirculador\"?",
+    "opciones": {
+      "a": "Un ventilador.",
+      "b": "Aparato (como el Roner) que mueve el agua y mantiene la Tª exacta.",
+      "c": "Un termómetro de mano.",
+      "d": "Una cámara de frío."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_38",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿Qué es un \"abridor de latas industrial\"?",
+    "opciones": {
+      "a": "Un cuchillo fuerte.",
+      "b": "Máquina anclada a mesa o eléctrica para abrir grandes latas sin esfuerzo.",
+      "c": "Un martillo.",
+      "d": "Una pinza."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_40",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "¿En qué freidora tiene mayor velocidad de hidrólisis el aceite?",
+    "opciones": {
+      "a": "Freidora giratoria.",
+      "b": "Freidora con calentamiento espiral.",
+      "c": "A y b son correctas.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_42",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "El generador de frío que funciona como los hornos de convección, pero al revés, se llama:",
+    "opciones": {
+      "a": "Cámara frigorífica.",
+      "b": "Congelador.",
+      "c": "Abatidor de temperatura.",
+      "d": "Cámara frigorífica de basura."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_44",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "El horno de convección reduce el tiempo de cocinado en un:",
+    "opciones": {
+      "a": "20%.",
+      "b": "30%.",
+      "c": "10%.",
+      "d": "15%."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_46",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "Es en esencia, una olla a presión, que consiste en una marmita a la que se hace el vacío y por tanto trabaja a presiones y Tº muy bajas:",
+    "opciones": {
+      "a": "El roner.",
+      "b": "El gastrovac.",
+      "c": "El rotoval.",
+      "d": "El rondón."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b2_48",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 2)",
+    "pregunta": "Una de las aplicaciones de este equipo es que se usa para calentar alimentos envasados al vacío, hablamos de...",
+    "opciones": {
+      "a": "El rotoval.",
+      "b": "El roner.",
+      "c": "La estufa.",
+      "d": "El armario caliente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_0",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "¿Cómo se debe limpiar la batidora?",
+    "opciones": {
+      "a": "Metiéndola en un recipiente con agua.",
+      "b": "Con jabón líquido.",
+      "c": "Sumergiendo en agua con detergente las partes desmontables sin circuitos.",
+      "d": "Con un paño de algodón."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_2",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "El uso inadecuado por exceso de detergente implica que:",
+    "opciones": {
+      "a": "No pasa nada.",
+      "b": "Es bueno.",
+      "c": "Puede contaminar.",
+      "d": "Cuanta más cantidad más limpia."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_4",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "Los productos y útiles de limpieza deben de estar:",
+    "opciones": {
+      "a": "Al lado de las cámaras.",
+      "b": "En la puerta de salida.",
+      "c": "En locales o armarios de uso exclusivo.",
+      "d": "Al lado de la cinta de emplatado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_6",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "¿Cuándo se limpiarán los utensilios de cocina?",
+    "opciones": {
+      "a": "Antes de usarlos.",
+      "b": "Antes y después de usarlos.",
+      "c": "Cuando se vea conveniente.",
+      "d": "Una vez al día."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_8",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "¿Cómo se debe fregar la cortadora de fiambre? (Repetida)",
+    "opciones": {
+      "a": "Con paño humedecido en alcohol 70%.",
+      "b": "Desconectando, desmontando, con agua y jabón y desinfectando.",
+      "c": "No se desmonta.",
+      "d": "Al final de la jornada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_10",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "Limpiar es:",
+    "opciones": {
+      "a": "Eliminar toda la suciedad de cualquier forma posible.",
+      "b": "Eliminar la suciedad adherida a las superficies mediante procesos físicos y químicos.",
+      "c": "Pintar los techos.",
+      "d": "Barrer en seco únicamente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_12",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "Desinfectar es:",
+    "opciones": {
+      "a": "Quitar el polvo.",
+      "b": "Reducir el número de microorganismos mediante agentes químicos o físicos.",
+      "c": "Usar mucha agua.",
+      "d": "Tirar la vajilla rota."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_14",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "El plan de limpieza y desinfección debe definir:",
+    "opciones": {
+      "a": "Quién limpia, cuándo, con qué y cómo.",
+      "b": "El precio de los platos.",
+      "c": "El nombre de los pacientes.",
+      "d": "Solo el horario de los domingos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_16",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "La lejía (hipoclorito sódico) es un agente:",
+    "opciones": {
+      "a": "Nutritivo.",
+      "b": "Desinfectante.",
+      "c": "Edulcorante.",
+      "d": "Aromatizante."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_18",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "El secado de manos tras el lavado debe ser con:",
+    "opciones": {
+      "a": "El delantal.",
+      "b": "Toallas de tela compartidas.",
+      "c": "Toallas de papel de un solo uso.",
+      "d": "Al aire siempre."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_20",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "¿Qué es la \"contaminación química\" en limpieza?",
+    "opciones": {
+      "a": "Presencia de bacterias.",
+      "b": "Restos de detergentes o desinfectantes por mal aclarado.",
+      "c": "Un trozo de metal.",
+      "d": "Pelos en la comida."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_22",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "La limpieza de los suelos de cocina debe ser:",
+    "opciones": {
+      "a": "Una vez al mes.",
+      "b": "Diariamente y cada vez que sea necesario.",
+      "c": "Solo cuando el jefe lo vea sucio.",
+      "d": "Una vez al año."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_24",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "Los recipientes de basura deben:",
+    "opciones": {
+      "a": "Estar siempre abiertos.",
+      "b": "Ser de material fácil de limpiar y tener tapa de pedal.",
+      "c": "Ser de cartón.",
+      "d": "Guardarse en el cuarto frío."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_26",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "¿Cuál es el orden lógico del proceso?",
+    "opciones": {
+      "a": "Desinfectar y luego limpiar.",
+      "b": "Limpiar (eliminar suciedad) y luego desinfectar.",
+      "c": "Solo desinfectar.",
+      "d": "No importa el orden."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_28",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "El agua para lavar la vajilla a mano debe estar:",
+    "opciones": {
+      "a": "Helada.",
+      "b": "Caliente con detergente.",
+      "c": "Sin nada.",
+      "d": "Con aceite."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_30",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "¿Qué es un \"detergente\"?",
+    "opciones": {
+      "a": "Una sustancia que ayuda a eliminar la suciedad.",
+      "b": "Una vitamina.",
+      "c": "Un tipo de harina.",
+      "d": "Una bacteria."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_32",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "Los estropajos y bayetas deben:",
+    "opciones": {
+      "a": "Usarse durante meses sin lavar.",
+      "b": "Limpiarse y desinfectarse después de cada uso o ser desechables.",
+      "c": "Estar siempre mojados en el suelo.",
+      "d": "Guardarse en el bolsillo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_34",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "La \"limpieza en seco\" (barrer con escoba) en cocina:",
+    "opciones": {
+      "a": "Es la mejor opción.",
+      "b": "Debe evitarse porque levanta polvo y microorganismos.",
+      "c": "Es obligatoria.",
+      "d": "Solo se hace los lunes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_36",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "¿Qué significa \"biodegradable\" en un detergente?",
+    "opciones": {
+      "a": "Que es muy caro.",
+      "b": "Que puede ser descompuesto por organismos naturales.",
+      "c": "Que no limpia bien.",
+      "d": "Que es de color verde."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_38",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "El almacenamiento de los cubos de basura limpios debe ser:",
+    "opciones": {
+      "a": "En la zona de emplatado.",
+      "b": "Boca abajo y en zona ventilada.",
+      "c": "En el almacén de comida.",
+      "d": "Encima de las mesas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_40",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "¿Qué es un desinfectante derivado del cloro?",
+    "opciones": {
+      "a": "Lejía.",
+      "b": "Un aldehído.",
+      "c": "Un esterilizante.",
+      "d": "Un antiséptico."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_42",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "¿Cuál de los siguientes componentes no forma parte de un detergente?",
+    "opciones": {
+      "a": "Tensioactivos.",
+      "b": "Coadyuvantes.",
+      "c": "Pavimentadores.",
+      "d": "Aditivos."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_44",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "La delimitación de zonas según grado de suciedad incluye:",
+    "opciones": {
+      "a": "Clasificación de maquinaria por antigüedad.",
+      "b": "Juntar aparatos sucios para lavarlos.",
+      "c": "Descripción de aparatos y útiles empleados para limpieza.",
+      "d": "Opciones a y c son correctas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_46",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "Las mesas de trabajo se fregarán con:",
+    "opciones": {
+      "a": "Agua y lejía.",
+      "b": "Agua jabonosa.",
+      "c": "Agua limpia con bactericida.",
+      "d": "Producto desincrustante."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b3_48",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 3)",
+    "pregunta": "En cualquier operación de limpieza hay que respetar:",
+    "opciones": {
+      "a": "Concentración de detergente (cantidad de producto).",
+      "b": "La temperatura ambiente.",
+      "c": "La frecuencia de limpieza.",
+      "d": "El desinfectado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_0",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Dónde se tienen que guardar los productos de limpieza?",
+    "opciones": {
+      "a": "En un almacén independiente o armario cerrado.",
+      "b": "En el almacén con los alimentos.",
+      "c": "En la fregadera.",
+      "d": "Al lado de los fogones para tenerlos a mano."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_2",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿A qué temperatura se esteriliza?",
+    "opciones": {
+      "a": "Más de 10º C.",
+      "b": "Más de 50º C.",
+      "c": "Más de 100º C.",
+      "d": "Menos de 30º C."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_4",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Son contaminantes los productos de limpieza en seco?",
+    "opciones": {
+      "a": "Sí, porque llevan disolventes.",
+      "b": "No, porque no llevan disolventes.",
+      "c": "No, porque solo generan espuma.",
+      "d": "Sí, porque llevan tensioactivos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_6",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "La OMS define \"higiene alimentaria\" como:",
+    "opciones": {
+      "a": "Medidas para asegurar salubridad de alimentos.",
+      "b": "Medidas para asegurar el buen estado.",
+      "c": "Medidas para asegurar salubridad, inocuidad y buen estado en todas las etapas.",
+      "d": "Medidas para asegurar legalidad del distribuidor."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_8",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Cuál de los siguientes es un método físico de desinfección?",
+    "opciones": {
+      "a": "Uso de lejía.",
+      "b": "Calor (agua caliente o vapor).",
+      "c": "Uso de amonios cuaternarios.",
+      "d": "Uso de alcohol."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_10",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Qué es un \"limpiador abrasivo\"?",
+    "opciones": {
+      "a": "El que tiene un olor fuerte.",
+      "b": "El que contiene partículas sólidas para desgastar suciedad difícil.",
+      "c": "El que es muy líquido.",
+      "d": "No existen en cocina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_12",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Cuál es el principal inconveniente de los detergentes ácidos?",
+    "opciones": {
+      "a": "Que huelen a limón.",
+      "b": "Que pueden ser corrosivos para metales.",
+      "c": "Que son muy baratos.",
+      "d": "Que no quitan la cal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_14",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "La limpieza de la campana extractora debe ser:",
+    "opciones": {
+      "a": "Una vez al año.",
+      "b": "Periódica para evitar acumulación de grasa y riesgo de incendio.",
+      "c": "No se limpia nunca.",
+      "d": "Solo por fuera."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_16",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Qué es el \"aclarado\"?",
+    "opciones": {
+      "a": "Poner más jabón.",
+      "b": "Eliminación de detergente y suciedad mediante agua potable.",
+      "c": "Secar con un trapo sucio.",
+      "d": "Escurrir la pasta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_18",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "Los envases de productos de limpieza deben:",
+    "opciones": {
+      "a": "Estar sin etiqueta.",
+      "b": "Estar correctamente etiquetados e identificados.",
+      "c": "Ser iguales que los de las botellas de agua.",
+      "d": "Estar siempre abiertos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_20",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Qué es el \"tiempo de contacto\" en desinfección?",
+    "opciones": {
+      "a": "El tiempo que tarda el pinche en limpiar.",
+      "b": "Tiempo que el desinfectante debe actuar sobre la superficie para ser eficaz.",
+      "c": "El horario de trabajo.",
+      "d": "El tiempo que tarda en secarse el suelo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_22",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Por qué no se debe mezclar lejía con amoniaco?",
+    "opciones": {
+      "a": "Porque limpian menos.",
+      "b": "Porque liberan gases tóxicos peligrosos.",
+      "c": "Porque cambian de color.",
+      "d": "Se pueden mezclar sin problema."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_24",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "Las rejillas de desagüe de la cocina deben:",
+    "opciones": {
+      "a": "Estar siempre tapadas con cartón.",
+      "b": "Limpiarse y desinfectarse para evitar olores y plagas.",
+      "c": "No se tocan.",
+      "d": "Están de adorno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_26",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Qué es un \"tensioactivo\"?",
+    "opciones": {
+      "a": "Una persona nerviosa.",
+      "b": "Sustancia que disminuye la tensión del agua ayudando a penetrar la suciedad.",
+      "c": "Un tipo de especia.",
+      "d": "Una bacteria de la leche."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_28",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "Los cuchillos deben lavarse:",
+    "opciones": {
+      "a": "Amontonados en el fondo del fregadero.",
+      "b": "Con cuidado, de uno en uno, y secarlos inmediatamente.",
+      "c": "Solo una vez a la semana.",
+      "d": "No se lavan para no perder el filo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_30",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "El etiquetado de detergentes debe incluir:",
+    "opciones": {
+      "a": "Solo el nombre.",
+      "b": "Nombre comercial, componentes y dirección del responsable.",
+      "c": "Nombre, cantidad, responsable, componentes, modo de empleo e información de accidentes.",
+      "d": "No es obligatorio el etiquetado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_32",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "Un detergente actúa correctamente:",
+    "opciones": {
+      "a": "Diluido en agua.",
+      "b": "En estado puro.",
+      "c": "Con agua caliente.",
+      "d": "Con agua fría."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_34",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "Los detergentes alcalinos se utilizan para:",
+    "opciones": {
+      "a": "Eliminar residuos calcáreos.",
+      "b": "Limpiar superficies de escasa suciedad.",
+      "c": "Eliminar la suciedad de tipo orgánico (grasas, proteínas).",
+      "d": "Eliminar incrustaciones en tuberías."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_36",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "El término \"desbarasar\" significa:",
+    "opciones": {
+      "a": "No existe.",
+      "b": "Desbaratar algo.",
+      "c": "Limpiar de forma grosera los restos orgánicos de la vajilla.",
+      "d": "Cambiar de sitio la vajilla."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_38",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Qué es una \"ficha de datos de seguridad\" (FDS)?",
+    "opciones": {
+      "a": "El carnet del pinche.",
+      "b": "Documento que informa sobre peligros y medidas de emergencia de un producto químico.",
+      "c": "Una receta de cocina.",
+      "d": "El mapa del hospital."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_40",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "La desratización consiste en:",
+    "opciones": {
+      "a": "Eliminar insectos.",
+      "b": "Eliminar roedores.",
+      "c": "Limpiar las cámaras.",
+      "d": "Pintar las paredes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_42",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "¿Qué es un \"biocida\"?",
+    "opciones": {
+      "a": "Un alimento biológico.",
+      "b": "Sustancia química para destruir organismos vivos dañinos (bacterias, insectos, etc.).",
+      "c": "Una planta.",
+      "d": "Un tipo de plástico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_44",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "La frecuencia de limpieza del almacén de víveres debe ser:",
+    "opciones": {
+      "a": "Semanal.",
+      "b": "Según el plan establecido, manteniendo siempre el orden.",
+      "c": "Una vez al año.",
+      "d": "Cuando se acabe la comida."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_46",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "Los carros de transporte de bandejas deben limpiarse:",
+    "opciones": {
+      "a": "Por fuera solamente.",
+      "b": "Después de cada servicio de comidas.",
+      "c": "Los viernes.",
+      "d": "No se limpian."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema15_b4_48",
+    "tema": "Tema 15: Maquinaria y Utensilios (Bloque 4)",
+    "pregunta": "El calzado del pinche debe estar:",
+    "opciones": {
+      "a": "Sucio para no resbalar.",
+      "b": "Limpio y ser de material fácil de lavar y desinfectar.",
+      "c": "Siempre mojado.",
+      "d": "No importa el estado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_0",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Para poder reciclar los residuos sólidos de cocina:",
+    "opciones": {
+      "a": "Se echan todos juntos.",
+      "b": "Se trituran en una máquina.",
+      "c": "Es necesario separarlos según su naturaleza.",
+      "d": "Se empaquetan y se reparten los que estén en buen estado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_2",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "¿Qué se debe hacer con el aceite usado de las freidoras?",
+    "opciones": {
+      "a": "Lo tiraremos.",
+      "b": "Se los lleva una persona a su casa.",
+      "c": "Se guardará en recipientes cerrados para su posterior retirada y reciclaje por una empresa autorizada.",
+      "d": "Se guardan para hacer jabón."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_4",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Los residuos de cocina y alimentación producidos en el hospital son considerados:",
+    "opciones": {
+      "a": "Asimilables a urbanos.",
+      "b": "Peligrosos.",
+      "c": "Específicos sin riesgo.",
+      "d": "Las respuestas a y c son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_6",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Con relación a los residuos, señala la opción correcta:",
+    "opciones": {
+      "a": "La reutilización es el empleo de un producto usado para un fin distinto para el que fue diseñado originalmente.",
+      "b": "El reciclado es la transformación de los residuos, dentro de un proceso de producción, para su fin inicial o para otros fines, excluida la incineración con recuperación de energía.",
+      "c": "El poseedor es el productor de los residuos o la persona física o jurídica que los tenga en su poder y que a la vez tenga la condición de gestor de residuos.",
+      "d": "Las respuestas b y c son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_8",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": {
+      "a": "Los desperdicios de productos alimenticios deberán retirarse de las salas de manipulación con la mayor rapidez posible.",
+      "b": "Los depósitos de desperdicios deben estar provistos de cierre hermético.",
+      "c": "Se contará con un almacén para residuos sólidos aislado de la zona de manipulación.",
+      "d": "Todas las anteriores son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_10",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Los residuos del Grupo I son:",
+    "opciones": {
+      "a": "Residuos sanitarios específicos.",
+      "b": "Residuos urbanos o asimilables (cartón, papel, restos de comida).",
+      "c": "Residuos radioactivos.",
+      "d": "Residuos citostáticos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_12",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Las bolsas para residuos del Grupo II (sanitarios no específicos) suelen ser de color:",
+    "opciones": {
+      "a": "Rojo.",
+      "b": "Negro.",
+      "c": "Amarillo.",
+      "d": "Verde."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_14",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "El almacenamiento interno de residuos en el centro sanitario no debe exceder de:",
+    "opciones": {
+      "a": "12 horas.",
+      "b": "24 horas.",
+      "c": "48 horas.",
+      "d": "Una semana."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_16",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "¿Qué residuo se deposita en el contenedor azul?",
+    "opciones": {
+      "a": "Vidrio.",
+      "b": "Plástico.",
+      "c": "Papel y cartón.",
+      "d": "Pilas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_18",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "¿Qué residuo se deposita en el contenedor verde (iglú)?",
+    "opciones": {
+      "a": "Restos orgánicos.",
+      "b": "Vidrio.",
+      "c": "Latas.",
+      "d": "Papel."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_20",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Los residuos del Grupo III (riesgo para la salud o medio ambiente) se recogen en:",
+    "opciones": {
+      "a": "Bolsas de basura comunes.",
+      "b": "Contenedores rígidos de color amarillo o rojo según el tipo.",
+      "c": "Cajas de cartón abiertas.",
+      "d": "No se recogen."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_22",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Un residuo citostático (Grupo IV) es aquel que:",
+    "opciones": {
+      "a": "Procede de restos de comida.",
+      "b": "Procede de tratamientos contra el cáncer y es altamente peligroso.",
+      "c": "Es un cartón mojado.",
+      "d": "Es una jeringuilla sin aguja."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_24",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "La \"minimización\" de residuos consiste en:",
+    "opciones": {
+      "a": "Hacer los residuos más pequeños con una prensa.",
+      "b": "Reducir la cantidad y peligrosidad de los residuos generados.",
+      "c": "Tirarlos en bolsas más pequeñas.",
+      "d": "Quemarlos todos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_26",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "¿A quién corresponde la gestión externa de los residuos peligrosos?",
+    "opciones": {
+      "a": "Al ayuntamiento directamente.",
+      "b": "A empresas gestoras autorizadas por la Comunidad Autónoma.",
+      "c": "Al jefe de mantenimiento.",
+      "d": "A los pacientes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_28",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Los contenedores de residuos cortantes y punzantes deben estar:",
+    "opciones": {
+      "a": "En el pasillo principal.",
+      "b": "Lo más cerca posible del lugar donde se genera el residuo.",
+      "c": "En el almacén de víveres.",
+      "d": "Debajo de las mesas de cocina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_30",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "¿Qué es un \"gestor de residuos\"?",
+    "opciones": {
+      "a": "El pinche que tira la basura.",
+      "b": "Persona o entidad autorizada que realiza operaciones de recogida, transporte o tratamiento.",
+      "c": "El director del hospital.",
+      "d": "Una máquina trituradora."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_32",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Los residuos orgánicos de cocina se consideran asimilables a urbanos y van al contenedor:",
+    "opciones": {
+      "a": "Amarillo.",
+      "b": "Gris o marrón (orgánico).",
+      "c": "Azul.",
+      "d": "Rojo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_34",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "La incineración es un método de:",
+    "opciones": {
+      "a": "Reutilización.",
+      "b": "Eliminación/Tratamiento.",
+      "c": "Reciclaje.",
+      "d": "Minimización."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_36",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "El transporte interno de residuos debe realizarse:",
+    "opciones": {
+      "a": "En los mismos carros que la comida.",
+      "b": "Mediante circuitos y horarios diferentes a los de suministros y comida.",
+      "c": "Por los ascensores de visitas.",
+      "d": "Solo una vez a la semana."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_38",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Los residuos líquidos de laboratorio son del grupo:",
+    "opciones": {
+      "a": "I.",
+      "b": "IV (especiales).",
+      "c": "II.",
+      "d": "No son residuos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_40",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Indique en qué grupo o tipo se incluye el material de curas, gasas, compresas y apósitos (no infeñosos):",
+    "opciones": {
+      "a": "Grupo I.",
+      "b": "Grupo II.",
+      "c": "Grupo III.",
+      "d": "Grupo IV."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_42",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "La regulación de los residuos sanitarios es llevada a cabo por las CCAA desde el año:",
+    "opciones": {
+      "a": "1.989.",
+      "b": "1.990.",
+      "c": "1.992.",
+      "d": "1.996."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_44",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "En el medio hospitalario, los residuos cortantes se recogen en contenedores amarillos que deben ser:",
+    "opciones": {
+      "a": "Permeables.",
+      "b": "Flexibles.",
+      "c": "Imperforables.",
+      "d": "Biodegradables."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_46",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Los residuos químicos, citostáticos y medicamentos caducados están tipificados en:",
+    "opciones": {
+      "a": "El grupo II.",
+      "b": "El grupo III.",
+      "c": "El grupo IV.",
+      "d": "El grupo V."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b2_48",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 2)",
+    "pregunta": "Señale la opción incorrecta:",
+    "opciones": {
+      "a": "Los residuos tipo I se recogen en bolsas negras.",
+      "b": "Los residuos tipo III si son cortantes se depositan en contenedores rígidos y biodegradables.",
+      "c": "Los residuos tipo III se pueden transportar en camiones compactadores al vertedero controlado directamente.",
+      "d": "La evacuación para eliminación es realizada por ayuntamientos o empresas autorizadas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_0",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "Respecto a la recogida de residuos sanitarios, se deben utilizar recipientes que:",
+    "opciones": {
+      "a": "Sean transparentes.",
+      "b": "No puedan cerrarse totalmente.",
+      "c": "Presenten una notable resistencia a la rotura.",
+      "d": "Sean envases permeables."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_2",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "Señale la opción correcta:",
+    "opciones": {
+      "a": "Los residuos citostáticos pertenecen al grupo V.",
+      "b": "Los residuos biosanitarios pertenecen al grupo II y III.",
+      "c": "Los residuos citostáticos pertenecen al grupo IV y destaca su peligrosidad.",
+      "d": "Los del grupo V se eliminan siempre por cremación."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_4",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿En qué grupo calificaría los residuos punzantes o cortantes?",
+    "opciones": {
+      "a": "Grupo I.",
+      "b": "Grupo II.",
+      "c": "Grupo III.",
+      "d": "Grupo IV."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_6",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "Tras el alta de un paciente se produce la limpieza de la habitación, los residuos generados son:",
+    "opciones": {
+      "a": "Grupo I.",
+      "b": "Grupo II.",
+      "c": "Grupo III.",
+      "d": "Grupo IV."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_8",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿Qué tipo de bolsa se utiliza para residuos del Grupo III (no cortantes)?",
+    "opciones": {
+      "a": "Bolsa roja de galga mínima 200.",
+      "b": "Bolsa negra común.",
+      "c": "Bolsa amarilla.",
+      "d": "No se usan bolsas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_10",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "El residuo de citostáticos se debe eliminar mediante:",
+    "opciones": {
+      "a": "Esterilización por autoclave.",
+      "b": "Incineración a altas temperaturas (800-1200º C).",
+      "c": "Vertido al alcantarillado.",
+      "d": "Reciclaje plástico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_12",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿Qué es la \"esterilización por autoclave\" en residuos?",
+    "opciones": {
+      "a": "Quemar la basura.",
+      "b": "Tratamiento con vapor de agua a presión para eliminar la carga infecciosa.",
+      "c": "Triturar el cristal.",
+      "d": "Lavar las bolsas con lejía."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_14",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "Los restos de alimentos de pacientes \"infecciosos\" se consideran:",
+    "opciones": {
+      "a": "Grupo I.",
+      "b": "Grupo II.",
+      "c": "Grupo III.",
+      "d": "Grupo IV."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_16",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿Dónde se tiran las pilas usadas en el hospital?",
+    "opciones": {
+      "a": "Al contenedor orgánico.",
+      "b": "Al contenedor específico para pilas (residuo peligroso).",
+      "c": "Por el desagüe.",
+      "d": "En el contenedor azul."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_18",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "El símbolo internacional de \"Riesgo Biológico\" es obligatorio en:",
+    "opciones": {
+      "a": "Las cajas de galletas.",
+      "b": "Los contenedores de residuos del Grupo III y IV.",
+      "c": "En la puerta del comedor.",
+      "d": "En los uniformes de los pinches."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_20",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "Los envases de aerosoles (sprays) se consideran:",
+    "opciones": {
+      "a": "Residuos urbanos.",
+      "b": "Residuos químicos peligrosos (Grupo IV).",
+      "c": "Residuos orgánicos.",
+      "d": "No son residuos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_22",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿Cuál es el color del contenedor de residuos CITOSTÁTICOS?",
+    "opciones": {
+      "a": "Amarillo.",
+      "b": "Negro.",
+      "c": "Azul con etiquetas rojas/azules según hospital (frecuentemente Azul).",
+      "d": "Verde."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_24",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "La Ley 22/2011 es la norma básica estatal sobre:",
+    "opciones": {
+      "a": "Cocina hospitalaria.",
+      "b": "Residuos y suelos contaminados.",
+      "c": "Contratos de trabajo.",
+      "d": "Seguridad social."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_26",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "Los cartuchos de tóner de las impresoras de la cocina son:",
+    "opciones": {
+      "a": "Basura normal.",
+      "b": "Residuos para reciclaje especial.",
+      "c": "Residuos biológicos.",
+      "d": "No se reciclan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_28",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿Se puede compactar la basura del Grupo III?",
+    "opciones": {
+      "a": "Sí, siempre.",
+      "b": "No, para evitar rotura de envases y liberación de aerosoles infecciosos.",
+      "c": "Solo si es poca cantidad.",
+      "d": "Sí, con las manos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_30",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "Los residuos sanitarios pueden ser:",
+    "opciones": {
+      "a": "Patológicos, químicos y farmacéuticos.",
+      "b": "De laboratorio y bacteriológico.",
+      "c": "Infecciosos, cortantes y punzantes.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_32",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "Los residuos sanitarios según la ley se clasifican en:",
+    "opciones": {
+      "a": "Grupos.",
+      "b": "Sólidos y líquidos.",
+      "c": "Urbanos y especiales.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_34",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿Qué requisitos debe cumplir el traslado interno de los residuos?",
+    "opciones": {
+      "a": "Supondrá un riesgo para el personal.",
+      "b": "No se trasvasarán residuos de un envase a otro.",
+      "c": "Los circuitos utilizados no serán de uso exclusivo.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_36",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿Qué afirmación es correcta sobre los depósitos intermedios?",
+    "opciones": {
+      "a": "No tendrán salida al exterior.",
+      "b": "Serán refrigerados para evitar proliferación de microorganismos.",
+      "c": "No dispondrán de ventilación.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_38",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿Qué fin tienen los residuos radioactivos?",
+    "opciones": {
+      "a": "Incineración.",
+      "b": "Vertederos.",
+      "c": "Almacenamiento (en instalaciones específicas de ENRESA).",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_40",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "La segregación de residuos consiste en:",
+    "opciones": {
+      "a": "Juntarlos todos al final del día.",
+      "b": "Separarlos en origen según su categoría en el momento de generarlos.",
+      "c": "Tirarlos por la ventana.",
+      "d": "Lavarlos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_42",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "¿Quién es el responsable de la segregación correcta en la cocina?",
+    "opciones": {
+      "a": "El que limpia el suelo.",
+      "b": "El trabajador que genera el residuo.",
+      "c": "El gerente.",
+      "d": "La empresa externa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_44",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "Un contenedor de agujas se considera \"Lleno\" cuando:",
+    "opciones": {
+      "a": "Sobresalen las agujas.",
+      "b": "Alcanza la línea de llenado (aprox. 3/4 partes).",
+      "c": "Pesa 10 kilos.",
+      "d": "No se llena nunca."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_46",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "La recogida selectiva en cocina incluye separar:",
+    "opciones": {
+      "a": "Aceites, envases, cartón y materia orgánica.",
+      "b": "Solo comida.",
+      "c": "Solo plásticos.",
+      "d": "Nada, todo va al mismo cubo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema16_b3_48",
+    "tema": "Tema 16: Gestión de Residuos (Bloque 3)",
+    "pregunta": "El objetivo de la gestión de residuos es:",
+    "opciones": {
+      "a": "Gastar más dinero.",
+      "b": "Proteger la salud pública y el medio ambiente.",
+      "c": "Llenar los hospitales de cubos de colores.",
+      "d": "Evitar que los pinches descansen."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
   }
 ]

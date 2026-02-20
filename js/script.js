@@ -340,6 +340,8 @@ function createBaseTopicButton(baseTema, questionsSubset) {
         if (baseTema === 'Tema 12') titulo = "APPCC y Trazabilidad";
         if (baseTema === 'Tema 13') titulo = "Manipulación de Alimentos";
         if (baseTema === 'Tema 14') titulo = "Control de materias primas y técnicas";
+        if (baseTema === 'Tema 15') titulo = "Maquinaria y Utensilios";
+        if (baseTema === 'Tema 16') titulo = "Gestión de Residuos";
     }
 
     if (titulo === baseTema) titulo = "";
@@ -472,6 +474,8 @@ function createTopicButton(tema) {
         if (tema === 'Tema 12') titulo = "APPCC y Trazabilidad";
         if (tema === 'Tema 13') titulo = "Manipulación de Alimentos";
         if (tema === 'Tema 14') titulo = "Control de materias primas y técnicas";
+        if (tema === 'Tema 15') titulo = "Maquinaria y Utensilios";
+        if (tema === 'Tema 16') titulo = "Gestión de Residuos";
     }
 
     // Avoid redundancy if title == theme name
