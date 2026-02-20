@@ -1436,20 +1436,17 @@ function startReviewMode(onlyFailures = false) {
         // Filter: Failures AND Unanswered
         const indicesToKeep = currentQuestions.map((q, i) => i).filter(i => {
             const ans = userAnswers[i];
-            const correct = q.correcta ? q.correcta.toLowerCase() : '';
-            const selected = ans ? ans.toLowerCase() : '';
+            const correctStr = (q && q.correcta && typeof q.correcta === 'string') ? q.correcta.toLowerCase() : '';
+            const selectedStr = (ans && typeof ans === 'string') ? ans.toLowerCase() : '';
 
             // Keep if unanswered OR wrong
-            return !ans || selected !== correct;
+            return !ans || selectedStr !== correctStr;
         });
 
         if (indicesToKeep.length === 0) {
             alert("¡No tienes fallos para revisar! 🏆");
             return;
         }
-
-        // Feedback para confirmar
-        alert(`Entrando en revisión de ${indicesToKeep.length} fallos/blancas.`);
 
         const newQuestions = indicesToKeep.map(i => currentQuestions[i]);
         const newAnswers = {};
