@@ -33,23 +33,83 @@ function initSupabase() {
     }
 }
 
-function checkAuth() {
+async function checkAuth() {
     initSupabase();
-    const authData = localStorage.getItem('ope_auth_session');
-    if (authData) {
-        const parsed = JSON.parse(authData);
-        const now = new Date().getTime();
-        // 24 hours valid session
-        if (now - parsed.timestamp < 86400000) {
-            initApp();
-            return;
-        } else {
-            localStorage.removeItem('ope_auth_session');
-        }
+
+    // Check URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const userParam = urlParams.get('user');
+    const localUser = localStorage.getItem('ope_user_access');
+
+    if (userParam) {
+        await validateUserAccess(userParam);
+        // Clean URL parameter visually
+        window.history.replaceState({}, document.title, window.location.pathname);
+    } else if (localUser) {
+        await validateUserAccess(localUser);
+    } else {
+        showAccessDenied("Acceso denegado. Introduce tu código en la URL");
     }
-    // Show login overlay if not auth
-    const overlay = document.getElementById('login-overlay');
-    if (overlay) overlay.classList.remove('hidden');
+}
+
+async function validateUserAccess(userId) {
+    try {
+        const { data, error } = await supabaseClient
+            .from('usuarios_acceso')
+            .select('*')
+            .eq('id_acceso', userId)
+            .single();
+
+        if (error || !data) {
+            console.error("Access error:", error);
+            showAccessDenied("Acceso denegado. Código de usuario inválido o no encontrado.");
+            localStorage.removeItem('ope_user_access');
+            return;
+        }
+
+        if (data.bloqueado === true) {
+            console.warn("User blocked");
+            showAccessDenied("Acceso denegado. Tu licencia ha sido bloqueada.");
+            localStorage.removeItem('ope_user_access');
+            return;
+        }
+
+        // Si es correcto
+        localStorage.setItem('ope_user_access', userId);
+
+        // Hide access overlay
+        const overlay = document.getElementById('access-overlay');
+        if (overlay) overlay.classList.add('hidden');
+
+        // Hide the old login overlay if it exists
+        const loginOverlay = document.getElementById('login-overlay');
+        if (loginOverlay) loginOverlay.classList.add('hidden');
+
+        // Show license active
+        const licenseText = document.getElementById('licencia-activa');
+        if (licenseText) licenseText.style.display = 'inline-block';
+
+        initApp();
+    } catch (err) {
+        console.error("Error validando usuario:", err);
+        showAccessDenied("Error de conexión al validar el acceso.");
+    }
+}
+
+function showAccessDenied(msg) {
+    const overlay = document.getElementById('access-overlay');
+    if (overlay) {
+        overlay.classList.remove('hidden');
+        const titleEl = overlay.querySelector('#access-title');
+        if (titleEl) {
+            titleEl.innerText = "Acceso Denegado";
+            titleEl.style.color = "red";
+        }
+        const msgEl = overlay.querySelector('#access-msg');
+        if (msgEl) msgEl.innerText = msg;
+    }
+    const loginOverlay = document.getElementById('login-overlay');
+    if (loginOverlay) loginOverlay.classList.add('hidden');
 }
 
 function initApp() {

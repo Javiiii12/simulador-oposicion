@@ -12,8 +12,16 @@
 
 <body>
     <script src="js/script.js?v=7.0" defer></script>
+    <!-- ACCESS OVERLAY -->
+    <div id="access-overlay" class="login-overlay">
+        <div class="login-box">
+            <h2 id="access-title" style="color:var(--primary);">Verificando Acceso</h2>
+            <p id="access-msg" style="font-weight: bold;">Por favor espere...</p>
+        </div>
+    </div>
+
     <!-- LOGIN OVERLAY -->
-    <div id="login-overlay" class="login-overlay">
+    <div id="login-overlay" class="login-overlay hidden">
         <div class="login-box">
             <h2 style="color:var(--primary);">Acceso Restringido</h2>
             <p>Introduce la contraseña para acceder al simulador:</p>
@@ -65,7 +73,9 @@
             <button id="btn-admin-panel" class="btn-secondary"
                 style="margin-top:40px; width:100%; font-size:0.9rem; opacity:0.8;">Ver Conexiones (Admin)</button>
             <p style="text-align:center; margin-top:15px; color:#aaa; font-size:0.8rem;">
-                v1.13.0 (Security) - Más categorías en desarrollo
+                v1.13.0 (Security) - Más categorías en desarrollo<br>
+                <span id="licencia-activa" style="color: #4CAF50; font-weight: bold; display: none; margin-top: 5px;">✓
+                    Licencia activa</span>
             </p>
         </div>
 
