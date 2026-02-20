@@ -27355,6 +27355,20 @@
     "origen": "Historico"
   },
   {
+    "id": "csif_tema7_b1_0",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "Los centros hospitalarios desarrollarán:",
+    "opciones": {
+      "a": "Además de tareas asistenciales, funciones de promoción de salud, prevención de las enfermedades e investigación y docencia.",
+      "b": "Sólo tareas estrictamente asistenciales.",
+      "c": "Además de tareas asistenciales, deberán realizar campañas de vacunación.",
+      "d": "Deberán realizar obligatoriamente cualquier tipo de investigación y docencia."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
     "id": "csif_tema7_b1_2",
     "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
     "pregunta": "Es un órgano colegiado de dirección del hospital:",
@@ -27691,6 +27705,20 @@
     "origen": "CSIF"
   },
   {
+    "id": "csif_tema7_b2_0",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "Cuál de estas preguntas respecto a la junta técnico asistencial es la verdadera:",
+    "opciones": {
+      "a": "Estará formada por los subdirectores de las divisiones medicas y de enfermeria.",
+      "b": "El director gerente será su presidente.",
+      "c": "Estará formada por los directores de enfermería, el director de gestión y servicios generales.",
+      "d": "El director medico será su presidente."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
     "id": "csif_tema7_b2_2",
     "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
     "pregunta": "La hospitalización domiciliaria se desarrolla por personal sanitario:",
@@ -27971,6 +27999,20 @@
     "origen": "CSIF"
   },
   {
+    "id": "csif_tema7_b2_42",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "¿Cuántas divisiones básicas tiene un hospital según el RD 521/87?",
+    "opciones": {
+      "a": "Dos.",
+      "b": "Tres (Médica, Enfermería, Gestión).",
+      "c": "Cuatro (incluyendo Gerencia).",
+      "d": "Cinco."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
     "id": "csif_tema7_b2_44",
     "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
     "pregunta": "Los órganos de asesoramiento de la Comisión de Dirección son:",
@@ -28007,6 +28049,20 @@
       "b": "Asistencia especializada, Investigación, Docencia.",
       "c": "Prestación de información a centros de AP.",
       "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_0",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "La ordenación de la atención primaria se centra en todas estas estructuras excepto:",
+    "opciones": {
+      "a": "Área de salud.",
+      "b": "Centro de salud.",
+      "c": "Zona básica de salud.",
+      "d": "Gerencia de salud."
     },
     "correcta": "d",
     "explicacion": "",
@@ -28349,6 +28405,20 @@
     "origen": "CSIF"
   },
   {
+    "id": "csif_tema7_b4_0",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "La capacidad de organización de los servicios de un hospital compete:",
+    "opciones": {
+      "a": "Al Director de Enfermería.",
+      "b": "Al Director Gerente.",
+      "c": "Al Director Médico.",
+      "d": "Al Director de Gestión."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
     "id": "csif_tema7_b4_2",
     "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
     "pregunta": "No forma parte del contenido de la asistencia sanitaria especializada:",
@@ -28664,6 +28734,20 @@
       "a": "6.",
       "b": "3.",
       "c": "No hay un número mínimo.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_48",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "El órgano de asesoramiento en actividad asistencial es:",
+    "opciones": {
+      "a": "Comisión de Garantía de Calidad.",
+      "b": "Junta Técnica Asistencial.",
+      "c": "Comisión de Asesoramiento.",
       "d": "Ninguna es correcta."
     },
     "correcta": "b",
