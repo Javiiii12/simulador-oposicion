@@ -222,7 +222,11 @@ async function loadAdminLogs() {
         if (logsError) throw logsError;
 
         let htmlContent = `
-            <tr style="background:#f4f6f8;"><td colspan="2" style="font-weight:bold; text-align:center; color:var(--primary);">Estado de Licencias</td></tr>
+            <tr style="background:#f4f6f8;"><td colspan="2" style="font-weight:bold; text-align:center; color:var(--primary); font-size:1.1rem; padding:10px;">Estado de Licencias</td></tr>
+            <tr style="background:#f9f9f9; border-bottom: 2px solid #ddd;">
+                <td style="font-weight:bold; color:#555;">Usuario/ID</td>
+                <td style="font-weight:bold; color:#555; text-align:center;">Dispositivos Activos</td>
+            </tr>
         `;
 
         if (licensesData && licensesData.length > 0) {
@@ -237,7 +241,11 @@ async function loadAdminLogs() {
         }
 
         htmlContent += `
-            <tr style="background:#f4f6f8;"><td colspan="2" style="font-weight:bold; text-align:center; color:var(--primary); margin-top:10px;">Últimas Conexiones</td></tr>
+            <tr style="background:#f4f6f8;"><td colspan="2" style="font-weight:bold; text-align:center; color:var(--primary); font-size:1.1rem; padding:10px; margin-top:20px;">Últimas Conexiones Registradas</td></tr>
+            <tr style="background:#f9f9f9; border-bottom: 2px solid #ddd;">
+                <td style="font-weight:bold; color:#555;">Fecha y Hora</td>
+                <td style="font-weight:bold; color:#555;">Dispositivo (Auth)</td>
+            </tr>
         `;
 
         if (logsData && logsData.length > 0) {
