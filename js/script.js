@@ -1348,9 +1348,11 @@ function finishGame() {
         pctMotivacional.style.color = "var(--error)";
     }
 
-    // Actualizar Stats Rápidas
-    document.getElementById('stat-correct').textContent = aciertos;
-    document.getElementById('stat-incorrect').textContent = fallos;
+    // Actualizar Stats Rápidas (si están en el DOM)
+    const statCorrectEl = document.getElementById('stat-correct');
+    const statIncorrectEl = document.getElementById('stat-incorrect');
+    if (statCorrectEl) statCorrectEl.textContent = aciertos;
+    if (statIncorrectEl) statIncorrectEl.textContent = fallos;
 
     // Show Review Buttons
     const btnReview = document.getElementById('btn-review-exam');
