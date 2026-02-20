@@ -126,7 +126,8 @@ async function loadAdminLogs() {
 
     } catch (e) {
         console.error(e);
-        tbody.innerHTML = '<tr><td colspan="2" style="color:red; text-align:center;">Error al cargar logs</td></tr>';
+        const errorMsg = e.message || JSON.stringify(e);
+        tbody.innerHTML = `<tr><td colspan="2" style="color:red; text-align:center;">Error de Supabase:<br><small>${errorMsg}</small></td></tr>`;
     }
 }
 
