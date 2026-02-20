@@ -261,21 +261,111 @@ function setupEventListeners() {
         startGame(currentQuestions, currentMode, currentTopicName);
     });
 
-    // Configuración Aleatoria
-    document.getElementById('btn-start-random').addEventListener('click', () => {
-        // En Random, vamos directo a elegir modo? O asumimos entrenamiento/examen?
-        // Vamos a asumir que "Random" lleva a selección de modo también para ser consistente.
-        prepareModeSelection("Test Aleatorio", () => {
-            const input = document.getElementById('random-count');
-            let count = parseInt(input.value) || 20;
-            if (count < 1) count = 1;
-            if (count > 100) count = 100;
-            if (count > allQuestions.length) count = allQuestions.length;
+    // Configuración Aleatoria Avanzada
+    const btnRandom = document.getElementById('btn-random');
+    if (btnRandom) {
+        btnRandom.addEventListener('click', () => {
+            currentSource = null;
+            document.getElementById('random-count').value = 20;
+            // Configurar comportamiento dinámico del formulario modal
+            const selectMixType = document.getElementById('select-mix-type');
+            const grpOrigen = document.getElementById('filter-group-origen');
+            const grpOficial = document.getElementById('filter-group-oficial');
+            const grpTema = document.getElementById('filter-group-tema');
+            const selTemaNum = document.getElementById('select-tema-num');
 
-            const shuffled = [...allQuestions].sort(() => 0.5 - Math.random());
-            return shuffled.slice(0, count);
+            // Poblar dropdown de Temas si está vacío
+            if (selTemaNum.options.length === 0) {
+                for (let i = 1; i <= 16; i++) {
+                    let opt = document.createElement('option');
+                    opt.value = `Tema ${i}`;
+                    opt.text = `Tema ${i}`;
+                    selTemaNum.appendChild(opt);
+                }
+            }
+
+            // Reset visibilidad inicial
+            grpOrigen.classList.add('hidden');
+            grpOficial.classList.add('hidden');
+            grpTema.classList.add('hidden');
+            selectMixType.value = 'general';
+
+            selectMixType.onchange = (e) => {
+                grpOrigen.classList.add('hidden');
+                grpOficial.classList.add('hidden');
+                grpTema.classList.add('hidden');
+
+                if (e.target.value === 'origen') grpOrigen.classList.remove('hidden');
+                if (e.target.value === 'oficial') grpOficial.classList.remove('hidden');
+                if (e.target.value === 'tema') grpTema.classList.remove('hidden');
+            };
+
+            showView('random');
         });
-    });
+    }
+
+    const btnStartRandom = document.getElementById('btn-start-random');
+    if (btnStartRandom) {
+        btnStartRandom.addEventListener('click', () => {
+            let count = parseInt(document.getElementById('random-count').value);
+            if (isNaN(count) || count < 1) count = 20;
+            if (count > 100) count = 100;
+
+            const mixType = document.getElementById('select-mix-type').value;
+            let pool = [];
+            let filterDesc = "";
+
+            if (mixType === 'general') {
+                pool = [...allQuestions];
+                filterDesc = "General Total";
+            } else if (mixType === 'origen') {
+                const origenVal = document.getElementById('select-origen').value;
+                pool = allQuestions.filter(q => q.origen === origenVal);
+                filterDesc = `Editorial: ${origenVal}`;
+            } else if (mixType === 'oficial') {
+                const oficialVal = document.getElementById('select-oficial').value;
+                if (oficialVal === 'todos') {
+                    pool = allQuestions.filter(q => q.origen === 'Historico');
+                    filterDesc = "Todos los Oficiales";
+                } else if (oficialVal === 'SESCAM') {
+                    pool = allQuestions.filter(q => q.origen === 'Historico' && q.tema.includes('SESCAM'));
+                    filterDesc = "Oficiales SESCAM";
+                } else {
+                    pool = allQuestions.filter(q => q.origen === 'Historico' && !q.tema.includes('SESCAM'));
+                    filterDesc = "Otras Comunidades";
+                }
+            } else if (mixType === 'tema') {
+                const temaVal = document.getElementById('select-tema-num').value;
+                const fuenteVal = document.getElementById('select-tema-fuente').value;
+
+                pool = allQuestions.filter(q => q.tema && q.tema.includes(temaVal + ':'));
+                if (fuenteVal !== 'todas') {
+                    pool = pool.filter(q => q.origen === fuenteVal);
+                    filterDesc = `${temaVal} (Solo ${fuenteVal})`;
+                } else {
+                    filterDesc = `${temaVal} (Todas las fuentes)`;
+                }
+            }
+
+            if (pool.length === 0) {
+                alert(`No se encontraron preguntas para el filtro: ${filterDesc}. Intenta otra combinación.`);
+                return;
+            }
+
+            if (pool.length < count) {
+                alert(`Solo hay ${pool.length} preguntas disponibles para el filtro '${filterDesc}'. Se cargarán todas las disponibles.`);
+                count = pool.length;
+            }
+
+            // Mezclar preguntas disponibles y coger las necesarias
+            const shuffled = [...pool].sort(() => 0.5 - Math.random());
+            const selected = shuffled.slice(0, count);
+
+            prepareModeSelection(`Modo Aleatorio: ${filterDesc} (${count} pregs)`, () => {
+                return selected;
+            });
+        });
+    }
 
     // Selección de Modo
     document.getElementById('btn-mode-training').addEventListener('click', () => executeGameStart('training'));

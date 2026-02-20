@@ -236,14 +236,66 @@
         <div id="view-random" class="view hidden">
             <header class="view-header">
                 <button id="btn-back-random" class="btn-icon">⬅</button>
-                <h2>Modo Aleatorio</h2>
+                <h2>Modo Aleatorio Avanzado</h2>
             </header>
-            <div class="config-box">
-                <label>¿Cuántas preguntas?</label>
-                <input type="number" id="random-count" min="1" max="100" value="20">
-                <p style="font-size:0.8rem; color:#777;">Selecciona entre 1 y 100</p>
+            <div class="config-box" style="text-align: left;">
+                <label style="font-weight:bold; display:block; margin-bottom:5px;">1. Tipo de Mezcla Principal:</label>
+                <select id="select-mix-type" class="form-control"
+                    style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px; border:2px solid var(--primary);">
+                    <option value="general">🌍 General Total (Toda la base de datos)</option>
+                    <option value="origen">📚 Filtrar por Editorial (Origen)</option>
+                    <option value="oficial">🏛️ Exámenes Oficiales e Históricos</option>
+                    <option value="tema">🏷️ Por Tema Individual</option>
+                </select>
+
+                <!-- Sub-filtro Origen -->
+                <div id="filter-group-origen" class="filter-group hidden">
+                    <label style="font-weight:bold; display:block; margin-bottom:5px;">Selecciona la Editorial:</label>
+                    <select id="select-origen" class="form-control"
+                        style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px;">
+                        <option value="CSIF">CSIF</option>
+                        <option value="MAD">MAD</option>
+                        <option value="Academia Test">Academia Test</option>
+                    </select>
+                </div>
+
+                <!-- Sub-filtro Oficial -->
+                <div id="filter-group-oficial" class="filter-group hidden">
+                    <label style="font-weight:bold; display:block; margin-bottom:5px;">Selecciona Tipo de
+                        Examen:</label>
+                    <select id="select-oficial" class="form-control"
+                        style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px;">
+                        <option value="todos">Todos los Oficiales</option>
+                        <option value="SESCAM">OPE SESCAM</option>
+                        <option value="Otras">Otras Comunidades</option>
+                    </select>
+                </div>
+
+                <!-- Sub-filtro Tema -->
+                <div id="filter-group-tema" class="filter-group hidden">
+                    <label style="font-weight:bold; display:block; margin-bottom:5px;">Elige el Tema:</label>
+                    <select id="select-tema-num" class="form-control"
+                        style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px;">
+                        <!-- JS fills options 1 to 16 -->
+                    </select>
+
+                    <label style="font-weight:bold; display:block; margin-bottom:5px;">Filtro de Fuente
+                        (Opcional):</label>
+                    <select id="select-tema-fuente" class="form-control"
+                        style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px;">
+                        <option value="todas">Todas las fuentes</option>
+                        <option value="CSIF">CSIF</option>
+                        <option value="MAD">MAD</option>
+                    </select>
+                </div>
+
+                <div style="border-top: 1px solid #ddd; margin-top: 10px; padding-top: 15px; text-align:center;">
+                    <label style="font-weight:bold; display:block;">¿Cuántas preguntas?</label>
+                    <input type="number" id="random-count" min="1" max="100" value="20">
+                    <p style="font-size:0.8rem; color:#777; margin-top:0;">Máximo 100.</p>
+                </div>
                 <br>
-                <button id="btn-start-random" class="btn-primary">Continuar ➡</button>
+                <button id="btn-start-random" class="btn-primary">Comenzar Test Aleatorio ➡</button>
             </div>
         </div>
 
