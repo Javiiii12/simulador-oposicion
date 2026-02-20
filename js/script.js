@@ -46,8 +46,8 @@ function setupEventListeners() {
     // Menú Principal
     document.getElementById('btn-back-menu').addEventListener('click', () => showView('roleSelection'));
 
-    document.getElementById('btn-mad').addEventListener('click', () => showTopics('MAD'));
-    document.getElementById('btn-csif').addEventListener('click', () => showTopics('CSIF'));
+    document.getElementById('btn-general').addEventListener('click', () => showTopics('GENERAL'));
+    document.getElementById('btn-especifica').addEventListener('click', () => showTopics('ESPECIFICA'));
     document.getElementById('btn-failures').addEventListener('click', startFailureTest);
     document.getElementById('btn-random').addEventListener('click', showRandomConfig);
     document.getElementById('btn-progress').addEventListener('click', showProgress);
@@ -192,98 +192,163 @@ function showRandomConfig() {
 }
 
 // --- LÓGICA DE TEMAS ---
-// --- LÓGICA DE TEMAS ---
 function showTopics(category) {
     // Update Title
     const titleEl = document.getElementById('topic-title');
-    if (titleEl) titleEl.innerText = `Temas (${category})`;
+    if (titleEl) titleEl.innerText = category === 'GENERAL' ? 'Parte General (Temas 1 al 6)' : 'Parte Específica (Temas 7 al 16)';
 
-    // Filter questions by Origin
-    // Default to MAD if no origen (backward compatibility, though we patched JSON)
-    const relevantQuestions = allQuestions.filter(q => {
-        if (category === 'MAD') return !q.origen || q.origen === 'MAD';
-        return q.origen === category;
-    });
+    // Filter questions by Category
+    let relevantQuestions = [];
+    if (category === 'GENERAL') {
+        relevantQuestions = allQuestions.filter(q => {
+            const t = q.tema.toLowerCase();
+            return t.includes('tema 1') || t.includes('tema 2') || t.includes('tema 3') ||
+                t.includes('tema 4') || t.includes('tema 5') || t.includes('tema 6');
+        });
+    } else if (category === 'ESPECIFICA') {
+        relevantQuestions = allQuestions.filter(q => {
+            const match = q.tema.match(/tema\s+(\d+)/i);
+            if (match) {
+                const num = parseInt(match[1]);
+                return num >= 7 && num <= 16;
+            }
+            return false;
+        });
+    }
 
     if (relevantQuestions.length === 0) {
-        alert(`⚠️ No hay preguntas cargadas para ${category} todavía.`);
+        alert(`⚠️ No hay preguntas cargadas para esa categoría todavía.`);
         return;
     }
 
-    const temas = [...new Set(relevantQuestions.map(q => q.tema))].filter(t => !t.toString().startsWith("Examen"));
+    // Extract base "Temas" disregarding the block details for the first level
+    const baseTemasRaw = [...new Set(relevantQuestions.map(q => {
+        const match = q.tema.match(/(Tema \d+)/i);
+        return match ? match[1] : q.tema;
+    }))].filter(t => !t.toString().startsWith("Examen"));
 
-    // Extract number from Tema X to sort numerically
-    const getNum = (str) => {
-        const m = str.match(/Tema (\d+)/);
-        if (m) return parseInt(m[1]) * 1000; // Major sort by Tema number
-        // Fallback for non-Tema strings or blocks
-        const m2 = str.match(/\d+/);
-        return m2 ? parseInt(m2[0]) : 9999;
-    };
+    // De-duplicate array
+    const baseTemas = [...new Set(baseTemasRaw)];
 
-    // Secondary sort by Block number if present
-    const getBlockNum = (str) => {
-        const m = str.match(/Bloque (\d+)/);
-        return m ? parseInt(m[1]) : 0;
-    };
-
-    temas.sort((a, b) => {
-        const diff = getNum(a) - getNum(b);
-        if (diff !== 0) return diff;
-        return getBlockNum(a) - getBlockNum(b);
+    // Sort Temas numerically
+    baseTemas.sort((a, b) => {
+        const ma = a.match(/\d+/);
+        const mb = b.match(/\d+/);
+        return (ma ? parseInt(ma[0]) : 9999) - (mb ? parseInt(mb[0]) : 9999);
     });
 
     const container = document.getElementById('topics-container');
     container.innerHTML = '';
 
-    let lastGroup = "";
-
-    temas.forEach(tema => {
-        // Determine Group (e.g. "Tema 1", "Tema 2")
-        let currentGroup = "";
-        const match = tema.match(/(Tema \d+)/);
-        if (match) {
-            currentGroup = match[1];
-        } else if (tema.startsWith("CSIF")) {
-            currentGroup = "CSIF Otros";
-        } else {
-            currentGroup = "Otros";
-        }
-
-        // Render Header if group changed
-        if (currentGroup !== lastGroup && currentGroup !== "Otros" && currentGroup !== "CSIF Otros") {
-            const header = document.createElement('h3');
-            header.className = 'topic-group-header';
-            header.style.width = '100%';
-            header.style.textAlign = 'left';
-            header.style.color = '#6200ea';
-            header.style.borderBottom = '1px solid #ddd';
-            header.style.paddingBottom = '5px';
-            header.style.marginTop = '20px';
-            header.style.marginBottom = '10px';
-
-            // Add descriptive titles for known groups
-            let titleSuffix = "";
-            if (currentGroup === "Tema 1") titleSuffix = ": La Constitución";
-            if (currentGroup === "Tema 2") titleSuffix = ": Estatuto y Transparencia";
-            if (currentGroup === "Tema 3") titleSuffix = ": Ley General de Sanidad";
-
-            header.innerText = currentGroup + titleSuffix;
-            container.appendChild(header);
-            lastGroup = currentGroup;
-        } else if (currentGroup !== lastGroup) {
-            const separator = document.createElement('div');
-            separator.style.width = '100%';
-            separator.style.height = '10px';
-            container.appendChild(separator);
-            lastGroup = currentGroup;
-        }
-
-        const btn = createTopicButton(tema);
+    baseTemas.forEach(baseTema => {
+        const btn = createBaseTopicButton(baseTema, relevantQuestions);
         container.appendChild(btn);
     });
 
     showView('topics');
+}
+
+function createBaseTopicButton(baseTema, questionsSubset) {
+    const btn = document.createElement('button');
+    btn.className = 'btn-topic';
+
+    // Total questions for this base tema
+    const temaQuestions = questionsSubset.filter(q => q.tema.includes(baseTema));
+    const count = temaQuestions.length;
+
+    let titulo = TOPIC_TITLES[baseTema] || baseTema;
+    if (titulo === baseTema) titulo = "";
+
+    // Determine if it has "Bloques"
+    const bloques = [...new Set(temaQuestions.map(q => q.tema))].filter(t => t.toLowerCase().includes('bloque'));
+    const hasBlocks = bloques.length > 0;
+
+    btn.innerHTML = `
+        <strong>${baseTema}</strong><br>
+        <span style="font-size:0.9em; color:#555;">${titulo}</span><br>
+        <small>${count} preguntas ${hasBlocks ? '(Contiene Bloques 📂)' : ''}</small>
+    `;
+
+    btn.addEventListener('click', () => {
+        // Find if this Tema has detailed strings (like "Tema 1: Constitución (Bloque 1)")
+        const subTemas = [...new Set(temaQuestions.map(q => q.tema))];
+
+        if (hasBlocks && subTemas.length > 1) {
+            // Re-render container with blocks (Level 2)
+            showBlocksMenu(baseTema, subTemas, temaQuestions);
+        } else {
+            // No blocks, directly go to mode selection
+            prepareModeSelection(baseTema, () => temaQuestions);
+        }
+    });
+    return btn;
+}
+
+function showBlocksMenu(baseTema, subTemas, temaQuestions) {
+    const container = document.getElementById('topics-container');
+    container.innerHTML = '';
+
+    const titleEl = document.getElementById('topic-title');
+    if (titleEl) titleEl.innerText = `${baseTema} - Bloques`;
+
+    // Sort by block number
+    subTemas.sort((a, b) => {
+        const ma = a.match(/bloque (\d+)/i);
+        const mb = b.match(/bloque (\d+)/i);
+        return (ma ? parseInt(ma[1]) : 0) - (mb ? parseInt(mb[1]) : 0);
+    });
+
+    // Add a return button specific to blocks view
+    const btnVolver = document.createElement('button');
+    btnVolver.className = 'btn-secondary';
+    btnVolver.style.marginBottom = '20px';
+    btnVolver.innerHTML = '⬅ Volver a Temas';
+    btnVolver.onclick = () => {
+        // Hacky way to go back to previous view - assume general if tema is <= 6
+        const numMatch = baseTema.match(/\d+/);
+        if (numMatch && parseInt(numMatch[0]) <= 6) {
+            showTopics('GENERAL');
+        } else {
+            showTopics('ESPECIFICA');
+        }
+    };
+    container.appendChild(btnVolver);
+
+    // Option to play ALL questions of the Tema mixed
+    const btnTodo = document.createElement('button');
+    btnTodo.className = 'btn-topic';
+    btnTodo.style.background = '#e3f2fd'; // distinctive color
+    btnTodo.innerHTML = `
+        <strong>${baseTema} COMPLETO</strong><br>
+        <small>Realizar mezclando todos los bloques (${temaQuestions.length} pregs)</small>
+    `;
+    btnTodo.onclick = () => {
+        prepareModeSelection(baseTema + " (Todos)", () => temaQuestions);
+    };
+    container.appendChild(btnTodo);
+
+    subTemas.forEach(subTema => {
+        const btn = document.createElement('button');
+        btn.className = 'btn-topic';
+
+        const qCount = temaQuestions.filter(q => q.tema === subTema).length;
+
+        let displayTitle = subTema;
+        // Clean display title a bit for aesthetic layout
+        displayTitle = displayTitle.replace(baseTema, "").replace(":", "").trim();
+        if (displayTitle === "") displayTitle = subTema; // fallback
+
+        btn.innerHTML = `
+            <strong>${displayTitle}</strong><br>
+            <small>${qCount} preguntas</small>
+        `;
+
+        btn.addEventListener('click', () => {
+            prepareModeSelection(subTema, () => temaQuestions.filter(q => q.tema === subTema));
+        });
+
+        container.appendChild(btn);
+    });
 }
 
 // Mapa de Títulos Oficiales (Hardcoded para limpieza y robustez)
@@ -818,6 +883,16 @@ function finishGame() {
         document.getElementById('final-score').textContent = score;
         document.getElementById('final-total').textContent = `/ ${total}`;
         document.getElementById('btn-review-exam').classList.add('hidden');
+    }
+
+    // New feature: Show "Borrar Fallos" button if there are failures in storage
+    const btnClearFailures = document.getElementById('btn-clear-failures');
+    if (btnClearFailures) {
+        if (getFailedIds().length > 0) {
+            btnClearFailures.classList.remove('hidden');
+        } else {
+            btnClearFailures.classList.add('hidden');
+        }
     }
 
     document.getElementById('final-message').textContent = message;
