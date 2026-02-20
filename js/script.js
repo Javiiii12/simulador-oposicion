@@ -1088,8 +1088,8 @@ function renderQuestion() {
     document.getElementById('progress-bar').style.width = `${pct}%`;
 
     // Contenido
-    const temaMatch = q.tema.match(/Tema \d+/);
-    document.getElementById('tema-tag').textContent = temaMatch ? temaMatch[0] : (q.tema || 'General');
+    const temaMatch = (q && q.tema && typeof q.tema === 'string') ? q.tema.match(/Tema \d+/) : null;
+    document.getElementById('tema-tag').textContent = temaMatch ? temaMatch[0] : ((q && q.tema) ? q.tema : 'General');
 
     // Update Mode Tag
     const modeTag = document.getElementById('mode-tag');
@@ -1448,7 +1448,7 @@ function startReviewMode(onlyFailures = false) {
             return;
         }
 
-        const newQuestions = indicesToKeep.map(i => currentQuestions[i]);
+        const newQuestions = indicesToKeep.map(i => currentQuestions[i]).filter(q => q);
         const newAnswers = {};
 
         // Remap answers to new indices (0, 1, 2...)
