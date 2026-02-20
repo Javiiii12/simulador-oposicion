@@ -30321,5 +30321,1405 @@
     "correcta": "a",
     "explicacion": "",
     "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_0",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "¿Cómo deben de ser las paredes de la cocina?",
+    "opciones": {
+      "a": "Da lo mismo, estando limpias.",
+      "b": "De un material absorbente.",
+      "c": "Materiales impermeables, no absorbentes y de fácil limpieza.",
+      "d": "Recubiertas con madera."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_2",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "El decreto 22/2006 indica que los establecimientos de comidas preparadas contarán con un almacén para residuos sólidos:",
+    "opciones": {
+      "a": "Aislado de la zona de manipulación con contenedores de capacidad suficiente y cierre hermético.",
+      "b": "Que no es necesario limpiar ya que es la zona donde se acumulan los residuos.",
+      "c": "En el que es inevitable que entren roedores e insectos.",
+      "d": "Todos los establecimientos de comidas preparadas, sin excepción."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_4",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "Según el RD 3484/2000, los productos de limpieza y desinfección se almacenarán:",
+    "opciones": {
+      "a": "En lugar separado de los productos alimenticios.",
+      "b": "Junto a alimentos que no requieran refrigeración.",
+      "c": "Contiguo a los alimentos que requieran o no refrigeración.",
+      "d": "Únicamente junto a alimentos envasados que requieran o no refrigeración."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_6",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "En el reglamento (CE) Nº 852/2004, los lavabos para la limpieza de las manos deben tener:",
+    "opciones": {
+      "a": "Agua corriente caliente y/o fría y materiales para la limpieza y el secado higiénico.",
+      "b": "Jabón líquido y toallas de tela.",
+      "c": "Únicamente agua fría.",
+      "d": "Un sistema de secado por aire caliente obligatoriamente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_8",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "Los desperdicios de alimentos deberán depositarse en contenedores:",
+    "opciones": {
+      "a": "De cierre hermético y que se mantengan en buen estado.",
+      "b": "De plástico ligero sin tapa.",
+      "c": "De cartón desechable.",
+      "d": "Abiertos para facilitar el depósito."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_10",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué temperatura debe alcanzar el centro de la pieza de un producto cocinado según el D. 22/2006?",
+    "opciones": {
+      "a": "65° C.",
+      "b": "70° C.",
+      "c": "75° C.",
+      "d": "100° C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_12",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "Las comidas testigo deben conservarse durante un periodo mínimo de:",
+    "opciones": {
+      "a": "2 días.",
+      "b": "5 días.",
+      "c": "7 días.",
+      "d": "10 días."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_14",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "La descongelación de los alimentos debe realizarse:",
+    "opciones": {
+      "a": "A temperatura ambiente sobre el mostrador.",
+      "b": "En el frigorífico o en hornos de microondas.",
+      "c": "Sumergiéndolos en agua caliente.",
+      "d": "Cerca de una fuente de calor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_16",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué es la contaminación cruzada?",
+    "opciones": {
+      "a": "El paso de contaminantes de un alimento a otro a través de superficies o manos.",
+      "b": "La mezcla de dos recetas diferentes.",
+      "c": "El proceso de cocción a alta temperatura.",
+      "d": "El transporte de alimentos en camiones frigoríficos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_18",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "El personal que manipula alimentos debe vestir:",
+    "opciones": {
+      "a": "Ropa de calle limpia.",
+      "b": "Ropa de trabajo exclusiva, limpia y de color claro.",
+      "c": "Únicamente delantal sobre su ropa.",
+      "d": "Mono de trabajo oscuro."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_20",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "¿Está permitido fumar en las zonas de manipulación de alimentos?",
+    "opciones": {
+      "a": "Sí, si hay buena extracción.",
+      "b": "No, está terminantemente prohibido.",
+      "c": "Solo en los descansos.",
+      "d": "Depende de la normativa interna del hospital."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_22",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "Los alimentos sobrantes que han sido expuestos al consumidor:",
+    "opciones": {
+      "a": "Pueden reutilizarse al día siguiente.",
+      "b": "Deben ser eliminados.",
+      "c": "Se pueden usar para elaborar salsas.",
+      "d": "Se deben congelar inmediatamente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_24",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "¿A qué temperatura se deben mantener las comidas calientes hasta su servicio?",
+    "opciones": {
+      "a": "Superior o igual a 65° C.",
+      "b": "A 40° C.",
+      "c": "A temperatura ambiente.",
+      "d": "A 50° C."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_26",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "El plan de Análisis de Peligros y Puntos de Control Crítico (APPCC):",
+    "opciones": {
+      "a": "Es opcional para hospitales pequeños.",
+      "b": "Es obligatorio para todos los establecimientos de comidas preparadas.",
+      "c": "Solo sirve para el control de costes.",
+      "d": "Lo elabora el Ministerio de Hacienda."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_28",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué alimento presenta mayor riesgo de salmonelosis?",
+    "opciones": {
+      "a": "Pan y bollería seca.",
+      "b": "Arroz cocido.",
+      "c": "Huevos y productos a base de huevo crudo.",
+      "d": "Legumbres secas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_30",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "La desratización y desinsectación deben ser realizadas por:",
+    "opciones": {
+      "a": "El personal de cocina cada semana.",
+      "b": "Empresas autorizadas y con productos registrados.",
+      "c": "El servicio de limpieza general.",
+      "d": "El jefe de cocina con sprays comunes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_32",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "Los recipientes para el transporte de comidas preparadas deben ser:",
+    "opciones": {
+      "a": "De madera o mimbre.",
+      "b": "De materiales fáciles de limpiar y desinfectar.",
+      "c": "De cartón corrugado.",
+      "d": "No importa el material si van tapados."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_34",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "En la recepción de materias primas, se debe comprobar:",
+    "opciones": {
+      "a": "La temperatura de llegada.",
+      "b": "El estado del embalaje y fecha de caducidad.",
+      "c": "Las condiciones higiénicas del vehículo.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_36",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "El agua utilizada en la cocina debe ser:",
+    "opciones": {
+      "a": "Agua de pozo sin tratar.",
+      "b": "Agua potable.",
+      "c": "Agua destilada.",
+      "d": "Agua reciclada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_38",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "Los cuchillos y tablas de cortar deben:",
+    "opciones": {
+      "a": "Ser de madera preferiblemente.",
+      "b": "Ser diferentes para alimentos crudos y cocinados.",
+      "c": "Lavarse solo una vez al día.",
+      "d": "Ser siempre de metal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_40",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "La luz en la cocina debe estar protegida para:",
+    "opciones": {
+      "a": "Evitar que los insectos se acerquen.",
+      "b": "Evitar que, en caso de rotura, los cristales caigan sobre los alimentos.",
+      "c": "Ahorrar energía.",
+      "d": "Que no deslumbre al pinche."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_42",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué es un manipulador de alimentos de mayor riesgo?",
+    "opciones": {
+      "a": "El que trabaja en un almacén.",
+      "b": "El que elabora y manipula comidas que se consumen sin tto. térmico posterior.",
+      "c": "El que solo transporta cajas cerradas.",
+      "d": "El administrativo de la cocina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_44",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "Los alimentos que requieren refrigeración con vida útil < 24h se mantendrán a:",
+    "opciones": {
+      "a": "De 0 a 8° C.",
+      "b": "De 10 a 15° C.",
+      "c": "De 0 a 4° C.",
+      "d": "Siempre a -18° C."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_46",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "Alimentos refrigerados con vida útil > 24h se conservarán a:",
+    "opciones": {
+      "a": "0 a 4° C.",
+      "b": "0 a 8° C.",
+      "c": "5 a 10° C.",
+      "d": "Temperatura ambiente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b1_48",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 1)",
+    "pregunta": "En cuanto a los alimentos, el D. 22/2006 permite:",
+    "opciones": {
+      "a": "Recongelar comidas preparadas.",
+      "b": "Utilizar mayonesa industrial o elaborada con ovoproductos pasteurizados.",
+      "c": "Conservar alimentos sobrantes de distribución en caliente.",
+      "d": "Sobrepasar la capacidad de almacenamiento."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_0",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "En el concepto de marcha adelante un alimento elaborado:",
+    "opciones": {
+      "a": "Se guardará en el almacén.",
+      "b": "Nunca puede volver hacia atrás.",
+      "c": "Sí puede volver hacia atrás.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_2",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "En las cocinas:",
+    "opciones": {
+      "a": "Existirá un lugar separado para el almacenamiento de los residuos.",
+      "b": "Los parámetros verticales serán superficies lisas de color oscuro.",
+      "c": "Los suelos estarán construidos con materiales absorbentes.",
+      "d": "La iluminación será siempre natural de 500 lux."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_4",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "El principio de marcha adelante:",
+    "opciones": {
+      "a": "Persigue una distribución de zonas de manera que solo sea posible un sentido único en los circuitos.",
+      "b": "Es la distribución de zonas de manera que se estipulen tantos sentidos como circuitos existan.",
+      "c": "Es la distribución ordenada de las brigadas.",
+      "d": "Persigue una distribución con doble sentido de circuitos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_6",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "El principio de marcha adelante garantiza:",
+    "opciones": {
+      "a": "Una mejor distribución de los espacios.",
+      "b": "Una más rápida elaboración de recetas.",
+      "c": "Que no se produzcan contaminaciones cruzadas.",
+      "d": "Una mejor gestión de costes."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_8",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "Según el decreto 22/2006, las comidas testigo:",
+    "opciones": {
+      "a": "Son obligatorias en comedores colectivos.",
+      "b": "Se toman de cada plato elaborado.",
+      "c": "Deben pesar al menos 100 gramos.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_10",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "¿A qué temperatura se deben conservar las comidas testigo?",
+    "opciones": {
+      "a": "Superior o igual a 4° C.",
+      "b": "Inferior o igual a 4° C (refrigeración) o -18° C (congelación).",
+      "c": "A temperatura ambiente.",
+      "d": "A 65° C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_12",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "El almacenamiento de productos químicos:",
+    "opciones": {
+      "a": "Debe hacerse en armarios cerrados y bajo llave si es posible.",
+      "b": "Puede hacerse en estanterías junto a las especias.",
+      "c": "No requiere etiquetas.",
+      "d": "Se hace en el mismo frigorífico que las bebidas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_14",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "Las ventanas de la cocina deben disponer de:",
+    "opciones": {
+      "a": "Cortinas decorativas.",
+      "b": "Rejas únicamente.",
+      "c": "Mallas de protección contra insectos (mosquiteras) desmontables.",
+      "d": "Cristales tintados."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_16",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "Los techos deben estar construidos para:",
+    "opciones": {
+      "a": "Acumular la condensación.",
+      "b": "Evitar la acumulación de suciedad y el desprendimiento de partículas.",
+      "c": "Ser siempre de escayola sin tratar.",
+      "d": "No se limpian nunca."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_18",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "¿Qué es un Punto de Control Crítico (PCC)?",
+    "opciones": {
+      "a": "El momento donde el pinche descansa.",
+      "b": "Una fase en la que puede aplicarse un control esencial para prevenir o eliminar un peligro alimentario.",
+      "c": "La puerta de entrada de mercancías.",
+      "d": "El reloj donde se ficha."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_20",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "El lavado de frutas y verduras que se consumen crudas debe hacerse con:",
+    "opciones": {
+      "a": "Solo agua de grifo.",
+      "b": "Agua con lejía de uso alimentario (clorada) y posterior aclarado.",
+      "c": "Jabón de platos.",
+      "d": "Vinagre solamente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_22",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "¿Cuál es el principal objetivo del sistema de autocontrol?",
+    "opciones": {
+      "a": "Ahorrar personal.",
+      "b": "Garantizar la seguridad alimentaria.",
+      "c": "Cumplir con Hacienda.",
+      "d": "Organizar los turnos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_24",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "La formación de los manipuladores de alimentos es responsabilidad de:",
+    "opciones": {
+      "a": "El trabajador por su cuenta.",
+      "b": "La empresa o titular del establecimiento.",
+      "c": "El Ayuntamiento.",
+      "d": "Los sindicatos únicamente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_26",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "Un manipulador debe lavarse las manos:",
+    "opciones": {
+      "a": "Solo al empezar el turno.",
+      "b": "Después de ir al baño, tocar basura o alimentos crudos.",
+      "c": "Cada vez que cambie de actividad.",
+      "d": "Las respuestas B y C son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_28",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "¿Cómo se deben secar las manos en la cocina?",
+    "opciones": {
+      "a": "Con el delantal.",
+      "b": "Con toallas de papel de un solo uso.",
+      "c": "Al aire.",
+      "d": "Con un trapo de cocina común."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_30",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "Los recipientes para basuras en la cocina deben:",
+    "opciones": {
+      "a": "Tener pedal para abrirlos sin usar las manos.",
+      "b": "Ser de madera.",
+      "c": "Estar siempre abiertos.",
+      "d": "Ser muy grandes para que quepa todo el día."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_32",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "La temperatura de congelación recomendada es:",
+    "opciones": {
+      "a": "0° C.",
+      "b": "-18° C o inferior.",
+      "c": "-5° C.",
+      "d": "4° C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_34",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "Los huevos frescos deben almacenarse:",
+    "opciones": {
+      "a": "En un lugar fresco y seco, o refrigerados.",
+      "b": "Lavados antes de guardarlos.",
+      "c": "Junto a los quesos abiertos.",
+      "d": "A pleno sol."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_36",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "¿Se pueden utilizar huevos rotos o sucios?",
+    "opciones": {
+      "a": "Sí, si se cocinan mucho.",
+      "b": "No, deben descartarse.",
+      "c": "Sí, tras lavarlos con jabón.",
+      "d": "Solo para repostería."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_38",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "En la \"Marcha adelante\", los circuitos de sucio (basura, vajilla usada) y limpio (comida elaborada):",
+    "opciones": {
+      "a": "Pueden cruzarse si se tiene cuidado.",
+      "b": "No deben cruzarse nunca.",
+      "c": "Deben usar el mismo pasillo.",
+      "d": "Se limpian a la vez."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_40",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "¿Qué documento acredita la formación del manipulador?",
+    "opciones": {
+      "a": "El DNI.",
+      "b": "El certificado o carnet de manipulador de alimentos.",
+      "c": "El contrato de trabajo.",
+      "d": "No hace falta documento."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_42",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "¿Cuál es la vigencia recomendada de la formación de manipulador?",
+    "opciones": {
+      "a": "Para siempre.",
+      "b": "Se recomienda renovación periódica (generalmente cada 4-5 años).",
+      "c": "Cada 10 años.",
+      "d": "Solo se hace una vez al entrar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_44",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "Los productos de limpieza deben estar:",
+    "opciones": {
+      "a": "En sus envases originales y etiquetados.",
+      "b": "En botellas de agua vacías para que ocupen menos.",
+      "c": "Sin etiquetas para no confundir.",
+      "d": "Todos mezclados en un balde."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_46",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "En productos cocinados deberá alcanzarse una temperatura en el centro de:",
+    "opciones": {
+      "a": "65° C.",
+      "b": "70° C.",
+      "c": "45° C.",
+      "d": "18° C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema9_b2_48",
+    "tema": "Tema 9: Higiene y Conservación de Alimentos (Bloque 2)",
+    "pregunta": "Los productos sometidos a tratamiento térmico que se vayan a conservar en frío deben enfriarse hasta:",
+    "opciones": {
+      "a": "Menos de 10° C en un tiempo máximo de 4 horas tras la cocción.",
+      "b": "Menos de 4° C en 10 horas.",
+      "c": "A temperatura ambiente durante toda la noche.",
+      "d": "Menos de 8° C en un tiempo máximo de 4 horas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_0",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿A qué zona de la cocina se le denomina \"Plonge\"?",
+    "opciones": {
+      "a": "Ninguna zona, no existe con esa denominación.",
+      "b": "Es el nombre de un plano y no de una zona.",
+      "c": "Zona de fregadero de cocina, donde se lavan las ollas y otros utensilios.",
+      "d": "Zona de cocina donde se preparan las verduras."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_2",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿Cómo se denomina la zona de la cocina donde se elaboran las ensaladas y guarniciones frías?",
+    "opciones": {
+      "a": "Cocina caliente.",
+      "b": "Cuarto frío.",
+      "c": "La Plonge.",
+      "d": "Cinta de emplatado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_4",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "La limpieza de los útiles de cocina y comedor: limpieza de los locales de cocina y anexos corresponde a:",
+    "opciones": {
+      "a": "La lavandera.",
+      "b": "El celador.",
+      "c": "El jefe de personal subalterno.",
+      "d": "A los Pinches."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_6",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "En la preparación de los víveres para su condimentación, el pinche de cocina estará bajo las órdenes de:",
+    "opciones": {
+      "a": "El dietista.",
+      "b": "El cocinero.",
+      "c": "El jefe de personal subalterno.",
+      "d": "Gobernanta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_8",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿Qué es la zona de preparación climatizada denominada \"cuarto frío\"?",
+    "opciones": {
+      "a": "Es un congelador.",
+      "b": "Es el lugar climatizado mediante refrigeración destinado a preparar alimentos que precisan almacenarse o mantenerse a Tª frigoríficas.",
+      "c": "Es una zona para la preparación de la merienda.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_10",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "Control de la cinta de emplatado y el correcto montaje de las bandejas es función de:",
+    "opciones": {
+      "a": "El Cocinero.",
+      "b": "El Dietista.",
+      "c": "El Pinche.",
+      "d": "El Celador."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_12",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "El lugar donde se guardan las servilletas, cubiertos, etc., se denomina:",
+    "opciones": {
+      "a": "Almacén.",
+      "b": "Despensa.",
+      "c": "Office.",
+      "d": "Plonge."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_14",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "La zona de \"cuarto frío\" debe estar a una temperatura de:",
+    "opciones": {
+      "a": "18º C.",
+      "b": "12º C o menos.",
+      "c": "25º C.",
+      "d": "No necesita temperatura especial."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_16",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿A quién corresponde el encendido de los fogones y hornos?",
+    "opciones": {
+      "a": "Al Pinche.",
+      "b": "Al Cocinero.",
+      "c": "Al personal de mantenimiento.",
+      "d": "Al jefe de cocina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_18",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "El pelado de patatas y limpieza de verduras es función de:",
+    "opciones": {
+      "a": "El Cocinero.",
+      "b": "El Pinche.",
+      "c": "La Gobernanta.",
+      "d": "El personal externo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_20",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿Qué significa \"emplatado en cadena\"?",
+    "opciones": {
+      "a": "Que cada uno come cuando quiere.",
+      "b": "Sistema de montaje de bandejas de forma sucesiva sobre una cinta transportadora.",
+      "c": "Que la comida está encadenada.",
+      "d": "Que se sirve en platos de metal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_22",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "La zona de lavado de vajilla (platos, cubiertos de pacientes) se denomina:",
+    "opciones": {
+      "a": "Plonge.",
+      "b": "Tren de lavado.",
+      "c": "Cuarto frío.",
+      "d": "Despensa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_24",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿Quién supervisa que la dieta servida coincide con la tarjeta del paciente?",
+    "opciones": {
+      "a": "El Cocinero.",
+      "b": "El Pinche.",
+      "c": "El Dietista.",
+      "d": "El Celador."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_26",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "El mantenimiento del orden en las cámaras frigoríficas es función de:",
+    "opciones": {
+      "a": "El Cocinero.",
+      "b": "El Pinche.",
+      "c": "El Jefe de Cocina.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_28",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿Qué es la \"cocina caliente\"?",
+    "opciones": {
+      "a": "Donde se guardan las estufas.",
+      "b": "Zona donde se realiza la cocción y elaboración térmica de los alimentos.",
+      "c": "Un almacén de carbón.",
+      "d": "La calefacción central."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_30",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿Quién realiza el racionamiento de los platos en la cinta?",
+    "opciones": {
+      "a": "Los Pinches.",
+      "b": "La Gobernanta.",
+      "c": "El Gerente.",
+      "d": "Los médicos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_32",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "Los carros de transporte de comida deben ser:",
+    "opciones": {
+      "a": "Abiertos y de madera.",
+      "b": "Isotermos o con sistema de mantenimiento de temperatura.",
+      "c": "De plástico fino.",
+      "d": "No importa cómo sean."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_34",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "La preparación de desayunos y meriendas se suele realizar en:",
+    "opciones": {
+      "a": "La Plonge.",
+      "b": "El Office o zona de desayunos.",
+      "c": "El almacén de víveres.",
+      "d": "La calle."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_36",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿A quién corresponde la limpieza de las marmitas?",
+    "opciones": {
+      "a": "Al Cocinero.",
+      "b": "Al Pinche de la Plonge.",
+      "c": "Al servicio de limpieza general.",
+      "d": "Al mantenimiento."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_38",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "La recepción de las mercancías se realiza en:",
+    "opciones": {
+      "a": "El muelle o zona de recepción.",
+      "b": "La cocina caliente.",
+      "c": "El comedor.",
+      "d": "El cuarto de basuras."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_40",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿Cómo se llama la zona donde se lavan las ollas, sartenes, cazuelas, rustideras, etc.?",
+    "opciones": {
+      "a": "Plonge.",
+      "b": "Lavavajillas.",
+      "c": "Lavabos.",
+      "d": "Lavadora."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_42",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "Según el estatuto de personal no sanitario, las funciones del pinche son entre otras:",
+    "opciones": {
+      "a": "Elaborar las dietas terapéuticas.",
+      "b": "Confeccionar los menús.",
+      "c": "Efectuar la preparación de víveres para su condimentación.",
+      "d": "Reparar la maquinaria o equipos de cocina."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_44",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "Según el estatuto de personal no sanitario, el pinche estará a las órdenes de:",
+    "opciones": {
+      "a": "El dietista.",
+      "b": "La gobernanta.",
+      "c": "El cocinero.",
+      "d": "El jefe de hostelería."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_46",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "Según el estatuto de personal no sanitario, las funciones del cocinero son entre otras:",
+    "opciones": {
+      "a": "Se ocuparan de la condimentación de víveres con sujeción al menú.",
+      "b": "Supervisión de las dietas durante el emplatado.",
+      "c": "Encendido y mantenimiento de los hornos.",
+      "d": "Limpieza de la maquinaria."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b2_48",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 2)",
+    "pregunta": "¿Cuál es la función que realiza la dietista al final del proceso de emplatado?",
+    "opciones": {
+      "a": "Llevar los gorros y mascarillas.",
+      "b": "Que todo el personal de la cinta de emplatado esté en silencio.",
+      "c": "Comprobar que lo que está en la bandeja coincide con lo indicado en la tarjeta y que la presentación sea correcta.",
+      "d": "No comprueba nada."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_0",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿Qué tarea corresponde a la partida de despensero?",
+    "opciones": {
+      "a": "Elaboración de pastas.",
+      "b": "Limpieza y fraccionamiento de aves.",
+      "c": "Preparación de primeros platos.",
+      "d": "Elaboración de segundos platos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_2",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "Entre las funciones de los pinches está:",
+    "opciones": {
+      "a": "Pinche encargado de la friegue.",
+      "b": "Tendrán a su cargo el servicio de despensa.",
+      "c": "Distribuirán al personal en las funciones de cocina.",
+      "d": "Sustituirán a los cocineros en caso de enfermedad."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_4",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "Corresponderá el mantenimiento de los cubos de basura de la cocina, su limpieza y secado:",
+    "opciones": {
+      "a": "Al personal de limpieza.",
+      "b": "Al pinche de planta.",
+      "c": "Al pinche encargado de la limpieza de la cocina.",
+      "d": "Al cocinero."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_6",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "El lugar donde se desarrollan los trabajos y platos concretos dentro de la cocina se denominan:",
+    "opciones": {
+      "a": "Almacén.",
+      "b": "Partidas.",
+      "c": "Cocina fría.",
+      "d": "Todas las respuestas anteriores son incorrectas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_8",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿A quién corresponde tapar la bandeja al final de la cinta?",
+    "opciones": {
+      "a": "Cocinero.",
+      "b": "Dietista.",
+      "c": "Pinche.",
+      "d": "Gobernanta."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_10",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "Un almacén de alimentos de cocina se divide en espacios o áreas bien diferenciadas tales como... (Señale la respuesta incorrecta):",
+    "opciones": {
+      "a": "Un área de alimentos secos y otros no perecederos.",
+      "b": "Un área destinada a verduras y frutas.",
+      "c": "Un área de productos de limpieza.",
+      "d": "Un área para el personal de mantenimiento."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_12",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿Cuál de estas es una función de la Gobernanta?",
+    "opciones": {
+      "a": "Condimentar víveres.",
+      "b": "Vigilar la limpieza de locales y el buen uso de materiales.",
+      "c": "Realizar las dietas.",
+      "d": "Arreglar el grupo electrógeno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_14",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "La limpieza de la vajilla de los enfermos se hace en:",
+    "opciones": {
+      "a": "El Office de la planta.",
+      "b": "El Tren de Lavado de la cocina central.",
+      "c": "La Plonge.",
+      "d": "En la habitación del enfermo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_16",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿A quién corresponde la vigilancia de la disciplina del personal subalterno en cocina?",
+    "opciones": {
+      "a": "Al Cocinero.",
+      "b": "Al Dietista.",
+      "c": "A la Gobernanta o Jefe de Personal Subalterno.",
+      "d": "Al Gerente."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_18",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "La zona donde se despiezan las carnes se llama:",
+    "opciones": {
+      "a": "Cuarto frío de carnes.",
+      "b": "Cocina caliente.",
+      "c": "Almacén.",
+      "d": "Plonge."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_20",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿Quién es el responsable de la elaboración de los menús en un hospital?",
+    "opciones": {
+      "a": "El Cocinero.",
+      "b": "El Dietista o Nutricionista junto al Jefe de Cocina.",
+      "c": "El Gerente.",
+      "d": "El Celador."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_22",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "La zona de \"Cuarto Frío\" debe estar separada de la \"Cocina Caliente\" para:",
+    "opciones": {
+      "a": "Que los cocineros no se hablen.",
+      "b": "Evitar cambios de temperatura y contaminaciones.",
+      "c": "Que haya más pasillos.",
+      "d": "Es la misma zona."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_24",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿Quién coloca los cubiertos en la bandeja?",
+    "opciones": {
+      "a": "El Dietista.",
+      "b": "El Pinche.",
+      "c": "La Gobernanta.",
+      "d": "El Cocinero."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_26",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "Los residuos de la cocina se deben retirar:",
+    "opciones": {
+      "a": "Una vez a la semana.",
+      "b": "Diariamente y cada vez que sea necesario.",
+      "c": "Cuando los cubos estén desbordados.",
+      "d": "Solo por la noche."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_28",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿A quién corresponde la tarea de emplatar el primer plato en la cinta?",
+    "opciones": {
+      "a": "Al Pinche.",
+      "b": "Al Cocinero.",
+      "c": "Al Dietista.",
+      "d": "A la Gobernanta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_30",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "La zona de almacenamiento de productos perecederos incluye:",
+    "opciones": {
+      "a": "Cámaras frigoríficas y de congelación.",
+      "b": "Estanterías al aire libre.",
+      "c": "El suelo de la cocina.",
+      "d": "La despensa de secos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_32",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿Quién transporta los carros de comida a las plantas?",
+    "opciones": {
+      "a": "Los Pinches o Celadores (según el hospital).",
+      "b": "Los médicos.",
+      "c": "Los enfermos.",
+      "d": "El personal de lavandería."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_34",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿A qué temperatura debe mantenerse la comida en el carro isotermo?",
+    "opciones": {
+      "a": "A temperatura ambiente.",
+      "b": "Caliente (más de 65º C) o fría (menos de 8º C) según el plato.",
+      "c": "A 20º C.",
+      "d": "Congelada siempre."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_36",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿Quién realiza el pedido de víveres diarios al almacén?",
+    "opciones": {
+      "a": "El Pinche.",
+      "b": "El Cocinero o Jefe de Cocina.",
+      "c": "El Celador.",
+      "d": "La limpiadora."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_38",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "La cocina centralizada:",
+    "opciones": {
+      "a": "Es donde se cocina toda la comida del hospital, pero no se emplata.",
+      "b": "De allí sale la comida emplatada para todos los enfermos.",
+      "c": "Es la cocina que está en el centro del hospital.",
+      "d": "Es la única cocina posible."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_40",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "Corresponderá el mantenimiento de los cubos de basura de la cocina, su limpieza y secado:",
+    "opciones": {
+      "a": "Al personal de limpieza.",
+      "b": "Al personal de mantenimiento.",
+      "c": "Al pinche encargado de la limpieza de la cocina.",
+      "d": "Al cocinero."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_42",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿En qué zona, como norma, se corta el embutido?",
+    "opciones": {
+      "a": "Preparación carnes y aves.",
+      "b": "Preparación dietas personalizadas.",
+      "c": "Preparación segundo plato.",
+      "d": "Zona conservación."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_44",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿De quién es función limpiar los hornos y hogares?",
+    "opciones": {
+      "a": "Del cocinero.",
+      "b": "Del pinche.",
+      "c": "Del gobernante.",
+      "d": "De la limpiadora."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_46",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "La distribución de los pinches para que realicen las distintas funciones ¿quién la realiza?:",
+    "opciones": {
+      "a": "El jefe de cocina.",
+      "b": "El cocinero.",
+      "c": "El gobernante o jefe de personal subalterno.",
+      "d": "El dietista."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema10_b3_48",
+    "tema": "Tema 10: Organización y Funciones en la Cocina (Bloque 3)",
+    "pregunta": "¿Dónde se debe de limpiar y preparar la ensalada?",
+    "opciones": {
+      "a": "En la cámara de la verdura.",
+      "b": "En la zona de elaboración.",
+      "c": "En el cuarto frío de la verdura.",
+      "d": "En el cuarto frío del pescado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
   }
 ]
