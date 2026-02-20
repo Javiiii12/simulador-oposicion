@@ -338,6 +338,8 @@ function createBaseTopicButton(baseTema, questionsSubset) {
         if (baseTema === 'Tema 10') titulo = "Organización y Funciones en la Cocina";
         if (baseTema === 'Tema 11') titulo = "Dietas y Control de Alérgenos";
         if (baseTema === 'Tema 12') titulo = "APPCC y Trazabilidad";
+        if (baseTema === 'Tema 13') titulo = "Manipulación de Alimentos";
+        if (baseTema === 'Tema 14') titulo = "Control de materias primas y técnicas";
     }
 
     if (titulo === baseTema) titulo = "";
@@ -468,6 +470,8 @@ function createTopicButton(tema) {
         if (tema === 'Tema 10') titulo = "Organización y Funciones en la Cocina";
         if (tema === 'Tema 11') titulo = "Dietas y Control de Alérgenos";
         if (tema === 'Tema 12') titulo = "APPCC y Trazabilidad";
+        if (tema === 'Tema 13') titulo = "Manipulación de Alimentos";
+        if (tema === 'Tema 14') titulo = "Control de materias primas y técnicas";
     }
 
     // Avoid redundancy if title == theme name

@@ -33471,5 +33471,2105 @@
     "correcta": "b",
     "explicacion": "",
     "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_0",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "La formación de los manipuladores de alimentos en materia de seguridad alimentaria corresponde a:",
+    "opciones": {
+      "a": "Jefe de cocina.",
+      "b": "Personal de dietética y nutrición.",
+      "c": "Personal capacitado de las empresas alimentarias.",
+      "d": "Gobernantes."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_2",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "El periodo de conservación máximo de los platos cocinados refrigerados, a partir de la fecha de su elaboración, será igual o inferior:",
+    "opciones": {
+      "a": "Cinco días.",
+      "b": "Seis días.",
+      "c": "Siete días.",
+      "d": "Nueve días."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_4",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "No son alimentos susceptibles de salmonelosis:",
+    "opciones": {
+      "a": "La leche.",
+      "b": "Mayonesa de elaboración casera.",
+      "c": "Los adobos.",
+      "d": "Interior de productos preparados a base de carne picada."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_6",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "Los principales factores que contribuyen a la aparición de las toxiinfecciones son:",
+    "opciones": {
+      "a": "Ropa de trabajo adecuada.",
+      "b": "Manos sucias.",
+      "c": "Temperaturas de conservación adecuada.",
+      "d": "Sistema de eliminación de basuras separado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_8",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿En qué fase de la manipulación se pueden contaminar los alimentos?",
+    "opciones": {
+      "a": "En la preparación.",
+      "b": "En la distribution.",
+      "c": "En la elaboración.",
+      "d": "En todas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_10",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Cuándo hay más riesgo de una contaminación alimentaria?",
+    "opciones": {
+      "a": "Siempre que este fuera del congelador.",
+      "b": "Una vez terminado todo su proceso de elaboración y esté listo para su consumo.",
+      "c": "Una vez cocinado no hay riesgo ninguno.",
+      "d": "Depende del producto que sea."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_12",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "Las salmonellas se destruyen con la congelación:",
+    "opciones": {
+      "a": "Sí.",
+      "b": "No.",
+      "c": "Depende del tiempo.",
+      "d": "Solo si es a -40º C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_14",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "La temperatura de seguridad para mantener alimentos calientes es:",
+    "opciones": {
+      "a": "50º C.",
+      "b": "65º C o superior.",
+      "c": "100º C.",
+      "d": "45º C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_16",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué es la contaminación cruzada?",
+    "opciones": {
+      "a": "Mezclar alimentos de distintos colores.",
+      "b": "El paso de microbios de un alimento contaminado (crudo) a otro que no lo está (cocinado).",
+      "c": "Cocinar con prisa.",
+      "d": "Usar guantes de distintos tamaños."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_18",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "El manipulador de alimentos de mayor riesgo es aquel que:",
+    "opciones": {
+      "a": "Solo descarga camiones.",
+      "b": "Manipula alimentos que no sufrirán un tratamiento posterior antes del consumo.",
+      "c": "Limpia los suelos de la cocina.",
+      "d": "Repara la maquinaria."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_20",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué tipo de contaminante es una bacteria?",
+    "opciones": {
+      "a": "Físico.",
+      "b": "Químico.",
+      "c": "Biológico.",
+      "d": "Abiótico."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_22",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "Un alimento portador de una sustancia extraña (ej. un cristal) es un alimento:",
+    "opciones": {
+      "a": "Alterado.",
+      "b": "Contaminado.",
+      "c": "Nocivo.",
+      "d": "Adulterado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_24",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Cuál de estos hábitos es higiénico en un manipulador?",
+    "opciones": {
+      "a": "Probar la comida con el dedo.",
+      "b": "Lavarse las manos con agua caliente y jabón tras usar el pañuelo.",
+      "c": "Fumar en el almacén.",
+      "d": "Llevar el pelo suelto."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_26",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "Los desinfectantes deben utilizarse:",
+    "opciones": {
+      "a": "Sobre superficies previamente limpias.",
+      "b": "Mezclados con la comida para conservarla.",
+      "c": "En lugar del agua para lavar la fruta.",
+      "d": "Solo una vez al mes."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_28",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "La cadena de frío consiste en:",
+    "opciones": {
+      "a": "Mantener la temperatura constante durante todo el proceso desde el origen al consumo.",
+      "b": "Congelar y descongelar varias veces.",
+      "c": "Abrir las ventanas en invierno.",
+      "d": "Usar hielos en las bebidas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_30",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué enfermedad puede transmitir un manipulador que tose sobre la comida?",
+    "opciones": {
+      "a": "Botulismo.",
+      "b": "Estafilococias.",
+      "c": "Anisakis.",
+      "d": "Tenia."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_32",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "El lavado de manos debe durar al menos:",
+    "opciones": {
+      "a": "5 segundos.",
+      "b": "20-30 segundos.",
+      "c": "2 minutos.",
+      "d": "Media hora."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_34",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Se pueden usar paños de tela para secar las manos?",
+    "opciones": {
+      "a": "Sí, si son blancos.",
+      "b": "No, deben ser toallas de papel de un solo uso.",
+      "c": "Solo si los lava el pinche.",
+      "d": "Depende del hospital."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_36",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "La zona de peligro para el crecimiento bacteriano está entre:",
+    "opciones": {
+      "a": "-18º C y 0º C.",
+      "b": "5º C y 65º C.",
+      "c": "70º C y 100º C.",
+      "d": "No hay zona de peligro."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_38",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Cuál es el principal reservorio de bacterias como la Salmonella?",
+    "opciones": {
+      "a": "El aire.",
+      "b": "El tracto intestinal de animales y humanos.",
+      "c": "Los metales.",
+      "d": "El cristal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_40",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "No es función del servicio de higiene alimentaria:",
+    "opciones": {
+      "a": "Control de potabilidad del agua.",
+      "b": "Elaboración de dietas terapéuticas y hábitos alimenticios.",
+      "c": "Control microbiológico de los alimentos.",
+      "d": "Control de las condiciones higiénico-sanitarias de la cocina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_42",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿En qué casos ha ocurrido una contaminación cruzada?",
+    "opciones": {
+      "a": "Se corta una carne asada con el mismo cuchillo con que se fileteó una carne cruda.",
+      "b": "Se ha encontrado un excremento de rata en el almacén.",
+      "c": "La materia prima no se ha conservado adecuadamente.",
+      "d": "Se ha producido contaminación cruzada en todas las ocasiones."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_44",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué tipo de contaminante es abiótico?",
+    "opciones": {
+      "a": "Bacterias.",
+      "b": "Hongos.",
+      "c": "Anabolizantes, hormonas y antibióticos.",
+      "d": "Parásitos."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_46",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué tiempo mínimo deberán conservarse los platos testigo?",
+    "opciones": {
+      "a": "Una semana (7 días).",
+      "b": "Cinco días.",
+      "c": "Dos días.",
+      "d": "Un mes."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b1_48",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 1)",
+    "pregunta": "¿Qué método de vacío se emplea para piezas grandes que se cuecen dentro de la bolsa?",
+    "opciones": {
+      "a": "Vacío normal.",
+      "b": "Vacío continuo o de larga acción.",
+      "c": "Vacío para productos calientes.",
+      "d": "Vacío compensado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_0",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Qué es el botulismo?",
+    "opciones": {
+      "a": "Intoxicación por metales pesados.",
+      "b": "Toxiinfección provocada por Clostridium botulinum.",
+      "c": "Infección causada por un parásito.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_2",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "En una zona donde estemos manipulando alimento no considerado seguro, ¿podemos realizar actividades de limpio?",
+    "opciones": {
+      "a": "No.",
+      "b": "Sí.",
+      "c": "Sí, previa limpieza y desinfección.",
+      "d": "Depende qué actividades."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_4",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Quién es responsable de dar la formación sobre los productos y utensilios de limpieza?",
+    "opciones": {
+      "a": "El propio pinche.",
+      "b": "La enfermera.",
+      "c": "La empresa, que lo incluirá en el plan de formación.",
+      "d": "El Gobernante."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_6",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Cuál es la temperatura óptima para el crecimiento de microorganismos?",
+    "opciones": {
+      "a": "Entre 30º C y 40º C (Tª corporal).",
+      "b": "Entre 0º C y 6º C.",
+      "c": "Entre 60º C y 65º C.",
+      "d": "Entre 6º C y 10º C."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_8",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿A qué temperatura se destruye la toxina botulínica?",
+    "opciones": {
+      "a": "60º C en 20 minutos.",
+      "b": "80º C en 30 minutos (o 100º C 10 min).",
+      "c": "40º C.",
+      "d": "Solo con congelación."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_10",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "El método de conservación por frío negativo se conoce como:",
+    "opciones": {
+      "a": "Refrigeración.",
+      "b": "Frío neutro.",
+      "c": "Pasteurización.",
+      "d": "Congelación."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_12",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "Un pinche de cocina, mientras distribuye el pan del desayuno:",
+    "opciones": {
+      "a": "Podrá masticar goma de mascar.",
+      "b": "Podrá llevar anillos.",
+      "c": "Podrá llevar reloj.",
+      "d": "No puede llevar ni anillos, ni reloj, ni mascar chicle."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_14",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "El plato testigo se recoge en el Real Decreto 3484/2000. ¿En qué artículo?",
+    "opciones": {
+      "a": "Artículo 4.",
+      "b": "Artículo 10.",
+      "c": "Artículo 5.",
+      "d": "Artículo 8."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_16",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "Sobre la formación de los manipuladores, el Reglamento 852/2004 indica:",
+    "opciones": {
+      "a": "Los centros deben estar autorizados.",
+      "b": "Todos deben tener el carnet físico antiguo.",
+      "c": "La formación debe ser acorde a su actividad laboral.",
+      "d": "No es válida la formación interna de la empresa."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_18",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "La descongelación de carnes debe hacerse:",
+    "opciones": {
+      "a": "A temperatura ambiente.",
+      "b": "Bajo el chorro de agua caliente.",
+      "c": "En refrigeración (frigorífico).",
+      "d": "Al sol."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_20",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Qué es la limpieza \"en húmedo\"?",
+    "opciones": {
+      "a": "Barrer con una escoba seca.",
+      "b": "Uso de agua y detergentes para arrastrar la suciedad.",
+      "c": "Echar un cubo de agua al suelo y dejarlo.",
+      "d": "No existe."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_22",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "La esterilización industrial busca:",
+    "opciones": {
+      "a": "Que la comida sepa mejor.",
+      "b": "Destruir todos los microorganismos y esporas.",
+      "c": "Solo enfriar la comida.",
+      "d": "Cambiar el color del alimento."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_24",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Qué alimento es de alto riesgo para el Estafilococo?",
+    "opciones": {
+      "a": "Arroz seco.",
+      "b": "Productos de pastelería con crema y natas.",
+      "c": "Vinagre.",
+      "d": "Sal común."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_26",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "Los manipuladores con heridas en las manos deben:",
+    "opciones": {
+      "a": "No trabajar.",
+      "b": "Cubrirlas con un vendaje impermeable de colores vivos y usar guantes.",
+      "c": "Dejarlas al aire para que sequen.",
+      "d": "Lavarlas con lavavajillas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_28",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Cuál es un síntoma común de toxiinfección alimentaria?",
+    "opciones": {
+      "a": "Dolor de rodilla.",
+      "b": "Vómitos, diarrea y dolor abdominal.",
+      "c": "Tos seca.",
+      "d": "Pérdida de visión."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_30",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "El almacenamiento de alimentos crudos y cocinados en la misma cámara:",
+    "opciones": {
+      "a": "Está permitido si están en estantes distintos (cocinados arriba).",
+      "b": "Prohibido siempre.",
+      "c": "Da igual el orden.",
+      "d": "Solo si la cámara es muy grande."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_32",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "La bacteria Listeria monocytogenes tiene la particularidad de:",
+    "opciones": {
+      "a": "Morir a 4º C.",
+      "b": "Poder crecer a temperaturas de refrigeración.",
+      "c": "Ser un virus.",
+      "d": "Solo estar en el agua del mar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_34",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Qué significa \"vid útil\" de un alimento?",
+    "opciones": {
+      "a": "El tiempo que tarda en cocinarse.",
+      "b": "El periodo durante el cual el alimento mantiene su calidad y seguridad.",
+      "c": "El precio del alimento.",
+      "d": "Lo que pesa el envase."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_36",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Cuál es la regla de oro para evitar el botulismo en conservas?",
+    "opciones": {
+      "a": "Tirar las latas abombadas o con golpes.",
+      "b": "Lavar la lata con jabón.",
+      "c": "Abrir la lata con cuchillo.",
+      "d": "Calentar la lata al sol."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_38",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "La ropa de trabajo del pinche debe:",
+    "opciones": {
+      "a": "Ser la misma que usa por la calle.",
+      "b": "Ser de uso exclusivo para el trabajo y estar limpia.",
+      "c": "Ser de color negro.",
+      "d": "No es necesaria."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_40",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Quién supervisa la higiene personal de los pinches?",
+    "opciones": {
+      "a": "Los pacientes.",
+      "b": "El Jefe de Cocina o Gobernanta.",
+      "c": "El servicio de lavandería.",
+      "d": "El médico de guardia."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_42",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "¿Se pueden usar anillos y relojes en la cocina?",
+    "opciones": {
+      "a": "Sí, si son de plata.",
+      "b": "No, pueden acumular suciedad y caer al alimento.",
+      "c": "Solo el reloj.",
+      "d": "Solo si se llevan guantes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_44",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "La basura en la cocina debe estar en contenedores:",
+    "opciones": {
+      "a": "Abiertos y de cartón.",
+      "b": "Con tapa y accionados por pedal.",
+      "c": "En bolsas en el suelo.",
+      "d": "Cerca de la zona de cocción."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_46",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "Un manipulador con diarrea debe:",
+    "opciones": {
+      "a": "Trabajar más rápido.",
+      "b": "Informar a su superior y no manipular alimentos.",
+      "c": "Tomar un café.",
+      "d": "Usar dos delantales."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b2_48",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 2)",
+    "pregunta": "La higiene de los alimentos es responsabilidad de:",
+    "opciones": {
+      "a": "El inspector de sanidad solamente.",
+      "b": "De todos los que intervienen en la cadena alimentaria.",
+      "c": "Del gerente del hospital.",
+      "d": "De los proveedores de comida."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_0",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Un pinche de cocina tendrá que ponerse guantes al abrir las latas?",
+    "opciones": {
+      "a": "No, al tratarse de productos envasados.",
+      "b": "Sí, en todo momento, cambiándose cuando fuera necesario.",
+      "c": "No, siempre que tenga las manos limpias.",
+      "d": "Siempre que lleve anillos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_2",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "En esterilización, cuando los productos se dañan a más de 100º C se utiliza:",
+    "opciones": {
+      "a": "El blanqueamiento.",
+      "b": "La tindalización.",
+      "c": "La regeneración.",
+      "d": "El abatimiento."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_4",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "Respecto al Clostridium botulinum:",
+    "opciones": {
+      "a": "El oxígeno favorece su toxina.",
+      "b": "Se transmite por secreciones nasales.",
+      "c": "Se destruye por la cocción.",
+      "d": "Raramente se desarrolla en alimentos ácidos."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_6",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "En cuanto al Campylobacter:",
+    "opciones": {
+      "a": "Se encuentra en los intestinos y las heces de las aves.",
+      "b": "Se encuentra en la garganta humana.",
+      "c": "Se transmite por conservas caseras.",
+      "d": "El manipulador debe usar mascarilla como prevención."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_8",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "Sobre formación, el Decreto 22/2006 de Castilla-La Mancha señala:",
+    "opciones": {
+      "a": "El establecimiento asegurará la formación y la adaptará a la actividad.",
+      "b": "Es obligatoria una formación de 50 horas.",
+      "c": "Solo se forma a los cocineros.",
+      "d": "La formación la paga el trabajador."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_10",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Qué es la \"trazabilidad\"?",
+    "opciones": {
+      "a": "Saber cuánto pesa un plato.",
+      "b": "Seguir el rastro de un alimento a través de todas las etapas.",
+      "c": "El dibujo de la etiqueta.",
+      "d": "La temperatura de la cámara."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_12",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "La limpieza manual de vajilla debe hacerse con:",
+    "opciones": {
+      "a": "Agua fría.",
+      "b": "Agua caliente y detergente, con aclarado posterior.",
+      "c": "Solo un paño húmedo.",
+      "d": "Arena."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_14",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Qué alimento no se debe lavar antes de cocinarlo?",
+    "opciones": {
+      "a": "Manzanas.",
+      "b": "Lechugas.",
+      "c": "Carne y huevos (para evitar dispersar bacterias).",
+      "d": "Patatas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_16",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "La bacteria E. coli se asocia frecuentemente a:",
+    "opciones": {
+      "a": "Latas de conserva.",
+      "b": "Contaminación fecal (manos sucias o agua contaminada).",
+      "c": "Aire acondicionado.",
+      "d": "Harinas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_18",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Qué es el APPCC?",
+    "opciones": {
+      "a": "Un tipo de contrato.",
+      "b": "Sistema de Análisis de Peligros y Puntos de Control Crítico.",
+      "c": "Asociación de Pinches y Cocineros.",
+      "d": "Reglamento de limpieza."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_20",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "La zona de \"Plonge\" es para lavar:",
+    "opciones": {
+      "a": "Las manos del personal.",
+      "b": "Los utensilios de cocina (ollas, sartenes).",
+      "c": "La vajilla de los pacientes.",
+      "d": "La verdura."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_22",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "Los productos de limpieza se almacenarán:",
+    "opciones": {
+      "a": "Debajo de la mesa de trabajo.",
+      "b": "En lugar separado de los alimentos.",
+      "c": "En el mismo estante que las latas.",
+      "d": "En el cuarto frío."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_24",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "La pasteurización consiste en calentar el alimento a:",
+    "opciones": {
+      "a": "Menos de 100º C durante un tiempo determinado.",
+      "b": "200º C.",
+      "c": "-18º C.",
+      "d": "Temperatura ambiente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_26",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Cuál es el principal riesgo de los alimentos enlatados una vez abiertos?",
+    "opciones": {
+      "a": "Que se rompa el cristal.",
+      "b": "Oxidación y contaminación si no se pasan a un recipiente adecuado.",
+      "c": "Ninguno.",
+      "d": "Que pesen menos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_28",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Qué significa FIFO/PEPS en un almacén?",
+    "opciones": {
+      "a": "Que lo más barato sale primero.",
+      "b": "Lo primero que entra es lo primero que sale.",
+      "c": "Solo sale lo que está al fondo.",
+      "d": "No significa nada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_30",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "La humedad alta en el almacén favorece:",
+    "opciones": {
+      "a": "El crecimiento de mohos.",
+      "b": "Que la comida se mantenga fresca.",
+      "c": "La limpieza.",
+      "d": "El ahorro de luz."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_32",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "Los síntomas de la Salmonelosis aparecen normalmente:",
+    "opciones": {
+      "a": "A los 5 minutos.",
+      "b": "Entre 12 y 36 horas tras la ingesta.",
+      "c": "Al mes.",
+      "d": "A los 10 años."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_34",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Qué insecto es un vector común de enfermedades en cocinas?",
+    "opciones": {
+      "a": "Mariposa.",
+      "b": "Cucaracha y mosca.",
+      "c": "Mariquita.",
+      "d": "Saltamontes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_36",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "La carne picada debe cocinarse hasta que el interior sea de color:",
+    "opciones": {
+      "a": "Rojo.",
+      "b": "Marrón/Gris (bien cocida).",
+      "c": "Rosa.",
+      "d": "Azul."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_38",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Se puede comer en la zona de manipulación de alimentos?",
+    "opciones": {
+      "a": "Sí, bocadillos.",
+      "b": "No, está prohibido.",
+      "c": "Solo caramelos.",
+      "d": "Sí, para probar el punto de sal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_40",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "El pelo del manipulador debe estar:",
+    "opciones": {
+      "a": "Recogido y cubierto por un gorro o redecilla.",
+      "b": "Suelto.",
+      "c": "Con gomina.",
+      "d": "No importa."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_42",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Qué es la contaminación por agentes físicos?",
+    "opciones": {
+      "a": "Presencia de bacterias.",
+      "b": "Presencia de objetos como cristales, huesos, plásticos o metales.",
+      "c": "Presencia de lejía.",
+      "d": "Uso de guantes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_44",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "La contaminación indirecta por gérmenes la causan:",
+    "opciones": {
+      "a": "La persona por ser portador.",
+      "b": "Utensilios utilizados.",
+      "c": "Lugar de recolección y manipulación.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_46",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "Los alimentos se infestan por contaminación directa cuando:",
+    "opciones": {
+      "a": "El manipulador es portador.",
+      "b": "Hay gérmenes en utensilios.",
+      "c": "Se percibe en animales enfermos.",
+      "d": "A y B son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema13_b3_48",
+    "tema": "Tema 13: Manipulación de Alimentos (Bloque 3)",
+    "pregunta": "¿Cuántos grados son necesarios para que mueran las bacterias no encapsuladas?",
+    "opciones": {
+      "a": "30º C.",
+      "b": "60º C - 70º C (tratamiento térmico suficiente).",
+      "c": "100º C.",
+      "d": "Más de 100º C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_0",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "Señale la respuesta incorrecta:",
+    "opciones": {
+      "a": "Todos los lugares donde se conserven alimentos deben ser objeto de limpieza cuidadosa.",
+      "b": "No se sobrepasará las capacidades de almacenamiento de cada local o instalación.",
+      "c": "Todos los alimentos deben conservarse protegidos del exceso de luz, calor y humedad.",
+      "d": "Si fuera necesario se almacenaran alimentos sobre el suelo."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_2",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "Señala la falsa, son medidas a tomar en el almacenamiento de alimentos:",
+    "opciones": {
+      "a": "Humedad relativa, de acuerdo con la naturaleza del producto.",
+      "b": "Conveniente circulación del aire.",
+      "c": "Temperaturas adecuadas.",
+      "d": "No tiene que tener circulación de aire."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_4",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "¿Cómo se denomina la técnica de cocinado en la que interviene principalmente la grasa?",
+    "opciones": {
+      "a": "Fritura.",
+      "b": "Pochado.",
+      "c": "Fricassée.",
+      "d": "Vapor."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_6",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "El método mediante el cual se introduce un género en un líquido que esté próximo a su ebullición, se denomina:",
+    "opciones": {
+      "a": "Baño maría.",
+      "b": "Escaldado.",
+      "c": "Blanqueado.",
+      "d": "Escalfado."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_8",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "Los alimentos congelados:",
+    "opciones": {
+      "a": "No se pueden usar en los menús de los Hospitales.",
+      "b": "No se pueden volver a congelar.",
+      "c": "Se usarán sólo como guarnición.",
+      "d": "Se descongelarán con leche antes de usarlos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_10",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "Las materias primas de diferente naturaleza deben estar:",
+    "opciones": {
+      "a": "Bien puestas en el lugar que les corresponda.",
+      "b": "Perfectamente identificadas mediante etiquetas o rótulos.",
+      "c": "Debidamente protegidas y separadas (estanqueidad).",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_12",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "¿Qué es el \"braseado\"?",
+    "opciones": {
+      "a": "Cocinar un alimento en su propio jugo a fuego lento.",
+      "b": "Cocinar a la parrilla sobre brasas.",
+      "c": "Hervir con mucha agua.",
+      "d": "Freír con poco aceite."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_14",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "La técnica de \"marcar\" un alimento consiste en:",
+    "opciones": {
+      "a": "Ponerle una etiqueta con el nombre.",
+      "b": "Dorar la superficie a fuego fuerte para sellar los jugos.",
+      "c": "Cortarlo en trozos pequeños.",
+      "d": "Dibujarle rayas con un cuchillo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_16",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "El almacenamiento de las frutas y verduras se realizará en:",
+    "opciones": {
+      "a": "Cámaras de congelación.",
+      "b": "Cámaras de refrigeración entre 6º y 10º C.",
+      "c": "Al aire libre en el patio.",
+      "d": "Junto a los productos de limpieza."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_18",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "¿Qué hortaliza se considera de \"bulbo\"?",
+    "opciones": {
+      "a": "Lechuga.",
+      "b": "Cebolla.",
+      "c": "Judía verde.",
+      "d": "Berenjena."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_20",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "El corte \"Juliana\" consiste en:",
+    "opciones": {
+      "a": "Dados de 1 cm.",
+      "b": "Tiras finas y alargadas.",
+      "c": "Bolas pequeñas.",
+      "d": "Rodajas gruesas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_22",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "La técnica de \"ligar\" una salsa significa:",
+    "opciones": {
+      "a": "Añadir agua para que esté más clara.",
+      "b": "Dar espesor mediante un elemento de ligazón (harina, nata, etc.).",
+      "c": "Batirla mucho.",
+      "d": "Tirarla si está mala."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_24",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "¿Cuál de estos es un pescado blanco?",
+    "opciones": {
+      "a": "Salmón.",
+      "b": "Merluza.",
+      "c": "Atún.",
+      "d": "Sardina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_26",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "El \"blanqueado\" de un alimento sirve para:",
+    "opciones": {
+      "a": "Que se quede blanco.",
+      "b": "Cocción breve para quitar impurezas, suavizar sabores o facilitar el pelado.",
+      "c": "Congelarlo más rápido.",
+      "d": "Salarlo mucho."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_28",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "Las legumbres secas deben ponerse en remojo:",
+    "opciones": {
+      "a": "Con agua muy caliente.",
+      "b": "Con agua fría o tibia horas antes de la cocción.",
+      "c": "Con aceite.",
+      "d": "No necesitan remojo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_30",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "¿Qué es un \"roux\"?",
+    "opciones": {
+      "a": "Un tipo de pescado.",
+      "b": "Mezcla de harina y grasa (mantequilla) cocinada para ligar salsas.",
+      "c": "Una herramienta de corte.",
+      "d": "Un postre francés."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_32",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "El almacenamiento de los huevos frescos debe ser:",
+    "opciones": {
+      "a": "Siempre en congelación.",
+      "b": "En lugar fresco, seco y con temperatura constante.",
+      "c": "Lavándolos antes de guardarlos.",
+      "d": "Cerca del horno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_34",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "La \"mise en place\" es:",
+    "opciones": {
+      "a": "Irse a casa tras el turno.",
+      "b": "Preparación y organización de todos los ingredientes y útiles necesarios antes de cocinar.",
+      "c": "Lavar los platos.",
+      "d": "El nombre de un menú."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_36",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "¿Qué hortaliza es un tubérculo?",
+    "opciones": {
+      "a": "Tomate.",
+      "b": "Patata.",
+      "c": "Pimiento.",
+      "d": "Espárrago."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_38",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "¿Cuál de estos ingredientes es un aromatizante?",
+    "opciones": {
+      "a": "Canela.",
+      "b": "Ajo.",
+      "c": "Perejil.",
+      "d": "Clavo."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_40",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "Hortalizas que se consuman con piel:",
+    "opciones": {
+      "a": "Cebolla.",
+      "b": "Judías verdes.",
+      "c": "Ajo.",
+      "d": "Guisantes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_42",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "El cocinero le manda \"encamisar\":",
+    "opciones": {
+      "a": "Haría cortes en forma de estrías.",
+      "b": "Envolverá con una malla una pieza de carne.",
+      "c": "Recubrirá un molde en su interior con manteca, pan rallado o papel.",
+      "d": "Colocará una lámina de tocino sobre la carne."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_44",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "El cocinero le manda condimentar la ensalada Hipercalórica:",
+    "opciones": {
+      "a": "No puede, no deben condimentarse.",
+      "b": "Le pone limón y aceite.",
+      "c": "No es función del pinche.",
+      "d": "La condimenta con aceite de oliva virgen extra, vinagre y sal."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_46",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "Para preparar una ensalada Hipercalórica preparará:",
+    "opciones": {
+      "a": "Endivias.",
+      "b": "Lechuga, cebolla y tomate.",
+      "c": "Lechuga y atún.",
+      "d": "Lechuga, judías verdes, zanahoria, maíz, huevo, cebolla y tomate."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b1_48",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 1)",
+    "pregunta": "Corte de patatas para freír:",
+    "opciones": {
+      "a": "Juliana.",
+      "b": "Bastón y cerilla.",
+      "c": "Parisien.",
+      "d": "En rombos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_0",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "Los tipos de cortes de las hortalizas se llaman:",
+    "opciones": {
+      "a": "Quartier: corte de una pieza en dados.",
+      "b": "Brunoisse: corte en dados muy pequeños.",
+      "c": "Mirepoixe: corte longitudinal para obtener cuatro porciones similares.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_2",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "La incorporación de la leche a una masa o salsa se denomina:",
+    "opciones": {
+      "a": "Ablactar.",
+      "b": "Gratinar.",
+      "c": "Pasar.",
+      "d": "Saltear."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_4",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "¿Cuál de estos productos, al calentarse por encima de 90º produce notable cantidad de toxinas?",
+    "opciones": {
+      "a": "Mantequilla.",
+      "b": "Aceite de oliva.",
+      "c": "Leche.",
+      "d": "Aceite de orujo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_6",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "En el almacén de productos secos y conservas la Tª adecuada estará entre:",
+    "opciones": {
+      "a": "Los 14 y 17º C.",
+      "b": "Los 15 y 20º C.",
+      "c": "Los 18 y 24º C.",
+      "d": "Los 15 y 18º C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_8",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "Llegado el momento de guardar géneros, ¿Cómo se procederá con una caja de huevos frescos?",
+    "opciones": {
+      "a": "A la cámara refrigerada, con productos de origen animal, debidamente aislados.",
+      "b": "A la cámara no refrigerada.",
+      "c": "A la cámara de alimentos refrigerados.",
+      "d": "En un almacén o despensa donde circule convenientemente el aire."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_10",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "El arroz, legumbres y pastas se consideran productos:",
+    "opciones": {
+      "a": "Perecederos.",
+      "b": "No perecederos.",
+      "c": "De cuarta gama.",
+      "d": "Semiconservas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_12",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "La técnica de \"tamizar\" sirve para:",
+    "opciones": {
+      "a": "Calentar alimentos.",
+      "b": "Separar las partes gruesas de las finas (harina, purés) mediante un tamiz o colador.",
+      "c": "Congelar.",
+      "d": "Cortar carne."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_14",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "¿A qué temperatura se deben mantener las comidas frías en el hospital?",
+    "opciones": {
+      "a": "Entre 10º y 15º C.",
+      "b": "Inferior o igual a 4º C o 8º C según vida útil.",
+      "c": "A 20º C.",
+      "d": "Congeladas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_16",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "El \"salteado\" es una técnica de cocción:",
+    "opciones": {
+      "a": "En mucha agua.",
+      "b": "Con poca grasa y fuego vivo.",
+      "c": "Al horno.",
+      "d": "Al vacío."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_18",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "¿Qué es el \"fumet\"?",
+    "opciones": {
+      "a": "Un tipo de postre.",
+      "b": "Caldo básico elaborado con pescados y hortalizas.",
+      "c": "El humo de la cocina.",
+      "d": "Una forma de cortar el pan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_20",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "La rotación de productos en el almacén sigue el criterio:",
+    "opciones": {
+      "a": "Lo último que entra sale primero.",
+      "b": "Lo primero que entra es lo primero que sale (FIFO/PEPS).",
+      "c": "Salen los más grandes primero.",
+      "d": "No hay orden."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_22",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "La carne de vacuno se clasifica por categorías. El solomillo es:",
+    "opciones": {
+      "a": "Categoría Primera B.",
+      "b": "Categoría Extra.",
+      "c": "Categoría Segunda.",
+      "d": "Categoría Tercera."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_24",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "¿Qué es \"macerar\"?",
+    "opciones": {
+      "a": "Golpear la carne.",
+      "b": "Poner alimentos en adobo o líquidos aromatizados para que ablanden o tomen sabor.",
+      "c": "Cortar en tiras.",
+      "d": "Cocinar al vapor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_26",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "El pescado congelado debe recibirse a una temperatura de:",
+    "opciones": {
+      "a": "0º C.",
+      "b": "-18º C o inferior.",
+      "c": "-5º C.",
+      "d": "4º C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_28",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "¿Cómo se llama la técnica de quitar la piel a las hortalizas tras un escaldado?",
+    "opciones": {
+      "a": "Mondar.",
+      "b": "Pelar.",
+      "c": "Despellejar.",
+      "d": "Raspar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_30",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "Las latas de conserva con golpes o abombadas:",
+    "opciones": {
+      "a": "Se usan primero.",
+      "b": "Se deben rechazar y retirar.",
+      "c": "Se limpian y se guardan.",
+      "d": "No pasa nada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_32",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "La temperatura en el interior de un asado debe alcanzar:",
+    "opciones": {
+      "a": "50º C.",
+      "b": "Al menos 70º C.",
+      "c": "100º C.",
+      "d": "40º C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_34",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "¿A qué temperatura deben estar los platos calientes en el momento de servirlos al paciente?",
+    "opciones": {
+      "a": "Menos de 40º C.",
+      "b": "Mayor o igual a 65º C.",
+      "c": "50º C.",
+      "d": "Hirviendo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_36",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "En cuanto a las carnes, el racionamiento o troceado proporcional corresponde a la:",
+    "opciones": {
+      "a": "2ª generación.",
+      "b": "3ª generación.",
+      "c": "1ª generación.",
+      "d": "4ª generación."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_38",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "En cuanto al despiece del vacuno, una es falsa:",
+    "opciones": {
+      "a": "Llana: parte posterior del hueso de la espalda.",
+      "b": "Pez: músculo alargado en la paletilla.",
+      "c": "Morrillo: es la parte inferior de la pierna.",
+      "d": "Pescuezo: cuello del animal."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_40",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "El método de cocción por concentración...",
+    "opciones": {
+      "a": "Se inicia en frío.",
+      "b": "Se inicia con brusca exposición al calor para sellar el alimento.",
+      "c": "Incluye el pochado.",
+      "d": "El objetivo es que los jugos se unan al medio de cocción."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_42",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "¿Qué técnica se usa para limpiar el pescado de sus escamas?",
+    "opciones": {
+      "a": "Pelado.",
+      "b": "Escamado o raspado.",
+      "c": "Mondado.",
+      "d": "Fileteado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_44",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "La \"leche pasterizada\" se conserva en:",
+    "opciones": {
+      "a": "El almacén de secos.",
+      "b": "Cámara de refrigeración.",
+      "c": "Congelador.",
+      "d": "Al sol."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_46",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "¿Qué es \"desglasar\"?",
+    "opciones": {
+      "a": "Limpiar los cristales de la cocina.",
+      "b": "Añadir líquido al recipiente donde se ha cocinado para recuperar los jugos caramelizados.",
+      "c": "Quitar la grasa al caldo frío.",
+      "d": "Congelar una salsa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b2_48",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 2)",
+    "pregunta": "La \"cuarta gama\" son alimentos:",
+    "opciones": {
+      "a": "Esterilizados.",
+      "b": "Limpios, troceados y envasados en atmósfera modificada.",
+      "c": "Ultracongelados.",
+      "d": "Precocinados."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_0",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "Para la colocación de mercancía se utiliza un sistema de clasificación:",
+    "opciones": {
+      "a": "Clase B (rotación mayor).",
+      "b": "Clase A (de mayor consumo y por tanto rotación rápida).",
+      "c": "Clase A (de menor consumo).",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_2",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "Antes de limpiar aves de vísceras, se realiza otra acción:",
+    "opciones": {
+      "a": "Saltearlas.",
+      "b": "Afeitarlas.",
+      "c": "Chamuscarlas.",
+      "d": "Pocharlas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_4",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "En el escamado de los pescados, debe rasparse:",
+    "opciones": {
+      "a": "Es indiferente.",
+      "b": "De cola a cabeza.",
+      "c": "No deben escamarse.",
+      "d": "De cabeza a cola."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_6",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "La descongelación se realizara siempre:",
+    "opciones": {
+      "a": "A Tª ambiente.",
+      "b": "En cámara de refrigeración.",
+      "c": "Cuartos fríos.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_8",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "Cuando se menciona la palabra concassé hablamos de:",
+    "opciones": {
+      "a": "Cortar gruesamente un producto, generalmente tomates (pelados y sin pepitas).",
+      "b": "Un postre de manzana.",
+      "c": "Útil de pastelería.",
+      "d": "Mariscos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_10",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "¿Cómo se realiza el lavado del pescado?",
+    "opciones": {
+      "a": "Con agua y vinagre.",
+      "b": "Con agua y limón.",
+      "c": "Con agua fría y salada (o solo agua fría).",
+      "d": "No se lava."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_12",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "Para el almacenamiento de carne fresca, la temperatura de la cámara será:",
+    "opciones": {
+      "a": "Entre 0º y 4º C.",
+      "b": "-18º C.",
+      "c": "10º C.",
+      "d": "15º C."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_14",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "La técnica de \"empanar\" consiste en pasar el alimento por:",
+    "opciones": {
+      "a": "Harina y agua.",
+      "b": "Huevo batido y pan rallado.",
+      "c": "Solo pan.",
+      "d": "Solo leche."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_16",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "¿Qué es la \"ultracongelación\"?",
+    "opciones": {
+      "a": "Congelar muy despacio.",
+      "b": "Congelar muy rápido a temperaturas muy bajas (-40º C).",
+      "c": "Guardar en el frigorífico.",
+      "d": "Dejar la comida fuera en invierno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_18",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "El almacenamiento de las semiconservas (anchoas, etc.) debe ser:",
+    "opciones": {
+      "a": "En la despensa.",
+      "b": "En refrigeración.",
+      "c": "En el congelador.",
+      "d": "Al sol."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_20",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "La técnica de \"clarificar\" un caldo sirve para:",
+    "opciones": {
+      "a": "Ponerle más agua.",
+      "b": "Eliminar las impurezas para que quede transparente.",
+      "c": "Enfriarlo.",
+      "d": "Salarlo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_22",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "¿Qué es un \"fondo\" en cocina?",
+    "opciones": {
+      "a": "La parte de abajo de la olla.",
+      "b": "Caldo base que se obtiene de cocer carnes, pescados o verduras.",
+      "c": "El dinero que queda para comprar.",
+      "d": "Un tipo de plato hondo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_24",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "La temperatura de una cámara de congelación debe ser de:",
+    "opciones": {
+      "a": "0º C.",
+      "b": "-18º C o inferior.",
+      "c": "-5º C.",
+      "d": "4º C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_26",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "¿Qué es el \"adobo\"?",
+    "opciones": {
+      "a": "Un tipo de pintura.",
+      "b": "Líquido condimentado para sumergir carnes o pescados y darles sabor.",
+      "c": "Cortar en trozos.",
+      "d": "Limpiar la cocina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_28",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "El pan debe almacenarse en:",
+    "opciones": {
+      "a": "Lugar fresco, seco y ventilado.",
+      "b": "La cámara de verduras.",
+      "c": "Un armario hermético.",
+      "d": "En el suelo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_30",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "La técnica de \"picar\" consiste en:",
+    "opciones": {
+      "a": "Que la comida pique (chile).",
+      "b": "Cortar finamente un alimento.",
+      "c": "Probar la comida.",
+      "d": "Limpiar el suelo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_32",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "¿Qué es \"deshuesar\"?",
+    "opciones": {
+      "a": "Poner huesos al caldo.",
+      "b": "Separar la carne de los huesos.",
+      "c": "Romper los huesos.",
+      "d": "Un tipo de hueso."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_34",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "La técnica de \"rehogar\" consiste en:",
+    "opciones": {
+      "a": "Cocinar a fuego lento con poca grasa sin que tome color.",
+      "b": "Freír mucho.",
+      "c": "Hervir.",
+      "d": "Congelar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_36",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "¿Qué es el \"gratinar\"?",
+    "opciones": {
+      "a": "Enfriar un plato.",
+      "b": "Dorar la capa superior de un alimento en el horno.",
+      "c": "Poner sal.",
+      "d": "Limpiar el horno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_38",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "Sobre el almacenamiento de alimentos, es correcta:",
+    "opciones": {
+      "a": "Se usarán estantes que se adecuen a cada producto.",
+      "b": "Existirá una rotación periódica.",
+      "c": "Será obligatoria la desinfección de cámaras.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_40",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "La leche UHT se somete a 135-150º C durante:",
+    "opciones": {
+      "a": "5 segundos.",
+      "b": "1 segundo.",
+      "c": "2 segundos.",
+      "d": "10 segundos."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_42",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "Corte de hortalizas en dados muy pequeños:",
+    "opciones": {
+      "a": "Nuez.",
+      "b": "Avellana.",
+      "c": "Brunoise.",
+      "d": "Juliana."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_44",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "Temperatura media de productos no perecederos:",
+    "opciones": {
+      "a": "0 a 3º C.",
+      "b": "18º C.",
+      "c": "15º C.",
+      "d": "13º C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_46",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "Para escalfar tomates y pelarlos:",
+    "opciones": {
+      "a": "Remojo el día anterior.",
+      "b": "Sumergirlos en agua hirviendo (unos segundos) y luego agua fría.",
+      "c": "Dos horas en agua fría.",
+      "d": "Agua fría con sal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema14_b3_48",
+    "tema": "Tema 14: Control de materias primas y técnicas (Bloque 3)",
+    "pregunta": "Vehículo para transporte de carne congelada:",
+    "opciones": {
+      "a": "Isotermo.",
+      "b": "Frigorífico.",
+      "c": "Traslado urgente.",
+      "d": "Refrigerante."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
   }
 ]
