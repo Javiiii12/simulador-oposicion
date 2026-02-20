@@ -28753,5 +28753,1573 @@
     "correcta": "b",
     "explicacion": "",
     "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_0",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "¿Qué equipo protector sería el adecuado para proteger las manos de cortes?",
+    "opciones": {
+      "a": "Guantes de vinilo",
+      "b": "Guantes de malla",
+      "c": "Dedales",
+      "d": "Utensilio de mango más largo"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_2",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "La postura correcta para el levantamiento de cargas es:",
+    "opciones": {
+      "a": "Piernas totalmente flexionadas",
+      "b": "Doblando las piernas, manteniendo en todo momento la espalda derecha y el mentón metido",
+      "c": "Doblando las piernas, manteniendo en todo momento la espada ligeramente curvada",
+      "d": "Con las piernas rectas y la espalda inclinada"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_4",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "Los procedimientos preventivos deberán tener en cuenta:",
+    "opciones": {
+      "a": "Precauciones, Actitudes y Código de buenas prácticas",
+      "b": "La capacidad física",
+      "c": "Depende del trabajo",
+      "d": "Sólo afecta al personal sanitario"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_6",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "Según la ley de PRL, cuando se haya producido un daño para la salud, ¿A quién corresponde investigar las causas?",
+    "opciones": {
+      "a": "Al comité de seguridad y salud",
+      "b": "A la mutua de seguro empresarial",
+      "c": "Al empresario",
+      "d": "A los delegados de personal"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_8",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "¿Es obligatorio ponerse el gorro cuando entra una persona a la cocina que no trabaje en ella?",
+    "opciones": {
+      "a": "No",
+      "b": "Depende",
+      "c": "Sí, siempre",
+      "d": "Si no trabaja en la cocina no es obligatorio"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_10",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "¿Se puede tener pulseras mientras se manipulan alimentos para su elaboración?",
+    "opciones": {
+      "a": "No, está prohibido",
+      "b": "Si",
+      "c": "Sí, en el codo",
+      "d": "Sí, si es de oro"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_12",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "El empresario debe garantizar la seguridad y salud de los trabajadores:",
+    "opciones": {
+      "a": "En los aspectos más peligrosos",
+      "b": "Solo en el horario nocturno",
+      "c": "En todos los aspectos relacionados con el trabajo",
+      "d": "Solo si el trabajador lo solicita"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_14",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "La evaluación de riesgos debe ser realizada por:",
+    "opciones": {
+      "a": "El trabajador",
+      "b": "Personas con capacidad y competencia profesional",
+      "c": "El jefe de cocina únicamente",
+      "d": "El médico de familia"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_16",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "¿Qué es un Equipo de Protección Individual (EPI)?",
+    "opciones": {
+      "a": "Cualquier equipo destinado a ser llevado por el trabajador para que le proteja de uno o varios riesgos",
+      "b": "El uniforme de trabajo",
+      "c": "Las herramientas de cocina",
+      "d": "El botiquín de primeros auxilios"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_18",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "La formación en materia de prevención debe ser:",
+    "opciones": {
+      "a": "Teórica y práctica",
+      "b": "Suficiente y adecuada",
+      "c": "Centrada en el puesto de trabajo o función",
+      "d": "Todas las anteriores son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_20",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "El coste de las medidas de seguridad y salud:",
+    "opciones": {
+      "a": "Lo paga el trabajador",
+      "b": "Se reparte al 50%",
+      "c": "No deberá recaer en modo alguno sobre los trabajadores",
+      "d": "Lo paga el sindicato"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_22",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "La vigilancia de la salud será obligatoria cuando:",
+    "opciones": {
+      "a": "Sea imprescindible para evaluar efectos de condiciones de trabajo",
+      "b": "Para verificar si el estado de salud constituye un peligro",
+      "c": "Esté establecido legalmente por riesgos específicos",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_24",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "¿Cuál de estos es un principio de la acción preventiva?",
+    "opciones": {
+      "a": "Evitar los riesgos",
+      "b": "Combatir los riesgos en su origen",
+      "c": "Adaptar el trabajo a la persona",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_26",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "En caso de riesgo grave e inminente, el trabajador tiene derecho a:",
+    "opciones": {
+      "a": "Interrumpir su actividad y abandonar el lugar de trabajo",
+      "b": "Seguir trabajando con cuidado",
+      "c": "Esperar a que llegue el inspector",
+      "d": "Llamar a la policía"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_28",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "Los delegados de prevención son:",
+    "opciones": {
+      "a": "Representantes de los trabajadores con funciones específicas en prevención",
+      "b": "Inspectores de trabajo",
+      "c": "Médicos de empresa",
+      "d": "Jefes de personal"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_30",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "El Comité de Seguridad y Salud es el órgano paritario y colegiado destinado a:",
+    "opciones": {
+      "a": "La consulta regular y periódica de las actuaciones en prevención",
+      "b": "Pagar las nóminas",
+      "c": "Sancionar a los trabajadores",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_32",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "Se constituirá un Comité de Seguridad y Salud en empresas de:",
+    "opciones": {
+      "a": "10 o más trabajadores",
+      "b": "30 o más trabajadores",
+      "c": "100 o más trabajadores",
+      "d": "50 o más trabajadores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_34",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "La presencia de recursos preventivos es obligatoria cuando:",
+    "opciones": {
+      "a": "Los riesgos se agraven por actividades diversas",
+      "b": "Se realicen actividades peligrosas",
+      "c": "Lo requiera la Inspección de Trabajo",
+      "d": "Todas las anteriores"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_36",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "El plan de prevención de riesgos laborales debe incluir:",
+    "opciones": {
+      "a": "La estructura organizativa y las responsabilidades",
+      "b": "Los procesos y los recursos necesarios",
+      "c": "La política de prevención de la empresa",
+      "d": "Todas las anteriores"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_38",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "Los trabajadores deben utilizar correctamente:",
+    "opciones": {
+      "a": "Las máquinas y herramientas",
+      "b": "Los medios de transporte",
+      "c": "Los dispositivos de seguridad y EPIs",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_40",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "No informar de inmediato sobre una situación de riesgo es:",
+    "opciones": {
+      "a": "Un derecho",
+      "b": "Un deber opcional",
+      "c": "Un incumplimiento de las obligaciones del trabajador",
+      "d": "Una falta leve"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_42",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "¿Cuál de estos es un riesgo higiénico?",
+    "opciones": {
+      "a": "Una caída al mismo nivel",
+      "b": "Un corte con cuchillo",
+      "c": "Exposición a agentes biológicos o químicos",
+      "d": "Un incendio"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_44",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "La ley de PRL no es de aplicación a:",
+    "opciones": {
+      "a": "Los trabajadores autónomos",
+      "b": "Los establecimientos penitenciarios",
+      "c": "Los centros militares",
+      "d": "La relación laboral especial del servicio del hogar familiar"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_46",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "No es una medida adecuada para la prevención:",
+    "opciones": {
+      "a": "Utilizar medios mecánicos para transporte de cargas",
+      "b": "Realizar tareas sin solicitar ayuda aunque sea necesario",
+      "c": "Mantener la zona limpia y ordenada",
+      "d": "Utilizar EPIs adecuados"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b1_48",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 1)",
+    "pregunta": "Los EPIs deberán usarse cuando:",
+    "opciones": {
+      "a": "En todo caso que los facilite el empresario",
+      "b": "En todo caso que el coste sea a su cargo",
+      "c": "Se anteponen siempre las medidas de protección colectiva",
+      "d": "Los riesgos no se puedan evitar"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_0",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "La formación preventiva fuera de la jornada de trabajo:",
+    "opciones": {
+      "a": "Solo en instalaciones de la empresa",
+      "b": "Solo si lo prevé el convenio",
+      "c": "Si la empresa carece de medios propios",
+      "d": "Supondrá el descuento en la jornada del tiempo invertido"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_2",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "La relación de puestos exentos de riesgo para embarazadas se determina por:",
+    "opciones": {
+      "a": "El servicio de prevención",
+      "b": "El empresario, previa consulta con representantes",
+      "c": "Servicios médicos del INSS",
+      "d": "La inspección de trabajo"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_4",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "En el comité de seguridad y salud, los delegados sindicales participan:",
+    "opciones": {
+      "a": "Sin voz ni voto",
+      "b": "Con voz pero sin voto",
+      "c": "Con voz y voto",
+      "d": "Sin voz ni voto, previo acuerdo"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_6",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "En empresas de 2001 a 3000 trabajadores habrá:",
+    "opciones": {
+      "a": "5 delegados de prevención",
+      "b": "6 delegados de prevención",
+      "c": "7 delegados de prevención",
+      "d": "8 delegados de prevención"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_8",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "¿Cuál es un equipo de protección colectiva?",
+    "opciones": {
+      "a": "Mascarilla",
+      "b": "Guantes",
+      "c": "Campana extractora",
+      "d": "Botas"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_10",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "La señalización de seguridad es una medida de:",
+    "opciones": {
+      "a": "Protección colectiva",
+      "b": "Protección individual",
+      "c": "Prevención en origen",
+      "d": "No es una medida de seguridad"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_12",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Fuego Clase A se produce en:",
+    "opciones": {
+      "a": "Sólidos (madera, papel)",
+      "b": "Líquidos inflamables",
+      "c": "Gases",
+      "d": "Metales"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_14",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Extintor que no debe usarse en fuegos eléctricos:",
+    "opciones": {
+      "a": "CO2",
+      "b": "Polvo ABC",
+      "c": "Agua a chorro",
+      "d": "Nieve carbónica"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_16",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "La \"fatiga\" se considera legalmente como:",
+    "opciones": {
+      "a": "Accidente de trabajo",
+      "b": "Enfermedad profesional",
+      "c": "Patología inespecífica derivada del trabajo",
+      "d": "No tiene consideración legal"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_18",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "El ruido se mide en:",
+    "opciones": {
+      "a": "Luxes",
+      "b": "Decibelios",
+      "c": "Herzios",
+      "d": "Grados"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_20",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Carga de trabajo se divide en:",
+    "opciones": {
+      "a": "Alta y baja",
+      "b": "Física y mental",
+      "c": "Estática y dinámica",
+      "d": "Son correctas B y C"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_22",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "El \"Mobbing\" es:",
+    "opciones": {
+      "a": "Riesgo físico",
+      "b": "Riesgo biológico",
+      "c": "Riesgo psicosocial (acoso)",
+      "d": "Caída"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_24",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "La evacuación por incendio debe ser:",
+    "opciones": {
+      "a": "Por ascensor",
+      "b": "En orden y por las escaleras",
+      "c": "Gritando",
+      "d": "Hacia el tejado"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_26",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Color rojo en señalización significa:",
+    "opciones": {
+      "a": "Obligación",
+      "b": "Prohibición o material de incendios",
+      "c": "Advertencia",
+      "d": "Salvamento"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_28",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Señal circular con borde rojo y fondo blanco indica:",
+    "opciones": {
+      "a": "Peligro",
+      "b": "Prohibición",
+      "c": "Información",
+      "d": "Obligación"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_30",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Señal triangular con borde negro indica:",
+    "opciones": {
+      "a": "Auxilio",
+      "b": "Prohibición",
+      "c": "Advertencia de peligro",
+      "d": "Incendio"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_32",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "El plan de autoprotección es:",
+    "opciones": {
+      "a": "Documento de acciones para prevenir riesgos sobre personas y bienes",
+      "b": "Guía de primeros auxilios",
+      "c": "Seguro médico",
+      "d": "Opcional"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_34",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Jefe de Emergencia:",
+    "opciones": {
+      "a": "Apaga el fuego",
+      "b": "Dirige acciones desde control",
+      "c": "Avisa familias",
+      "d": "Cura heridos"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_36",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "¿Qué agente es biológico?",
+    "opciones": {
+      "a": "Amoniaco",
+      "b": "Virus Hepatitis B",
+      "c": "Ruido",
+      "d": "Calor"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_38",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Limpieza de manos evita:",
+    "opciones": {
+      "a": "Cortes",
+      "b": "Incendios",
+      "c": "Infecciones y contaminación de alimentos",
+      "d": "Caídas"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_40",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Agente extintor para sólidos, líquidos y gases:",
+    "opciones": {
+      "a": "Polvo ABC convencional",
+      "b": "Polvo ABC polivalente",
+      "c": "Espuma",
+      "d": "CO2"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_42",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "No es función del Equipo de Primera Intervención (EPI):",
+    "opciones": {
+      "a": "Equiparse con medios técnicos",
+      "b": "Adoptar medidas de autoprotección",
+      "c": "Informar al Jefe de Intervención",
+      "d": "Elaborar planes de prevención de incendios"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_44",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Peso máximo recomendado para manipulación manual:",
+    "opciones": {
+      "a": "25 Kg",
+      "b": "30 Kg",
+      "c": "50 Kg",
+      "d": "20 Kg"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_46",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Sobre agujas usadas:",
+    "opciones": {
+      "a": "Re-encapsular",
+      "b": "Eliminar en contenedores resistentes tras uso",
+      "c": "Doblar manualmente",
+      "d": "Reciclar"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b2_48",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 2)",
+    "pregunta": "Accidente \"in itinere\":",
+    "opciones": {
+      "a": "En el puesto",
+      "b": "Al ir o volver del trabajo",
+      "c": "En el descanso",
+      "d": "En misión oficial"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_0",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "No es competencia de los delegados de prevención:",
+    "opciones": {
+      "a": "Colaborar en mejora de acción preventiva",
+      "b": "Ordenar paralización inmediata del trabajo",
+      "c": "Promover cooperación de trabajadores",
+      "d": "Ejercer vigilancia y control"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_2",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Norma en evacuación de incendios:",
+    "opciones": {
+      "a": "Abrir ventanas",
+      "b": "Mantener calma y evacuar por salidas identificadas",
+      "c": "Recoger objetos personales",
+      "d": "Usar ascensoores"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_4",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Coste de medidas de seguridad y salud:",
+    "opciones": {
+      "a": "Puede recaer hasta 1% en trabajador",
+      "b": "No deberá recaer en modo alguno sobre los trabajadores",
+      "c": "Lo paga el sindicato",
+      "d": "Se descuenta de paga extra"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_6",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Vigilancia de salud de los trabajadores:",
+    "opciones": {
+      "a": "Siempre voluntaria",
+      "b": "Solo si la autoriza el trabajador, salvo excepciones",
+      "c": "Obligatoria siempre",
+      "d": "Solo para mayores de 50 años"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_8",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "En empresas de 31 a 49 trabajadores, ¿cuántos delegados de prevención hay?",
+    "opciones": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_10",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "¿Derecho del trabajador en PRL?",
+    "opciones": {
+      "a": "Ser informado de riesgos",
+      "b": "Formación gratuita en horario de trabajo",
+      "c": "Paralizar actividad en riesgo grave",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_12",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Extintor CO2 adecuado para:",
+    "opciones": {
+      "a": "Cuadros eléctricos y líquidos inflamables",
+      "b": "Papel y madera",
+      "c": "Metales",
+      "d": "No es un extintor"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_14",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Color azul en señal indica:",
+    "opciones": {
+      "a": "Peligro",
+      "b": "Obligación (EPIs o comportamiento)",
+      "c": "Salvamento",
+      "d": "Prohibición"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_16",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Señal rectangular verde con flecha blanca:",
+    "opciones": {
+      "a": "Material incendios",
+      "b": "Dirección vía evacuación",
+      "c": "Prohibido el paso",
+      "d": "Peligro eléctrico"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_18",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Conducta PAS ante herido:",
+    "opciones": {
+      "a": "Proteger, Avisar, Socorrer",
+      "b": "Parar, Atender, Sanar",
+      "c": "Socorrer primero",
+      "d": "Avisar y marcharse"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_20",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Pantalla visualización (PVD) debe estar:",
+    "opciones": {
+      "a": "Sobre nivel de ojos",
+      "b": "Nivel de ojos o ligeramente debajo",
+      "c": "Muy cerca de cara",
+      "d": "De lado"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_22",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Para evitar dolores de espalda en cocina:",
+    "opciones": {
+      "a": "Misma postura muchas horas",
+      "b": "Alternar posturas y calzado adecuado",
+      "c": "Calzado con tacón",
+      "d": "No sentarse"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_24",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Guantes de protección química:",
+    "opciones": {
+      "a": "Malla metálica",
+      "b": "Nitrilo, látex o neopreno",
+      "c": "Cuero",
+      "d": "Algodón"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_26",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Principal riesgo productos limpieza concentrados:",
+    "opciones": {
+      "a": "Ruido",
+      "b": "Quemaduras químicas y vapores tóxicos",
+      "c": "Atropellos",
+      "d": "Radiaciones"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_28",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Comité Seguridad y Salud se reúne:",
+    "opciones": {
+      "a": "Cada semana",
+      "b": "Trimestralmente mínimo",
+      "c": "Una vez al año",
+      "d": "Nunca"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_30",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Designa Delegados Prevención:",
+    "opciones": {
+      "a": "Empresario",
+      "b": "Representantes personal de entre ellos",
+      "c": "Inspección trabajo",
+      "d": "Médico empresa"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_32",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Ventilación lugares trabajo:",
+    "opciones": {
+      "a": "Nula por ruido",
+      "b": "Garantizar aire limpio sin corrientes molestas",
+      "c": "Solo por ventanas abiertas",
+      "d": "No obligatoria"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_34",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Extintor para fuego de magnesio:",
+    "opciones": {
+      "a": "Agua",
+      "b": "CO2",
+      "c": "Polvo especial (Clase D)",
+      "d": "Espuma"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_36",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Carga mental depende de:",
+    "opciones": {
+      "a": "Tiempo disponible",
+      "b": "Complejidad tarea",
+      "c": "Entorno (ruido, luz)",
+      "d": "Todas correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_38",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Calzado seguridad cocina:",
+    "opciones": {
+      "a": "Abierto detrás",
+      "b": "Antideslizante y cerrado",
+      "c": "Tela",
+      "d": "Botas agua siempre"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_40",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "No hacer ante quemadura térmica:",
+    "opciones": {
+      "a": "Enfriar con agua",
+      "b": "Aplicar pomadas o aceites sin consejo médico",
+      "c": "Tapar con gasa",
+      "d": "Beber agua"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_42",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "No es principio general ley PRL:",
+    "opciones": {
+      "a": "Prevención riesgos profesionales",
+      "b": "Eliminación riesgos derivados trabajo",
+      "c": "Información, consulta y formación trabajadores",
+      "d": "Caducidad alimentos"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_44",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "No es riesgo habitual trabajos cocina:",
+    "opciones": {
+      "a": "Golpes",
+      "b": "Quemaduras",
+      "c": "Cortes",
+      "d": "Caídas en altura"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_46",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "Sustituir vajilla rota por:",
+    "opciones": {
+      "a": "No es necesario (desechable siempre)",
+      "b": "Desconchado retiene suciedad",
+      "c": "Manipulador puede lesionarse",
+      "d": "Evitan riesgos pacientes"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b3_48",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 3)",
+    "pregunta": "(Incorrecta según el test) \r\n\r\n\r\nSegún ley 31/1995, trabajadores tienen derecho a:",
+    "opciones": {
+      "a": "Protección eficaz en seguridad y salud",
+      "b": "Prevención laboral",
+      "c": "Prevención total dentro y fuera",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_0",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Plan PERSEO confeccionado por SESCAM para:",
+    "opciones": {
+      "a": "Implantar seguridad y evitar riesgos socio sanitarios",
+      "b": "Conciliar vida laboral y familiar",
+      "c": "Evitar incidentes de violencia ámbito sanitario",
+      "d": "Tres anteriores"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_2",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Causas incidentes violentos según Plan Perseo:",
+    "opciones": {
+      "a": "Frustración pacientes expectativas no satisfechas",
+      "b": "Desestructuración social progresiva",
+      "c": "Falta concepción bien público",
+      "d": "Tres anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_4",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Nombre Plan Perseo recuerda a:",
+    "opciones": {
+      "a": "Héroe mitología griega contra Medusa",
+      "b": "Iniciales nombre completo plan",
+      "c": "Famosa estatua en Toledo",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_6",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Plan Perseo pretende prevenir y combatir violencia contra:",
+    "opciones": {
+      "a": "Trabajadores",
+      "b": "Bienes y patrimonio",
+      "c": "Usuarios",
+      "d": "Tres anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_8",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Definición incidente violento:",
+    "opciones": {
+      "a": "Solo agresiones físicas",
+      "b": "Toda persona que expresa sentimiento de ser amenazada o maltratada",
+      "c": "Solo insultos",
+      "d": "Daños mobiliario"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_10",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Agresión física se define como:",
+    "opciones": {
+      "a": "Uso fuerza física que cause o no lesiones",
+      "b": "Uso de fuerza física contra un trabajador o trabajadora por otra persona externa al centro",
+      "c": "Solo si hay sangre",
+      "d": "Amenaza verbal"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_12",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "El acoso es agresión:",
+    "opciones": {
+      "a": "Física",
+      "b": "No física",
+      "c": "Social",
+      "d": "No es agresión"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_14",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Ataque físico sin mediar lesión se considera:",
+    "opciones": {
+      "a": "Agresión física",
+      "b": "Incidente leve",
+      "c": "No es agresión",
+      "d": "Agresión no física"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_16",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Agresión no física incluye:",
+    "opciones": {
+      "a": "Lenguaje insultante y abuso verbal",
+      "b": "Gestos amenazantes",
+      "c": "Comportamiento hostil",
+      "d": "Tres anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_18",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Agresiones indirectas son aquellas contra:",
+    "opciones": {
+      "a": "Compañeros",
+      "b": "Bienes y patrimonio",
+      "c": "Usuarios",
+      "d": "Familiares"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_20",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Objetivo principal Plan Perseo:",
+    "opciones": {
+      "a": "Prevenir agresiones violencia y proteger profesionales",
+      "b": "Denunciar usuarios",
+      "c": "Poner cámaras",
+      "d": "Sancionar trabajadores"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_22",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Ámbito actuación Plan Perseo:",
+    "opciones": {
+      "a": "Todos trabajadores SESCAM y centros sanitarios",
+      "b": "Solo médicos",
+      "c": "Solo enfermeros",
+      "d": "Solo hospitales"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_24",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Fase preventiva del plan incluye:",
+    "opciones": {
+      "a": "Formación trabajadores",
+      "b": "Información usuarios",
+      "c": "Medidas organizativas y ambientales",
+      "d": "Tres anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_26",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "En fase protección, tras agresión se debe:",
+    "opciones": {
+      "a": "Prestar asistencia sanitaria y psicológica inmediata",
+      "b": "Llamar policía inmediatamente siempre",
+      "c": "Mandar trabajador a casa",
+      "d": "Nada"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_28",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Apoyo jurídico SESCAM incluye:",
+    "opciones": {
+      "a": "Asistencia letrada",
+      "b": "Defensa jurídica",
+      "c": "Representación",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_30",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Agresión física supone siempre:",
+    "opciones": {
+      "a": "Incoación diligencias judiciales",
+      "b": "Falta leve",
+      "c": "Despido",
+      "d": "Nada"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_32",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Tras incidente se debe rellenar:",
+    "opciones": {
+      "a": "Registro incidentes violentos (RIV)",
+      "b": "Parte lesiones",
+      "c": "Hoja reclamaciones",
+      "d": "RIV y parte lesiones si procede"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_34",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "¿Quién comunica incidente al RIV?",
+    "opciones": {
+      "a": "Trabajador afectado o quien tenga conocimiento",
+      "b": "Gerente",
+      "c": "Guardia civil",
+      "d": "Sindicato"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_36",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Análisis datos RIV corresponde a:",
+    "opciones": {
+      "a": "Unidades prevención riesgos laborales",
+      "b": "Dirección gerencia centros",
+      "c": "Comisión seguimiento plan",
+      "d": "Todas anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_38",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Formación plan Perseo debe ser:",
+    "opciones": {
+      "a": "Teórica y práctica",
+      "b": "Obligatoria para nuevos trabajadores",
+      "c": "Contenidos manejo conflictos",
+      "d": "Todas anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_40",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Medida ambiental preventiva:",
+    "opciones": {
+      "a": "Iluminación adecuada",
+      "b": "Mobiliario sin aristas",
+      "c": "Escapatorias fáciles",
+      "d": "Tres anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_42",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Violencia en sector sanitario según expertos:",
+    "opciones": {
+      "a": "Fenómeno creciente",
+      "b": "Problema salud pública",
+      "c": "Riesgo laboral",
+      "d": "Tres anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_44",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Medida organizativa preventiva:",
+    "opciones": {
+      "a": "Gestión adecuada colas y esperas",
+      "b": "Presencia vigilantes seguridad",
+      "c": "Sistemas alarma y botones pánico",
+      "d": "Tres anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_46",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Tolerancia cero significa:",
+    "opciones": {
+      "a": "No se permitirá ni justificará ninguna agresión",
+      "b": "Se sancionará siempre usuario",
+      "c": "Trabajador siempre tiene razón",
+      "d": "Nada"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_48",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "SESCAM se personará como:",
+    "opciones": {
+      "a": "Parte perjudicada",
+      "b": "Acusación particular en delitos",
+      "c": "Testigo",
+      "d": "Mediador"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_50",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Acción judicial contra agresor es:",
+    "opciones": {
+      "a": "Obligatoria en agresiones físicas",
+      "b": "Opcional",
+      "c": "No existe",
+      "d": "Solo si trabajador quiere"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_52",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Apoyo psicológico incluye:",
+    "opciones": {
+      "a": "Terapia inmediata",
+      "b": "Seguimiento posterior",
+      "c": "Apoyo familiar si procede",
+      "d": "Todas anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_54",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Divulgación plan Perseo mediante:",
+    "opciones": {
+      "a": "Cartelería centros",
+      "b": "Guías trabajadores",
+      "c": "Web SESCAM",
+      "d": "Todas anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_56",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Incidentes deben notificarse en plazo de:",
+    "opciones": {
+      "a": "24 horas",
+      "b": "72 horas",
+      "c": "Inmediatamente o máximo 48 horas",
+      "d": "Una semana"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_58",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Registro agresiones es:",
+    "opciones": {
+      "a": "Confidencial",
+      "b": "Público",
+      "c": "Solo para directivos",
+      "d": "No existe"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_60",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Comisión seguimiento plan Perseo compuesta por:",
+    "opciones": {
+      "a": "Administración",
+      "b": "Organizaciones sindicales",
+      "c": "Expertos prevención",
+      "d": "Todas anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_62",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Finalidad última plan Perseo:",
+    "opciones": {
+      "a": "Erradicar violencia centros sanitarios",
+      "b": "Mejorar seguridad trabajadores",
+      "c": "Dignificar labor asistencial",
+      "d": "Tres anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_64",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Incidente violento afecta a:",
+    "opciones": {
+      "a": "Salud física trabajador",
+      "b": "Salud mental y emocional",
+      "c": "Clima laboral",
+      "d": "Tres anteriores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_66",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Plan Perseo se integra en:",
+    "opciones": {
+      "a": "Plan prevención riesgos laborales SESCAM",
+      "b": "Plan calidad asistencial",
+      "c": "Plan estratégico salud",
+      "d": "Ninguno"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_68",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Seguridad privada centros sanitarios:",
+    "opciones": {
+      "a": "Complemento medidas preventivas",
+      "b": "Sustituto medidas",
+      "c": "No existe",
+      "d": "Prohibida"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_70",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "Empresa 557 trabajadores, número delegados prevención:",
+    "opciones": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema8_b4_72",
+    "tema": "Tema 8: Prevención de Riesgos y Plan PERSEO (Bloque 4)",
+    "pregunta": "(Designados por y entre representantes) \r\n\r\n\r\nProcedimiento actuación ante violencia:",
+    "opciones": {
+      "a": "Estandarizado centros SESCAM",
+      "b": "Diferente cada hospital",
+      "c": "Solo para centros salud",
+      "d": "No existe"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
   }
 ]
