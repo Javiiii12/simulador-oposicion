@@ -313,6 +313,12 @@ function createBaseTopicButton(baseTema, questionsSubset) {
     const count = temaQuestions.length;
 
     let titulo = TOPIC_TITLES[baseTema] || baseTema;
+
+    // Override titles based on custom Academies/Sources
+    if (currentSource === 'CSIF' && baseTema === 'Tema 5') {
+        titulo = "Estatuto Marco";
+    }
+
     if (titulo === baseTema) titulo = "";
 
     // Determine if it has "Bloques"
@@ -432,6 +438,10 @@ function createTopicButton(tema) {
     btn.className = 'btn-topic';
     const count = allQuestions.filter(q => q.tema === tema).length;
     let titulo = TOPIC_TITLES[tema] || tema;
+
+    if (typeof currentSource !== 'undefined' && currentSource === 'CSIF' && tema === 'Tema 5') {
+        titulo = "Estatuto Marco";
+    }
 
     // Avoid redundancy if title == theme name
     if (titulo === tema) titulo = "";
