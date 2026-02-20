@@ -34,47 +34,62 @@
         <div id="view-menu" class="view hidden">
             <button id="btn-back-menu" class="btn-icon" style="position:absolute; left:20px; top:20px;">⬅</button>
             <h1 style="margin-top:20px;">Simulador OPE Pinche</h1>
-            <p class="subtitle">Selecciona un modo de estudio</p>
+            <p class="subtitle">Selecciona una fuente de estudio</p>
 
             <div class="menu-grid">
-                <button id="btn-general" class="btn-menu">
-                    📚 Parte General
-                    <span class="badge">Temas 1 al 6</span>
+                <!-- Nivel Maestro: Selección de Fuente -->
+                <button id="btn-source-mad" class="btn-menu">
+                    📚 Tests MAD
+                    <span class="badge">Oficiales</span>
                 </button>
-                <button id="btn-especifica" class="btn-menu">
-                    🏥 Parte Específica
-                    <span class="badge">Temas 7 al 16</span>
+                <button id="btn-source-csif" class="btn-menu">
+                    🏥 Tests CSIF
+                    <span class="badge">Específicos</span>
                 </button>
-                <button id="btn-failures" class="btn-menu special-red">
+                <button id="btn-source-academia" class="btn-menu">
+                    🎓 Tests Academia
+                    <span class="badge">Pronto</span>
+                </button>
+                <button id="btn-source-examenes" class="btn-menu special">
+                    📅 Exámenes Años Anteriores
+                    <span class="badge">Reales</span>
+                </button>
+
+                <!-- Otras Funciones -->
+                <button id="btn-failures" class="btn-menu special-red" style="grid-column: 1 / -1;">
                     🧠 Repasar Fallos
                     <span class="badge" id="badge-failures">0</span>
                 </button>
                 <button id="btn-random" class="btn-menu">
                     🎲 Modo Aleatorio
-                    <span class="badge">Rápido</span>
+                    <span class="badge">Global</span>
                 </button>
                 <button id="btn-progress" class="btn-menu">
                     📊 Mi Progreso
                     <span class="badge">Estadísticas</span>
                 </button>
-
-                <!-- Secundarios -->
-                <button id="btn-examenes" class="btn-menu">
-                    📝 Exámenes Oficiales (Otras CCAA)
-                    <span class="badge">En Construcción</span>
-                </button>
-                <button id="btn-academia" class="btn-menu">
-                    🎓 Academia Test
-                    <span class="badge">Pronto</span>
-                </button>
-                <!-- Exámenes OPE 2020 -->
-                <button id="btn-ope-2020" class="btn-menu">
-                    📅 Exámenes OPE 2020
-                    <span class="badge">2 Exámenes</span>
-                </button>
             </div>
             <p style="text-align:center; color:#999; margin-top:20px; font-size:0.8rem;">Más funciones próximamente...
             </p>
+        </div>
+
+        <!-- VISTA: SELECCIÓN DE PARTE (General / Específica) -->
+        <div id="view-parts" class="view hidden">
+            <header class="view-header">
+                <button id="btn-back-parts" class="btn-icon">⬅</button>
+                <h2 id="parts-title">Fuente Seleccionada</h2>
+            </header>
+
+            <div class="menu-grid">
+                <button id="btn-part-general" class="btn-menu">
+                    📚 Parte General
+                    <span class="badge">Temas 1 al 6</span>
+                </button>
+                <button id="btn-part-especifica" class="btn-menu">
+                    🏥 Parte Específica
+                    <span class="badge">Temas 7 al 16</span>
+                </button>
+            </div>
         </div>
 
         <!-- VISTA: MENÚ EXÁMENES OPE 2020 -->
@@ -179,6 +194,13 @@
         <div id="view-game" class="view hidden">
             <header class="game-header">
                 <button id="btn-quit-game" class="btn-back">⬅</button>
+
+                <!-- NEW FEATURE: "Borrar Fallos" header button -->
+                <button id="btn-clear-failures-header" class="btn-small hidden"
+                    style="background-color: #f44336; color: white; display: flex; align-items: center; justify-content: center; border-radius: 4px; padding: 4px 8px; margin-left: 10px; font-weight: bold; border: 1px solid #d32f2f; cursor: pointer;">
+                    🗑️ Vaciar
+                </button>
+
                 <div class="progress-container">
                     <div id="progress-bar" class="progress-bar"></div>
                 </div>

@@ -38,6 +38,9 @@ document.addEventListener('DOMContentLoaded', () => {
     setupEventListeners();
 });
 
+// Global state for origin tracking
+let currentSource = null;
+
 function setupEventListeners() {
     // Selección de Rol
     document.getElementById('btn-role-pinche').addEventListener('click', () => showView('menu'));
@@ -46,18 +49,25 @@ function setupEventListeners() {
     // Menú Principal
     document.getElementById('btn-back-menu').addEventListener('click', () => showView('roleSelection'));
 
-    document.getElementById('btn-general').addEventListener('click', () => showTopics('GENERAL'));
-    document.getElementById('btn-especifica').addEventListener('click', () => showTopics('ESPECIFICA'));
+    document.getElementById('btn-source-mad').addEventListener('click', () => showParts('MAD'));
+    document.getElementById('btn-source-csif').addEventListener('click', () => showParts('CSIF'));
+    document.getElementById('btn-source-academia').addEventListener('click', () => showParts('Academia'));
+    document.getElementById('btn-source-examenes').addEventListener('click', showExamsList);
+
     document.getElementById('btn-failures').addEventListener('click', startFailureTest);
     document.getElementById('btn-random').addEventListener('click', showRandomConfig);
     document.getElementById('btn-progress').addEventListener('click', showProgress);
 
-    // Botones Extras
-    document.getElementById('btn-examenes').addEventListener('click', () => alert("📝 Estamos recopilando exámenes oficiales. ¡Pronto!"));
-    document.getElementById('btn-academia').addEventListener('click', () => alert("🎓 La Academia Test abrirá sus puertas próximamente."));
+    // Atrás desde selección de Parte
+    document.getElementById('btn-back-parts').addEventListener('click', () => showView('menu'));
 
-    // Navegación Menú OPE 2020
-    document.getElementById('btn-ope-2020').addEventListener('click', () => showView('examsMenu'));
+    // Partes (General / Específica)
+    document.getElementById('btn-part-general').addEventListener('click', () => showTopics('GENERAL'));
+    document.getElementById('btn-part-especifica').addEventListener('click', () => showTopics('ESPECIFICA'));
+
+    // Opciones del Menú OPE 2020 (Ahora dentro de Exámenes)
+    const btn2020 = document.getElementById('btn-ope-2020');
+    if (btn2020) btn2020.addEventListener('click', () => showView('examsMenu'));
     document.getElementById('btn-back-exams').addEventListener('click', () => showView('menu'));
 
     // Examen Ordinario
@@ -103,6 +113,16 @@ function setupEventListeners() {
     document.getElementById('btn-quit-game').addEventListener('click', () => {
         if (confirm("¿Seguro que quieres salir? Se perderá el progreso actual.")) showView('menu');
     });
+
+    const btnClearHeader = document.getElementById('btn-clear-failures-header');
+    if (btnClearHeader) {
+        btnClearHeader.addEventListener('click', () => {
+            if (confirm("¿Estás seguro de que quieres vaciar por completo tu historial de fallos? Esta acción no se puede deshacer.")) {
+                clearFailures();
+                showView('menu');
+            }
+        });
+    }
     document.getElementById('btn-home-results').addEventListener('click', () => showView('menu'));
     document.getElementById('btn-retry').addEventListener('click', () => {
         // Reintentar mismo set
@@ -595,6 +615,16 @@ function startGame(questionsSet, mode, topicName) {
     document.getElementById('mode-tag').textContent =
         mode === 'training' ? 'Entrenamiento' :
             mode === 'exam' ? 'Examen' : 'Repaso Fallos';
+
+    // Show or hide the specific Clear Failures header button 
+    const btnClearHeader = document.getElementById('btn-clear-failures-header');
+    if (btnClearHeader) {
+        if (mode === 'failures') {
+            btnClearHeader.classList.remove('hidden');
+        } else {
+            btnClearHeader.classList.add('hidden');
+        }
+    }
 
     showView('game');
     renderQuestion();
