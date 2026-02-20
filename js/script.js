@@ -218,7 +218,23 @@ function setupEventListeners() {
 
     // Exámenes Años Anteriores: Otras Secciones
     const btnCCAA = document.getElementById('btn-examenes-ccaa');
-    if (btnCCAA) btnCCAA.addEventListener('click', () => alert("🌍 Esta sección está en construcción. Pronto añadiremos exámenes de otras Comunidades Autónomas."));
+    if (btnCCAA) {
+        btnCCAA.addEventListener('click', () => {
+            const questions = allQuestions.filter(q => q.tema === "Otras Comunidades: SACYL (Castilla y León 2008)");
+            if (questions.length === 0) {
+                alert("Error: No se han encontrado las preguntas de SACYL 2008.");
+                return;
+            }
+            // Mezclamos un poco en cada intento si se desea, o lo dejamos en el orden del array
+            questions.sort((a, b) => {
+                const na = parseInt((a.id.match(/\d+$/) || [0])[0]);
+                const nb = parseInt((b.id.match(/\d+$/) || [0])[0]);
+                return na - nb;
+            });
+
+            prepareModeSelection("Simulacro SACYL 2008", () => questions);
+        });
+    }
 
     const btnHistorico = document.getElementById('btn-examenes-historico');
     if (btnHistorico) btnHistorico.addEventListener('click', () => {
