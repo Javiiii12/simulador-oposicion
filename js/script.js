@@ -25,7 +25,7 @@ const views = {
 const _supabaseUrl = 'https://fthltpsnuhwghclzvexi.supabase.co';
 const _supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ0aGx0cHNudWh3Z2hjbHp2ZXhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAwMDQ0MTksImV4cCI6MjA1NTU4MDQxOX0.jS3j9wN_-1M7OlyvV0W5vYm_9j1v6X0W-jS3j9wN_-1M';
 let supabaseClient = null;
-const VALID_HASH = "681b95b1285324707675354924c5b369c70b8f66870c97825700874e0626359e";
+const VALID_HASH = "6df795bb7e73343384fb90ff03841e6f7b0a585ab9f50e2e6e7ec398b722f508";
 
 function initSupabase() {
     if (window.supabase && !supabaseClient) {
