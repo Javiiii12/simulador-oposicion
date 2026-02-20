@@ -84,7 +84,7 @@ async function handleLogin() {
         if (supabaseClient) {
             try {
                 await supabaseClient.from('access_logs').insert([{
-                    fecha_hora: new Date().toISOString(),
+                    created_at: new Date().toISOString(),
                     status: 'success',
                     device_info: navigator.userAgent
                 }]);
@@ -107,7 +107,7 @@ async function loadAdminLogs() {
         const { data, error } = await supabaseClient
             .from('access_logs')
             .select('*')
-            .order('fecha_hora', { ascending: false })
+            .order('created_at', { ascending: false })
             .limit(50);
 
         if (error) throw error;
@@ -119,7 +119,7 @@ async function loadAdminLogs() {
 
         tbody.innerHTML = data.map(log => `
             <tr>
-                <td>${new Date(log.fecha_hora).toLocaleString('es-ES')}</td>
+                <td>${new Date(log.created_at).toLocaleString('es-ES')}</td>
                 <td style="font-size: 0.8rem; word-break: break-all;">${log.device_info}</td>
             </tr>
         `).join('');

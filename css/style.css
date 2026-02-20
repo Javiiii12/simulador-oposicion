@@ -6,17 +6,21 @@
 }
 
 :root {
-    --primary: #005b9f;
-    --primary-dark: #003f72;
-    --secondary: #03dac6;
-    --bg: #f4f6f8;
+    --primary: #00897B;
+    /* Sanidad Teal */
+    --primary-dark: #00695C;
+    --primary-light: #4DB6AC;
+    --secondary: #0288D1;
+    /* Medical Blue accent */
+    --bg: #F0F4F8;
+    /* Clean white-blue background */
     --surface: #ffffff;
-    --text: #333;
-    --text-light: #666;
-    --success: #4caf50;
-    --error: #f44336;
-    --radius: 10px;
-    --shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    --text: #263238;
+    --text-light: #546E7A;
+    --success: #43A047;
+    --error: #E53935;
+    --radius: 12px;
+    --shadow: 0 4px 20px rgba(0, 137, 123, 0.08);
 }
 
 body {
@@ -64,11 +68,14 @@ body {
 
 /* MENÚ PRINCIPAL */
 h1 {
-    font-size: 1.8rem;
+    font-size: 2rem;
     text-align: center;
-    color: var(--primary);
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
     margin-bottom: 0.5rem;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 .menu-grid {
@@ -107,8 +114,10 @@ h1 {
 }
 
 .btn-menu.special {
-    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
     color: white;
+    border: none;
+    box-shadow: 0 4px 15px rgba(0, 137, 123, 0.3);
 }
 
 .badge {
