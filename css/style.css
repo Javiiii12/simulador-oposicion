@@ -1,16 +1,22 @@
 /* RESET & BASE */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 :root {
-    --primary: #6200ea;
-    --primary-dark: #3700b3;
+    --primary: #005b9f;
+    --primary-dark: #003f72;
     --secondary: #03dac6;
-    --bg: #f5f5f7;
+    --bg: #f4f6f8;
     --surface: #ffffff;
     --text: #333;
     --text-light: #666;
     --success: #4caf50;
     --error: #f44336;
-    --radius: 16px;
-    --shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    --radius: 10px;
+    --shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
 }
 
 body {
@@ -22,6 +28,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 100vw;
+    overflow-x: hidden;
 }
 
 .container {
@@ -59,6 +67,7 @@ h1 {
     text-align: center;
     color: var(--primary);
     margin-bottom: 0.5rem;
+    font-weight: 700;
 }
 
 .menu-grid {
@@ -83,11 +92,14 @@ h1 {
     justify-content: space-between;
     align-items: center;
     color: var(--text);
+    min-height: 48px;
+    max-width: 100%;
 }
 
 .btn-menu:hover {
     border-color: var(--primary);
-    transform: translateY(-2px);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0, 91, 159, 0.15);
 }
 
 .btn-menu.special {
@@ -131,14 +143,19 @@ h1 {
     background: var(--surface);
     padding: 15px;
     border: 1px solid #ddd;
-    border-radius: 12px;
+    border-radius: var(--radius);
     text-align: left;
     cursor: pointer;
-    transition: background 0.2s;
+    transition: all 0.2s;
+    box-shadow: var(--shadow);
+    min-height: 48px;
+    max-width: 100%;
 }
 
 .btn-topic:hover {
-    background: #eee;
+    background: #f0f4f8;
+    border-color: var(--primary);
+    transform: translateX(4px);
 }
 
 /* CONFIGURACIÓN ALEATORIA */
@@ -199,6 +216,8 @@ input[type="number"] {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    min-height: 48px;
+    padding: 0 15px;
 }
 
 /* JUEGO */
@@ -283,11 +302,12 @@ input[type="number"] {
     padding: 15px 20px;
     border-radius: 12px;
     text-align: left;
-    font-size: 1rem;
+    font-size: 1.1rem;
     cursor: pointer;
     transition: all 0.2s;
     color: var(--text);
     width: 100%;
+    min-height: 48px;
 }
 
 .btn-option:hover {
@@ -331,10 +351,11 @@ input[type="number"] {
     border: none;
     padding: 15px 30px;
     border-radius: 50px;
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: bold;
     cursor: pointer;
     width: 100%;
+    min-height: 48px;
 }
 
 .score-circle {
@@ -543,4 +564,15 @@ input[type="number"] {
     overflow-y: auto;
     border: 1px solid #eee;
     border-radius: 8px;
+}
+
+/* RESPONSIVE DESIGN (Desktop & Tablets > 768px) */
+@media (min-width: 768px) {
+
+    .menu-grid,
+    .topics-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
 }

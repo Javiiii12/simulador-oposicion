@@ -1,0 +1,908 @@
+BLOQUE 1: Test Nº 1 - Dietas y Control de Alérgenos (25 Preguntas)
+Fuente: Test Nº 1.- Tema 11.- alumnos.pdf
+
+La dieta terapéutica:
+
+A) Está indicada para personas que no precisen una dieta específica.
+
+B) Nunca se convierte en la base del tratamiento.
+
+C) Tiene como finalidad ayudar en la curación de la enfermedad.
+
+D) Es la dieta que más se asemeja a la normal de una persona sana.
+
+Solución: C
+
+La dieta basal:
+
+A) Suele sobrepasar las 2500-3000 Kcal/día.
+
+B) Nunca puede solicitarse sin sal.
+
+C) Suele ser la dieta general existente en un determinado centro hospitalario.
+
+D) Se compone exclusivamente de verduras.
+
+Solución: C
+
+En una dieta blanda podemos incluir:
+
+A) Patatas hervidas.
+
+B) Frutos secos.
+
+C) Alimentos fritos.
+
+D) Frutas crudas.
+
+Solución: A
+
+Para un desayuno hipocalórico se calentará:
+
+A) Leche deshidratada.
+
+B) Leche condensada.
+
+C) Leche enriquecida.
+
+D) Leche desnatada.
+
+Solución: D
+
+Para un desayuno de una dieta astringente, se preparará como parte de líquidos:
+
+A) Leche entera.
+
+B) Café con leche.
+
+C) Tila.
+
+D) Té claro.
+
+Solución: D
+
+En un desayuno de una dieta diabética incluirá:
+
+A) Dos piezas de pan blanco.
+
+B) Mantequilla.
+
+C) Una pieza de fruta.
+
+D) Un batido de vainilla.
+
+Solución: C
+
+El pollo, alimento incluido en la dieta de un paciente, es rico en:
+
+A) Proteína.
+
+B) Hidratos de carbono.
+
+C) Lípidos.
+
+D) Vitaminas.
+
+Solución: A
+
+La celiaquía es una intolerancia permanente al:
+
+A) Lactosa.
+
+B) Glucosa.
+
+C) Gluten.
+
+D) Fructosa.
+
+Solución: C
+
+¿Qué cereal no contiene gluten?
+
+A) Trigo.
+
+B) Arroz.
+
+C) Cebada.
+
+D) Centeno.
+
+Solución: B
+
+El reglamento (UE) 1169/2011 obliga a informar sobre la presencia de:
+
+A) Solo cacahuetes.
+
+B) 14 sustancias o productos que causan alergias o intolerancias.
+
+C) Solo la leche y sus derivados.
+
+D) No es obligatorio informar.
+
+Solución: B
+
+Una dieta hídrica se compone de:
+
+A) Agua, infusiones y caldos filtrados.
+
+B) Carne y pescado a la plancha.
+
+C) Purés de verduras.
+
+D) Solo leche.
+
+Solución: A
+
+La dieta hiposódica es baja en:
+
+A) Azúcar.
+
+B) Sal (Sodio).
+
+C) Grasa.
+
+D) Proteína.
+
+Solución: B
+
+¿Qué alimento es rico en hidratos de carbono?
+
+A) Filete de ternera.
+
+B) Pescado blanco.
+
+C) Pasta.
+
+D) Huevo.
+
+Solución: C
+
+La dieta para un paciente con insuficiencia renal suele ser:
+
+A) Hipoproteica.
+
+B) Hiperproteica.
+
+C) Rica en sal.
+
+D) Rica en potasio.
+
+Solución: A
+
+La dieta rica en fibra está indicada para:
+
+A) Estreñimiento.
+
+B) Diarrea.
+
+C) Úlcera gastroduodenal.
+
+D) Postoperatorio inmediato.
+
+Solución: A
+
+¿Qué es un alérgeno?
+
+A) Una sustancia que puede provocar una reacción alérgica.
+
+B) Un tipo de vitamina.
+
+C) Un conservante prohibido.
+
+D) Una bacteria de la carne.
+
+Solución: A
+
+¿Cuál de estos alimentos es un alérgeno de declaración obligatoria?
+
+A) Crustáceos.
+
+B) Carne de cerdo.
+
+C) Manzana.
+
+D) Lechuga.
+
+Solución: A
+
+La dieta blanda mecánica es:
+
+A) Para pacientes con dificultad para masticar, alimentos picados o blandos.
+
+B) Una dieta elaborada por una máquina.
+
+C) Solo líquidos.
+
+D) Muy rica en grasas.
+
+Solución: A
+
+En la dieta de un diabético se controla principalmente:
+
+A) El consumo de grasas.
+
+B) El consumo de hidratos de carbono de absorción rápida.
+
+C) El consumo de agua.
+
+D) La temperatura de la comida.
+
+Solución: B
+
+La dieta astringente se utiliza en caso de:
+
+A) Estreñimiento.
+
+B) Diarrea.
+
+C) Anemia.
+
+D) Hipertensión.
+
+Solución: B
+
+La dieta prescrita en función del estado del enfermo se denomina:
+
+A) Dieta blanda.
+
+B) Dieta basal.
+
+C) Dieta terapéutica.
+
+D) Dieta hipocalórica.
+
+Solución: C
+
+Una dieta hipoproteica está indicada en:
+
+A) Apendicitis.
+
+B) Úlcera péptica.
+
+C) Insuficiencia hepática aguda.
+
+D) Todas son correctas.
+
+Solución: C
+
+Sobre la modificación de la consistencia, señale la correcta:
+
+A) La dieta líquida se usa como inicio de tolerancia.
+
+B) La dieta semiblanda es de transición.
+
+C) La dieta blanda es fácil de masticar y digerir.
+
+D) Todas son correctas.
+
+Solución: D
+
+La dieta que contempla la supresión total de alimentos y líquidos es:
+
+A) De transición.
+
+B) Astringente.
+
+C) Absoluta.
+
+D) Total.
+
+Solución: C
+
+La dieta para hipertensión arterial es:
+
+A) Dieta hiposódica.
+
+B) Dieta blanda.
+
+C) Dieta absoluta.
+
+D) Dieta hídrica.
+
+Solución: A
+
+BLOQUE 2: Test Nº 2 - Los Alimentos (25 Preguntas)
+Fuente: Test Nº 2.- Tema 11.- alumnos.pdf
+
+¿Qué alimentos no contienen lípidos?
+
+A) Mantequilla y queso.
+
+B) Carne de ternera.
+
+C) Aceite.
+
+D) Azúcar.
+
+Solución: D
+
+La cocina 45:
+
+A) Envasa exclusivamente al vacío.
+
+B) Se basa en ensamblaje de productos de 4ª y 5ª gama.
+
+C) Es un sistema flexible sobre carriles móviles.
+
+D) Necesita mucha maquinaria.
+
+Solución: C
+
+¿Cómo se obtiene el aceite puro de oliva?
+
+A) Por procedimientos mecánicos en frío, sedimentación y filtración.
+
+B) Mezcla de virgen y refinado.
+
+C) Refinando aceite de oliva virgen.
+
+D) Tratando orujo con disolvente.
+
+Solución: A
+
+Señale la afirmación falsa:
+
+A) El pescado tiene menos grasas saturadas que algunas carnes.
+
+B) El pescado azul es más calórico que el blanco.
+
+C) El pescado fresco tiene mayor valor nutritivo que el congelado.
+
+D) Todas son falsas.
+
+Solución: C
+
+El sistema de emplatado consiste en:
+
+A) Distribución de alimentos en contenedores de transporte.
+
+B) Retirada de bandejas de las habitaciones.
+
+C) Distribución en raciones individuales para consumo.
+
+D) Ninguna es correcta.
+
+Solución: C
+
+Los glúcidos o hidratos de carbono aportan:
+
+A) 4 Kcal por gramo.
+
+B) 9 Kcal por gramo.
+
+C) 7 Kcal por gramo.
+
+D) No aportan calorías.
+
+Solución: A
+
+Las grasas o lípidos aportan:
+
+A) 4 Kcal/g.
+
+B) 9 Kcal/g.
+
+C) 12 Kcal/g.
+
+D) 2 Kcal/g.
+
+Solución: B
+
+¿Cuál es la función principal de las proteínas?
+
+A) Energética.
+
+B) Plástica o estructural.
+
+C) Reguladora.
+
+D) Aislante térmico.
+
+Solución: B
+
+Las vitaminas son nutrientes:
+
+A) Macronutrientes.
+
+B) Micronutrientes.
+
+C) Energéticos.
+
+D) No son nutrientes.
+
+Solución: B
+
+La falta de Vitamina C produce:
+
+A) Raquitismo.
+
+B) Escorbuto.
+
+C) Ceguera nocturna.
+
+D) Beriberi.
+
+Solución: B
+
+Los alimentos reguladores son ricos en:
+
+A) Proteínas.
+
+B) Grasas.
+
+C) Vitaminas y minerales.
+
+D) Hidratos de carbono.
+
+Solución: C
+
+¿Qué es la 4ª gama de alimentos?
+
+A) Alimentos frescos, limpios, troceados y envasados (ensaladas).
+
+B) Alimentos congelados.
+
+C) Alimentos en conserva.
+
+D) Alimentos cocinados y listos para servir.
+
+Solución: A
+
+La 5ª gama se refiere a:
+
+A) Productos crudos.
+
+B) Productos precocinados o cocinados listos para calentar y servir.
+
+C) Fruta fresca.
+
+D) Legumbres secas.
+
+Solución: B
+
+¿Qué son las calorías?
+
+A) Unidad de medida de la energía que aportan los alimentos.
+
+B) El peso del alimento.
+
+C) La cantidad de grasa.
+
+D) El volumen de agua.
+
+Solución: A
+
+¿Cuál es un mineral esencial para los huesos?
+
+A) Calcio.
+
+B) Sodio.
+
+C) Potasio.
+
+D) Cloro.
+
+Solución: A
+
+Las legumbres son ricas en:
+
+A) Proteína vegetal e hidratos de carbono.
+
+B) Solo grasas.
+
+C) Vitamina B12 únicamente.
+
+D) No aportan nada.
+
+Solución: A
+
+La dieta ovo-lacto-vegetariana incluye:
+
+A) Solo vegetales.
+
+B) Vegetales, huevos y lácteos.
+
+C) Solo huevos.
+
+D) Carne y pescado.
+
+Solución: B
+
+El huevo es un alimento con proteínas de:
+
+A) Bajo valor biológico.
+
+B) Alto valor biológico.
+
+C) Sin valor biológico.
+
+D) Solo grasa.
+
+Solución: B
+
+¿Qué vitamina es liposoluble?
+
+A) Vitamina C.
+
+B) Vitamina B12.
+
+C) Vitamina A.
+
+D) Vitamina B1.
+
+Solución: C
+
+El agua representa en el cuerpo humano aproximadamente el:
+
+A) 10%.
+
+B) 30%.
+
+C) 60-70%.
+
+D) 95%.
+
+Solución: C
+
+En el diagrama circular, los alimentos ricos en lípidos pertenecen al:
+
+A) Grupo I.
+
+B) Grupo II.
+
+C) Grupo IV.
+
+D) Grupo VI.
+
+Solución: D
+
+¿Qué enfermedad causa la insuficiencia de Vitamina D?
+
+A) Caries.
+
+B) Cardiovasculares.
+
+C) Raquitismo.
+
+D) Escorbuto.
+
+Solución: C
+
+¿Qué son los yogures?
+
+A) Postres elaborados con leche fermentada.
+
+B) Postres elaborados con leche condensada.
+
+C) Postres elaborados con natas.
+
+D) Postres elaborados con leche fresca.
+
+Solución: A
+
+¿Qué es un lechal?
+
+A) Cordero sacrificado entre 4 y 6 meses.
+
+B) Cordero que tiene entre 15 días y 2 meses.
+
+C) Cordero nacido en invierno.
+
+D) Cordero sobrealimentado.
+
+Solución: B
+
+La leche higienizada:
+
+A) Procede de explotaciones ganaderas.
+
+B) Es leche certificada.
+
+C) Es leche natural sometida a proceso tecnológico autorizado.
+
+D) Es aquella con composición modificada.
+
+Solución: C
+
+BLOQUE 3: Test Nº 3 - Elaboración y Emplatado (25 Preguntas)
+Fuente: Test Nº 3.- Tema 11.- alumnos.pdf
+
+Respecto a la elaboración de los platos, indique la opción correcta:
+
+A) La prescripción de dietas corresponde a enfermería.
+
+B) Higiene de cocina es función de nutrición clínica.
+
+C) Se realiza con aportes solicitados y lo lleva a cabo personal de cocina.
+
+D) Las prescribe medicina preventiva.
+
+Solución: C
+
+Indique la correcta. El objetivo principal del emplatado es:
+
+A) Cambiar dietas cuando lo pida el paciente.
+
+B) Respetar las dietas, temperatura y presentación.
+
+C) La calidad es secundaria.
+
+D) Productos siempre al dente.
+
+Solución: B
+
+¿Cuál de las siguientes hortalizas son legumbres secas?
+
+A) Calabacín y pepino.
+
+B) Berro y grelos.
+
+C) Zanahoria y nabo.
+
+D) Guisante, haba, tirabeque.
+
+Solución: D
+
+¿En qué consiste la cocción al vacío?
+
+A) Cocinar tradicional y después envasar al vacío.
+
+B) Introducir componentes crudos, hacer vacío y cocer en el envase.
+
+C) Preparación de materias primas para controlar raciones.
+
+D) Ninguna es correcta.
+
+Solución: B
+
+La cinta de emplatado es:
+
+A) Una cuerda para atar cajas.
+
+B) Sistema de transporte para montaje de bandejas individuales.
+
+C) Para medir la cocina.
+
+D) Un tipo de alimento.
+
+Solución: B
+
+Las dietas terapéuticas deben estar:
+
+A) Identificadas con tarjeta o código en la bandeja.
+
+B) Sin identificar para proteger datos.
+
+C) Solo en la cocina.
+
+D) Se las sabe el pinche de memoria.
+
+Solución: A
+
+¿Cuál es la función del pinche en la cinta de emplatado?
+
+A) Diagnosticar al paciente.
+
+B) Colocar alimentos, cubiertos o pan según el puesto asignado.
+
+C) Decidir el menú del día.
+
+D) Solo limpiar la cinta.
+
+Solución: B
+
+¿Qué es el "Plato Testigo" o "Comida Testigo"?
+
+A) El plato que se come el jefe.
+
+B) Muestra guardada de cada plato para análisis en caso de brote.
+
+C) Un plato de plástico de adorno.
+
+D) La primera bandeja de la cinta.
+
+Solución: B
+
+La temperatura de los platos calientes en el emplatado debe ser:
+
+A) Mínimo 65° C.
+
+B) 20° C.
+
+C) 40° C.
+
+D) Hirviendo.
+
+Solución: A
+
+¿Quién supervisa la cinta de emplatado?
+
+A) El celador.
+
+B) El dietista/nutricionista o jefe de cocina.
+
+C) El paciente.
+
+D) La limpiadora.
+
+Solución: B
+
+La "Marcha Adelante" impide:
+
+A) Contaminación cruzada entre zonas sucias y limpias.
+
+B) Que los trabajadores lleguen tarde.
+
+C) Que se acabe la comida.
+
+D) No impide nada.
+
+Solución: A
+
+En una dieta de protección gástrica se evitan:
+
+A) Picantes, fritos y alcohol.
+
+B) Agua.
+
+C) Arroz blanco.
+
+D) Pescado hervido.
+
+Solución: A
+
+Un paciente con alergia a los frutos secos no puede comer:
+
+A) Nueces y almendras.
+
+B) Pollo.
+
+C) Lentejas.
+
+D) Lechuga.
+
+Solución: A
+
+¿Qué información debe aparecer en la tarjeta de dieta?
+
+A) Nombre, cama/habitación y tipo de dieta.
+
+B) DNI y dirección del paciente.
+
+C) Sueldo del paciente.
+
+D) No hace falta tarjeta.
+
+Solución: A
+
+Los carros isotermos sirven para:
+
+A) Guardar ropa.
+
+B) Mantener la temperatura de las bandejas durante el transporte.
+
+C) Cocinar dentro de ellos.
+
+D) Pesar a los pacientes.
+
+Solución: B
+
+La dieta hipocalórica es para:
+
+A) Ganar peso.
+
+B) Perder peso (baja en calorías).
+
+C) Pacientes con mucha fiebre.
+
+D) Atletas.
+
+Solución: B
+
+En la intolerancia a la lactosa no se puede tomar:
+
+A) Azúcar común.
+
+B) Leche de vaca y derivados no tratados.
+
+C) Carne de ternera.
+
+D) Huevos.
+
+Solución: B
+
+¿Qué alimento sustituye la carne en dietas vegetarianas?
+
+A) Tofu o legumbres.
+
+B) Mantequilla.
+
+C) Manteca de cerdo.
+
+D) Nada.
+
+Solución: A
+
+La dieta rica en potasio se indica para:
+
+A) Reponer pérdidas por diuréticos.
+
+B) Insuficiencia renal grave.
+
+C) Diabetes.
+
+D) Obesidad.
+
+Solución: A
+
+El pan integral se usa en dietas:
+
+A) Sin residuo.
+
+B) Ricas en fibra.
+
+C) Líquidas.
+
+D) Hipoproteicas.
+
+Solución: B
+
+¿Qué es un choque anafiláctico?
+
+A) Un tipo de dieta.
+
+B) Reacción alérgica grave que afecta a todo el cuerpo.
+
+C) Un corte en el dedo.
+
+D) Una indigestión leve.
+
+Solución: B
+
+La dieta líquida completa incluye:
+
+A) Caldos, leche, zumos y yogures líquidos.
+
+B) Filete picado.
+
+C) Puré espeso.
+
+D) Solo agua.
+
+Solución: A
+
+¿De quién es responsabilidad evitar trazas en platos de alérgicos?
+
+A) Del personal de cocina.
+
+B) Del médico.
+
+C) Del paciente.
+
+D) De nadie.
+
+Solución: A
+
+Señale la incorrecta sobre los huevos:
+
+A) Identificación obligatoria de granja.
+
+B) Ovoproductos transformados industrialmente.
+
+C) Huevo fresco se vende hasta 12 días tras puesta y consume hasta 3 meses.
+
+D) No deben usarse nunca en restauración (sustituir por ovoproductos).
+
+Solución: C
+
+En las intolerancias alimentarias:
+
+A) Interviene el sistema inmune.
+
+B) Puede producir shock anafiláctico mortal.
+
+C) Síntomas como urticaria o hinchazón.
+
+D) Se pueden consumir pequeñas cantidades sin síntomas.
+
+Solución: D

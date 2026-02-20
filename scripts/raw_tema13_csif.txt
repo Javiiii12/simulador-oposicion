@@ -1,0 +1,908 @@
+BLOQUE 1: Test Nº 1 - Manipulación de Alimentos (25 Preguntas)
+Fuente: Test Nº 1.- Tema 13.- alumnos.pdf
+
+La formación de los manipuladores de alimentos en materia de seguridad alimentaria corresponde a:
+
+A) Jefe de cocina.
+
+B) Personal de dietética y nutrición.
+
+C) Personal capacitado de las empresas alimentarias.
+
+D) Gobernantes.
+
+Solución: C
+
+El periodo de conservación máximo de los platos cocinados refrigerados, a partir de la fecha de su elaboración, será igual o inferior:
+
+A) Cinco días.
+
+B) Seis días.
+
+C) Siete días.
+
+D) Nueve días.
+
+Solución: A (Nota: Equivalente a las 120 horas del RD 3484/2000).
+
+No son alimentos susceptibles de salmonelosis:
+
+A) La leche.
+
+B) Mayonesa de elaboración casera.
+
+C) Los adobos.
+
+D) Interior de productos preparados a base de carne picada.
+
+Solución: C
+
+Los principales factores que contribuyen a la aparición de las toxiinfecciones son:
+
+A) Ropa de trabajo adecuada.
+
+B) Manos sucias.
+
+C) Temperaturas de conservación adecuada.
+
+D) Sistema de eliminación de basuras separado.
+
+Solución: B
+
+¿En qué fase de la manipulación se pueden contaminar los alimentos?
+
+A) En la preparación.
+
+B) En la distribution.
+
+C) En la elaboración.
+
+D) En todas.
+
+Solución: D
+
+¿Cuándo hay más riesgo de una contaminación alimentaria?
+
+A) Siempre que este fuera del congelador.
+
+B) Una vez terminado todo su proceso de elaboración y esté listo para su consumo.
+
+C) Una vez cocinado no hay riesgo ninguno.
+
+D) Depende del producto que sea.
+
+Solución: B
+
+Las salmonellas se destruyen con la congelación:
+
+A) Sí.
+
+B) No.
+
+C) Depende del tiempo.
+
+D) Solo si es a -40º C.
+
+Solución: B
+
+La temperatura de seguridad para mantener alimentos calientes es:
+
+A) 50º C.
+
+B) 65º C o superior.
+
+C) 100º C.
+
+D) 45º C.
+
+Solución: B
+
+¿Qué es la contaminación cruzada?
+
+A) Mezclar alimentos de distintos colores.
+
+B) El paso de microbios de un alimento contaminado (crudo) a otro que no lo está (cocinado).
+
+C) Cocinar con prisa.
+
+D) Usar guantes de distintos tamaños.
+
+Solución: B
+
+El manipulador de alimentos de mayor riesgo es aquel que:
+
+A) Solo descarga camiones.
+
+B) Manipula alimentos que no sufrirán un tratamiento posterior antes del consumo.
+
+C) Limpia los suelos de la cocina.
+
+D) Repara la maquinaria.
+
+Solución: B
+
+¿Qué tipo de contaminante es una bacteria?
+
+A) Físico.
+
+B) Químico.
+
+C) Biológico.
+
+D) Abiótico.
+
+Solución: C
+
+Un alimento portador de una sustancia extraña (ej. un cristal) es un alimento:
+
+A) Alterado.
+
+B) Contaminado.
+
+C) Nocivo.
+
+D) Adulterado.
+
+Solución: B
+
+¿Cuál de estos hábitos es higiénico en un manipulador?
+
+A) Probar la comida con el dedo.
+
+B) Lavarse las manos con agua caliente y jabón tras usar el pañuelo.
+
+C) Fumar en el almacén.
+
+D) Llevar el pelo suelto.
+
+Solución: B
+
+Los desinfectantes deben utilizarse:
+
+A) Sobre superficies previamente limpias.
+
+B) Mezclados con la comida para conservarla.
+
+C) En lugar del agua para lavar la fruta.
+
+D) Solo una vez al mes.
+
+Solución: A
+
+La cadena de frío consiste en:
+
+A) Mantener la temperatura constante durante todo el proceso desde el origen al consumo.
+
+B) Congelar y descongelar varias veces.
+
+C) Abrir las ventanas en invierno.
+
+D) Usar hielos en las bebidas.
+
+Solución: A
+
+¿Qué enfermedad puede transmitir un manipulador que tose sobre la comida?
+
+A) Botulismo.
+
+B) Estafilococias.
+
+C) Anisakis.
+
+D) Tenia.
+
+Solución: B
+
+El lavado de manos debe durar al menos:
+
+A) 5 segundos.
+
+B) 20-30 segundos.
+
+C) 2 minutos.
+
+D) Media hora.
+
+Solución: B
+
+¿Se pueden usar paños de tela para secar las manos?
+
+A) Sí, si son blancos.
+
+B) No, deben ser toallas de papel de un solo uso.
+
+C) Solo si los lava el pinche.
+
+D) Depende del hospital.
+
+Solución: B
+
+La zona de peligro para el crecimiento bacteriano está entre:
+
+A) -18º C y 0º C.
+
+B) 5º C y 65º C.
+
+C) 70º C y 100º C.
+
+D) No hay zona de peligro.
+
+Solución: B
+
+¿Cuál es el principal reservorio de bacterias como la Salmonella?
+
+A) El aire.
+
+B) El tracto intestinal de animales y humanos.
+
+C) Los metales.
+
+D) El cristal.
+
+Solución: B
+
+No es función del servicio de higiene alimentaria:
+
+A) Control de potabilidad del agua.
+
+B) Elaboración de dietas terapéuticas y hábitos alimenticios.
+
+C) Control microbiológico de los alimentos.
+
+D) Control de las condiciones higiénico-sanitarias de la cocina.
+
+Solución: B
+
+¿En qué casos ha ocurrido una contaminación cruzada?
+
+A) Se corta una carne asada con el mismo cuchillo con que se fileteó una carne cruda.
+
+B) Se ha encontrado un excremento de rata en el almacén.
+
+C) La materia prima no se ha conservado adecuadamente.
+
+D) Se ha producido contaminación cruzada en todas las ocasiones.
+
+Solución: A
+
+¿Qué tipo de contaminante es abiótico?
+
+A) Bacterias.
+
+B) Hongos.
+
+C) Anabolizantes, hormonas y antibióticos.
+
+D) Parásitos.
+
+Solución: C
+
+¿Qué tiempo mínimo deberán conservarse los platos testigo?
+
+A) Una semana (7 días).
+
+B) Cinco días.
+
+C) Dos días.
+
+D) Un mes.
+
+Solución: A
+
+¿Qué método de vacío se emplea para piezas grandes que se cuecen dentro de la bolsa?
+
+A) Vacío normal.
+
+B) Vacío continuo o de larga acción.
+
+C) Vacío para productos calientes.
+
+D) Vacío compensado.
+
+Solución: B
+
+BLOQUE 2: Test Nº 2 - Manipulación de Alimentos (25 Preguntas)
+Fuente: Test Nº 2.- Tema 13.- alumnos.pdf
+
+¿Qué es el botulismo?
+
+A) Intoxicación por metales pesados.
+
+B) Toxiinfección provocada por Clostridium botulinum.
+
+C) Infección causada por un parásito.
+
+D) Todas son correctas.
+
+Solución: B
+
+En una zona donde estemos manipulando alimento no considerado seguro, ¿podemos realizar actividades de limpio?
+
+A) No.
+
+B) Sí.
+
+C) Sí, previa limpieza y desinfección.
+
+D) Depende qué actividades.
+
+Solución: A (Nota: Por el principio de marcha adelante).
+
+¿Quién es responsable de dar la formación sobre los productos y utensilios de limpieza?
+
+A) El propio pinche.
+
+B) La enfermera.
+
+C) La empresa, que lo incluirá en el plan de formación.
+
+D) El Gobernante.
+
+Solución: C
+
+¿Cuál es la temperatura óptima para el crecimiento de microorganismos?
+
+A) Entre 30º C y 40º C (Tª corporal).
+
+B) Entre 0º C y 6º C.
+
+C) Entre 60º C y 65º C.
+
+D) Entre 6º C y 10º C.
+
+Solución: A
+
+¿A qué temperatura se destruye la toxina botulínica?
+
+A) 60º C en 20 minutos.
+
+B) 80º C en 30 minutos (o 100º C 10 min).
+
+C) 40º C.
+
+D) Solo con congelación.
+
+Solución: B
+
+El método de conservación por frío negativo se conoce como:
+
+A) Refrigeración.
+
+B) Frío neutro.
+
+C) Pasteurización.
+
+D) Congelación.
+
+Solución: D
+
+Un pinche de cocina, mientras distribuye el pan del desayuno:
+
+A) Podrá masticar goma de mascar.
+
+B) Podrá llevar anillos.
+
+C) Podrá llevar reloj.
+
+D) No puede llevar ni anillos, ni reloj, ni mascar chicle.
+
+Solución: D
+
+El plato testigo se recoge en el Real Decreto 3484/2000. ¿En qué artículo?
+
+A) Artículo 4.
+
+B) Artículo 10.
+
+C) Artículo 5.
+
+D) Artículo 8.
+
+Solución: B
+
+Sobre la formación de los manipuladores, el Reglamento 852/2004 indica:
+
+A) Los centros deben estar autorizados.
+
+B) Todos deben tener el carnet físico antiguo.
+
+C) La formación debe ser acorde a su actividad laboral.
+
+D) No es válida la formación interna de la empresa.
+
+Solución: C
+
+La descongelación de carnes debe hacerse:
+
+A) A temperatura ambiente.
+
+B) Bajo el chorro de agua caliente.
+
+C) En refrigeración (frigorífico).
+
+D) Al sol.
+
+Solución: C
+
+¿Qué es la limpieza "en húmedo"?
+
+A) Barrer con una escoba seca.
+
+B) Uso de agua y detergentes para arrastrar la suciedad.
+
+C) Echar un cubo de agua al suelo y dejarlo.
+
+D) No existe.
+
+Solución: B
+
+La esterilización industrial busca:
+
+A) Que la comida sepa mejor.
+
+B) Destruir todos los microorganismos y esporas.
+
+C) Solo enfriar la comida.
+
+D) Cambiar el color del alimento.
+
+Solución: B
+
+¿Qué alimento es de alto riesgo para el Estafilococo?
+
+A) Arroz seco.
+
+B) Productos de pastelería con crema y natas.
+
+C) Vinagre.
+
+D) Sal común.
+
+Solución: B
+
+Los manipuladores con heridas en las manos deben:
+
+A) No trabajar.
+
+B) Cubrirlas con un vendaje impermeable de colores vivos y usar guantes.
+
+C) Dejarlas al aire para que sequen.
+
+D) Lavarlas con lavavajillas.
+
+Solución: B
+
+¿Cuál es un síntoma común de toxiinfección alimentaria?
+
+A) Dolor de rodilla.
+
+B) Vómitos, diarrea y dolor abdominal.
+
+C) Tos seca.
+
+D) Pérdida de visión.
+
+Solución: B
+
+El almacenamiento de alimentos crudos y cocinados en la misma cámara:
+
+A) Está permitido si están en estantes distintos (cocinados arriba).
+
+B) Prohibido siempre.
+
+C) Da igual el orden.
+
+D) Solo si la cámara es muy grande.
+
+Solución: A
+
+La bacteria Listeria monocytogenes tiene la particularidad de:
+
+A) Morir a 4º C.
+
+B) Poder crecer a temperaturas de refrigeración.
+
+C) Ser un virus.
+
+D) Solo estar en el agua del mar.
+
+Solución: B
+
+¿Qué significa "vid útil" de un alimento?
+
+A) El tiempo que tarda en cocinarse.
+
+B) El periodo durante el cual el alimento mantiene su calidad y seguridad.
+
+C) El precio del alimento.
+
+D) Lo que pesa el envase.
+
+Solución: B
+
+¿Cuál es la regla de oro para evitar el botulismo en conservas?
+
+A) Tirar las latas abombadas o con golpes.
+
+B) Lavar la lata con jabón.
+
+C) Abrir la lata con cuchillo.
+
+D) Calentar la lata al sol.
+
+Solución: A
+
+La ropa de trabajo del pinche debe:
+
+A) Ser la misma que usa por la calle.
+
+B) Ser de uso exclusivo para el trabajo y estar limpia.
+
+C) Ser de color negro.
+
+D) No es necesaria.
+
+Solución: B
+
+¿Quién supervisa la higiene personal de los pinches?
+
+A) Los pacientes.
+
+B) El Jefe de Cocina o Gobernanta.
+
+C) El servicio de lavandería.
+
+D) El médico de guardia.
+
+Solución: B
+
+¿Se pueden usar anillos y relojes en la cocina?
+
+A) Sí, si son de plata.
+
+B) No, pueden acumular suciedad y caer al alimento.
+
+C) Solo el reloj.
+
+D) Solo si se llevan guantes.
+
+Solución: B
+
+La basura en la cocina debe estar en contenedores:
+
+A) Abiertos y de cartón.
+
+B) Con tapa y accionados por pedal.
+
+C) En bolsas en el suelo.
+
+D) Cerca de la zona de cocción.
+
+Solución: B
+
+Un manipulador con diarrea debe:
+
+A) Trabajar más rápido.
+
+B) Informar a su superior y no manipular alimentos.
+
+C) Tomar un café.
+
+D) Usar dos delantales.
+
+Solución: B
+
+La higiene de los alimentos es responsabilidad de:
+
+A) El inspector de sanidad solamente.
+
+B) De todos los que intervienen en la cadena alimentaria.
+
+C) Del gerente del hospital.
+
+D) De los proveedores de comida.
+
+Solución: B
+
+BLOQUE 3: Test Nº 3 - Manipulación de Alimentos (25 Preguntas)
+Fuente: Test Nº 3.- Tema 13.- alumnos.pdf
+
+¿Un pinche de cocina tendrá que ponerse guantes al abrir las latas?
+
+A) No, al tratarse de productos envasados.
+
+B) Sí, en todo momento, cambiándose cuando fuera necesario.
+
+C) No, siempre que tenga las manos limpias.
+
+D) Siempre que lleve anillos.
+
+Solución: B
+
+En esterilización, cuando los productos se dañan a más de 100º C se utiliza:
+
+A) El blanqueamiento.
+
+B) La tindalización.
+
+C) La regeneración.
+
+D) El abatimiento.
+
+Solución: B
+
+Respecto al Clostridium botulinum:
+
+A) El oxígeno favorece su toxina.
+
+B) Se transmite por secreciones nasales.
+
+C) Se destruye por la cocción.
+
+D) Raramente se desarrolla en alimentos ácidos.
+
+Solución: D
+
+En cuanto al Campylobacter:
+
+A) Se encuentra en los intestinos y las heces de las aves.
+
+B) Se encuentra en la garganta humana.
+
+C) Se transmite por conservas caseras.
+
+D) El manipulador debe usar mascarilla como prevención.
+
+Solución: A
+
+Sobre formación, el Decreto 22/2006 de Castilla-La Mancha señala:
+
+A) El establecimiento asegurará la formación y la adaptará a la actividad.
+
+B) Es obligatoria una formación de 50 horas.
+
+C) Solo se forma a los cocineros.
+
+D) La formación la paga el trabajador.
+
+Solución: A
+
+¿Qué es la "trazabilidad"?
+
+A) Saber cuánto pesa un plato.
+
+B) Seguir el rastro de un alimento a través de todas las etapas.
+
+C) El dibujo de la etiqueta.
+
+D) La temperatura de la cámara.
+
+Solución: B
+
+La limpieza manual de vajilla debe hacerse con:
+
+A) Agua fría.
+
+B) Agua caliente y detergente, con aclarado posterior.
+
+C) Solo un paño húmedo.
+
+D) Arena.
+
+Solución: B
+
+¿Qué alimento no se debe lavar antes de cocinarlo?
+
+A) Manzanas.
+
+B) Lechugas.
+
+C) Carne y huevos (para evitar dispersar bacterias).
+
+D) Patatas.
+
+Solución: C
+
+La bacteria E. coli se asocia frecuentemente a:
+
+A) Latas de conserva.
+
+B) Contaminación fecal (manos sucias o agua contaminada).
+
+C) Aire acondicionado.
+
+D) Harinas.
+
+Solución: B
+
+¿Qué es el APPCC?
+
+A) Un tipo de contrato.
+
+B) Sistema de Análisis de Peligros y Puntos de Control Crítico.
+
+C) Asociación de Pinches y Cocineros.
+
+D) Reglamento de limpieza.
+
+Solución: B
+
+La zona de "Plonge" es para lavar:
+
+A) Las manos del personal.
+
+B) Los utensilios de cocina (ollas, sartenes).
+
+C) La vajilla de los pacientes.
+
+D) La verdura.
+
+Solución: B
+
+Los productos de limpieza se almacenarán:
+
+A) Debajo de la mesa de trabajo.
+
+B) En lugar separado de los alimentos.
+
+C) En el mismo estante que las latas.
+
+D) En el cuarto frío.
+
+Solución: B
+
+La pasteurización consiste en calentar el alimento a:
+
+A) Menos de 100º C durante un tiempo determinado.
+
+B) 200º C.
+
+C) -18º C.
+
+D) Temperatura ambiente.
+
+Solución: A
+
+¿Cuál es el principal riesgo de los alimentos enlatados una vez abiertos?
+
+A) Que se rompa el cristal.
+
+B) Oxidación y contaminación si no se pasan a un recipiente adecuado.
+
+C) Ninguno.
+
+D) Que pesen menos.
+
+Solución: B
+
+¿Qué significa FIFO/PEPS en un almacén?
+
+A) Que lo más barato sale primero.
+
+B) Lo primero que entra es lo primero que sale.
+
+C) Solo sale lo que está al fondo.
+
+D) No significa nada.
+
+Solución: B
+
+La humedad alta en el almacén favorece:
+
+A) El crecimiento de mohos.
+
+B) Que la comida se mantenga fresca.
+
+C) La limpieza.
+
+D) El ahorro de luz.
+
+Solución: A
+
+Los síntomas de la Salmonelosis aparecen normalmente:
+
+A) A los 5 minutos.
+
+B) Entre 12 y 36 horas tras la ingesta.
+
+C) Al mes.
+
+D) A los 10 años.
+
+Solución: B
+
+¿Qué insecto es un vector común de enfermedades en cocinas?
+
+A) Mariposa.
+
+B) Cucaracha y mosca.
+
+C) Mariquita.
+
+D) Saltamontes.
+
+Solución: B
+
+La carne picada debe cocinarse hasta que el interior sea de color:
+
+A) Rojo.
+
+B) Marrón/Gris (bien cocida).
+
+C) Rosa.
+
+D) Azul.
+
+Solución: B
+
+¿Se puede comer en la zona de manipulación de alimentos?
+
+A) Sí, bocadillos.
+
+B) No, está prohibido.
+
+C) Solo caramelos.
+
+D) Sí, para probar el punto de sal.
+
+Solución: B
+
+El pelo del manipulador debe estar:
+
+A) Recogido y cubierto por un gorro o redecilla.
+
+B) Suelto.
+
+C) Con gomina.
+
+D) No importa.
+
+Solución: A
+
+¿Qué es la contaminación por agentes físicos?
+
+A) Presencia de bacterias.
+
+B) Presencia de objetos como cristales, huesos, plásticos o metales.
+
+C) Presencia de lejía.
+
+D) Uso de guantes.
+
+Solución: B
+
+La contaminación indirecta por gérmenes la causan:
+
+A) La persona por ser portador.
+
+B) Utensilios utilizados.
+
+C) Lugar de recolección y manipulación.
+
+D) Todas son correctas.
+
+Solución: D
+
+Los alimentos se infestan por contaminación directa cuando:
+
+A) El manipulador es portador.
+
+B) Hay gérmenes en utensilios.
+
+C) Se percibe en animales enfermos.
+
+D) A y B son correctas.
+
+Solución: D
+
+¿Cuántos grados son necesarios para que mueran las bacterias no encapsuladas?
+
+A) 30º C.
+
+B) 60º C - 70º C (tratamiento térmico suficiente).
+
+C) 100º C.
+
+D) Más de 100º C.
+
+Solución: B (Nota: La clave indica B).

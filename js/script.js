@@ -1120,6 +1120,9 @@ function finishGame() {
     let maxScore = total; // En entrenamiento es simples aciertos
     let message = "";
 
+    // Porcentaje puro format test corto
+    const percentage = Math.round((aciertos / total) * 100);
+
     if (currentMode === 'exam') {
         // Fórmula: Aciertos - (Fallos / 3)
         // Nota sobre 10 para visualización
@@ -1166,49 +1169,55 @@ function finishGame() {
     } else {
         // MODO ENTRENAMIENTO / FALLOS
         score = aciertos;
-        const pct = (aciertos / total) * 100;
-
-        if (pct === 100) message = "¡Perfecto! 🏆";
-        else if (pct >= 80) message = "¡Excelente! 🌟";
-        else if (pct >= 50) message = "Aprobado 👍";
-        else message = "A repasar... 📚";
+        finalScore = aciertos;
 
         document.getElementById('exam-feedback-container').classList.add('hidden');
-        saveHistory(currentTopicName + ` [${currentMode}]`, aciertos, total);
+        if (currentMode !== 'failures' && currentMode !== 'review') {
+            saveHistory(currentTopicName + ` [${currentMode}]`, aciertos, total);
+        }
     }
 
-    showView('results');
+    // Actualizar UI General
+    document.getElementById('final-score').textContent = finalScore;
+    document.getElementById('final-total').textContent = `/ ${total} pts`;
 
-    // Display Principal
-    if (currentMode === 'exam') {
-        const nota = (Math.max(0, aciertos - (fallos / 3)) * (10 / total));
-        document.getElementById('final-score').textContent = nota.toFixed(1);
-        document.getElementById('final-total').textContent = "/ 10";
+    // Gamificación: Resultados Motivacionales
+    const txtMotivacional = document.getElementById('resultado-texto');
+    const pctMotivacional = document.getElementById('resultado-porcentaje');
 
-        // Show Review Button
-        // Show Review Buttons
-        const btnReview = document.getElementById('btn-review-exam');
-        const btnReviewFailed = document.getElementById('btn-review-failed');
+    pctMotivacional.textContent = `${percentage}% de Aciertos`;
 
-        if (btnReview) {
-            btnReview.classList.remove('hidden');
-            btnReview.onclick = () => startReviewMode(false);
-        }
-
-        if (btnReviewFailed) {
-            // Only show if there are errors or unanswered
-            if (fallos > 0 || blancas > 0) {
-                btnReviewFailed.classList.remove('hidden');
-                btnReviewFailed.onclick = () => startReviewMode(true);
-            } else {
-                btnReviewFailed.classList.add('hidden');
-            }
-        }
-
+    if (percentage >= 80) {
+        txtMotivacional.textContent = "¡Excelente! Tienes nivel de plaza asegurada. Sigue así. 🏆";
+        pctMotivacional.style.color = "var(--success)";
+    } else if (percentage >= 50) {
+        txtMotivacional.textContent = "¡Buen trabajo! Estás en el buen camino, un repaso más y lo clavas. 🚀";
+        pctMotivacional.style.color = "var(--primary)";
     } else {
-        document.getElementById('final-score').textContent = score;
-        document.getElementById('final-total').textContent = `/ ${total}`;
-        document.getElementById('btn-review-exam').classList.add('hidden');
+        txtMotivacional.textContent = "¡No te rindas! De los errores se aprende. Revisa los fallos y vuelve a intentarlo. 💪";
+        pctMotivacional.style.color = "var(--error)";
+    }
+
+    // Actualizar Stats Rápidas
+    document.getElementById('stat-correct').textContent = aciertos;
+    document.getElementById('stat-incorrect').textContent = fallos;
+
+    // Show Review Buttons
+    const btnReview = document.getElementById('btn-review-exam');
+    const btnReviewFailed = document.getElementById('btn-review-failed');
+
+    if (btnReview) {
+        btnReview.classList.remove('hidden');
+        btnReview.onclick = () => startReviewMode(false);
+    }
+
+    if (btnReviewFailed) {
+        if (fallos > 0 || blancas > 0) {
+            btnReviewFailed.classList.remove('hidden');
+            btnReviewFailed.onclick = () => startReviewMode(true);
+        } else {
+            btnReviewFailed.classList.add('hidden');
+        }
     }
 
     // New feature: Show "Borrar Fallos" button if there are failures in storage
@@ -1221,7 +1230,7 @@ function finishGame() {
         }
     }
 
-    document.getElementById('final-message').textContent = message;
+    showView('results');
 }
 
 function prevQuestion() {

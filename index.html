@@ -138,7 +138,7 @@
             </header>
 
             <h3
-                style="text-align:center; color:#6200ea; margin-top:20px; border-bottom: 2px solid #eee; padding-bottom: 10px;">
+                style="text-align:center; color:var(--primary); margin-top:20px; border-bottom: 2px solid #eee; padding-bottom: 10px;">
                 OPE SESCAM 2020</h3>
 
             <div class="menu-grid">
@@ -153,7 +153,7 @@
             </div>
 
             <h3
-                style="text-align:center; color:#6200ea; margin-top:20px; border-bottom: 2px solid #eee; padding-bottom: 10px;">
+                style="text-align:center; color:var(--primary); margin-top:20px; border-bottom: 2px solid #eee; padding-bottom: 10px;">
                 Más Contenido Histórico</h3>
 
             <div class="menu-grid">
@@ -309,9 +309,14 @@
                     🗑️ Vaciar
                 </button>
 
-                <div class="progress-container">
-                    <div id="progress-bar" class="progress-bar"></div>
+                <!-- GAMIFICATION PROGRESS BAR -->
+                <div class="progress-container"
+                    style="flex-grow: 1; margin: 0 15px; background: #ddd; height: 10px; border-radius: 5px; overflow: hidden;">
+                    <div id="progress-bar" class="progress-bar"
+                        style="height: 100%; background: var(--secondary); width: 0%; transition: width 0.3s ease;">
+                    </div>
                 </div>
+
                 <div class="counters">
                     <button id="btn-show-grid" class="btn-small"
                         style="margin-right:10px; padding:2px 8px; font-size:1.2rem;">▦</button>
@@ -358,7 +363,16 @@
                     <span id="final-score">0</span>
                     <span class="total" id="final-total">/ 0</span>
                 </div>
-                <p id="final-message" style="font-size:1.2rem; font-weight:bold;">¡Bien hecho!</p>
+
+                <!-- GAMIFICACIÓN FEEDBACK -->
+                <div id="resultado-motivacional"
+                    style="margin:20px 0; padding:15px; border-radius:10px; background:#f4f6f8;">
+                    <h3 id="resultado-porcentaje" style="font-size:2.5rem; color:var(--primary); margin:0;">0%</h3>
+                    <p id="resultado-texto"
+                        style="font-size:1.1rem; font-weight:bold; margin-top:10px; color:var(--text);"></p>
+                </div>
+
+                <p id="final-message" class="hidden" style="font-size:1.2rem; font-weight:bold;">¡Bien hecho!</p>
 
                 <div id="exam-feedback-container" class="hidden" style="text-align:left; margin-top:20px;">
                     <!-- Aquí iría el desglose si quisiéramos, por ahora simple -->

@@ -1,0 +1,602 @@
+BLOQUE ÚNICO: Test Tema 12 - APPCC y Trazabilidad (50 Preguntas)
+Fuente: Test 12.- alumnos.pdf
+
+La aplicación del sistema análisis de peligros y puntos de control crítico (APPCC) permite. Señala la respuesta incorrecta:
+
+A) Conseguir una mayor garantía de salubridad de los alimentos consumidos.
+
+B) Una utilización más eficaz de los recursos técnicos y económicos disponibles.
+
+C) Obliga a mantener una documentación específica que evidencie el control de los procesos.
+
+D) No se aplica este sistema de análisis de peligros y puntos de control crítico (APPCC) en las cocinas hospitalarias.
+
+Solución: D
+
+Dentro de los posibles métodos de vigilancia para comprobar si el procedimiento de limpieza se realiza bajo control, se recomienda:
+
+A) Comprobación de pH de agua de aclarados.
+
+B) Métodos de detección de hormonas y/o ADN.
+
+C) La a y b son correctas.
+
+D) Ninguna es correcta.
+
+Solución: A
+
+¿Cuál de los siguientes no es un principio del APPCC?
+
+A) Detectar cualquier peligro que deba evitarse, eliminarse o reducirse a niveles aceptables.
+
+B) Detectar los puntos de control crítico en la fase o fases en las que el control sea esencial.
+
+C) Establecer y aplicar procedimientos de vigilancia efectivos en los puntos de control crítico.
+
+D) Establecer medidas correctivas solo cuando el cliente se queje.
+
+Solución: D
+
+El sistema APPCC es un sistema de control de la seguridad alimentaria que se basa en:
+
+A) La prevención, en lugar de basarse en el análisis del producto final.
+
+B) El análisis exclusivo del producto una vez terminado.
+
+C) La inspección visual de los platos por el pinche.
+
+D) El control de asistencia del personal.
+
+Solución: A
+
+¿Qué es un Punto de Control Crítico (PCC)?
+
+A) El momento en que se sirve la comida al paciente.
+
+B) Fase en la que puede aplicarse un control esencial para prevenir o eliminar un peligro para la inocuidad de los alimentos.
+
+C) La puerta de entrada de la cocina.
+
+D) La revisión de las nóminas.
+
+Solución: B
+
+Un peligro alimentario puede ser de naturaleza:
+
+A) Solo biológica.
+
+B) Solo química.
+
+C) Biológica, química o física.
+
+D) Solo física.
+
+Solución: C
+
+Establecer un sistema de vigilancia de los PCC es el principio:
+
+A) Primero.
+
+B) Segundo.
+
+C) Tercero.
+
+D) Cuarto.
+
+Solución: D
+
+La trazabilidad de un alimento es:
+
+A) La posibilidad de encontrar y seguir el rastro a través de todas las etapas de producción, transformación y distribución.
+
+B) Saber cuánto pesa el alimento.
+
+C) Conocer el precio de mercado.
+
+D) Dibujar el alimento.
+
+Solución: A
+
+El sistema de autocontrol APPCC es obligatorio para:
+
+A) Todas las empresas del sector alimentario, incluidas cocinas hospitalarias.
+
+B) Solo fábricas de conservas.
+
+C) Solo restaurantes de lujo.
+
+D) Es opcional.
+
+Solución: A
+
+¿Qué significa el término "Límite Crítico"?
+
+A) La fecha de caducidad.
+
+B) El número de platos que se pueden cocinar.
+
+C) Criterio que diferencia la aceptabilidad de la inaceptabilidad.
+
+D) El borde de la cinta de emplatado.
+
+Solución: C
+
+Las medidas correctivas se aplican cuando:
+
+A) La vigilancia indica que un PCC determinado no está bajo control.
+
+B) Se acaba el presupuesto.
+
+C) Hay mucho trabajo en la cocina.
+
+D) El director visita la cocina.
+
+Solución: A
+
+La documentación del sistema APPCC debe estar:
+
+A) Siempre a disposición de las autoridades sanitarias para su comprobación.
+
+B) Guardada bajo llave y nadie puede verla.
+
+C) En el despacho del gerente del hospital únicamente.
+
+D) Solo existe en formato digital borrable.
+
+Solución: A
+
+¿Cuál es un ejemplo de peligro biológico?
+
+A) Un trozo de cristal.
+
+B) Presencia de Salmonella en el huevo.
+
+C) Restos de detergente.
+
+D) Una grapa.
+
+Solución: B
+
+¿Cuál es un ejemplo de peligro químico?
+
+A) Bacterias.
+
+B) Virus.
+
+C) Residuos de plaguicidas o desinfectantes.
+
+D) Astillas de madera.
+
+Solución: C
+
+¿Cuál es un ejemplo de peligro físico?
+
+A) Mohos.
+
+B) Toxinas.
+
+C) Fragmentos de metal o piedras.
+
+D) Productos de limpieza.
+
+Solución: C
+
+La formación de los trabajadores en el sistema APPCC es:
+
+A) Innecesaria si saben cocinar.
+
+B) Obligatoria y fundamental para el éxito del sistema.
+
+C) Solo para los jefes de cocina.
+
+D) Una pérdida de tiempo.
+
+Solución: B
+
+Los registros de temperatura de las cámaras frigoríficas forman parte de:
+
+A) El sistema de vigilancia del APPCC.
+
+B) El inventario de maquinaria.
+
+C) El libro de recetas.
+
+D) La agenda del pinche.
+
+Solución: A
+
+El plan de limpieza y desinfección es:
+
+A) Un prerrequisito necesario antes de implantar el APPCC.
+
+B) Algo que se hace si sobra tiempo.
+
+C) Solo para los suelos de la cocina.
+
+D) Lo hace una empresa externa y no necesita documentos.
+
+Solución: A
+
+La trazabilidad "hacia atrás" se refiere a:
+
+A) Saber a quién se ha servido la comida.
+
+B) Saber quiénes son nuestros proveedores y qué productos nos han suministrado.
+
+C) El orden de los platos en el menú.
+
+D) Caminar hacia atrás en la cocina.
+
+Solución: B
+
+La trazabilidad "hacia adelante" permite:
+
+A) Conocer el destino de los productos expedidos (ej. plantas del hospital).
+
+B) Predecir el futuro de la empresa.
+
+C) Saber qué vamos a comprar mañana.
+
+D) No existe esa trazabilidad.
+
+Solución: A
+
+¿Quién es el responsable de que se cumpla el APPCC en la cocina hospitalaria?
+
+A) Los pacientes.
+
+B) El titular o responsable de la unidad de hostelería/alimentación.
+
+C) El ministerio de educación.
+
+D) Nadie en particular.
+
+Solución: B
+
+El sistema de autocontrol permite detectar fallos:
+
+A) En tiempo real para evitar que el alimento llegue al consumidor.
+
+B) Una semana después de que el paciente haya comido.
+
+C) Solo si el laboratorio analiza todas las comidas.
+
+D) Solo por el sabor de la comida.
+
+Solución: A
+
+El diagrama de flujo en el APPCC es:
+
+A) Un dibujo decorativo.
+
+B) Representación sistemática de la secuencia de fases de un proceso.
+
+C) El mapa de las tuberías.
+
+D) Un esquema de los turnos de trabajo.
+
+Solución: B
+
+Si un límite crítico de temperatura de cocción no se alcanza, la medida correctiva sería:
+
+A) Servir la comida igual porque hay prisa.
+
+B) Continuar la cocción hasta alcanzar la temperatura segura o destruir el producto.
+
+C) Cambiar el termómetro.
+
+D) No hacer nada.
+
+Solución: B
+
+Las auditorías del sistema APPCC sirven para:
+
+A) Sancionar a los pinches.
+
+B) Verificar que el sistema funciona correctamente y es eficaz.
+
+C) Contar los platos que faltan.
+
+D) Limpiar los almacenes.
+
+Solución: B
+
+El control de plagas forma parte de:
+
+A) Los planes generales de higiene o prerrequisitos.
+
+B) El menú del día.
+
+C) La zona de emplatado.
+
+D) No tiene relación con la seguridad alimentaria.
+
+Solución: B (Nota: La clave indica B).
+
+¿Qué debe hacerse si se recibe una mercancía a temperatura incorrecta?
+
+A) Aceptarla y enfriarla rápido.
+
+B) Rechazarla por no cumplir los límites críticos de recepción.
+
+C) Guardarla en el almacén de secos.
+
+D) Cocinarla inmediatamente.
+
+Solución: D (Nota: La clave indica D).
+
+¿Cuál es el primer paso para establecer un plan APPCC?
+
+A) Formar el equipo APPCC.
+
+B) Comprar termómetros.
+
+C) Pintar la cocina.
+
+D) Llamar al inspector.
+
+Solución: A
+
+El análisis de peligros consiste en:
+
+A) Identificar los peligros potenciales asociados a cada etapa del proceso.
+
+B) Analizar la peligrosidad de los pinches.
+
+C) Revisar si las estanterías se pueden caer.
+
+D) Contar las bacterias una a una.
+
+Solución: B (Nota: La clave indica B).
+
+Un registro de trazabilidad debe contener:
+
+A) Lote, fecha de entrada/salida y cantidad.
+
+B) El color del camión del proveedor.
+
+C) El nombre del conductor del camión.
+
+D) Todas son correctas.
+
+Solución: D (Nota: La clave indica D).
+
+La limpieza se define como:
+
+A) Eliminación de microorganismos con productos químicos.
+
+B) Pintado de las paredes.
+
+C) Eliminación de tierra, residuos de alimentos, suciedad o grasa.
+
+D) Solo pasar un trapo seco.
+
+Solución: C
+
+La desinfección es:
+
+A) Reducción del número de microorganismos mediante agentes químicos o físicos.
+
+B) Barrer el suelo.
+
+C) Lavar con agua sola.
+
+D) Ordenar el almacén.
+
+Solución: B (Nota: La clave indica B).
+
+El cloro es un agente:
+
+A) Nutritivo.
+
+B) Desinfectante.
+
+C) Edulcorante.
+
+D) Espesante.
+
+Solución: B
+
+¿Qué es la contaminación cruzada según el APPCC?
+
+A) La mezcla de sal y azúcar.
+
+B) El transporte de alimentos en avión.
+
+C) El paso de microbios de alimentos crudos a cocinados a través de manos o útiles.
+
+D) Cruzar los brazos al cocinar.
+
+Solución: C
+
+Un prerrequisito del sistema APPCC sobre el agua es:
+
+A) Control de la potabilidad del agua.
+
+B) Que el agua esté siempre fría.
+
+C) Que el agua sea de colores.
+
+D) No hace falta controlar el agua.
+
+Solución: B (Nota: La clave indica B).
+
+La trazabilidad permite, en caso de alerta alimentaria:
+
+A) Retirar del mercado/consumo de forma rápida el producto afectado.
+
+B) Saber cuánto dinero se ha perdido.
+
+C) Avisar a la prensa.
+
+D) Cambiar de proveedor para siempre.
+
+Solución: A
+
+La verificación del sistema APPCC debe realizarse:
+
+A) Cada 10 años.
+
+B) Periódicamente para asegurar que el sistema sigue siendo válido.
+
+C) Nunca si se hizo bien al principio.
+
+D) Solo si lo pide el jefe de cocina.
+
+Solución: B
+
+La "marcha adelante" en el diseño de cocinas:
+
+A) Es un sistema de baile.
+
+B) Evita que se crucen los circuitos limpios y sucios.
+
+C) Permite que los carros vayan más rápido.
+
+D) Es obligatoria solo para pinches.
+
+Solución: B
+
+¿Qué información es clave para la trazabilidad interna?
+
+A) La composición de los platos cocinados y su fecha de elaboración.
+
+B) El horario de los pinches.
+
+C) La marca de los platos.
+
+D) El número de tenedores.
+
+Solución: A
+
+Los envases de los alimentos deben:
+
+A) Ser de materiales autorizados para uso alimentario.
+
+B) Estar rotos para ver el interior.
+
+C) Ser siempre de cartón.
+
+D) No importa el material.
+
+Solución: A
+
+La temperatura de un plato cocinado en el centro de la pieza debe ser de al menos:
+
+A) 50° C.
+
+B) 65-70° C.
+
+C) 100° C.
+
+D) 40° C.
+
+Solución: B
+
+El sistema de identificación por lotes es fundamental para:
+
+A) La trazabilidad.
+
+B) El pago de impuestos.
+
+C) La decoración del envase.
+
+D) No sirve para nada.
+
+Solución: A
+
+Los registros del APPCC deben conservarse durante:
+
+A) Una semana.
+
+B) Un periodo de tiempo adecuado (generalmente al menos 6 meses-1 año según vida útil).
+
+C) 50 años.
+
+D) Se deben tirar cada día.
+
+Solución: B
+
+El plan de formación de manipuladores incluye:
+
+A) Prácticas correctas de higiene.
+
+B) Conocimiento de los peligros de los alimentos.
+
+C) Funcionamiento del APPCC.
+
+D) Todas son correctas.
+
+Solución: D
+
+¿Qué es la "trazabilidad de proceso"?
+
+A) El seguimiento de los alimentos dentro de la propia cocina.
+
+B) El viaje del camión desde la fábrica.
+
+C) La venta en el supermercado.
+
+D) El cultivo de la fruta.
+
+Solución: A
+
+La vigilancia de un PCC puede ser:
+
+A) Continua o periódica.
+
+B) Solo una vez al mes.
+
+C) Cuando alguien se acuerde.
+
+D) Solo visual siempre.
+
+Solución: A
+
+El equipo APPCC debe ser:
+
+A) Formado por una sola persona.
+
+B) Multidisciplinar (personal de cocina, dietética, mantenimiento, calidad).
+
+C) Formado por personas externas al hospital solamente.
+
+D) Equipo multidisciplinar que exclusivamente controla el Plan APPCC.
+
+Solución: B (Nota: La clave indica B).
+
+¿Qué es el sistema APPCC?
+
+A) Un instrumento para ayudar a lograr niveles elevados de seguridad alimentaria.
+
+B) Un sistema de control de personal.
+
+C) Un método para definir los procesos de producción.
+
+D) Una guía de buenas prácticas.
+
+Solución: A
+
+¿Qué es la TRAZABILIDAD de un alimento?
+
+A) Conocer de quién es el producto.
+
+B) Poder rastrear un alimento desde su origen hasta que llega a manos del consumidor.
+
+C) Conocer la procedencia.
+
+D) Saber de qué nutrientes se compone.
+
+Solución: B
+
+Sistema de identificación y control a través de toda la cadena alimentaria: producción, transformación, distribución y consumo:
+
+A) Seguimiento de cocina.
+
+B) Trazabilidad.
+
+C) Desinfección.
+
+D) Ninguna es correcta.
+
+Solución: B

@@ -1,0 +1,72 @@
+const fs = require('fs');
+
+const path = 'c:/Users/34678/Desktop/web-test-pinche/data/preguntas.json';
+let qs = JSON.parse(fs.readFileSync(path, 'utf8'));
+
+// Remove all CSIF Tema 11 and 12 to avoid duplicates if run multiple times
+qs = qs.filter(q => !(q.origen === 'CSIF' && (q.tema.includes('Tema 11:') || q.tema.includes('Tema 12:'))));
+
+function processFile(filename, temaTitle, temaNumber) {
+    const rawText = fs.readFileSync(filename, 'utf8');
+    let questions = [];
+
+    // Tema 12 has "BLOQUE ÚNICO:" so we adjust the regex to catch "BLOQUE \\d+:" or "BLOQUE ÚNICO:"
+    let blocks = rawText.split(/BLOQUE (?:ÚNICO|\d+):/).filter(b => b.trim().length > 0);
+
+    blocks.forEach((block, blockIndex) => {
+        let blockNum = blockIndex + 1; // if 1 block, it's 1
+        let cleanBlock = block.replace(/\*/g, '');
+
+        const chunks = cleanBlock.split(/Solución:\s*(.*)/i);
+
+        for (let i = 0; i < chunks.length - 1; i += 2) {
+            let chunkText = chunks[i].trim();
+            // Just extract the first letter A, B, C or D
+            let answerMatch = chunks[i + 1].trim().match(/^([A-D])/i);
+            if (!answerMatch) continue;
+            let answer = answerMatch[1].toLowerCase();
+
+            // Allow optional spaces before A)
+            let aMatch = chunkText.match(/\n\s*A\)/i);
+            if (!aMatch) continue;
+
+            let qText = chunkText.substring(0, aMatch.index).trim();
+            const optionsText = chunkText.substring(aMatch.index);
+
+            const ops = optionsText.split(/\n\s*[A-D]\)\s*/i).filter(o => o.trim().length > 0);
+
+            if (ops.length >= 4 && qText.length > 5) {
+                let lines = qText.split('\n');
+                lines = lines.filter(l => !l.toLowerCase().includes('test nº') && !l.toLowerCase().includes('fuente:') && !l.toLowerCase().includes('test tema'));
+                let finalQText = lines.join('\n').trim();
+
+                let blockSuffix = (blocks.length === 1) ? `Único` : `${blockNum}`;
+
+                questions.push({
+                    id: `csif_tema${temaNumber}_b${blockSuffix}_${i}`,
+                    tema: `Tema ${temaNumber}: ${temaTitle} (Bloque ${blockSuffix})`,
+                    pregunta: finalQText,
+                    opciones: {
+                        a: ops[0].trim(),
+                        b: ops[1].trim(),
+                        c: ops[2].trim(),
+                        d: ops[3].trim()
+                    },
+                    correcta: answer,
+                    explicacion: "",
+                    origen: "CSIF"
+                });
+            }
+        }
+    });
+
+    console.log(`Parsed ${questions.length} questions for Tema ${temaNumber}.`);
+    return questions;
+}
+
+const theme11Questions = processFile('c:/Users/34678/Desktop/web-test-pinche/scripts/raw_tema11_csif.txt', 'Dietas y Control de Alérgenos', 11);
+const theme12Questions = processFile('c:/Users/34678/Desktop/web-test-pinche/scripts/raw_tema12_csif.txt', 'APPCC y Trazabilidad', 12);
+
+qs = qs.concat(theme11Questions, theme12Questions);
+fs.writeFileSync(path, JSON.stringify(qs, null, 2));
+console.log(`Total questions now: ${qs.length}`);

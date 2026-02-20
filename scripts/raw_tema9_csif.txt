@@ -1,0 +1,605 @@
+BLOQUE 1: Test Nº 1 - Tema 9 (25 Preguntas)
+Fuente: Test Nº 1.- Tema 9.- alumnos.pdf
+
+¿Cómo deben de ser las paredes de la cocina?
+
+A) Da lo mismo, estando limpias.
+
+B) De un material absorbente.
+
+C) Materiales impermeables, no absorbentes y de fácil limpieza.
+
+D) Recubiertas con madera.
+
+Solución: C
+
+El decreto 22/2006 indica que los establecimientos de comidas preparadas contarán con un almacén para residuos sólidos:
+
+A) Aislado de la zona de manipulación con contenedores de capacidad suficiente y cierre hermético.
+
+B) Que no es necesario limpiar ya que es la zona donde se acumulan los residuos.
+
+C) En el que es inevitable que entren roedores e insectos.
+
+D) Todos los establecimientos de comidas preparadas, sin excepción.
+
+Solución: A
+
+Según el RD 3484/2000, los productos de limpieza y desinfección se almacenarán:
+
+A) En lugar separado de los productos alimenticios.
+
+B) Junto a alimentos que no requieran refrigeración.
+
+C) Contiguo a los alimentos que requieran o no refrigeración.
+
+D) Únicamente junto a alimentos envasados que requieran o no refrigeración.
+
+Solución: A
+
+En el reglamento (CE) Nº 852/2004, los lavabos para la limpieza de las manos deben tener:
+
+A) Agua corriente caliente y/o fría y materiales para la limpieza y el secado higiénico.
+
+B) Jabón líquido y toallas de tela.
+
+C) Únicamente agua fría.
+
+D) Un sistema de secado por aire caliente obligatoriamente.
+
+Solución: A
+
+Los desperdicios de alimentos deberán depositarse en contenedores:
+
+A) De cierre hermético y que se mantengan en buen estado.
+
+B) De plástico ligero sin tapa.
+
+C) De cartón desechable.
+
+D) Abiertos para facilitar el depósito.
+
+Solución: A
+
+¿Qué temperatura debe alcanzar el centro de la pieza de un producto cocinado según el D. 22/2006?
+
+A) 65° C.
+
+B) 70° C.
+
+C) 75° C.
+
+D) 100° C.
+
+Solución: B (Nota: Algunos manuales marcan 65°C para mantenimiento, pero el decreto exige 70°C en cocción).
+
+Las comidas testigo deben conservarse durante un periodo mínimo de:
+
+A) 2 días.
+
+B) 5 días.
+
+C) 7 días.
+
+D) 10 días.
+
+Solución: C (Nota: La clave indica C, correspondiente a las 168 horas mínimas).
+
+La descongelación de los alimentos debe realizarse:
+
+A) A temperatura ambiente sobre el mostrador.
+
+B) En el frigorífico o en hornos de microondas.
+
+C) Sumergiéndolos en agua caliente.
+
+D) Cerca de una fuente de calor.
+
+Solución: B
+
+¿Qué es la contaminación cruzada?
+
+A) El paso de contaminantes de un alimento a otro a través de superficies o manos.
+
+B) La mezcla de dos recetas diferentes.
+
+C) El proceso de cocción a alta temperatura.
+
+D) El transporte de alimentos en camiones frigoríficos.
+
+Solución: A
+
+El personal que manipula alimentos debe vestir:
+
+A) Ropa de calle limpia.
+
+B) Ropa de trabajo exclusiva, limpia y de color claro.
+
+C) Únicamente delantal sobre su ropa.
+
+D) Mono de trabajo oscuro.
+
+Solución: B
+
+¿Está permitido fumar en las zonas de manipulación de alimentos?
+
+A) Sí, si hay buena extracción.
+
+B) No, está terminantemente prohibido.
+
+C) Solo en los descansos.
+
+D) Depende de la normativa interna del hospital.
+
+Solución: B
+
+Los alimentos sobrantes que han sido expuestos al consumidor:
+
+A) Pueden reutilizarse al día siguiente.
+
+B) Deben ser eliminados.
+
+C) Se pueden usar para elaborar salsas.
+
+D) Se deben congelar inmediatamente.
+
+Solución: B
+
+¿A qué temperatura se deben mantener las comidas calientes hasta su servicio?
+
+A) Superior o igual a 65° C.
+
+B) A 40° C.
+
+C) A temperatura ambiente.
+
+D) A 50° C.
+
+Solución: A
+
+El plan de Análisis de Peligros y Puntos de Control Crítico (APPCC):
+
+A) Es opcional para hospitales pequeños.
+
+B) Es obligatorio para todos los establecimientos de comidas preparadas.
+
+C) Solo sirve para el control de costes.
+
+D) Lo elabora el Ministerio de Hacienda.
+
+Solución: B
+
+¿Qué alimento presenta mayor riesgo de salmonelosis?
+
+A) Pan y bollería seca.
+
+B) Arroz cocido.
+
+C) Huevos y productos a base de huevo crudo.
+
+D) Legumbres secas.
+
+Solución: C
+
+La desratización y desinsectación deben ser realizadas por:
+
+A) El personal de cocina cada semana.
+
+B) Empresas autorizadas y con productos registrados.
+
+C) El servicio de limpieza general.
+
+D) El jefe de cocina con sprays comunes.
+
+Solución: B
+
+Los recipientes para el transporte de comidas preparadas deben ser:
+
+A) De madera o mimbre.
+
+B) De materiales fáciles de limpiar y desinfectar.
+
+C) De cartón corrugado.
+
+D) No importa el material si van tapados.
+
+Solución: B
+
+En la recepción de materias primas, se debe comprobar:
+
+A) La temperatura de llegada.
+
+B) El estado del embalaje y fecha de caducidad.
+
+C) Las condiciones higiénicas del vehículo.
+
+D) Todas las anteriores.
+
+Solución: D
+
+El agua utilizada en la cocina debe ser:
+
+A) Agua de pozo sin tratar.
+
+B) Agua potable.
+
+C) Agua destilada.
+
+D) Agua reciclada.
+
+Solución: B
+
+Los cuchillos y tablas de cortar deben:
+
+A) Ser de madera preferiblemente.
+
+B) Ser diferentes para alimentos crudos y cocinados.
+
+C) Lavarse solo una vez al día.
+
+D) Ser siempre de metal.
+
+Solución: B
+
+La luz en la cocina debe estar protegida para:
+
+A) Evitar que los insectos se acerquen.
+
+B) Evitar que, en caso de rotura, los cristales caigan sobre los alimentos.
+
+C) Ahorrar energía.
+
+D) Que no deslumbre al pinche.
+
+Solución: B
+
+¿Qué es un manipulador de alimentos de mayor riesgo?
+
+A) El que trabaja en un almacén.
+
+B) El que elabora y manipula comidas que se consumen sin tto. térmico posterior.
+
+C) El que solo transporta cajas cerradas.
+
+D) El administrativo de la cocina.
+
+Solución: B
+
+Los alimentos que requieren refrigeración con vida útil < 24h se mantendrán a:
+
+A) De 0 a 8° C.
+
+B) De 10 a 15° C.
+
+C) De 0 a 4° C.
+
+D) Siempre a -18° C.
+
+Solución: A (Nota: La clave indica A).
+
+Alimentos refrigerados con vida útil > 24h se conservarán a:
+
+A) 0 a 4° C.
+
+B) 0 a 8° C.
+
+C) 5 a 10° C.
+
+D) Temperatura ambiente.
+
+Solución: A
+
+En cuanto a los alimentos, el D. 22/2006 permite:
+
+A) Recongelar comidas preparadas.
+
+B) Utilizar mayonesa industrial o elaborada con ovoproductos pasteurizados.
+
+C) Conservar alimentos sobrantes de distribución en caliente.
+
+D) Sobrepasar la capacidad de almacenamiento.
+
+Solución: B
+
+BLOQUE 2: Test Nº 2 - Tema 9 (25 Preguntas)
+Fuente: Test Nº 2.- Tema 9.- Alumnos.pdf
+
+En el concepto de marcha adelante un alimento elaborado:
+
+A) Se guardará en el almacén.
+
+B) Nunca puede volver hacia atrás.
+
+C) Sí puede volver hacia atrás.
+
+D) Ninguna es correcta.
+
+Solución: B
+
+En las cocinas:
+
+A) Existirá un lugar separado para el almacenamiento de los residuos.
+
+B) Los parámetros verticales serán superficies lisas de color oscuro.
+
+C) Los suelos estarán construidos con materiales absorbentes.
+
+D) La iluminación será siempre natural de 500 lux.
+
+Solución: A
+
+El principio de marcha adelante:
+
+A) Persigue una distribución de zonas de manera que solo sea posible un sentido único en los circuitos.
+
+B) Es la distribución de zonas de manera que se estipulen tantos sentidos como circuitos existan.
+
+C) Es la distribución ordenada de las brigadas.
+
+D) Persigue una distribución con doble sentido de circuitos.
+
+Solución: A
+
+El principio de marcha adelante garantiza:
+
+A) Una mejor distribución de los espacios.
+
+B) Una más rápida elaboración de recetas.
+
+C) Que no se produzcan contaminaciones cruzadas.
+
+D) Una mejor gestión de costes.
+
+Solución: C
+
+Según el decreto 22/2006, las comidas testigo:
+
+A) Son obligatorias en comedores colectivos.
+
+B) Se toman de cada plato elaborado.
+
+C) Deben pesar al menos 100 gramos.
+
+D) Todas son correctas.
+
+Solución: D
+
+¿A qué temperatura se deben conservar las comidas testigo?
+
+A) Superior o igual a 4° C.
+
+B) Inferior o igual a 4° C (refrigeración) o -18° C (congelación).
+
+C) A temperatura ambiente.
+
+D) A 65° C.
+
+Solución: B
+
+El almacenamiento de productos químicos:
+
+A) Debe hacerse en armarios cerrados y bajo llave si es posible.
+
+B) Puede hacerse en estanterías junto a las especias.
+
+C) No requiere etiquetas.
+
+D) Se hace en el mismo frigorífico que las bebidas.
+
+Solución: A
+
+Las ventanas de la cocina deben disponer de:
+
+A) Cortinas decorativas.
+
+B) Rejas únicamente.
+
+C) Mallas de protección contra insectos (mosquiteras) desmontables.
+
+D) Cristales tintados.
+
+Solución: C
+
+Los techos deben estar construidos para:
+
+A) Acumular la condensación.
+
+B) Evitar la acumulación de suciedad y el desprendimiento de partículas.
+
+C) Ser siempre de escayola sin tratar.
+
+D) No se limpian nunca.
+
+Solución: B
+
+¿Qué es un Punto de Control Crítico (PCC)?
+
+A) El momento donde el pinche descansa.
+
+B) Una fase en la que puede aplicarse un control esencial para prevenir o eliminar un peligro alimentario.
+
+C) La puerta de entrada de mercancías.
+
+D) El reloj donde se ficha.
+
+Solución: B
+
+El lavado de frutas y verduras que se consumen crudas debe hacerse con:
+
+A) Solo agua de grifo.
+
+B) Agua con lejía de uso alimentario (clorada) y posterior aclarado.
+
+C) Jabón de platos.
+
+D) Vinagre solamente.
+
+Solución: B
+
+¿Cuál es el principal objetivo del sistema de autocontrol?
+
+A) Ahorrar personal.
+
+B) Garantizar la seguridad alimentaria.
+
+C) Cumplir con Hacienda.
+
+D) Organizar los turnos.
+
+Solución: B
+
+La formación de los manipuladores de alimentos es responsabilidad de:
+
+A) El trabajador por su cuenta.
+
+B) La empresa o titular del establecimiento.
+
+C) El Ayuntamiento.
+
+D) Los sindicatos únicamente.
+
+Solución: B
+
+Un manipulador debe lavarse las manos:
+
+A) Solo al empezar el turno.
+
+B) Después de ir al baño, tocar basura o alimentos crudos.
+
+C) Cada vez que cambie de actividad.
+
+D) Las respuestas B y C son correctas.
+
+Solución: D
+
+¿Cómo se deben secar las manos en la cocina?
+
+A) Con el delantal.
+
+B) Con toallas de papel de un solo uso.
+
+C) Al aire.
+
+D) Con un trapo de cocina común.
+
+Solución: B
+
+Los recipientes para basuras en la cocina deben:
+
+A) Tener pedal para abrirlos sin usar las manos.
+
+B) Ser de madera.
+
+C) Estar siempre abiertos.
+
+D) Ser muy grandes para que quepa todo el día.
+
+Solución: A
+
+La temperatura de congelación recomendada es:
+
+A) 0° C.
+
+B) -18° C o inferior.
+
+C) -5° C.
+
+D) 4° C.
+
+Solución: B
+
+Los huevos frescos deben almacenarse:
+
+A) En un lugar fresco y seco, o refrigerados.
+
+B) Lavados antes de guardarlos.
+
+C) Junto a los quesos abiertos.
+
+D) A pleno sol.
+
+Solución: A
+
+¿Se pueden utilizar huevos rotos o sucios?
+
+A) Sí, si se cocinan mucho.
+
+B) No, deben descartarse.
+
+C) Sí, tras lavarlos con jabón.
+
+D) Solo para repostería.
+
+Solución: B
+
+En la "Marcha adelante", los circuitos de sucio (basura, vajilla usada) y limpio (comida elaborada):
+
+A) Pueden cruzarse si se tiene cuidado.
+
+B) No deben cruzarse nunca.
+
+C) Deben usar el mismo pasillo.
+
+D) Se limpian a la vez.
+
+Solución: B
+
+¿Qué documento acredita la formación del manipulador?
+
+A) El DNI.
+
+B) El certificado o carnet de manipulador de alimentos.
+
+C) El contrato de trabajo.
+
+D) No hace falta documento.
+
+Solución: B
+
+¿Cuál es la vigencia recomendada de la formación de manipulador?
+
+A) Para siempre.
+
+B) Se recomienda renovación periódica (generalmente cada 4-5 años).
+
+C) Cada 10 años.
+
+D) Solo se hace una vez al entrar.
+
+Solución: B
+
+Los productos de limpieza deben estar:
+
+A) En sus envases originales y etiquetados.
+
+B) En botellas de agua vacías para que ocupen menos.
+
+C) Sin etiquetas para no confundir.
+
+D) Todos mezclados en un balde.
+
+Solución: A
+
+En productos cocinados deberá alcanzarse una temperatura en el centro de:
+
+A) 65° C.
+
+B) 70° C.
+
+C) 45° C.
+
+D) 18° C.
+
+Solución: B (Nota: La clave indica B).
+
+Los productos sometidos a tratamiento térmico que se vayan a conservar en frío deben enfriarse hasta:
+
+A) Menos de 10° C en un tiempo máximo de 4 horas tras la cocción.
+
+B) Menos de 4° C en 10 horas.
+
+C) A temperatura ambiente durante toda la noche.
+
+D) Menos de 8° C en un tiempo máximo de 4 horas.
+
+Solución: D (Nota: La clave del documento indica D).
