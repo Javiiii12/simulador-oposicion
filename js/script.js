@@ -11,6 +11,7 @@ let currentTopicName = ''; // Para guardar en historial
 const views = {
     menu: document.getElementById('view-menu'),
     roleSelection: document.getElementById('view-role-selection'),
+    parts: document.getElementById('view-parts'),
     topics: document.getElementById('view-topics'),
     random: document.getElementById('view-random'),
     examsMenu: document.getElementById('view-exams-menu'),
@@ -212,21 +213,42 @@ function showRandomConfig() {
 }
 
 // --- LÓGICA DE TEMAS ---
-function showTopics(category) {
+// --- LÓGICA DE FUENTES Y TEMAS ---
+function showParts(source) {
+    currentSource = source;
+    const titleEl = document.getElementById('parts-title');
+    if (titleEl) titleEl.innerText = `Fuente: ${source}`;
+    showView('parts');
+}
+
+function showExamsList() {
+    // Ocultar la selección de partes e ir al menú de examenes
+    showView('examsMenu');
+}
+
+function showTopics(part) {
+    const category = part;
     // Update Title
     const titleEl = document.getElementById('topic-title');
-    if (titleEl) titleEl.innerText = category === 'GENERAL' ? 'Parte General (Temas 1 al 6)' : 'Parte Específica (Temas 7 al 16)';
+    if (titleEl) titleEl.innerText = category === 'GENERAL' ? `Parte General (${currentSource})` : `Parte Específica (${currentSource})`;
 
-    // Filter questions by Category
+    // Filter questions by Source AND Category
     let relevantQuestions = [];
+
+    // First apply Source filtering strictly
+    let sourceQuestions = allQuestions.filter(q => {
+        if (currentSource === 'MAD') return !q.origen || q.origen === 'MAD';
+        return q.origen === currentSource;
+    });
+
     if (category === 'GENERAL') {
-        relevantQuestions = allQuestions.filter(q => {
+        relevantQuestions = sourceQuestions.filter(q => {
             const t = q.tema.toLowerCase();
             return t.includes('tema 1') || t.includes('tema 2') || t.includes('tema 3') ||
                 t.includes('tema 4') || t.includes('tema 5') || t.includes('tema 6');
         });
     } else if (category === 'ESPECIFICA') {
-        relevantQuestions = allQuestions.filter(q => {
+        relevantQuestions = sourceQuestions.filter(q => {
             const match = q.tema.match(/tema\s+(\d+)/i);
             if (match) {
                 const num = parseInt(match[1]);
@@ -237,7 +259,7 @@ function showTopics(category) {
     }
 
     if (relevantQuestions.length === 0) {
-        alert(`⚠️ No hay preguntas cargadas para esa categoría todavía.`);
+        alert(`⚠️ No hay preguntas cargadas en la Parte ${category} para la fuente: ${currentSource}.`);
         return;
     }
 
