@@ -330,8 +330,9 @@ function createBaseTopicButton(baseTema, questionsSubset) {
     let titulo = TOPIC_TITLES[baseTema] || baseTema;
 
     // Override titles based on custom Academies/Sources
-    if (currentSource === 'CSIF' && baseTema === 'Tema 5') {
-        titulo = "Estatuto Marco";
+    if (currentSource === 'CSIF') {
+        if (baseTema === 'Tema 5') titulo = "Estatuto Marco";
+        if (baseTema === 'Tema 7') titulo = "Atención Primaria y Especializada";
     }
 
     if (titulo === baseTema) titulo = "";
@@ -454,8 +455,9 @@ function createTopicButton(tema) {
     const count = allQuestions.filter(q => q.tema === tema).length;
     let titulo = TOPIC_TITLES[tema] || tema;
 
-    if (typeof currentSource !== 'undefined' && currentSource === 'CSIF' && tema === 'Tema 5') {
-        titulo = "Estatuto Marco";
+    if (typeof currentSource !== 'undefined' && currentSource === 'CSIF') {
+        if (tema === 'Tema 5') titulo = "Estatuto Marco";
+        if (tema === 'Tema 7') titulo = "Atención Primaria y Especializada";
     }
 
     // Avoid redundancy if title == theme name

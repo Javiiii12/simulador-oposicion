@@ -27353,5 +27353,1321 @@
     "correcta": "a",
     "explicacion": "",
     "origen": "Historico"
+  },
+  {
+    "id": "csif_tema7_b1_2",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "Es un órgano colegiado de dirección del hospital:",
+    "opciones": {
+      "a": "La Comisión de Docencia.",
+      "b": "La Comisión de Dirección.",
+      "c": "La Junta Técnica Asistencial.",
+      "d": "La Comisión de Compras."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_4",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "¿Qué tipo de asistencia ofrece la atención especializada que no ofrece la atención primaria?",
+    "opciones": {
+      "a": "Ambulatoria.",
+      "b": "Internamiento.",
+      "c": "Urgencia.",
+      "d": "Pediátrica."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_6",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "La atención sanitaria especializada comprende:",
+    "opciones": {
+      "a": "Atención paliativa a enfermos terminales.",
+      "b": "Atención a la salud mental.",
+      "c": "Rehabilitación en pacientes con déficit funcional recuperable.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_8",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "Siempre que las condiciones del paciente lo permitan, la atención especializada se prestara:",
+    "opciones": {
+      "a": "En consultas externas.",
+      "b": "En hospital de día.",
+      "c": "En régimen de internamiento.",
+      "d": "Son correctas las opciones a y b."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_10",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "El acceso a los servicios hospitalarios se realizará:",
+    "opciones": {
+      "a": "A través de la Atención Primaria.",
+      "b": "A través de los Servicios de Urgencia.",
+      "c": "Las respuestas a y b son correctas.",
+      "d": "Las respuestas a y b son incorrectas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_12",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "La capacidad de organización de los servicios del hospital compete:",
+    "opciones": {
+      "a": "Al Director de Enfermería.",
+      "b": "Al Director Médico.",
+      "c": "Al Director Gerente.",
+      "d": "Al Director de Gestión y Servicios Generales."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_14",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "La hospitalización domiciliaria se desarrolla por personal sanitario:",
+    "opciones": {
+      "a": "De atención primaria.",
+      "b": "Del ámbito hospitalario.",
+      "c": "De las unidades de rehabilitación.",
+      "d": "Ninguna de las opciones anteriores es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_16",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "La Comisión de Bienestar Social es un órgano de:",
+    "opciones": {
+      "a": "Participación comunitaria del hospital.",
+      "b": "Asesoramiento del director gerente del hospital.",
+      "c": "De la dirección de gestión y servicios generales.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_18",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "La Comisión de Dirección del Hospital se reunirá en sesión ordinaria:",
+    "opciones": {
+      "a": "Diariamente.",
+      "b": "Semanalmente.",
+      "c": "Mensualmente.",
+      "d": "Con la periodicidad que determine el reglamento de régimen interior."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_20",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "Asume la representación oficial del hospital:",
+    "opciones": {
+      "a": "El Director Gerente.",
+      "b": "El Director Médico en ausencia, enfermedad o vacante del gerente.",
+      "c": "El consejo de dirección del hospital.",
+      "d": "Las respuestas a y b son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_22",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "La Junta Técnica Asistencial es un órgano de:",
+    "opciones": {
+      "a": "Dirección del hospital.",
+      "b": "Participación de los profesionales en el hospital.",
+      "c": "Asesoramiento de la comisión de dirección.",
+      "d": "Las respuestas b y c son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_24",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "¿Quién ostenta la presidencia de la Junta Técnica Asistencial?",
+    "opciones": {
+      "a": "El Director Gerente.",
+      "b": "El Director Médico.",
+      "c": "El Director de Enfermería.",
+      "d": "El Director de Gestión y Servicios Generales."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_26",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "Los servicios jerarquizados en un hospital son:",
+    "opciones": {
+      "a": "Médicos.",
+      "b": "Enfermería.",
+      "c": "Gestión y servicios generales.",
+      "d": "Todos los anteriores."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_28",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "La Comisión Central de Garantía de Calidad es un órgano de:",
+    "opciones": {
+      "a": "Dirección del hospital.",
+      "b": "Asesoramiento de la Comisión de Dirección.",
+      "c": "Participación comunitaria del hospital.",
+      "d": "Gestión económica y financiera."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_30",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "¿Cuántas veces al año deberá reunirse la Comisión Central de Garantía de Calidad?",
+    "opciones": {
+      "a": "Seis veces.",
+      "b": "Tres veces.",
+      "c": "Una vez al mes.",
+      "d": "No hay un número mínimo establecido."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_32",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "¿Quién nombra a los vocales de la Comisión de Bienestar Social?",
+    "opciones": {
+      "a": "El Director Médico.",
+      "b": "El Director de Gestión.",
+      "c": "El Director Gerente.",
+      "d": "El Presidente de la CCAA."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_34",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "El Área de Gestión Económica, Presupuestaria y Financiera está adscrita a:",
+    "opciones": {
+      "a": "División de Gestión y Servicios Generales.",
+      "b": "División Médica.",
+      "c": "División de Enfermería.",
+      "d": "Gerencia."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_36",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "La Sección de Hostelería forma parte de la división de:",
+    "opciones": {
+      "a": "Gestión y Servicios Generales.",
+      "b": "Médica.",
+      "c": "Enfermería.",
+      "d": "Gerencia."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_38",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "Los Directores de las divisiones Médica, Enfermería y Servicios Generales dependen de:",
+    "opciones": {
+      "a": "Director Gerente.",
+      "b": "Responsable de sanidad de la CCAA.",
+      "c": "Presidente de la CCAA.",
+      "d": "Dirección General del INSALUD."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_40",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "¿De qué división dependen los servicios y actividades de hostelería?",
+    "opciones": {
+      "a": "Médica.",
+      "b": "Enfermería.",
+      "c": "Gestión y servicios generales.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_42",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "¿De quién depende directamente el servicio de atención al paciente?",
+    "opciones": {
+      "a": "Del Director Gerente.",
+      "b": "Del Director Médico.",
+      "c": "Del Director de Gestión.",
+      "d": "Del servicio de admisión."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_44",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "El órgano colegiado de dirección del Hospital según el RD 521/87 es:",
+    "opciones": {
+      "a": "Junta Técnica Asistencial.",
+      "b": "Comisión de Dirección.",
+      "c": "Consejo de Dirección.",
+      "d": "Ninguno de los anteriores."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_46",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "¿Cuál es el objeto de la Atención Especializada?",
+    "opciones": {
+      "a": "Prestar asistencia sanitaria una vez superadas las posibilidades de AP.",
+      "b": "Realizar cirugía ambulatoria solamente.",
+      "c": "Evitar desplazamientos del paciente.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b1_48",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 1)",
+    "pregunta": "Quedan adscritos a la división de enfermería las actividades de:",
+    "opciones": {
+      "a": "Salas de hospitalización.",
+      "b": "Quirófanos.",
+      "c": "Unidades especiales.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_2",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "La hospitalización domiciliaria se desarrolla por personal sanitario:",
+    "opciones": {
+      "a": "De AP.",
+      "b": "Del ámbito hospitalario.",
+      "c": "De las unidades de RH.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_4",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "La asistencia sanitaria especializada, puede ser prestada a los ciudadanos, bajo una de las siguientes modalidades:",
+    "opciones": {
+      "a": "Atención de la Salud Mental y asistencia psiquiátrica.",
+      "b": "La asistencia ambulatoria especializada en \"hospital de día\".",
+      "c": "La asistencia ambulatoria especializada en consultas.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_6",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "Asume la representación oficial del hospital:",
+    "opciones": {
+      "a": "El director gerente.",
+      "b": "El director médico en ausencia del gerente.",
+      "c": "El consejo de dirección del hospital.",
+      "d": "Las respuestas a y b son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_8",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "Las funciones de los hospitales son entre otras:",
+    "opciones": {
+      "a": "Prestación asistencia especializada, promoción de la salud y prevención.",
+      "b": "Asistencia especializada, investigación y docencia.",
+      "c": "Prestamos a centros de AP de información para diagnóstico y tto.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_10",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "La Comisión de Dirección del hospital según el RD 521/87 es:",
+    "opciones": {
+      "a": "Órgano colegiado de dirección.",
+      "b": "Órgano de participación de los profesionales.",
+      "c": "Órgano de asesoramiento y consulta.",
+      "d": "Órgano unipersonal de dirección."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_12",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "El Director Gerente del Hospital es nombrado por:",
+    "opciones": {
+      "a": "El Director General del INSALUD.",
+      "b": "El Presidente de la CCAA.",
+      "c": "El Ministerio de Sanidad.",
+      "d": "El Director General del Servicio de Salud de la CCAA."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_14",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "¿Quién forma parte de la Comisión de Dirección del Hospital?",
+    "opciones": {
+      "a": "El Gerente, los Directores de División y los Subdirectores.",
+      "b": "El Gerente y los Directores de División.",
+      "c": "El Gerente, los Directores de División y los Jefes de Servicio.",
+      "d": "El Gerente y el Director Médico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_16",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "Los servicios del hospital podrán agruparse en departamentos según:",
+    "opciones": {
+      "a": "Su afinidad funcional.",
+      "b": "El número de camas.",
+      "c": "La decisión del Director Médico.",
+      "d": "El presupuesto disponible."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_18",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "La Comisión de Bienestar Social está presidida por:",
+    "opciones": {
+      "a": "El Director Gerente.",
+      "b": "El Director de Gestión.",
+      "c": "El Director Médico.",
+      "d": "El Director de Enfermería."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_20",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "¿Quién nombra al Director Médico y al Director de Enfermería?",
+    "opciones": {
+      "a": "El Ministerio de Sanidad.",
+      "b": "El Director Gerente.",
+      "c": "El Director General del Servicio de Salud.",
+      "d": "El Presidente de la CCAA."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_22",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "¿Qué órgano tiene encomendada la evaluación de la asistencia en el hospital?",
+    "opciones": {
+      "a": "Comisión de Dirección.",
+      "b": "Junta Técnica Asistencial.",
+      "c": "Comisión de Garantía de Calidad.",
+      "d": "Servicio de Admisión."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_24",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "La función de informar y orientar al paciente y sus familiares compete a:",
+    "opciones": {
+      "a": "Servicio de Atención al Paciente.",
+      "b": "Servicio de Admisión.",
+      "c": "La Dirección Médica.",
+      "d": "La Dirección de Enfermería."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_26",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "¿De qué división dependen las unidades especiales (UCI, Reanimación)?",
+    "opciones": {
+      "a": "Médica.",
+      "b": "Enfermería.",
+      "c": "Gestión y servicios generales.",
+      "d": "Son correctas A y B."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_28",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "El régimen de visitas y estancias de familiares se regula en:",
+    "opciones": {
+      "a": "El Reglamento de Régimen Interior del hospital.",
+      "b": "El Estatuto del Personal Estatutario.",
+      "c": "La Ley General de Sanidad.",
+      "d": "La Constitución Española."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_30",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "Los servicios de Hostelería (cocina, lavandería) se encuadran en:",
+    "opciones": {
+      "a": "División Médica.",
+      "b": "División de Enfermería.",
+      "c": "División de Gestión y Servicios Generales.",
+      "d": "Gerencia directamente."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_32",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "¿Quién ostenta la Jefatura Superior de todo el personal del hospital?",
+    "opciones": {
+      "a": "El Director Médico.",
+      "b": "El Director de Gestión.",
+      "c": "El Director Gerente.",
+      "d": "El Jefe de Personal."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_34",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "La Comisión de Docencia depende funcionalmente de:",
+    "opciones": {
+      "a": "La Comisión de Dirección.",
+      "b": "La Junta Técnica Asistencial.",
+      "c": "El Director Médico.",
+      "d": "El Director Gerente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_36",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "El mantenimiento preventivo y correctivo del edificio es función de:",
+    "opciones": {
+      "a": "División Médica.",
+      "b": "División de Enfermería.",
+      "c": "División de Gestión y Servicios Generales.",
+      "d": "Empresas externas siempre."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_38",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "¿Qué órgano aprueba el plan general de actividades del hospital?",
+    "opciones": {
+      "a": "La Comisión de Dirección.",
+      "b": "El Director Gerente.",
+      "c": "El Director General del Servicio de Salud.",
+      "d": "La Junta Técnica Asistencial."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_40",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "La gestión económica del hospital es responsabilidad directa de:",
+    "opciones": {
+      "a": "El Director de Gestión y Servicios Generales.",
+      "b": "El Director Gerente.",
+      "c": "El Administrador del hospital.",
+      "d": "La Intervención de la CCAA."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_44",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "Los órganos de asesoramiento de la Comisión de Dirección son:",
+    "opciones": {
+      "a": "Junta Técnica Asistencial y Comisiones Clínicas.",
+      "b": "Comisión de Compras.",
+      "c": "Comisión de Inversiones.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_46",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "¿De quién depende el área de Admisión de pacientes?",
+    "opciones": {
+      "a": "División Médica.",
+      "b": "División de Gestión.",
+      "c": "Gerencia.",
+      "d": "Atención al Paciente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b2_48",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 2)",
+    "pregunta": "Las funciones de los hospitales son:",
+    "opciones": {
+      "a": "Asistencial, Promoción de la salud, Prevención.",
+      "b": "Asistencia especializada, Investigación, Docencia.",
+      "c": "Prestación de información a centros de AP.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_2",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "¿Qué se entiende por isócrona?",
+    "opciones": {
+      "a": "La unidad para medir el tiempo que se pasa en consulta.",
+      "b": "Unidad de medida en tiempo de la distancia entre dos puntos.",
+      "c": "Unidad de esperanza de vida de una población dada.",
+      "d": "Tiempo entre paciente y paciente en consulta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_4",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "El número de profesionales no sanitarios del equipo de Atención Primaria estará en función de:",
+    "opciones": {
+      "a": "La morbilidad de la zona.",
+      "b": "La población a atender.",
+      "c": "La tasa de natalidad.",
+      "d": "Necesidades de su zona de salud."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_6",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "¿Cuál es la estructura fundamental del Sistema Sanitario Español?",
+    "opciones": {
+      "a": "Área de Salud.",
+      "b": "Centro de Salud.",
+      "c": "Hospital.",
+      "d": "Zona Básica de Salud."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_8",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "¿Qué régimen asistencial no se presta en los Centros de Atención Primaria?",
+    "opciones": {
+      "a": "Urgencia.",
+      "b": "Ambulatorio.",
+      "c": "Domiciliario.",
+      "d": "Internamiento."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_10",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "El sistema sanitario de Castilla la Mancha se organiza funcional y territorialmente:",
+    "opciones": {
+      "a": "En AP y Atención Especializada.",
+      "b": "En Áreas Sanitarias.",
+      "c": "Por la Consejería de Sanidad y el Ministerio.",
+      "d": "En Zonas Sanitarias."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_12",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "La población protegida por un Equipo de Atención Primaria es:",
+    "opciones": {
+      "a": "De 5.000 a 25.000 habitantes.",
+      "b": "De 2.000 a 5.000 habitantes.",
+      "c": "De 10.000 a 50.000 habitantes.",
+      "d": "Toda la población de la Zona Básica de Salud."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_14",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "¿Qué profesional dirige funcionalmente el Equipo de Atención Primaria?",
+    "opciones": {
+      "a": "El Gerente del Área.",
+      "b": "El Coordinador Médico.",
+      "c": "El Alcalde del municipio cabecera.",
+      "d": "El Director de Enfermería."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_16",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "El conjunto de servicios sanitarios de la Administración del Estado y de las CCAA es:",
+    "opciones": {
+      "a": "INSALUD.",
+      "b": "Sistema Nacional de Salud.",
+      "c": "SESCAM.",
+      "d": "Red Sanitaria Pública."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_18",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "¿Quién determina las Zonas Básicas de Salud en una CCAA?",
+    "opciones": {
+      "a": "El Ministerio de Sanidad.",
+      "b": "Los Ayuntamientos.",
+      "c": "El Gobierno de la CCAA.",
+      "d": "El Consejo de Salud de Área."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_20",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "La Atención Primaria tiene como característica ser:",
+    "opciones": {
+      "a": "Integral, integrada y permanente.",
+      "b": "Exclusivamente curativa.",
+      "c": "Fragmentada por especialidades.",
+      "d": "Solo para urgencias leves."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_22",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "El Centro de Salud es:",
+    "opciones": {
+      "a": "La estructura física donde se ubica el Equipo de AP.",
+      "b": "Un hospital pequeño.",
+      "c": "El despacho del Coordinador.",
+      "d": "Un consultorio local."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_24",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "Las actividades de promoción de la salud en AP incluyen:",
+    "opciones": {
+      "a": "Educación sanitaria y consejos preventivos.",
+      "b": "Cirugía mayor.",
+      "c": "Pruebas diagnósticas complejas.",
+      "d": "Rehabilitación hospitalaria."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_26",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "¿Cuál es la puerta de entrada al sistema sanitario?",
+    "opciones": {
+      "a": "Las Urgencias del Hospital.",
+      "b": "La Atención Primaria.",
+      "c": "El Especialista.",
+      "d": "La Farmacia."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_28",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "El equipo de AP está formado por:",
+    "opciones": {
+      "a": "Médicos, enfermeros, trabajadores sociales y personal administrativo.",
+      "b": "Solo médicos de familia.",
+      "c": "Solo personal sanitario.",
+      "d": "Cirujanos y anestesistas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_30",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "La atención domiciliaria en AP se presta:",
+    "opciones": {
+      "a": "En el hogar del paciente cuando no puede acudir al centro.",
+      "b": "Solo para urgencias vitales.",
+      "c": "Siempre que el paciente lo pida por comodidad.",
+      "d": "No existe la atención domiciliaria en AP."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_32",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "La prevención secundaria en AP consiste en:",
+    "opciones": {
+      "a": "Detección precoz de enfermedades (cribados).",
+      "b": "Vacunación.",
+      "c": "Rehabilitación del paciente crónico.",
+      "d": "Evitar la aparición de la enfermedad."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_34",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "¿Qué es una isócrona en la planificación sanitaria?",
+    "opciones": {
+      "a": "Una línea que une puntos con el mismo tiempo de desplazamiento al centro.",
+      "b": "Una enfermedad crónica.",
+      "c": "Una medida de peso poblacional.",
+      "d": "Un tipo de receta médica."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_36",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "La Zona Básica de Salud es:",
+    "opciones": {
+      "a": "El marco territorial de la AP.",
+      "b": "El edificio del hospital.",
+      "c": "La provincia entera.",
+      "d": "Un barrio sin farmacias."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_38",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "¿De quién depende el personal administrativo del Centro de Salud?",
+    "opciones": {
+      "a": "Del Director de Gestión del Área.",
+      "b": "Del Coordinador del Equipo de AP.",
+      "c": "Del Alcalde.",
+      "d": "De la Gerencia directamente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_40",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "El modelo de AP español se basa en:",
+    "opciones": {
+      "a": "Trabajo en equipo multidisciplinar.",
+      "b": "Consultas aisladas de médicos.",
+      "c": "Medicina solo privada.",
+      "d": "Atención solo a niños y ancianos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_42",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "Un municipio cabecera de ZBS debe estar a no más de:",
+    "opciones": {
+      "a": "30 minutos del resto de municipios.",
+      "b": "30 kilómetros.",
+      "c": "15 kilómetros.",
+      "d": "15 minutos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_44",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "Forma parte del Equipo de AP:",
+    "opciones": {
+      "a": "Veterinarios de la ZBS.",
+      "b": "Facultativos del hospital.",
+      "c": "Gerente del Área.",
+      "d": "Director de Gestión."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_46",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "Es un objetivo de la Atención Primaria:",
+    "opciones": {
+      "a": "Diagnóstico y tratamiento temprano para evitar hospitalización innecesaria.",
+      "b": "Prestar asistencia ambulatoria especializada.",
+      "c": "Promover la hospitalización.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b3_48",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 3)",
+    "pregunta": "Una ZBS abarca generalmente una población de:",
+    "opciones": {
+      "a": "5.000 a 25.000 habitantes.",
+      "b": "40.000 a 100.000 habitantes.",
+      "c": "5.000 a 40.000 habitantes.",
+      "d": "25.000 a 100.000 habitantes."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_2",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "No forma parte del contenido de la asistencia sanitaria especializada:",
+    "opciones": {
+      "a": "Rehabilitación.",
+      "b": "Consulta del niño sano.",
+      "c": "Nutrición enteral.",
+      "d": "Renovación de prótesis."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_4",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "La hospitalización domiciliaria es desarrollada por personal sanitario:",
+    "opciones": {
+      "a": "De atención primaria.",
+      "b": "Del ámbito hospitalario.",
+      "c": "De las unidades de rehabilitación.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_6",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "Un hospital privado vinculado al sistema público:",
+    "opciones": {
+      "a": "No se someterá al mismo control económico.",
+      "b": "Se someterá al mismo control administrativo que uno público.",
+      "c": "Debe establecer una atención distinta.",
+      "d": "Puede establecer una atención distinta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_8",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "La comisión de dirección del hospital se reunirá en sesión ordinaria:",
+    "opciones": {
+      "a": "Diariamente.",
+      "b": "Semanalmente.",
+      "c": "Mensualmente.",
+      "d": "Según determine el reglamento."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_10",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "La comisión de bienestar social es un órgano:",
+    "opciones": {
+      "a": "De participación comunitaria.",
+      "b": "De asesoramiento del director gerente.",
+      "c": "De la dirección de gestión.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_12",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "Los servicios jerarquizados en un hospital son:",
+    "opciones": {
+      "a": "Médicos.",
+      "b": "Enfermería.",
+      "c": "Gestión y servicios generales.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_14",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "La comisión de docencia depende de:",
+    "opciones": {
+      "a": "La Comisión de Dirección.",
+      "b": "La Junta Técnica Asistencial.",
+      "c": "El Director Médico.",
+      "d": "El Director Gerente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_16",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "La gestión económica está adscrita a:",
+    "opciones": {
+      "a": "División presupuestaria.",
+      "b": "División administrativa.",
+      "c": "División de gestión y servicios generales.",
+      "d": "División gerencia."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_18",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "¿Quién asume la representación oficial del hospital?",
+    "opciones": {
+      "a": "Director Gerente.",
+      "b": "Director Médico en ausencia del gerente.",
+      "c": "Consejo de Dirección.",
+      "d": "A y B son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_20",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "¿Quién preside la Junta Técnica Asistencial?",
+    "opciones": {
+      "a": "Director Gerente.",
+      "b": "Director de Enfermería.",
+      "c": "Director Médico.",
+      "d": "El vocal más antiguo."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_22",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "Las funciones del hospital son:",
+    "opciones": {
+      "a": "Asistencia, promoción y prevención.",
+      "b": "Asistencia, investigación y docencia.",
+      "c": "Información a AP.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_24",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "¿De quién depende el Servicio de Admisión?",
+    "opciones": {
+      "a": "Dirección de Gestión.",
+      "b": "Dirección Médica.",
+      "c": "Gerencia.",
+      "d": "Admisión no depende de ninguna dirección."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_26",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "Las actividades de hostelería dependen de:",
+    "opciones": {
+      "a": "Dirección Médica.",
+      "b": "Dirección de Enfermería.",
+      "c": "Dirección de Gestión y Servicios Generales.",
+      "d": "División de Hostelería."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_28",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "El Director Gerente es nombrado por:",
+    "opciones": {
+      "a": "Director del INSALUD.",
+      "b": "Director General del Servicio de Salud de la CCAA.",
+      "c": "Presidente del Gobierno regional.",
+      "d": "El Consejo de Gobierno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_30",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "¿Qué órgano tiene la evaluación de la asistencia?",
+    "opciones": {
+      "a": "Comisión de Dirección.",
+      "b": "Junta Técnica Asistencial.",
+      "c": "Comisión de Garantía de Calidad.",
+      "d": "Ninguno."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_32",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "¿De quién depende Atención al Paciente?",
+    "opciones": {
+      "a": "Director Gerente.",
+      "b": "Director Médico.",
+      "c": "Director de Gestión.",
+      "d": "Director de Enfermería."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_34",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "¿De quién depende la UCI en el hospital?",
+    "opciones": {
+      "a": "Dirección Médica.",
+      "b": "Dirección de Enfermería.",
+      "c": "Dirección de Gestión.",
+      "d": "Unidades Especiales."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_36",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "El mantenimiento preventivo depende de:",
+    "opciones": {
+      "a": "Dirección Médica.",
+      "b": "Dirección de Enfermería.",
+      "c": "Dirección de Gestión y Servicios Generales.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_38",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "El hospital desarrolla funciones de:",
+    "opciones": {
+      "a": "Asistencia únicamente.",
+      "b": "Promoción, prevención, investigación y docencia.",
+      "c": "Campañas de vacunación solamente.",
+      "d": "B es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_40",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "Un hospital puede vincularse al SNS:",
+    "opciones": {
+      "a": "Si sus características son homologables y es necesario asistencialmente.",
+      "b": "En todo caso cuando se necesiten más camas.",
+      "c": "No puede vincularse un hospital privado.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_42",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "La gestión económica depende de la división de:",
+    "opciones": {
+      "a": "Gerencia.",
+      "b": "Gestión y servicios generales.",
+      "c": "División presupuestaria.",
+      "d": "División administrativa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_44",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "¿Cuántos miembros máximos tienen las comisiones clínicas?",
+    "opciones": {
+      "a": "6.",
+      "b": "10.",
+      "c": "8.",
+      "d": "12."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema7_b4_46",
+    "tema": "Tema 7: Atención Primaria y Especializada (Bloque 4)",
+    "pregunta": "¿Cuántas veces al año se reúne la Comisión de Garantía?",
+    "opciones": {
+      "a": "6.",
+      "b": "3.",
+      "c": "No hay un número mínimo.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
   }
 ]
