@@ -220,19 +220,8 @@ function setupEventListeners() {
     const btnCCAA = document.getElementById('btn-examenes-ccaa');
     if (btnCCAA) {
         btnCCAA.addEventListener('click', () => {
-            const questions = allQuestions.filter(q => q.tema === "Otras Comunidades: SACYL (Castilla y León 2008)");
-            if (questions.length === 0) {
-                alert("Error: No se han encontrado las preguntas de SACYL 2008.");
-                return;
-            }
-            // Mezclamos un poco en cada intento si se desea, o lo dejamos en el orden del array
-            questions.sort((a, b) => {
-                const na = parseInt((a.id.match(/\d+$/) || [0])[0]);
-                const nb = parseInt((b.id.match(/\d+$/) || [0])[0]);
-                return na - nb;
-            });
-
-            prepareModeSelection("Simulacro SACYL 2008", () => questions);
+            currentSource = 'Historico'; // Inside Historico
+            showTopics('CCAA');
         });
     }
 
@@ -501,7 +490,12 @@ function showTopics(part) {
             return false;
         });
     } else if (category === 'HISTORICO') {
-        relevantQuestions = sourceQuestions;
+        // Filter out 'Otras Comunidades' from the generic list
+        relevantQuestions = sourceQuestions.filter(q => !q.tema.includes('Otras Comunidades') && !q.tema.includes('Examen 2020'));
+    } else if (category === 'CCAA') {
+        // Show ONLY 'Otras Comunidades' exams
+        document.getElementById('topic-title').textContent = "Otras Comunidades Autónomas";
+        relevantQuestions = sourceQuestions.filter(q => q.tema.includes('Otras Comunidades'));
     }
 
     if (relevantQuestions.length === 0) {

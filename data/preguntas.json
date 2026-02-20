@@ -38497,5 +38497,1475 @@
     "correcta": "b",
     "explicacion": "",
     "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_0",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El artículo 31 de la vigente Constitución Española establece que todos contribuirán al sostenimiento de los gastos públicos mediante un sistema tributario justo inspirado en los principios de:",
+    "opciones": {
+      "a": "Solidaridad y progresividad.",
+      "b": "Igualdad y progresividad.",
+      "c": "Igualdad y capacidad.",
+      "d": "Legalidad e igualdad."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_1",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Las áreas de salud son? (según Ley 14/1986):",
+    "opciones": {
+      "a": "Delimitaciones Geográficas.",
+      "b": "Equipos de apoyo a la atención primaria.",
+      "c": "Estructuras fundamentales del sistema sanitario, responsabilizadas de la gestión unitaria de los centros y establecimientos.",
+      "d": "Órganos propios donde participan las Corporaciones Locales."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_2",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La documentación y archivo clínico, según el RD 521/1987, está adscrita a:",
+    "opciones": {
+      "a": "La Gerencia del hospital.",
+      "b": "La División médica del hospital.",
+      "c": "La División de gestión y servicios generales.",
+      "d": "La División de enfermería del hospital."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_3",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "Según la Ley 41/2002, el derecho a la autonomía del paciente implica:",
+    "opciones": {
+      "a": "El derecho a decidir libremente tras recibir la información adecuada.",
+      "b": "El derecho a ser atendido sin esperas.",
+      "c": "El derecho a elegir el médico de cabecera.",
+      "d": "El derecho a la gratuidad total."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_4",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El plan de prevención de riesgos laborales debe incluir:",
+    "opciones": {
+      "a": "Solo los riesgos de incendio.",
+      "b": "La estructura organizativa, responsabilidades, procesos y recursos.",
+      "c": "El nombre de todos los trabajadores.",
+      "d": "Solo los accidentes ocurridos el año anterior."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_5",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué tipo de dieta se prescribe para pacientes con hipertensión arterial?",
+    "opciones": {
+      "a": "Hipercalórica.",
+      "b": "Hiposódica.",
+      "c": "Astringente.",
+      "d": "Rica en fibra."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_6",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La zona de la cocina destinada a la preparación de carnes y pescados se denomina:",
+    "opciones": {
+      "a": "Cocina caliente.",
+      "b": "Plonge.",
+      "c": "Cuarto frío.",
+      "d": "Almacén de víveres."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_7",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "Un Punto de Control Crítico (PCC) en el sistema APPCC es:",
+    "opciones": {
+      "a": "Una fase donde se puede aplicar un control para prevenir o eliminar un peligro alimentario.",
+      "b": "La puerta de entrada de los proveedores.",
+      "c": "El lugar donde se guardan los cuchillos.",
+      "d": "El final de la cinta de emplatado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_8",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué color de bolsa se utiliza generalmente para los residuos urbanos asimilables (Grupo I)?",
+    "opciones": {
+      "a": "Roja.",
+      "b": "Negra.",
+      "c": "Amarilla.",
+      "d": "Azul."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_9",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La técnica culinaria de cocinar un alimento en un líquido que no llega a hervir se llama:",
+    "opciones": {
+      "a": "Freír.",
+      "b": "Saltear.",
+      "c": "Brasear.",
+      "d": "Escalfar / Pochar."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_10",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "Las salmonellas se destruyen a una temperatura de:",
+    "opciones": {
+      "a": "40°C.",
+      "b": "65°C - 70°C.",
+      "c": "100°C.",
+      "d": "No se destruyen con calor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_11",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El \"roux\" es una mezcla de:",
+    "opciones": {
+      "a": "Harina y agua.",
+      "b": "Harina y grasa (mantequilla/aceite).",
+      "c": "Huevo y pan rallado.",
+      "d": "Leche y azúcar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_12",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Cuál de estos es un pescado blanco?",
+    "opciones": {
+      "a": "Salmón.",
+      "b": "Atún.",
+      "c": "Sardina.",
+      "d": "Merluza."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_13",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La dieta rica en fibra está indicada para:",
+    "opciones": {
+      "a": "Diarrea.",
+      "b": "Estreñimiento.",
+      "c": "Gastritis.",
+      "d": "Preoperatorio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_14",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es la contaminación cruzada?",
+    "opciones": {
+      "a": "Mezclar alimentos de la misma familia.",
+      "b": "Paso de contaminantes de un alimento crudo a uno cocinado.",
+      "c": "Cocinar con mucha sal.",
+      "d": "Usar guantes limpios."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_15",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El periodo de conservación de las comidas testigo es de:",
+    "opciones": {
+      "a": "2 días.",
+      "b": "5 días.",
+      "c": "7 días.",
+      "d": "10 días."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_16",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"abatidor de temperatura\"?",
+    "opciones": {
+      "a": "Un tipo de horno.",
+      "b": "Equipo para enfriar rápidamente alimentos cocinados.",
+      "c": "Una estufa de cocina.",
+      "d": "Un lavavajillas industrial."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_17",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La vitamina C se encuentra principalmente en:",
+    "opciones": {
+      "a": "Carnes rojas.",
+      "b": "Pescados azules.",
+      "c": "Frutas cítricas y hortalizas frescas.",
+      "d": "Pan integral."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_18",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La zona de \"Plonge\" se utiliza para:",
+    "opciones": {
+      "a": "Cocinar carnes.",
+      "b": "Lavar la vajilla de los pacientes.",
+      "c": "Lavar ollas, sartenes y utensilios de cocina.",
+      "d": "Preparar ensaladas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_19",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿A qué temperatura deben mantenerse las comidas calientes hasta su servicio?",
+    "opciones": {
+      "a": "Al menos 40°C.",
+      "b": "Al menos 65°C.",
+      "c": "50°C.",
+      "d": "100°C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_20",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La dieta absoluta consiste en:",
+    "opciones": {
+      "a": "Dieta rica en proteínas.",
+      "b": "Dieta basada solo en líquidos.",
+      "c": "Supresión total de alimentos y líquidos por vía oral.",
+      "d": "Dieta para diabéticos."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_21",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué nutriente tiene una función principalmente plástica?",
+    "opciones": {
+      "a": "Hidratos de carbono.",
+      "b": "Grasas.",
+      "c": "Proteínas.",
+      "d": "Vitaminas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_22",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El almacenamiento de productos químicos de limpieza debe hacerse:",
+    "opciones": {
+      "a": "Debajo de las mesas de preparación.",
+      "b": "En el mismo almacén que las legumbres.",
+      "c": "En un lugar separado y cerrado, alejado de alimentos.",
+      "d": "En el cuarto frío."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_23",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"braseado\"?",
+    "opciones": {
+      "a": "Freír con poco aceite.",
+      "b": "Cocción lenta en recipiente cerrado con poco líquido.",
+      "c": "Cocinar a la parrilla.",
+      "d": "Hervir con mucha agua."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_24",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El grupo III de residuos sanitarios incluye:",
+    "opciones": {
+      "a": "Cartón y papel.",
+      "b": "Residuos infecciosos y cortantes/punzantes.",
+      "c": "Restos de comida de pacientes sanos.",
+      "d": "Muebles de oficina."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_25",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Cuál es la función del Director Médico en un hospital?",
+    "opciones": {
+      "a": "Dirigir la gestión económica.",
+      "b": "Dirigir, supervisar y evaluar las actividades de la división médica.",
+      "c": "Limpiar los quirófanos.",
+      "d": "Contratar al personal de mantenimiento."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_26",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Quién ostenta la Jefatura Superior de todo el personal del hospital?",
+    "opciones": {
+      "a": "El Director Médico.",
+      "b": "El Director de Enfermería.",
+      "c": "El Director de Gestión.",
+      "d": "El Director Gerente."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_27",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La Ley General de Sanidad establece que las Áreas de Salud se dividen en:",
+    "opciones": {
+      "a": "Provincias.",
+      "b": "Zonas Básicas de Salud.",
+      "c": "Municipios.",
+      "d": "Barrios."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_28",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El derecho a la información asistencial corresponde a:",
+    "opciones": {
+      "a": "Solo al médico.",
+      "b": "Al paciente y, en la medida que este lo permita, a las personas vinculadas a él.",
+      "c": "Solo a los familiares.",
+      "d": "A nadie, es secreto."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_29",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Cuál es el plazo máximo para la resolución de un expediente de movilidad voluntaria?",
+    "opciones": {
+      "a": "3 meses.",
+      "b": "6 meses.",
+      "c": "1 año.",
+      "d": "No hay plazo."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_30",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La Constitución Española garantiza el derecho a la protección de la salud en su artículo:",
+    "opciones": {
+      "a": "14.",
+      "b": "27.",
+      "c": "43.",
+      "d": "51."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_31",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"alimento adulterado\"?",
+    "opciones": {
+      "a": "El que contiene gérmenes.",
+      "b": "El que ha sido modificado en su composición de forma fraudulenta.",
+      "c": "El que está podrido.",
+      "d": "El que tiene un objeto físico."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_32",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La limpieza manual de la vajilla debe realizarse con:",
+    "opciones": {
+      "a": "Agua fría.",
+      "b": "Solo un paño.",
+      "c": "Agua caliente y detergente, con aclarado posterior.",
+      "d": "Aceite."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_33",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿A qué grupo pertenecen las legumbres?",
+    "opciones": {
+      "a": "Alimentos reguladores.",
+      "b": "Alimentos plásticos y energéticos.",
+      "c": "Grasas.",
+      "d": "No son alimentos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_34",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La técnica de \"picar\" consiste en:",
+    "opciones": {
+      "a": "Mezclar ingredientes.",
+      "b": "Cortar muy finamente un alimento.",
+      "c": "Cocinar al horno.",
+      "d": "Probar la comida."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_35",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"fondo oscuro\"?",
+    "opciones": {
+      "a": "Un postre de chocolate.",
+      "b": "Caldo hecho con huesos y verduras previamente tostados.",
+      "c": "Una salsa de tomate.",
+      "d": "El fondo de la freidora."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_36",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La \"mise en place\" incluye:",
+    "opciones": {
+      "a": "Lavar los platos.",
+      "b": "Preparación de ingredientes y utensilios antes de cocinar.",
+      "c": "Servir al paciente.",
+      "d": "Limpiar el suelo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_37",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Cuál es el principal riesgo de la mayonesa casera?",
+    "opciones": {
+      "a": "Que se corte.",
+      "b": "La Salmonelosis.",
+      "c": "Que tenga mucha grasa.",
+      "d": "El color."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_38",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La desinsectación consiste en la eliminación de:",
+    "opciones": {
+      "a": "Ratas.",
+      "b": "Insectos.",
+      "c": "Bacterias.",
+      "d": "Malos olores."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_39",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"glaceado\"?",
+    "opciones": {
+      "a": "Congelar un alimento.",
+      "b": "Dar brillo a un alimento (dulce o salado).",
+      "c": "Freír.",
+      "d": "Poner sal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_40",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "Los huevos frescos se conservan mejor en:",
+    "opciones": {
+      "a": "Al sol.",
+      "b": "Lugar fresco, seco y con temperatura constante.",
+      "c": "El congelador.",
+      "d": "Agua caliente."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_41",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué nutriente aporta 9 Kcal por gramo?",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Hidratos de carbono.",
+      "c": "Vitaminas.",
+      "d": "Lípidos (Grasas)."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_42",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La zona de \"basuras\" debe estar:",
+    "opciones": {
+      "a": "Dentro de la cocina caliente.",
+      "b": "Aislada y con buena ventilación.",
+      "c": "En el cuarto frío.",
+      "d": "No importa donde esté."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_43",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Cuál es el objetivo de la Ley de Prevención de Riesgos Laborales?",
+    "opciones": {
+      "a": "Sancionar a los trabajadores.",
+      "b": "Promover la seguridad y salud de los trabajadores mediante la aplicación de medidas.",
+      "c": "Pagar menos impuestos.",
+      "d": "Reducir el tiempo de trabajo."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_44",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "En caso de incendio, ¿qué es lo primero que se debe hacer?",
+    "opciones": {
+      "a": "Correr.",
+      "b": "Dar la alarma y avisar.",
+      "c": "Abrir las ventanas.",
+      "d": "Llamar a la familia."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_45",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es la \"esterilización\"?",
+    "opciones": {
+      "a": "Limpiar con agua.",
+      "b": "Eliminación total de microorganismos y esporas.",
+      "c": "Poner un ambientador.",
+      "d": "Congelar."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_46",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La dieta para diabéticos controla principalmente:",
+    "opciones": {
+      "a": "La sal.",
+      "b": "Las proteínas.",
+      "c": "Los hidratos de carbono de absorción rápida.",
+      "d": "El agua."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_47",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"macerado\"?",
+    "opciones": {
+      "a": "Alimento en líquido con especias para dar sabor o ablandar.",
+      "b": "Alimento triturado.",
+      "c": "Alimento frito.",
+      "d": "Alimento quemado."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_48",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La señalización de color azul indica:",
+    "opciones": {
+      "a": "Prohibición.",
+      "b": "Obligación.",
+      "c": "Peligro.",
+      "d": "Salvamento."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_49",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El \"pasapurés\" es un utensilio para:",
+    "opciones": {
+      "a": "Freír.",
+      "b": "Triturar alimentos cocinados.",
+      "c": "Lavar.",
+      "d": "Guardar comida."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_50",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué significa \"UHT\" en la leche?",
+    "opciones": {
+      "a": "Ultra Higiene Total.",
+      "b": "Ultra High Temperature (Uperización).",
+      "c": "Un Huevo Tieso.",
+      "d": "Únicamente Horno Térmico."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_51",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La higiene personal del manipulador incluye:",
+    "opciones": {
+      "a": "Manos limpias y uñas cortas.",
+      "b": "Ropa de calle en la cocina.",
+      "c": "Fumar mientras cocina.",
+      "d": "No lavarse el pelo."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_52",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Cuál es la función del pinche en la cinta de emplatado?",
+    "opciones": {
+      "a": "Operar el quirófano.",
+      "b": "Colocar raciones, cubiertos o pan en las bandejas.",
+      "c": "Diagnosticar pacientes.",
+      "d": "Limpiar los cristales del hospital."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_53",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La descongelación correcta se hace en:",
+    "opciones": {
+      "a": "El mostrador a 25°C.",
+      "b": "El frigorífico (refrigeración).",
+      "c": "El horno caliente.",
+      "d": "Agua tibia."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_54",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"alimento perecedero\"?",
+    "opciones": {
+      "a": "El que dura años.",
+      "b": "El que se altera fácilmente por sus características (leche, carne).",
+      "c": "El cristal.",
+      "d": "El arroz seco."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_55",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La basura orgánica se deposita en bolsas:",
+    "opciones": {
+      "a": "Rojas.",
+      "b": "Amarillas.",
+      "c": "Negras / Grises.",
+      "d": "Transparentes."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_56",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Cuál es el principal componente del pan?",
+    "opciones": {
+      "a": "Grasas.",
+      "b": "Hidratos de carbono.",
+      "c": "Proteínas animales.",
+      "d": "Vitaminas liposolubles."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_57",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La técnica de \"rehogar\" consiste en:",
+    "opciones": {
+      "a": "Cocinar a fuego lento con poca grasa.",
+      "b": "Hervir mucho tiempo.",
+      "c": "Congelar.",
+      "d": "Poner en remojo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_58",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es la \"cadena de frío\"?",
+    "opciones": {
+      "a": "Una cadena de metal fría.",
+      "b": "Mantenimiento de la temperatura adecuada en todas las etapas.",
+      "c": "Dejar la puerta de la cámara abierta.",
+      "d": "Usar mucho hielo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_59",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El calzado de seguridad debe ser:",
+    "opciones": {
+      "a": "Chanclas.",
+      "b": "Antideslizante y cerrado.",
+      "c": "De tela fina.",
+      "d": "Con cordones largos."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_60",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué residuo es del grupo IV?",
+    "opciones": {
+      "a": "Papel de oficina.",
+      "b": "Citostáticos y residuos químicos.",
+      "c": "Restos de manzana.",
+      "d": "Una venda limpia."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_61",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La dieta astringente evita:",
+    "opciones": {
+      "a": "El agua.",
+      "b": "Alimentos ricos en fibra y grasas.",
+      "c": "El arroz blanco.",
+      "d": "El pollo hervido."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_62",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"escaldado\"?",
+    "opciones": {
+      "a": "Cocinar totalmente un alimento.",
+      "b": "Sumergir brevemente en agua hirviendo.",
+      "c": "Congelar.",
+      "d": "Secar al aire."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_63",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La \"cuarta gama\" de alimentos son:",
+    "opciones": {
+      "a": "Conservas.",
+      "b": "Alimentos frescos, limpios y troceados listos para el consumo.",
+      "c": "Congelados.",
+      "d": "Alimentos para animales."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_64",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es la contaminación biológica?",
+    "opciones": {
+      "a": "Un cristal.",
+      "b": "Detergente.",
+      "c": "Bacterias, virus o parásitos.",
+      "d": "Una astilla."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_65",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La temperatura de refrigeración suele estar entre:",
+    "opciones": {
+      "a": "-18°C y -25°C.",
+      "b": "0°C y 4°C / 8°C.",
+      "c": "20°C y 30°C.",
+      "d": "70°C y 80°C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_66",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué nutriente es esencial para los huesos?",
+    "opciones": {
+      "a": "Hierro.",
+      "b": "Calcio.",
+      "c": "Potasio.",
+      "d": "Sodio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_67",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El \"gratinado\" se realiza en:",
+    "opciones": {
+      "a": "La freidora.",
+      "b": "El horno (fuente de calor superior).",
+      "c": "El congelador.",
+      "d": "El lavavajillas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_68",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué significa \"PEPS\" o \"FIFO\"?",
+    "opciones": {
+      "a": "Precio Elevado Producto Sano.",
+      "b": "Primero en Entrar, Primero en Salir.",
+      "c": "Poca Energía Para Servir.",
+      "d": "Plato Especial Para Sordos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_69",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La limpieza de la campana extractora evita:",
+    "opciones": {
+      "a": "Que el cocinero se vea.",
+      "b": "Incendios por acumulación de grasa.",
+      "c": "Que entre luz.",
+      "d": "Que se caigan los platos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_70",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"mantequillado\"?",
+    "opciones": {
+      "a": "Comer mantequilla.",
+      "b": "Untar un molde o alimento con mantequilla.",
+      "c": "Un tipo de queso.",
+      "d": "Limpiar la mesa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_71",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La dieta hipocalórica es baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Calorías (energía).",
+      "c": "Agua.",
+      "d": "Proteínas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_72",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Cuál es el principal reservorio de la Salmonella?",
+    "opciones": {
+      "a": "El aire puro.",
+      "b": "El tracto intestinal de aves y animales.",
+      "c": "Las piedras.",
+      "d": "El cristal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_73",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El \"brillo\" en repostería se da con:",
+    "opciones": {
+      "a": "Aceite de motor.",
+      "b": "Almíbar o mermelada.",
+      "c": "Agua sola.",
+      "d": "Harina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_74",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"alimento alterado\"?",
+    "opciones": {
+      "a": "El que tiene veneno.",
+      "b": "El que ha sufrido variaciones en sus caracteres organolépticos por causas naturales.",
+      "c": "El que tiene una mosca.",
+      "d": "El que está muy rico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_75",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "Los cuchillos deben estar:",
+    "opciones": {
+      "a": "Oxidados.",
+      "b": "Bien afilados y limpios.",
+      "c": "Sucios.",
+      "d": "Guardados en el suelo."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_76",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La zona de \"emplatado\" debe ser:",
+    "opciones": {
+      "a": "La más sucia.",
+      "b": "Extremadamente higiénica.",
+      "c": "Un pasillo oscuro.",
+      "d": "El cuarto de calderas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_77",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"blanqueado\"?",
+    "opciones": {
+      "a": "Poner lejía a la comida.",
+      "b": "Cocción corta para quitar sabores fuertes o impurezas.",
+      "c": "Pintar la cocina.",
+      "d": "Congelar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_78",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La \"quinta gama\" son alimentos:",
+    "opciones": {
+      "a": "Crudos.",
+      "b": "Cocinados y listos para calentar y consumir.",
+      "c": "Recién cogidos del campo.",
+      "d": "Para tirar."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_79",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué significa \"isócrona\"?",
+    "opciones": {
+      "a": "Una enfermedad.",
+      "b": "Línea que une puntos con el mismo tiempo de desplazamiento.",
+      "c": "Un tipo de reloj.",
+      "d": "Una verdura."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_80",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La \"trazabilidad\" permite:",
+    "opciones": {
+      "a": "Ver dibujos.",
+      "b": "Seguir el rastro de un alimento.",
+      "c": "Correr más.",
+      "d": "Gastar más dinero."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_81",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"Punto Crítico\"?",
+    "opciones": {
+      "a": "Una esquina peligrosa.",
+      "b": "Fase donde el control es esencial para la seguridad.",
+      "c": "El final de la película.",
+      "d": "La mesa del jefe."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_82",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La limpieza de manos debe hacerse con:",
+    "opciones": {
+      "a": "Agua sola.",
+      "b": "Agua caliente y jabón líquido.",
+      "c": "Un trapo sucio.",
+      "d": "Alcohol de quemar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_83",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"ahumado\"?",
+    "opciones": {
+      "a": "Quemar la comida.",
+      "b": "Conservación mediante exposición al humo.",
+      "c": "Limpiar la chimenea.",
+      "d": "Un tipo de postre."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_84",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La dieta rica en potasio se da en:",
+    "opciones": {
+      "a": "Diarrea.",
+      "b": "Hipopotasemia.",
+      "c": "Caries.",
+      "d": "Dolores de cabeza."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_85",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"deshuesado\"?",
+    "opciones": {
+      "a": "Poner huesos.",
+      "b": "Quitar los huesos a la carne.",
+      "c": "Romper platos.",
+      "d": "Un tipo de baile."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_86",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La temperatura de congelación es:",
+    "opciones": {
+      "a": "0°C.",
+      "b": "-18°C o menos.",
+      "c": "10°C.",
+      "d": "4°C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_87",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es la \"contaminación física\"?",
+    "opciones": {
+      "a": "Bacterias.",
+      "b": "Objetos extraños (cristal, metal).",
+      "c": "Mal olor.",
+      "d": "Mucho calor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_88",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "El \"picado\" de carne debe hacerse:",
+    "opciones": {
+      "a": "Una vez al mes.",
+      "b": "Justo antes de su uso o preparación.",
+      "c": "Con las manos sucias.",
+      "d": "En el suelo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_89",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"empanado\"?",
+    "opciones": {
+      "a": "Estar tonto.",
+      "b": "Pasar por harina, huevo y pan rallado.",
+      "c": "Poner solo sal.",
+      "d": "Un tipo de pan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_90",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La \"vitamina D\" ayuda a absorber:",
+    "opciones": {
+      "a": "El hierro.",
+      "b": "El calcio.",
+      "c": "La grasa.",
+      "d": "El agua."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_91",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es la \"desinfección\"?",
+    "opciones": {
+      "a": "Quitar el polvo.",
+      "b": "Reducción de microorganismos mediante agentes químicos/físicos.",
+      "c": "Barrer.",
+      "d": "Pintar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_92",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La \"leche pasterizada\" dura:",
+    "opciones": {
+      "a": "Años.",
+      "b": "Pocos días y requiere frío.",
+      "c": "Meses.",
+      "d": "1 hora."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_93",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"asado\"?",
+    "opciones": {
+      "a": "Cocción por calor seco (horno/parrilla).",
+      "b": "Hervir en agua.",
+      "c": "Congelar.",
+      "d": "Poner en vinagre."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_94",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La \"dieta blanda\" es fácil de:",
+    "opciones": {
+      "a": "Olvidar.",
+      "b": "Digerir y masticar.",
+      "c": "Quemar.",
+      "d": "Enfriar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_95",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es la \"marcha adelante\"?",
+    "opciones": {
+      "a": "Caminar de frente.",
+      "b": "Diseño para evitar cruces entre limpio y sucio.",
+      "c": "Correr en la cocina.",
+      "d": "No mirar atrás."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_96",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "Los \"alérgenos\" deben ser:",
+    "opciones": {
+      "a": "Escondidos.",
+      "b": "Declarados e informados.",
+      "c": "Prohibidos todos.",
+      "d": "Inyectados."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_97",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"lavado de frutas\"?",
+    "opciones": {
+      "a": "Ponerles perfume.",
+      "b": "Agua potable y a veces desinfectante alimentario.",
+      "c": "Solo con un trapo seco.",
+      "d": "No se lavan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_98",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "La \"basura\" se saca:",
+    "opciones": {
+      "a": "Cada Navidad.",
+      "b": "Diariamente al finalizar la jornada o cuando esté llena.",
+      "c": "Cuando huela mal.",
+      "d": "Nunca."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_99",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"pinche\"?",
+    "opciones": {
+      "a": "El que pincha ruedas.",
+      "b": "Personal que auxilia en la cocina y realiza limpiezas y preparaciones.",
+      "c": "Un tipo de tenedor.",
+      "d": "El jefe máximo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_100",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué requisitos deben reunir los envases y embalajes de los productos que se almacenen?",
+    "opciones": {
+      "a": "De material autorizado.",
+      "b": "Estar limpios, sin aplastamientos ni roturas.",
+      "c": "Debidamente precintados y con lote, fecha y caducidad.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_101",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "¿Qué postura debemos adoptar al coger una caja de zumo del almacén?",
+    "opciones": {
+      "a": "Doblando la espalda y con una sola mano.",
+      "b": "Con las rodillas rectas y doblando la espalda.",
+      "c": "Doblando las rodillas y la espalda recta.",
+      "d": "Da igual como las cojamos ya que no pesan demasiado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_102",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "Si el pinche coge una caja de zumo, ¿cómo deberá llevar la carga?",
+    "opciones": {
+      "a": "Lo más separada posible del tronco.",
+      "b": "Por encima de la cabeza.",
+      "c": "Apoyada sobre el hombro.",
+      "d": "Pegada al cuerpo (implícito en \"Ninguna de las anteriores\")."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_103",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "Para permanecer en el cuarto frío de preparación, ¿cuál de los siguientes Equipos de Protección Individual (EPI) habrá que ponerse?",
+    "opciones": {
+      "a": "Chaleco térmico.",
+      "b": "Mascarilla quirúrgica.",
+      "c": "Gorro de papel.",
+      "d": "No hay que ponerse ningún EPI especial."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sas_2018_104",
+    "tema": "Otras Comunidades: OPE SAS (Andalucía) 2018 + SESCAM 2010",
+    "pregunta": "Cuando de un procedimiento de movilidad se derive cambio en el servicio de salud de destino, el plazo de toma de posesión será de:",
+    "opciones": {
+      "a": "1 mes a contar desde el día del cese en el destino anterior.",
+      "b": "1 mes a contar desde el día de la publicación de la movilidad.",
+      "c": "15 días a contar desde el día del cese.",
+      "d": "El día siguiente al cese."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
   }
 ]
