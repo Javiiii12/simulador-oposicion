@@ -22,8 +22,8 @@ const views = {
 };
 
 // Security & Supabase
-const _supabaseUrl = 'https://fthltpsnuhwghclzvexi.supabase.co';
-const _supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ0aGx0cHNudWh3Z2hjbHp2ZXhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAwMDQ0MTksImV4cCI6MjA1NTU4MDQxOX0.jS3j9wN_-1M7OlyvV0W5vYm_9j1v6X0W-jS3j9wN_-1M';
+const _supabaseUrl = 'https://eykwcwgplldapzjnxuym.supabase.co';
+const _supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV5a3djd2dwbGxkYXB6am54dXltIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAwMjE2ODEsImV4cCI6MjA1NTU5NzY4MX0.sS9lq7W4O1T9zLqjC0zX8_4L7K1P3S_0H9k9uH8Z_8c';
 let supabaseClient = null;
 const VALID_HASH = "6df795bb7e73343384fb90ff03841e6f7b0a585ab9f50e2e6e7ec398b722f508";
 
