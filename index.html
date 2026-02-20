@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simulador OPE Pinche</title>
-    <link rel="stylesheet" href="css/style.css?v=5.0">
+    <link rel="stylesheet" href="css/style.css?v=6.0">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
@@ -70,9 +70,18 @@
 
         <!-- VISTA: MENÚ PRINCIPAL (Pinche) -->
         <div id="view-menu" class="view hidden">
-            <button id="btn-back-menu" class="btn-icon" style="position:absolute; left:20px; top:20px;">&#8592;</button>
-            <h1 style="margin-top:20px;">Simulador OPE Pinche</h1>
-            <p class="subtitle">Selecciona una fuente de estudio</p>
+            <header class="view-header"
+                style="position: relative; justify-content: center; margin-bottom: 5px; border: none; padding-bottom: 0; min-height: 50px;">
+                <button id="btn-back-menu" class="btn-icon"
+                    style="position:absolute; left:0; top: 50%; transform: translateY(-50%);">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg>
+                </button>
+                <h1 style="margin:0;">Simulador OPE Pinche</h1>
+            </header>
+            <p class="subtitle" style="text-align: center; margin-bottom: 25px;">Selecciona una fuente de estudio</p>
 
             <div class="menu-grid">
                 <!-- Nivel Maestro: Selección de Fuente -->
@@ -112,7 +121,10 @@
         <!-- VISTA: SELECCIÓN DE PARTE (General / Específica) -->
         <div id="view-parts" class="view hidden">
             <header class="view-header">
-                <button id="btn-back-parts" class="btn-icon">&#8592;</button>
+                <button id="btn-back-parts" class="btn-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg></button>
                 <h2 id="parts-title">Fuente Seleccionada</h2>
             </header>
 
@@ -131,7 +143,10 @@
         <!-- VISTA: MENÚ EXÁMENES OPE 2020 -->
         <div id="view-exams-menu" class="view hidden">
             <header class="view-header">
-                <button id="btn-back-exams" class="btn-icon">&#8592;</button>
+                <button id="btn-back-exams" class="btn-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg></button>
                 <h2>Exámenes Años Anteriores</h2>
             </header>
 
@@ -167,7 +182,10 @@
         <!-- VISTA: SELECCIÓN DE MODALIDAD (Entrenamiento vs Examen) -->
         <div id="view-mode-selection" class="view hidden">
             <header class="view-header">
-                <button id="btn-back-mode" class="btn-icon">&#8592;</button>
+                <button id="btn-back-mode" class="btn-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg></button>
                 <h2>Configura tu Test</h2>
             </header>
 
@@ -193,7 +211,11 @@
         <!-- VISTA: SELECCIÓN DE TEMAS -->
         <div id="view-topics" class="view hidden">
             <header class="view-header">
-                <button id="btn-back-topics" class="btn-icon">&#8592;</button>
+                <button id="btn-back-topics" class="btn-icon"><svg width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg></button>
                 <h2 id="topic-title">Temas</h2>
             </header>
 
@@ -205,7 +227,11 @@
         <!-- VISTA: MI PROGRESO -->
         <div id="view-progress" class="view hidden">
             <header class="view-header">
-                <button id="btn-back-progress" class="btn-icon">&#8592;</button>
+                <button id="btn-back-progress" class="btn-icon"><svg width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg></button>
                 <h2>Mi Historial</h2>
             </header>
 
@@ -232,7 +258,11 @@
         <!-- VISTA: CONFIGURACIÓN ALEATORIA -->
         <div id="view-random" class="view hidden">
             <header class="view-header">
-                <button id="btn-back-random" class="btn-icon">&#8592;</button>
+                <button id="btn-back-random" class="btn-icon"><svg width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg></button>
                 <h2>Modo Aleatorio Avanzado</h2>
             </header>
             <div class="config-box" style="text-align: left;">
@@ -292,14 +322,21 @@
                     <p style="font-size:0.8rem; color:#777; margin-top:0;">Máximo 100.</p>
                 </div>
                 <br>
-                <button id="btn-start-random" class="btn-primary">Comenzar Test Aleatorio &#8594;</button>
+                <button id="btn-start-random" class="btn-primary">Comenzar Test Aleatorio <svg width="24" height="24"
+                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M5 12h14M12 5l7 7-7 7" />
+                    </svg></button>
             </div>
         </div>
 
         <!-- VISTA: JUEGO (SIMULADOR) -->
         <div id="view-game" class="view hidden">
             <header class="game-header">
-                <button id="btn-quit-game" class="btn-back">&#8592;</button>
+                <button id="btn-quit-game" class="btn-back"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg></button>
 
                 <!-- NEW FEATURE: "Borrar Fallos" header button -->
                 <button id="btn-clear-failures-header" class="btn-small hidden"
@@ -348,8 +385,16 @@
             </div>
 
             <div class="controls">
-                <button id="btn-prev" class="btn-secondary hidden" style="margin-right:10px;">&#8592; Anterior</button>
-                <button id="btn-next" class="btn-primary hidden">Siguiente &#8594;</button>
+                <button id="btn-prev" class="btn-secondary hidden" style="margin-right:10px;"><svg width="24"
+                        height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg> Anterior</button>
+                <button id="btn-next" class="btn-primary hidden">Siguiente <svg width="24" height="24"
+                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M5 12h14M12 5l7 7-7 7" />
+                    </svg></button>
             </div>
         </div>
 
