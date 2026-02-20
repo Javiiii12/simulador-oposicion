@@ -42907,5 +42907,2945 @@
     "correcta": "d",
     "explicacion": "",
     "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_0",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es la contaminación cruzada?",
+    "opciones": {
+      "a": "Es la proliferación de microorganismos patógenos en un alimento por exceso de agua.",
+      "b": "Es la proliferación de microorganismos patógenos en un alimento por falta de frío.",
+      "c": "Es la transmisión de microorganismos de un alimento contaminado, normalmente crudo a otro que no lo estaba, normalmente ya cocinado.",
+      "d": "Es la excesiva madurez de un pescado o carne."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_1",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es trazabilidad de un producto?",
+    "opciones": {
+      "a": "Establecer correspondencias entre el origen del alimento, su procesado y su distribución.",
+      "b": "Examen de calibraciones realizadas a equipos.",
+      "c": "Examen de los resultados contrastados de mantenimiento de equipos.",
+      "d": "No habrá registro de entrada de suministros y proveedores."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_2",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Cuál de estos ingredientes no entra dentro de la receta de las natillas finas o salsa inglesa?",
+    "opciones": {
+      "a": "Leche.",
+      "b": "Azúcar.",
+      "c": "Claras de huevo.",
+      "d": "Corteza de limón."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_3",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "A la vista de lo establecido en el artículo 24 de la Constitución Española, señale la respuesta correcta:",
+    "opciones": {
+      "a": "La ley regulará los casos en que, por razón de parentesco o de secreto profesional, no se estará obligado a declarar sobre hechos presuntamente delictivos.",
+      "b": "La ley regulará los casos en que, por razón de parentesco, defensa o de secreto profesional, no se estará obligado a declarar sobre hechos presuntamente delictivos.",
+      "c": "Las penas de prisión y las medidas de seguridad estarán orientadas hacia la reeducación y reinserción social.",
+      "d": "Se prohíben los Tribunales de Honor en el ámbito de la Administración Civil."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_4",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "A tenor del artículo 43 de la Constitución Española, compete a los poderes públicos organizar y tutelar la salud pública a través de:",
+    "opciones": {
+      "a": "Medidas preventivas y de las prestaciones y servicios necesarios.",
+      "b": "Medidas de control y de las prestaciones y servicios necesarios.",
+      "c": "Medidas preventivas y de control de los servicios necesarios.",
+      "d": "Ninguna respuesta es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_5",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Quién define los platos que componen cada dieta?",
+    "opciones": {
+      "a": "El Servicio de Nutrición Clínica.",
+      "b": "El Servicio de Medicina Preventiva.",
+      "c": "El Jefe de Cocina.",
+      "d": "El Cocinero."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_6",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Cómo se sabrá el contenido de la bandeja sin abrirla?",
+    "opciones": {
+      "a": "Mediante la identificación por códigos.",
+      "b": "Poniendo en carros diferentes los tipos de dietas.",
+      "c": "Con el nombre del paciente.",
+      "d": "Es necesario abrir la bandeja para conocer su contenido."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_7",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Para qué se utiliza la sal en el lavavajillas?",
+    "opciones": {
+      "a": "Para eliminar la grasa.",
+      "b": "Para que funcione óptimamente el sistema de descalcificación del agua.",
+      "c": "Para impedir la formación de gotas de agua en la vajilla.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_8",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Por qué se debe seguir el principio de marcha adelante en la cocina?",
+    "opciones": {
+      "a": "Para evitar que los alimentos vuelvan atrás en el proceso.",
+      "b": "Para evitar que se produzcan cruces entre zonas sucias y zonas limpias.",
+      "c": "Para disminuir el riesgo de contaminación de alimentos.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_9",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Si se hubiera detectado un problema de contaminación de los alimentos por malas prácticas, ¿qué tipo de medidas se deberían plantear?",
+    "opciones": {
+      "a": "Preventivas.",
+      "b": "Correctoras.",
+      "c": "De control.",
+      "d": "De verificación."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_10",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Las mesas de trabajo de la cocina se fregarán con:",
+    "opciones": {
+      "a": "Agua y lejía.",
+      "b": "Agua jabonosa.",
+      "c": "Agua limpia con bactericida.",
+      "d": "Producto desincrustante."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_11",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿De qué factores depende la frecuencia en la limpieza?",
+    "opciones": {
+      "a": "Frecuencia de uso.",
+      "b": "Estado previo de la limpieza.",
+      "c": "Tipo de alimentos que se elaboren.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_12",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Para el accionamiento de un extintor se comienza por:",
+    "opciones": {
+      "a": "Quitar el pasador de seguridad tirando de su anilla.",
+      "b": "Apretando la palanca hacia la maneta fija.",
+      "c": "Empuñando la boquilla de la manguera.",
+      "d": "Dirigiendo el chorro hacia la parte más alta de las llamas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_13",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué efecto tiene el frío sobre los alimentos?",
+    "opciones": {
+      "a": "Mata a los microorganismos, alargando la vida útil del alimento.",
+      "b": "Solidifica el agua, impidiendo que esté disponible para los microorganismos.",
+      "c": "Acidifica el medio, modificando su sabor.",
+      "d": "Las respuestas a y b son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_14",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué criterios de calidad aplicará el Pinche de Cocina en el trabajo de manipulación de alimentos?",
+    "opciones": {
+      "a": "Máximo aprovechamiento de los géneros.",
+      "b": "Aplicación de técnicas adecuadas de cocción de los alimentos.",
+      "c": "Maximización del uso de los equipos y medios energéticos.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_15",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La conformidad del paciente a que se refiere la Ley 41/2002 sobre el consentimiento informado, cumplirá los requisitos de:",
+    "opciones": {
+      "a": "Voluntaria y comprensible.",
+      "b": "Libre y comprensible.",
+      "c": "Voluntaria y libre.",
+      "d": "Comprensible y consciente."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_16",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Según la Ley General de Sanidad, el control sanitario de las escuelas es competencia que corresponde:",
+    "opciones": {
+      "a": "Al Estado, a través de las Delegaciones del Gobierno.",
+      "b": "A las Diputaciones Provinciales en el ámbito de su Provincia.",
+      "c": "A los Ayuntamientos en sus respectivos ámbitos municipales.",
+      "d": "A la correspondiente Comunidad Autónoma."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_17",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Cuál de los siguientes equipos es un Equipo de Protección Colectiva?",
+    "opciones": {
+      "a": "Las señales de emergencia.",
+      "b": "El resguardo de la cortadora de fiambre.",
+      "c": "El guante de malla de acero.",
+      "d": "Las señales de evacuación."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_18",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es el efecto invernadero?",
+    "opciones": {
+      "a": "Acumulación de residuos orgánicos en el litoral marino.",
+      "b": "Subida de la temperatura de la atmósfera por concentración de gases como el dióxido de carbono.",
+      "c": "La cantidad de contaminantes que emite una fábrica.",
+      "d": "La contaminación acuática producida en los polos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_19",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Los envases de zumos, agua y productos lácteos producidos en la cocina hospitalaria se consideran:",
+    "opciones": {
+      "a": "Residuos generales asimilables a urbanos.",
+      "b": "Residuos hospitalarios asimilables a urbanos.",
+      "c": "Residuos sanitarios asimilables a urbanos.",
+      "d": "Residuos higiénicos asimilables a urbanos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_20",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Separar en las cocinas las zonas frías y las calientes nos permitirá:",
+    "opciones": {
+      "a": "Minimizar los residuos al evitar la caducidad.",
+      "b": "Reducir el consumo energético.",
+      "c": "Reducir el consumo de agua.",
+      "d": "No permite ninguna mejora ambiental."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_21",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La cámara de productos cárnicos deberá estar a una temperatura de:",
+    "opciones": {
+      "a": "Temperatura entre -1°C y 3°C.",
+      "b": "Temperatura entre 4°C y 6°C.",
+      "c": "Temperatura entre -3°C y -10°C.",
+      "d": "Temperatura entre -6°C y -10°C."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_22",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "El cuarto de preparación de carnes con temperatura inferior a 18°C es:",
+    "opciones": {
+      "a": "Es la zona donde se preparan todas las carnes y aves.",
+      "b": "Es la zona de cocción de todas las carnes y aves.",
+      "c": "Es la zona de congelación de todas las carnes y aves.",
+      "d": "Es la zona donde se limpian las verduras."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_23",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es un producto sucedáneo?",
+    "opciones": {
+      "a": "Todo producto alimenticio sin fines engañosos.",
+      "b": "Todo producto alimenticio con expresa declaración de la finalidad.",
+      "c": "Todo producto alimenticio que pretenda sustituir en todo o en parte a un alimento.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_24",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es la desecación?",
+    "opciones": {
+      "a": "Es igual que la liofilización.",
+      "b": "Es igual que la deshidratación.",
+      "c": "La extracción de la humedad sin utilizar condiciones ambientales naturales.",
+      "d": "La extracción de la humedad utilizando las condiciones ambientales naturales."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_25",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué nutriente es la principal fuente de energía inmediata para el organismo?",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Vitaminas.",
+      "c": "Hidratos de carbono.",
+      "d": "Minerales."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_26",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿A qué grupo pertenecen los pescados azules?",
+    "opciones": {
+      "a": "Alimentos reguladores.",
+      "b": "Alimentos plásticos y energéticos por su contenido en grasa y proteínas.",
+      "c": "Alimentos sin valor nutritivo.",
+      "d": "Hidratos de carbono complejos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_27",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué residuo sanitario pertenece al Grupo II?",
+    "opciones": {
+      "a": "Agujas y bisturís.",
+      "b": "Restos de comida de pacientes no infecciosos y material de curas menor.",
+      "c": "Líquidos radioactivos.",
+      "d": "Papel de oficina."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_28",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La ley que regula la prevención de riesgos laborales es:",
+    "opciones": {
+      "a": "Ley 14/1986.",
+      "b": "Ley 31/1995.",
+      "c": "Ley 55/2003.",
+      "d": "Ley 41/2002."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_29",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "En un incendio de tipo B (líquidos), no se debe usar:",
+    "opciones": {
+      "a": "Polvo seco.",
+      "b": "CO2.",
+      "c": "Agua a chorro.",
+      "d": "Espuma."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_30",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Cómo se define el término \"Pinche\" en el ámbito sanitario?",
+    "opciones": {
+      "a": "Como personal de enfermería.",
+      "b": "Como personal directivo.",
+      "c": "Como personal no sanitario encargado de auxiliar en las tareas de cocina.",
+      "d": "Como personal de limpieza externa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_31",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"abatidor de temperatura\"?",
+    "opciones": {
+      "a": "Un ventilador.",
+      "b": "Un equipo que baja rápidamente la temperatura de los alimentos cocinados.",
+      "c": "Una nevera normal.",
+      "d": "Un congelador de arcón."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_32",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué significa \"punto crítico\" en cocina?",
+    "opciones": {
+      "a": "El momento de servir la cena.",
+      "b": "Una etapa del proceso donde el control es esencial para prevenir un riesgo.",
+      "c": "Cuando se acaba el aceite.",
+      "d": "La hora punta de trabajo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_33",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La dieta absoluta se caracteriza por:",
+    "opciones": {
+      "a": "Comer de todo.",
+      "b": "La prohibición total de ingerir alimentos o líquidos.",
+      "c": "Solo beber agua.",
+      "d": "Solo comer purés."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_34",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La \"cuarta gama\" de alimentos se refiere a:",
+    "opciones": {
+      "a": "Conservas.",
+      "b": "Productos frescos lavados, cortados y envasados listos para consumir.",
+      "c": "Congelados.",
+      "d": "Alimentos cocinados."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_35",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "El almacenamiento de las carnes frescas debe ser entre:",
+    "opciones": {
+      "a": "10 y 15 grados.",
+      "b": "0 y 4 grados.",
+      "c": "-18 grados.",
+      "d": "Temperatura ambiente."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_36",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"braseado\"?",
+    "opciones": {
+      "a": "Freír.",
+      "b": "Un método de cocción mixta: primero se dora y luego se cuece en líquido.",
+      "c": "Cocinar al vapor.",
+      "d": "Comer crudo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_37",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La basura en cocina se debe retirar:",
+    "opciones": {
+      "a": "Una vez a la semana.",
+      "b": "Diariamente y cada vez que el cubo esté lleno.",
+      "c": "Solo por las noches.",
+      "d": "Cuando huela mal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_38",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Cuál de estos es un pescado blanco?",
+    "opciones": {
+      "a": "Sardina.",
+      "b": "Salmón.",
+      "c": "Atún.",
+      "d": "Merluza."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_39",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La técnica de \"picar\" consiste en:",
+    "opciones": {
+      "a": "Probar la salsa.",
+      "b": "Cortar alimentos en trozos muy pequeños.",
+      "c": "Pinchar la carne.",
+      "d": "Decorar el plato."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_40",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"roux\"?",
+    "opciones": {
+      "a": "Un tipo de pan.",
+      "b": "Una mezcla de harina y grasa a partes iguales usada para ligar salsas.",
+      "c": "Una especia.",
+      "d": "Una bebida."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_41",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La dieta astringente se usa para:",
+    "opciones": {
+      "a": "Pacientes con estreñimiento.",
+      "b": "Pacientes con diarrea.",
+      "c": "Diabéticos.",
+      "d": "Hipertensos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_42",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Cuál es el principal peligro de usar tablas de madera en cocina industrial?",
+    "opciones": {
+      "a": "Pesan mucho.",
+      "b": "Son caras.",
+      "c": "Son porosas y difíciles de desinfectar, favoreciendo el crecimiento bacteriano.",
+      "d": "Se rompen con facilidad."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_43",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es el escaldado?",
+    "opciones": {
+      "a": "Cocinar al horno.",
+      "b": "Sumergir brevemente un alimento en agua hirviendo.",
+      "c": "Congelar.",
+      "d": "Poner en vinagre."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_44",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La temperatura de un plato caliente en la cinta de emplatado debe ser:",
+    "opciones": {
+      "a": "Mínimo 65 grados.",
+      "b": "20 grados.",
+      "c": "40 grados.",
+      "d": "100 grados."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_45",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La formación de los manipuladores de alimentos deberá ser:",
+    "opciones": {
+      "a": "Adaptada a cada empresa alimentaria según las necesidades detectadas.",
+      "b": "Cursos de 2 horas.",
+      "c": "Cursos de 4 horas.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_46",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "En las instalaciones donde se manipulan alimentos está:",
+    "opciones": {
+      "a": "Prohibido fumar, comer, mascar chicle o cualquier otra conducta no higiénica.",
+      "b": "Prohibido fumar, pero si se puede comer.",
+      "c": "No se puede mascar chicles, pero se puede comer.",
+      "d": "Está prohibido mascar chicle pero se puede fumar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_47",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿A qué temperatura se deben conservar las comidas calientes?",
+    "opciones": {
+      "a": "A más o igual a 65°C.",
+      "b": "A menos de 65°C.",
+      "c": "A 45°C.",
+      "d": "A 50°C."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_48",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La dieta rica en fibra está indicada para:",
+    "opciones": {
+      "a": "Diarrea.",
+      "b": "Estreñimiento.",
+      "c": "Gastritis.",
+      "d": "Preoperatorio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_49",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "El periodo de conservación de las comidas testigo es de:",
+    "opciones": {
+      "a": "2 días.",
+      "b": "5 días.",
+      "c": "7 días.",
+      "d": "10 días."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_50",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"alimento adulterado\"?",
+    "opciones": {
+      "a": "El que contiene gérmenes.",
+      "b": "El que ha sido modificado en su composición de forma fraudulenta.",
+      "c": "El que está podrido.",
+      "d": "El que tiene un objeto físico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_51",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La técnica de \"picar\" consiste en:",
+    "opciones": {
+      "a": "Cortar finamente.",
+      "b": "Probar.",
+      "c": "Trocear.",
+      "d": "Mezclar."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_52",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La dieta para diabéticos controla principalmente:",
+    "opciones": {
+      "a": "La sal.",
+      "b": "Las proteínas.",
+      "c": "Los hidratos de carbono de absorción rápida.",
+      "d": "El agua."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_53",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La señalización de color azul indica:",
+    "opciones": {
+      "a": "Prohibición.",
+      "b": "Obligación.",
+      "c": "Peligro.",
+      "d": "Salvamento."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_54",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué significa \"UHT\" en la leche?",
+    "opciones": {
+      "a": "Ultra Higiene Total.",
+      "b": "Ultra High Temperature.",
+      "c": "Un Huevo Tieso.",
+      "d": "Únicamente Horno Térmico."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_55",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La higiene personal del manipulador incluye:",
+    "opciones": {
+      "a": "Manos limpias y uñas cortas.",
+      "b": "Ropa de calle en la cocina.",
+      "c": "Fumar mientras cocina.",
+      "d": "No lavarse el pelo."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_56",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Cuál es la función del pinche en la cinta de emplatado?",
+    "opciones": {
+      "a": "Operar el quirófano.",
+      "b": "Colocar raciones, cubiertos o pan.",
+      "c": "Diagnosticar pacientes.",
+      "d": "Limpiar los cristales del hospital."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_57",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"alimento perecedero\"?",
+    "opciones": {
+      "a": "El que dura años.",
+      "b": "El que se altera fácilmente por sus características.",
+      "c": "El cristal.",
+      "d": "El arroz seco."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_58",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La \"cadena de frío\" es:",
+    "opciones": {
+      "a": "Una cadena de metal fría.",
+      "b": "Mantenimiento de la temperatura adecuada en todas las etapas.",
+      "c": "Dejar la puerta de la cámara abierta.",
+      "d": "Usar mucho hielo."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_59",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "El calzado de seguridad debe ser:",
+    "opciones": {
+      "a": "Chanclas.",
+      "b": "Antideslizante y cerrado.",
+      "c": "De tela fina.",
+      "d": "Con cordones largos."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_60",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La dieta astringente evita:",
+    "opciones": {
+      "a": "El agua.",
+      "b": "Alimentos ricos en fibra y grasas.",
+      "c": "El arroz blanco.",
+      "d": "El pollo hervido."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_61",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es la contaminación biológica?",
+    "opciones": {
+      "a": "Un cristal.",
+      "b": "Detergente.",
+      "c": "Bacterias, virus o parásitos.",
+      "d": "Una astilla."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_62",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La temperatura de refrigeración suele estar entre:",
+    "opciones": {
+      "a": "-18°C y -25°C.",
+      "b": "0°C y 4°C / 8°C.",
+      "c": "20°C y 30°C.",
+      "d": "70°C y 80°C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_63",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué nutriente es esencial para los huesos?",
+    "opciones": {
+      "a": "Hierro.",
+      "b": "Calcio.",
+      "c": "Potasio.",
+      "d": "Sodio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_64",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "El \"gratinado\" se realiza en:",
+    "opciones": {
+      "a": "La freidora.",
+      "b": "El horno (fuente de calor superior).",
+      "c": "El congelador.",
+      "d": "El lavavajillas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_65",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué significa \"PEPS\" o \"FIFO\"?",
+    "opciones": {
+      "a": "Precio Elevado Producto Sano.",
+      "b": "Primero en Entrar, Primero en Salir.",
+      "c": "Poca Energía Para Servir.",
+      "d": "Plato Especial Para Sordos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_66",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La limpieza de la campana extractora evita:",
+    "opciones": {
+      "a": "Que el cocinero se vea.",
+      "b": "Incendios por acumulación de grasa.",
+      "c": "Que entre luz.",
+      "d": "Que se caigan los platos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_67",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La dieta hipocalórica es baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Calorías (energía).",
+      "c": "Agua.",
+      "d": "Proteínas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_68",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Cuál es el principal reservorio de la Salmonella?",
+    "opciones": {
+      "a": "El aire puro.",
+      "b": "El tracto intestinal de aves y animales.",
+      "c": "Las piedras.",
+      "d": "El cristal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_69",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es un \"alimento alterado\"?",
+    "opciones": {
+      "a": "El que tiene veneno.",
+      "b": "El que ha sufrido variaciones en sus caracteres organolépticos por causas naturales.",
+      "c": "El que tiene una mosca.",
+      "d": "El que está muy rico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_70",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Los cuchillos deben estar:",
+    "opciones": {
+      "a": "Oxidados.",
+      "b": "Bien afilados y limpios.",
+      "c": "Sucios.",
+      "d": "Guardados en el suelo."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_71",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La zona de \"emplatado\" debe ser:",
+    "opciones": {
+      "a": "La más sucia.",
+      "b": "Extremadamente higiénica.",
+      "c": "Un pasillo oscuro.",
+      "d": "El cuarto de calderas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_72",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La \"quinta gama\" son alimentos:",
+    "opciones": {
+      "a": "Crudos.",
+      "b": "Cocinados y listos para calentar y consumir.",
+      "c": "Recién cogidos del campo.",
+      "d": "Para tirar."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_73",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué significa \"isócrona\"?",
+    "opciones": {
+      "a": "Una enfermedad.",
+      "b": "Línea que une puntos con el mismo tiempo de desplazamiento.",
+      "c": "Un tipo de reloj.",
+      "d": "Una verdura."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_74",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La \"trazabilidad\" permite:",
+    "opciones": {
+      "a": "Ver dibujos.",
+      "b": "Seguir el rastro de un alimento.",
+      "c": "Correr más.",
+      "d": "Gastar más dinero."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_75",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La limpieza de manos debe hacerse con:",
+    "opciones": {
+      "a": "Agua sola.",
+      "b": "Agua caliente y jabón líquido.",
+      "c": "Un trapo sucio.",
+      "d": "Alcohol de quemar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_76",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"ahumado\"?",
+    "opciones": {
+      "a": "Quemar la comida.",
+      "b": "Conservación mediante exposición al humo.",
+      "c": "Limpiar la chimenea.",
+      "d": "Un tipo de postre."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_77",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"deshuesado\"?",
+    "opciones": {
+      "a": "Poner huesos.",
+      "b": "Quitar los huesos a la carne.",
+      "c": "Romper platos.",
+      "d": "Un tipo de baile."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_78",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La temperatura de congelación es:",
+    "opciones": {
+      "a": "0°C.",
+      "b": "-18°C o menos.",
+      "c": "10°C.",
+      "d": "4°C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_79",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es la \"contaminación física\"?",
+    "opciones": {
+      "a": "Bacterias.",
+      "b": "Objetos extraños (cristal, metal).",
+      "c": "Mal olor.",
+      "d": "Mucho calor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_80",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "El \"picado\" de carne debe hacerse:",
+    "opciones": {
+      "a": "Una vez al mes.",
+      "b": "Justo antes de su uso o preparación.",
+      "c": "Con las manos sucias.",
+      "d": "En el suelo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_81",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"empanado\"?",
+    "opciones": {
+      "a": "Estar tonto.",
+      "b": "Pasar por harina, huevo y pan rallado.",
+      "c": "Poner solo sal.",
+      "d": "Un tipo de pan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_82",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La \"vitamina D\" ayuda a absorber:",
+    "opciones": {
+      "a": "El hierro.",
+      "b": "El calcio.",
+      "c": "La grasa.",
+      "d": "El agua."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_83",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es la \"desinfección\"?",
+    "opciones": {
+      "a": "Quitar el polvo.",
+      "b": "Reducción de microorganismos mediante agentes químicos/físicos.",
+      "c": "Barrer.",
+      "d": "Pintar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_84",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La \"leche pasterizada\" dura:",
+    "opciones": {
+      "a": "Años.",
+      "b": "Pocos días y requiere frío.",
+      "c": "Meses.",
+      "d": "1 hora."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_85",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"asado\"?",
+    "opciones": {
+      "a": "Cocción por calor seco.",
+      "b": "Hervir en agua.",
+      "c": "Congelar.",
+      "d": "Poner en vinagre."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_86",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La \"dieta blanda\" es fácil de:",
+    "opciones": {
+      "a": "Olvidar.",
+      "b": "Digerir y masticar.",
+      "c": "Quemar.",
+      "d": "Enfriar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_87",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es la \"marcha adelante\"?",
+    "opciones": {
+      "a": "Caminar de frente.",
+      "b": "Diseño para evitar cruces entre limpio y sucio.",
+      "c": "Correr en la cocina.",
+      "d": "No mirar atrás."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_88",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Los \"alérgenos\" deben ser:",
+    "opciones": {
+      "a": "Escondidos.",
+      "b": "Declarados e informados.",
+      "c": "Prohibidos todos.",
+      "d": "Inyectados."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_89",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"lavado de frutas\"?",
+    "opciones": {
+      "a": "Ponerles perfume.",
+      "b": "Agua potable y a veces desinfectante alimentario.",
+      "c": "Solo con un trapo seco.",
+      "d": "No se lavan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_90",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La \"basura\" se saca:",
+    "opciones": {
+      "a": "Cada Navidad.",
+      "b": "Diariamente al finalizar la jornada o cuando esté llena.",
+      "c": "Cuando huela mal.",
+      "d": "Nunca."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_91",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es el \"pinche\"?",
+    "opciones": {
+      "a": "El que pincha ruedas.",
+      "b": "Personal que auxilia en la cocina y realiza limpiezas y preparaciones.",
+      "c": "Un tipo de tenedor.",
+      "d": "El jefe máximo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_92",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué requisitos deben reunir los envases y embalajes de los productos que se almacenen?",
+    "opciones": {
+      "a": "De material autorizado.",
+      "b": "Estar limpios, sin aplastamientos ni roturas.",
+      "c": "Debidamente precintados y con lote, fecha y caducidad.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_93",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué postura debemos adoptar al coger una caja de zumo del almacén?",
+    "opciones": {
+      "a": "Doblando la espalda y con una sola mano.",
+      "b": "Con las rodillas rectas y doblando la espalda.",
+      "c": "Doblando las rodillas y la espalda recta.",
+      "d": "Da igual como las cojamos ya que no pesan demasiado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_94",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Si el pinche coge una caja de zumo, ¿cómo deberá llevar la carga?",
+    "opciones": {
+      "a": "Lo más separada posible del tronco.",
+      "b": "Por encima de la cabeza.",
+      "c": "Apoyada sobre el hombro.",
+      "d": "Ninguna de las anteriores es correcta."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_95",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Para permanecer en el cuarto frío de preparación, ¿cuál de los siguientes Equipos de Protección Individual (EPI) habrá que ponerse?",
+    "opciones": {
+      "a": "Chaleco térmico.",
+      "b": "Mascarilla quirúrgica.",
+      "c": "Gorro de papel.",
+      "d": "No hay que ponerse ningún EPI especial."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_96",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Cuando de un procedimiento de movilidad se derive cambio en el servicio de salud de destino, el plazo de toma de posesión será de:",
+    "opciones": {
+      "a": "1 mes a contar desde el día del cese.",
+      "b": "1 mes a contar desde el día de la publicación.",
+      "c": "15 días a contar desde el día del cese.",
+      "d": "El día siguiente al cese."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_97",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Posibilidad de seguir el rastro del alimento desde su origen:",
+    "opciones": {
+      "a": "Trazabilidad.",
+      "b": "Desinfección.",
+      "c": "Eslabón de la cadena.",
+      "d": "Ninguna."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_98",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Trabajador con infección cutánea debe:",
+    "opciones": {
+      "a": "Ponerlo en conocimiento del responsable.",
+      "b": "Comunicarlo a compañeros.",
+      "c": "Curársela.",
+      "d": "Nada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_99",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Según el Código Alimentario Español, las carnes congeladas han sido sometidas a la acción del frío industrial hasta conseguir en el interior de la masa muscular una temperatura de:",
+    "opciones": {
+      "a": "-14 a -20 grados centígrados.",
+      "b": "-12 a -20 grados centígrados.",
+      "c": "-12 a -18 grados centígrados.",
+      "d": "-10 a -16 grados centígrados."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_100",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "¿Qué es la Anisomiasis?",
+    "opciones": {
+      "a": "Una enfermedad inducida por una bacteria.",
+      "b": "Una enfermedad causada por comer carne cruda.",
+      "c": "Una afección causada por las larvas del parásito Anisaquis.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_101",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "Según el Reglamento de Manipulador de Alimentos, se prohíbe durante el ejercicio de la actividad:",
+    "opciones": {
+      "a": "Fumar y masticar goma de mascar.",
+      "b": "Comer en el puesto de trabajo.",
+      "c": "Utilizar prendas de trabajo distintas a las reglamentarias.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_102",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "El autoclave en cocina se utiliza para (señale la respuesta correcta):",
+    "opciones": {
+      "a": "Cocinar alimentos a alta presión y temperatura.",
+      "b": "Gratinar platos preparados con alguna cobertura.",
+      "c": "Amasar grandes cantidades de mezclas.",
+      "d": "Marinar carnes y pescados rápidamente en pocos minutos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_103",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "La correcta conservación del plato testigo ha de realizarse:",
+    "opciones": {
+      "a": "En el almacén.",
+      "b": "A temperatura ambiente.",
+      "c": "Refrigerado o congelado.",
+      "d": "No necesita conservación."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim5_murcia2017_104",
+    "tema": "Otras Comunidades: Simulacro 5 - Murcia 2017 + SESCAM 2010",
+    "pregunta": "En las marmitas o grandes ollas de cocción, la limpieza debe ser:",
+    "opciones": {
+      "a": "Solo con agua.",
+      "b": "Diaria después de cada uso, asegurando el desaguado y desinfección.",
+      "c": "Semanal.",
+      "d": "Solo con un trapo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_0",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "Según la Constitución Española, la soberanía nacional reside en:",
+    "opciones": {
+      "a": "El Rey.",
+      "b": "Las Cortes Generales.",
+      "c": "El pueblo español.",
+      "d": "El Gobierno de la Nación."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_1",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El derecho a la protección de la salud se recoge en la Constitución Española en el artículo:",
+    "opciones": {
+      "a": "14.",
+      "b": "43.",
+      "c": "41.",
+      "d": "53."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_2",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El Estatuto de Autonomía de Castilla-La Mancha establece que la sede de las instituciones regionales se fijará por:",
+    "opciones": {
+      "a": "Decreto del Presidente.",
+      "b": "Ley de las Cortes Regionales.",
+      "c": "Referéndum popular.",
+      "d": "Orden ministerial."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_3",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "Según la Ley 14/1986 General de Sanidad, los Servicios de Salud se organizarán por:",
+    "opciones": {
+      "a": "Áreas de Salud.",
+      "b": "Distritos Sanitarios.",
+      "c": "Provincias.",
+      "d": "Zonas de Salud."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_4",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La Ley 8/2000 de Ordenación Sanitaria de Castilla-La Mancha crea el:",
+    "opciones": {
+      "a": "INSALUD.",
+      "b": "SESCAM.",
+      "c": "Servicio Regional de Salud.",
+      "d": "Instituto de Ciencias de la Salud."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_5",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La tarjeta sanitaria individual tiene como finalidad:",
+    "opciones": {
+      "a": "Identificar a los ciudadanos como usuarios del Sistema Sanitario.",
+      "b": "Servir como tarjeta de crédito en farmacias.",
+      "c": "Almacenar toda la historia clínica en papel.",
+      "d": "Solo para ciudadanos mayores de edad."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_6",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El consentimiento informado debe ser, por regla general:",
+    "opciones": {
+      "a": "Escrito.",
+      "b": "Verbal.",
+      "c": "Gestual.",
+      "d": "Ante notario."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_7",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El personal estatutario tiene derecho a percibir las retribuciones básicas, que son:",
+    "opciones": {
+      "a": "Sueldo y trienios.",
+      "b": "Sueldo, trienios y pagas extraordinarias.",
+      "c": "Sueldo y productividad.",
+      "d": "Complemento de destino y específico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_8",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La jubilación forzosa del personal estatutario se declara al cumplir los:",
+    "opciones": {
+      "a": "60 años.",
+      "b": "65 años.",
+      "c": "67 años.",
+      "d": "70 años."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_9",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El plan de prevención de riesgos laborales es:",
+    "opciones": {
+      "a": "Un documento opcional.",
+      "b": "Una obligación del empresario.",
+      "c": "Solo para empresas de más de 100 trabajadores.",
+      "d": "Responsabilidad única del trabajador."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_10",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué nutriente es esencial para la formación de tejidos?",
+    "opciones": {
+      "a": "Grasas.",
+      "b": "Hidratos de carbono.",
+      "c": "Proteínas.",
+      "d": "Vitaminas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_11",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta hiposódica estricta prohíbe el uso de:",
+    "opciones": {
+      "a": "Azúcar.",
+      "b": "Sal común.",
+      "c": "Aceite de oliva.",
+      "d": "Vinagre."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_12",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿A qué temperatura se considera que un alimento está en la \"zona de peligro\" para la multiplicación bacteriana?",
+    "opciones": {
+      "a": "Entre 0ºC y 4ºC.",
+      "b": "Entre 5ºC y 65ºC.",
+      "c": "A más de 70ºC.",
+      "d": "A -18ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_13",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El sistema APPCC es preventivo y se basa en:",
+    "opciones": {
+      "a": "Analizar el producto final únicamente.",
+      "b": "Controlar los puntos críticos durante todo el proceso.",
+      "c": "La limpieza de los cristales.",
+      "d": "El presupuesto anual."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_14",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es la contaminación cruzada?",
+    "opciones": {
+      "a": "Mezclar alimentos de la misma familia.",
+      "b": "Paso de gérmenes de un alimento contaminado a otro sano por contacto directo o utensilios.",
+      "c": "Cocinar con mucha pimienta.",
+      "d": "El uso de guantes de látex."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_15",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La recepción de mercancías debe hacerse en una zona:",
+    "opciones": {
+      "a": "Caliente.",
+      "b": "Limpia y separada de la zona de elaboración.",
+      "c": "Al aire libre siempre.",
+      "d": "Junto a los cubos de basura."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_16",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es la \"mise en place\"?",
+    "opciones": {
+      "a": "La limpieza final de la cocina.",
+      "b": "La preparación y organización de ingredientes antes de cocinar.",
+      "c": "Un tipo de salsa francesa.",
+      "d": "El nombre de un horno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_17",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La descongelación de carnes debe realizarse en:",
+    "opciones": {
+      "a": "Agua caliente.",
+      "b": "Temperatura ambiente.",
+      "c": "Cámara de refrigeración.",
+      "d": "Directamente en la plancha."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_18",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El \"cuarto frío\" debe mantenerse a una temperatura máxima de:",
+    "opciones": {
+      "a": "12ºC.",
+      "b": "18ºC.",
+      "c": "25ºC.",
+      "d": "4ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_19",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Para qué sirve el abatidor de temperatura?",
+    "opciones": {
+      "a": "Para calentar purés.",
+      "b": "Para bajar rápidamente la temperatura de los alimentos cocinados y evitar riesgos.",
+      "c": "Para lavar verduras.",
+      "d": "Para triturar carne."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_20",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La limpieza de la vajilla en el tren de lavado se hace en la fase de aclarado a:",
+    "opciones": {
+      "a": "40ºC.",
+      "b": "60ºC.",
+      "c": "80ºC-90ºC.",
+      "d": "100ºC."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_21",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Cuál de estos es un pescado azul?",
+    "opciones": {
+      "a": "Bacalao.",
+      "b": "Atún.",
+      "c": "Lenguado.",
+      "d": "Merluza."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_22",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta astringente está indicada en casos de:",
+    "opciones": {
+      "a": "Estreñimiento.",
+      "b": "Diarrea.",
+      "c": "Diabetes.",
+      "d": "Obesidad."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_23",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué residuo se deposita en el contenedor amarillo?",
+    "opciones": {
+      "a": "Vidrio.",
+      "b": "Papel y cartón.",
+      "c": "Envases de plástico, latas y briks.",
+      "d": "Materia orgánica."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_24",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El \"roux\" es la base para elaborar:",
+    "opciones": {
+      "a": "Una ensalada.",
+      "b": "Una salsa bechamel.",
+      "c": "Un postre de frutas.",
+      "d": "Un asado de cordero."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_25",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué órgano es responsable de la gestión de residuos en el hospital?",
+    "opciones": {
+      "a": "El Servicio de Cocina.",
+      "b": "El Servicio de Mantenimiento y limpieza/Gerencia.",
+      "c": "El Director Médico.",
+      "d": "Los familiares de los pacientes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_26",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "En caso de incendio, un extintor de polvo es eficaz para fuegos de tipo:",
+    "opciones": {
+      "a": "Solo líquidos.",
+      "b": "Solo gases.",
+      "c": "A, B y C (sólidos, líquidos y gases).",
+      "d": "Solo metales."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_27",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La \"marcha adelante\" evita:",
+    "opciones": {
+      "a": "Que el personal se canse.",
+      "b": "El cruce de circuitos limpios y sucios.",
+      "c": "Que la comida se enfríe.",
+      "d": "Que los proveedores se pierdan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_28",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El \"Plonge\" es el lugar donde se lava:",
+    "opciones": {
+      "a": "Las manos de los pinches.",
+      "b": "La verdura.",
+      "c": "El menaje de cocina (ollas, bandejas).",
+      "d": "La ropa de trabajo."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_29",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es la trazabilidad?",
+    "opciones": {
+      "a": "La capacidad de seguir el rastro de un alimento en todas sus etapas.",
+      "b": "Dibujar en las tartas.",
+      "c": "Medir la temperatura de la nevera.",
+      "d": "El peso exacto de una ración."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_30",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La vitamina liposoluble que ayuda a la coagulación es:",
+    "opciones": {
+      "a": "Vitamina A.",
+      "b": "Vitamina C.",
+      "c": "Vitamina K.",
+      "d": "Vitamina B12."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_31",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Cuál es el principal hidrato de carbono de la leche?",
+    "opciones": {
+      "a": "Sacarosa.",
+      "b": "Glucosa.",
+      "c": "Lactosa.",
+      "d": "Fructosa."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_32",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La técnica culinaria \"al dente\" se aplica principalmente a:",
+    "opciones": {
+      "a": "La carne.",
+      "b": "El pescado.",
+      "c": "La pasta y verduras.",
+      "d": "Los huevos."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_33",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "Un manipulador de alimentos con síntomas de enfermedad de transmisión alimentaria debe:",
+    "opciones": {
+      "a": "Ponerse guantes y seguir trabajando.",
+      "b": "Avisar al responsable y excluirse de la manipulación.",
+      "c": "No decir nada.",
+      "d": "Tomarse un café caliente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_34",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La limpieza de los cubos de basura debe ser:",
+    "opciones": {
+      "a": "Semanal.",
+      "b": "Mensual.",
+      "c": "Diaria.",
+      "d": "Solo si se rompe la bolsa."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_35",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es un residuo del Grupo III?",
+    "opciones": {
+      "a": "Basura común.",
+      "b": "Residuos sanitarios de riesgo (infecciosos, cortantes).",
+      "c": "Muebles viejos.",
+      "d": "Papel de oficina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_36",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta hipocalórica es baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Grasa y azúcares (energía).",
+      "c": "Agua.",
+      "d": "Fibra."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_37",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"escaldado\"?",
+    "opciones": {
+      "a": "Cocinar un guiso.",
+      "b": "Sumergir un alimento en agua hirviendo poco tiempo para facilitar el pelado o fijar color.",
+      "c": "Congelar a -40ºC.",
+      "d": "Hornear pan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_38",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "Los huevos deben almacenarse en:",
+    "opciones": {
+      "a": "El congelador.",
+      "b": "Lugar fresco, seco y a temperatura constante (refrigeración).",
+      "c": "Cerca de los fogones.",
+      "d": "Fuera de su envase original."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_39",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Cuál es la función del pinche en la cinta de emplatado?",
+    "opciones": {
+      "a": "Cocinar las sopas.",
+      "b": "Colocar los alimentos y componentes en las bandejas según la tarjeta de dieta.",
+      "c": "Decidir qué come cada paciente.",
+      "d": "Limpiar los pasillos del hospital."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_40",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es la \"cuarta gama\"?",
+    "opciones": {
+      "a": "Conservas de cristal.",
+      "b": "Vegetales limpios, troceados y envasados listos para consumir.",
+      "c": "Platos precocinados congelados.",
+      "d": "Alimentos deshidratados."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_41",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La señalización de seguridad de color rojo indica:",
+    "opciones": {
+      "a": "Obligación.",
+      "b": "Información.",
+      "c": "Prohibición o material contra incendios.",
+      "d": "Salvamento."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_42",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El \"roux\" blanco se utiliza para la salsa:",
+    "opciones": {
+      "a": "Española.",
+      "b": "Bechamel.",
+      "c": "Tomate.",
+      "d": "Mahonesa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_43",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Cuál de estos es un mineral esencial para prevenir la anemia?",
+    "opciones": {
+      "a": "Calcio.",
+      "b": "Hierro.",
+      "c": "Sodio.",
+      "d": "Magnesio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_44",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La \"comida testigo\" debe guardarse durante:",
+    "opciones": {
+      "a": "24 horas.",
+      "b": "48 horas.",
+      "c": "7 días.",
+      "d": "15 días."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_45",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"braseado\"?",
+    "opciones": {
+      "a": "Freír con mucha grasa.",
+      "b": "Cocción lenta en recipiente cerrado con poco líquido tras un dorado previo.",
+      "c": "Cocinar al vapor.",
+      "d": "Hervir agua."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_46",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta para celíacos excluye el:",
+    "opciones": {
+      "a": "Azúcar.",
+      "b": "Huevo.",
+      "c": "Glúten (trigo, cebada, centeno).",
+      "d": "Pescado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_47",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La desratización es un tratamiento contra:",
+    "opciones": {
+      "a": "Insectos.",
+      "b": "Bacterias.",
+      "c": "Roedores.",
+      "d": "Malos olores."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_48",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es un alimento \"perecedero\"?",
+    "opciones": {
+      "a": "El que dura mucho tiempo sin frío.",
+      "b": "El que por sus características necesita frío para no alterarse rápidamente.",
+      "c": "Las legumbres secas.",
+      "d": "El arroz."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_49",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La limpieza de la cortadora de fiambres se hace:",
+    "opciones": {
+      "a": "Una vez a la semana.",
+      "b": "Desconectada y desmontada después de cada uso.",
+      "c": "Con la máquina en marcha para llegar a todo.",
+      "d": "Solo con un papel seco."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_50",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué autoridad preside el Consejo de Salud de Castilla-La Mancha?",
+    "opciones": {
+      "a": "El Director Gerente del SESCAM.",
+      "b": "El Consejero de Sanidad.",
+      "c": "El Presidente de la Junta.",
+      "d": "El Jefe de Servicio de Salud Pública."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_51",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "Las áreas de salud en Castilla-La Mancha se dividen en:",
+    "opciones": {
+      "a": "Provincias.",
+      "b": "Zonas Básicas de Salud.",
+      "c": "Distritos.",
+      "d": "Municipios."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_52",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El \"lavado de manos\" debe durar al menos:",
+    "opciones": {
+      "a": "5 segundos.",
+      "b": "20-40 segundos.",
+      "c": "5 minutos.",
+      "d": "Lo que dure una canción."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_53",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La basura orgánica en el hospital se considera residuo de Clase:",
+    "opciones": {
+      "a": "I (Urbano).",
+      "b": "II (Biosanitario no específico).",
+      "c": "III (Específico).",
+      "d": "IV (Especial)."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_54",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es la \"salamandra\"?",
+    "opciones": {
+      "a": "Un tipo de pescado.",
+      "b": "Aparato eléctrico para gratinar o calentar platos por la parte superior.",
+      "c": "Un termómetro.",
+      "d": "Un tipo de sartén."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_55",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La vitamina D es necesaria para absorber el:",
+    "opciones": {
+      "a": "Hierro.",
+      "b": "Calcio.",
+      "c": "Sodio.",
+      "d": "Potasio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_56",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿A qué temperatura deben estar los platos fríos en el momento del servicio?",
+    "opciones": {
+      "a": "Entre 15ºC y 20ºC.",
+      "b": "Por debajo de 8ºC.",
+      "c": "A 0ºC.",
+      "d": "A temperatura ambiente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_57",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El principio de \"trazabilidad hacia delante\" registra:",
+    "opciones": {
+      "a": "A qué proveedores compramos.",
+      "b": "Qué procesos hicimos en cocina.",
+      "c": "A quién se entregó el producto (destinatarios).",
+      "d": "El coste de la luz."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_58",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es un \"fondo blanco\"?",
+    "opciones": {
+      "a": "Una salsa de queso.",
+      "b": "Caldo de ave o ternera con hortalizas sin tostar.",
+      "c": "El azúcar glas.",
+      "d": "Una nata montada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_59",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El calzado del pinche debe ser antideslizante para evitar:",
+    "opciones": {
+      "a": "El frío.",
+      "b": "Caídas al mismo nivel por suelos mojados o grasientos.",
+      "c": "El cansancio.",
+      "d": "El mal olor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_60",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué nutriente aporta 4 Kcal por gramo?",
+    "opciones": {
+      "a": "Grasas.",
+      "b": "Alcohol.",
+      "c": "Hidratos de carbono y Proteínas.",
+      "d": "Vitaminas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_61",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta \"basal\" es la que se da a:",
+    "opciones": {
+      "a": "Pacientes con diabetes.",
+      "b": "Pacientes sin restricciones dietéticas específicas.",
+      "c": "Pacientes con problemas de masticación.",
+      "d": "Niños recién nacidos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_62",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es la liofilización?",
+    "opciones": {
+      "a": "Cocinar al vacío.",
+      "b": "Deshidratación por congelación y sublimación.",
+      "c": "Freír con aire.",
+      "d": "Un tipo de fermentación."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_63",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La \"contaminación química\" puede ser causada por:",
+    "opciones": {
+      "a": "Pelos.",
+      "b": "Restos de detergentes o insecticidas.",
+      "c": "Virus.",
+      "d": "Huesos de fruta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_64",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El \"baño maría\" en la cinta de emplatado sirve para:",
+    "opciones": {
+      "a": "Lavar la fruta.",
+      "b": "Mantener la temperatura caliente de los recipientes de comida.",
+      "c": "Hacer sopa.",
+      "d": "Enfriar las natillas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_65",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es un \"alimento adulterado\"?",
+    "opciones": {
+      "a": "El que tiene bacterias.",
+      "b": "Al que se le ha añadido o quitado algo de forma fraudulenta para variar su composición.",
+      "c": "El que está podrido.",
+      "d": "El que tiene una mosca."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_66",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La desinfección consiste en:",
+    "opciones": {
+      "a": "Quitar la grasa visible.",
+      "b": "Reducir el número de microorganismos mediante agentes químicos o físicos.",
+      "c": "Pintar la cocina.",
+      "d": "Barrer el suelo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_67",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El almacenamiento de las legumbres secas se hace en:",
+    "opciones": {
+      "a": "Cámara de congelación.",
+      "b": "Almacén de víveres secos (economato), fresco y ventilado.",
+      "c": "El cuarto frío.",
+      "d": "Cerca de los fogones."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_68",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La \"marcha adelante\" es obligatoria por:",
+    "opciones": {
+      "a": "Comodidad del jefe.",
+      "b": "Higiene alimentaria para evitar contaminaciones.",
+      "c": "Ahorrar luz.",
+      "d": "Rapidez en el servicio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_69",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Cuál de estos es un Equipo de Protección Individual (EPI)?",
+    "opciones": {
+      "a": "Un tenedor.",
+      "b": "Guantes de malla para corte.",
+      "c": "Una sartén.",
+      "d": "El uniforme de gala."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_70",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es un \"roux\" rubio?",
+    "opciones": {
+      "a": "Mezcla de harina y mantequilla cocinada hasta que toma color dorado.",
+      "b": "Harina cruda.",
+      "c": "Azúcar quemada.",
+      "d": "Una salsa de tomate."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_71",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta para la hipertensión arterial es baja en:",
+    "opciones": {
+      "a": "Grasas.",
+      "b": "Sodio (Sal).",
+      "c": "Proteínas.",
+      "d": "Vitaminas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_72",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué temperatura alcanza un congelador de tres estrellas?",
+    "opciones": {
+      "a": "0ºC.",
+      "b": "-18ºC.",
+      "c": "-5ºC.",
+      "d": "-40ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_73",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El \"chino\" se utiliza para:",
+    "opciones": {
+      "a": "Cortar patatas.",
+      "b": "Colar caldos y salsas para que queden finos.",
+      "c": "Freír huevos.",
+      "d": "Abrir latas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_74",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es la \"esterilización\"?",
+    "opciones": {
+      "a": "Lavar con agua fría.",
+      "b": "Destrucción total de microorganismos y sus formas de resistencia (esporas).",
+      "c": "Poner perfume a la cocina.",
+      "d": "Congelar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_75",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "Los residuos de Clase II son:",
+    "opciones": {
+      "a": "Basura doméstica.",
+      "b": "Residuos sanitarios no específicos (vendas, gasas sin riesgo).",
+      "c": "Residuos radioactivos.",
+      "d": "Aceite usado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_76",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta \"blanda\" se prescribe para:",
+    "opciones": {
+      "a": "Deportistas.",
+      "b": "Pacientes con problemas digestivos o postoperatorios.",
+      "c": "Personas con obesidad.",
+      "d": "Nadie, no existe."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_77",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"macerado\"?",
+    "opciones": {
+      "a": "Triturar carne.",
+      "b": "Dejar un alimento en un líquido con especias para aromatizarlo o ablandarlo.",
+      "c": "Cocinar a la plancha.",
+      "d": "Congelar fruta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_78",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La \"contaminación física\" es:",
+    "opciones": {
+      "a": "Bacterias.",
+      "b": "Presencia de objetos extraños como cristales, metales o piedras.",
+      "c": "Insecticidas.",
+      "d": "Moho."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_79",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Cuál es la función del Jefe de Cocina?",
+    "opciones": {
+      "a": "Limpiar los platos.",
+      "b": "Organizar, supervisar y dirigir el trabajo en la cocina.",
+      "c": "Servir el café en la cafetería.",
+      "d": "Arreglar los enchufes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_80",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"punto de humeo\"?",
+    "opciones": {
+      "a": "Cuando el horno saca humo.",
+      "b": "Temperatura en la que el aceite empieza a descomponerse y ser tóxico.",
+      "c": "El final de un cigarrillo.",
+      "d": "La temperatura de ebullición del agua."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_81",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta \"sin residuos\" es baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Fibra.",
+      "c": "Agua.",
+      "d": "Proteínas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_82",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"picado\" de alimentos?",
+    "opciones": {
+      "a": "Probar la comida con el dedo.",
+      "b": "Cortar en trozos muy pequeños.",
+      "c": "Comer entre horas.",
+      "d": "Abrir un paquete."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_83",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La basura debe sacarse del área de cocina:",
+    "opciones": {
+      "a": "Una vez por semana.",
+      "b": "Diariamente o cuando los cubos estén llenos, siempre fuera del horario de comidas.",
+      "c": "Cuando el jefe no mire.",
+      "d": "Nunca."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_84",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es la \"quinta gama\"?",
+    "opciones": {
+      "a": "Fruta fresca.",
+      "b": "Alimentos cocinados y pasteurizados listos para calentar y servir.",
+      "c": "Pescado crudo.",
+      "d": "Comida de mala calidad."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_85",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El \"desbarasado\" es:",
+    "opciones": {
+      "a": "Cocinar pescado.",
+      "b": "Retirar los restos de comida y servicio de las mesas o bandejas.",
+      "c": "Limpiar el horno.",
+      "d": "Poner la mesa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_86",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿A qué temperatura se debe conservar la leche UHT abierta?",
+    "opciones": {
+      "a": "Temperatura ambiente.",
+      "b": "En refrigeración (frigorífico).",
+      "c": "En el congelador.",
+      "d": "Da igual."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_87",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta \"hipoglucémica\" es para:",
+    "opciones": {
+      "a": "Hipertensos.",
+      "b": "Diabéticos.",
+      "c": "Celíacos.",
+      "d": "Obesos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_88",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"rehogado\"?",
+    "opciones": {
+      "a": "Hervir con mucha agua.",
+      "b": "Cocinar a fuego lento con poca grasa.",
+      "c": "Congelar carne.",
+      "d": "Poner en sal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_89",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La \"limpieza en seco\" (barrer) en cocina está:",
+    "opciones": {
+      "a": "Recomendada.",
+      "b": "Prohibida o desaconsejada porque levanta polvo y gérmenes.",
+      "c": "Obligada por ley.",
+      "d": "Solo permitida los domingos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_90",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué nutriente es la principal fuente de calcio?",
+    "opciones": {
+      "a": "La carne.",
+      "b": "Los lácteos.",
+      "c": "El pan.",
+      "d": "La manzana."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_91",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"blanqueado\"?",
+    "opciones": {
+      "a": "Poner lejía a las sábanas.",
+      "b": "Cocción muy breve para quitar sabores fuertes o ablandar.",
+      "c": "Pintar la pared.",
+      "d": "Echar azúcar glass."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_92",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La temperatura de seguridad de las comidas calientes es:",
+    "opciones": {
+      "a": "40ºC.",
+      "b": "Más de 65ºC.",
+      "c": "100ºC siempre.",
+      "d": "50ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_93",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"fondo oscuro\"?",
+    "opciones": {
+      "a": "Una cueva.",
+      "b": "Caldo hecho con huesos y verduras previamente tostados en el horno.",
+      "c": "Chocolate fundido.",
+      "d": "Aceite sucio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_94",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El pinche debe llevar el pelo:",
+    "opciones": {
+      "a": "Suelto.",
+      "b": "Recogido y cubierto por un gorro o redecilla.",
+      "c": "De colores llamativos.",
+      "d": "Sin lavar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_95",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La \"dieta líquida\" incluye:",
+    "opciones": {
+      "a": "Filete de ternera.",
+      "b": "Caldos, infusiones y zumos colados.",
+      "c": "Puré de patatas espeso.",
+      "d": "Pan tostado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_96",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"marmitón\"?",
+    "opciones": {
+      "a": "Una marmita grande.",
+      "b": "Persona encargada del fregado del menaje pesado de cocina.",
+      "c": "El jefe de los pinches.",
+      "d": "Un tipo de pescado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_97",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La basura de riesgo biológico va en bolsas de color:",
+    "opciones": {
+      "a": "Negro.",
+      "b": "Rojo.",
+      "c": "Amarillo o con señalización específica.",
+      "d": "Verde."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_98",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es la \"pasteurización\"?",
+    "opciones": {
+      "a": "Ir al campo.",
+      "b": "Tratamiento térmico suave para eliminar gérmenes patógenos sin alterar mucho el sabor.",
+      "c": "Congelar a -80ºC.",
+      "d": "Añadir mucha sal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_99",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El calzado de cocina debe tener suela:",
+    "opciones": {
+      "a": "De cuero.",
+      "b": "Antideslizante.",
+      "c": "De madera.",
+      "d": "Con tacón alto."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_100",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es un \"Punto de Control Crítico\"?",
+    "opciones": {
+      "a": "Una esquina peligrosa.",
+      "b": "Fase donde se puede aplicar un control para evitar un peligro para la salud.",
+      "c": "El final de la jornada.",
+      "d": "La puerta de entrada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_101",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La dieta \"rica en fibra\" se indica para:",
+    "opciones": {
+      "a": "Diarrea.",
+      "b": "Estreñimiento.",
+      "c": "Diabetes.",
+      "d": "Antes de una operación."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_102",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "¿Qué es el \"bridado\"?",
+    "opciones": {
+      "a": "Limpiar el pescado.",
+      "b": "Atar una pieza de carne para que no pierda la forma al cocinarla.",
+      "c": "Poner pan rallado.",
+      "d": "Saltear verduras."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_103",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "El extintor de CO2 se usa preferentemente para:",
+    "opciones": {
+      "a": "Fuegos de papel.",
+      "b": "Fuegos con tensión eléctrica (cuadros eléctricos).",
+      "c": "Fuegos de madera.",
+      "d": "Fuegos de basura."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim6_sescam2018_104",
+    "tema": "Otras Comunidades: Simulacro 6 - Examen Real SESCAM (2018)",
+    "pregunta": "La \"limpieza de manos\" se hace con:",
+    "opciones": {
+      "a": "Agua sola.",
+      "b": "Jabón líquido y agua caliente.",
+      "c": "Un trapo que haya por allí.",
+      "d": "Arena."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
   }
 ]
