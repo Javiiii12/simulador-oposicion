@@ -45847,5 +45847,2945 @@
     "correcta": "b",
     "explicacion": "",
     "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_0",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "Según la nueva pirámide de alimentación ¿Cuántas raciones de lácteos debemos tomar diariamente?",
+    "opciones": {
+      "a": "2 o 3 veces al día.",
+      "b": "4 o 5 veces al día.",
+      "c": "Más de 5 veces al día.",
+      "d": "Su consumo puede ser ilimitado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_1",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿A qué temperatura debemos de mantener los platos cocinados y refrigerados?",
+    "opciones": {
+      "a": "Menor o igual a 4ºC.",
+      "b": "Menor o igual a 5ºC.",
+      "c": "Menor o igual a 6ºC.",
+      "d": "Menor o igual a 7ºC."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_2",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Cuántos son los principios que componen un sistema APPCC?",
+    "opciones": {
+      "a": "7 principios.",
+      "b": "12 principios.",
+      "c": "4 principios.",
+      "d": "10 principios."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_3",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La reducción mediante agentes químicos y/o métodos físicos del número de microorganismos a un nivel que no dé lugar a contaminación nociva se denomina:",
+    "opciones": {
+      "a": "Limpieza.",
+      "b": "Desinfección.",
+      "c": "Higienización.",
+      "d": "Desparasitación."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_4",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "Tras el lavado de manos, después de utilizar los servicios higiénicos, corresponde el secado, el cual debe hacerse:",
+    "opciones": {
+      "a": "Con un paño bien limpio.",
+      "b": "Con toallas de papel de un solo uso o secador automático.",
+      "c": "Con el uniforme de trabajo.",
+      "d": "Al aire libre siempre."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_5",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué nutriente es la base de la dieta basal?",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Hidratos de carbono.",
+      "c": "Lípidos.",
+      "d": "Vitaminas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_6",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La zona de \"cuarto frío\" en una cocina industrial debe estar:",
+    "opciones": {
+      "a": "A temperatura ambiente.",
+      "b": "Climatizada (máximo 18ºC).",
+      "c": "A 0ºC.",
+      "d": "Al lado de los hornos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_7",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "Un alimento que contiene microorganismos patógenos capaces de producir enfermedades se considera:",
+    "opciones": {
+      "a": "Alimento alterado.",
+      "b": "Alimento adulterado.",
+      "c": "Alimento falsificado.",
+      "d": "Alimento contaminado."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_8",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la \"contaminación cruzada\"?",
+    "opciones": {
+      "a": "Paso de contaminantes de un alimento a otro a través de manos o utensilios.",
+      "b": "Cocinar dos alimentos distintos en la misma olla.",
+      "c": "Mezclar sal y azúcar.",
+      "d": "Comprar a dos proveedores distintos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_9",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta hiposódica está indicada para pacientes con:",
+    "opciones": {
+      "a": "Diabetes.",
+      "b": "Obesidad.",
+      "c": "Anemia.",
+      "d": "Hipertensión o insuficiencia renal."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_10",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es un \"roux\" rubio?",
+    "opciones": {
+      "a": "Harina y grasa cocinadas hasta que toman color dorado.",
+      "b": "Harina cruda con agua.",
+      "c": "Azúcar quemado.",
+      "d": "Una mezcla para empanar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_11",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La vitamina que se sintetiza principalmente por la exposición solar es:",
+    "opciones": {
+      "a": "Vitamina A.",
+      "b": "Vitamina C.",
+      "c": "Vitamina D.",
+      "d": "Vitamina E."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_12",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿A qué grupo de pescados pertenece el salmón?",
+    "opciones": {
+      "a": "Pescado blanco.",
+      "b": "Pescado azul.",
+      "c": "Marisco.",
+      "d": "Cefalópodo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_13",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "En el sistema de autocontrol, un \"Límite Crítico\" es:",
+    "opciones": {
+      "a": "El precio de la carne.",
+      "b": "Valor que separa la aceptabilidad de la inaceptabilidad.",
+      "c": "El final de la jornada.",
+      "d": "La capacidad del horno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_14",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La técnica de \"marcha adelante\" consiste en:",
+    "opciones": {
+      "a": "No volver nunca atrás en el proceso para evitar contaminaciones.",
+      "b": "Correr en los pasillos.",
+      "c": "Servir primero a los pacientes de la primera planta.",
+      "d": "Reponer la mercancía por delante."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_15",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El residuo biosanitario especial (Grupo III) se deposita en contenedores de color:",
+    "opciones": {
+      "a": "Negro.",
+      "b": "Amarillo.",
+      "c": "Azul.",
+      "d": "Verde."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_16",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"marmitón\"?",
+    "opciones": {
+      "a": "Una marmita pequeña.",
+      "b": "El profesional encargado del lavado de material pesado.",
+      "c": "Un tipo de guiso de pescado.",
+      "d": "Una marca de cuchillos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_17",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta astringente se caracteriza por ser:",
+    "opciones": {
+      "a": "Rica en fibra.",
+      "b": "Baja en fibra y residuos.",
+      "c": "Alta en grasas.",
+      "d": "Muy picante."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_18",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿A qué temperatura se deben mantener las comidas calientes hasta el servicio?",
+    "opciones": {
+      "a": "Mínimo 65ºC.",
+      "b": "40ºC.",
+      "c": "50ºC.",
+      "d": "100ºC."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_19",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La técnica culinaria \"al dente\" se aplica a:",
+    "opciones": {
+      "a": "La carne de ternera.",
+      "b": "La pasta y verduras.",
+      "c": "El pescado azul.",
+      "d": "Los huevos fritos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_20",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Cuál de estos alimentos es rico en vitamina C?",
+    "opciones": {
+      "a": "Leche.",
+      "b": "Pescado.",
+      "c": "Naranja y pimientos.",
+      "d": "Pan integral."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_21",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es un \"fondo oscuro\"?",
+    "opciones": {
+      "a": "Caldo elaborado con huesos y verduras tostados previamente.",
+      "b": "Chocolate derretido.",
+      "c": "Aceite de freidora usado.",
+      "d": "Una salsa de soja."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_22",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La desratización tiene como objetivo eliminar:",
+    "opciones": {
+      "a": "Insectos.",
+      "b": "Bacterias.",
+      "c": "Roedores.",
+      "d": "Malos olores."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_23",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El \"chino\" es un utensilio que se usa para:",
+    "opciones": {
+      "a": "Cortar verduras.",
+      "b": "Colar y filtrar caldos o salsas.",
+      "c": "Freír patatas.",
+      "d": "Abrir latas industriales."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_24",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La \"comida testigo\" debe conservarse durante:",
+    "opciones": {
+      "a": "24 horas.",
+      "b": "48 horas.",
+      "c": "7 días.",
+      "d": "15 días."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_25",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la trazabilidad?",
+    "opciones": {
+      "a": "Capacidad de seguir el rastro de un alimento en todas sus etapas.",
+      "b": "Dibujar sobre los platos.",
+      "c": "Medir la temperatura de los hornos.",
+      "d": "El inventario de cubiertos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_26",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Cuál es el nutriente con mayor poder energético (9 kcal/g)?",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Hidratos de carbono.",
+      "c": "Lípidos (grasas).",
+      "d": "Vitaminas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_27",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta para diabéticos se centra en controlar:",
+    "opciones": {
+      "a": "La sal.",
+      "b": "Los hidratos de carbono (índice glucémico).",
+      "c": "El agua.",
+      "d": "Las vitaminas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_28",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es un \"abatidor de temperatura\"?",
+    "opciones": {
+      "a": "Un ventilador de techo.",
+      "b": "Equipo para enfriar rápidamente alimentos cocinados.",
+      "c": "Un microondas.",
+      "d": "Una estufa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_29",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El calzado de un pinche debe ser:",
+    "opciones": {
+      "a": "Abierto.",
+      "b": "Antideslizante y cerrado.",
+      "c": "De tela.",
+      "d": "Con cordones largos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_30",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La \"mise en place\" significa:",
+    "opciones": {
+      "a": "Limpiar después de comer.",
+      "b": "Preparación y orden de ingredientes antes de cocinar.",
+      "c": "Servir la mesa.",
+      "d": "El descanso del personal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_31",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"braseado\"?",
+    "opciones": {
+      "a": "Cocción lenta con poco líquido tras un dorado previo.",
+      "b": "Freír a fuego fuerte.",
+      "c": "Cocinar al vapor.",
+      "d": "Congelar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_32",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La limpieza de los cubos de basura debe ser:",
+    "opciones": {
+      "a": "Semanal.",
+      "b": "Diaria.",
+      "c": "Mensual.",
+      "d": "No se limpian, se cambian."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_33",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿A qué grupo pertenecen los celíacos (intolerancia)?",
+    "opciones": {
+      "a": "Lactosa.",
+      "b": "Glúten.",
+      "c": "Fructosa.",
+      "d": "Sacarosa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_34",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La temperatura de refrigeración oscila entre:",
+    "opciones": {
+      "a": "0ºC y 4ºC/8ºC.",
+      "b": "-18ºC y -25ºC.",
+      "c": "10ºC y 15ºC.",
+      "d": "20ºC y 25ºC."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_35",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"escaldado\"?",
+    "opciones": {
+      "a": "Cocinar al horno.",
+      "b": "Sumergir brevemente en agua hirviendo.",
+      "c": "Congelar a -40ºC.",
+      "d": "Salar la carne."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_36",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La zona de \"Plonge\" es para:",
+    "opciones": {
+      "a": "Lavar el menaje de cocina.",
+      "b": "Cocinar carnes.",
+      "c": "Preparar ensaladas.",
+      "d": "Recibir proveedores."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_37",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La basura de tipo I (urbana) va en bolsa de color:",
+    "opciones": {
+      "a": "Roja.",
+      "b": "Amarilla.",
+      "c": "Negra o gris.",
+      "d": "Azul."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_38",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es un \"roux\" oscuro?",
+    "opciones": {
+      "a": "Mezcla de harina y grasa tostada para salsas oscuras.",
+      "b": "Chocolate.",
+      "c": "Una salsa de soja.",
+      "d": "Harina quemada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_39",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta hipocalórica es baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Energía (calorías).",
+      "c": "Agua.",
+      "d": "Fibra."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_40",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la liofilización?",
+    "opciones": {
+      "a": "Deshidratación por congelación y vacío.",
+      "b": "Hervir agua.",
+      "c": "Freír patatas.",
+      "d": "Un tipo de horneado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_41",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El \"punto de humo\" es:",
+    "opciones": {
+      "a": "Cuando se quema el asado.",
+      "b": "Temperatura a la que el aceite empieza a descomponerse.",
+      "c": "El vapor de la marmita.",
+      "d": "Una técnica de ahumado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_42",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La vitamina B12 se encuentra en:",
+    "opciones": {
+      "a": "Solo vegetales.",
+      "b": "Productos de origen animal.",
+      "c": "El sol.",
+      "d": "El agua mineral."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_43",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la \"contaminación biológica\"?",
+    "opciones": {
+      "a": "Un cristal.",
+      "b": "Bacterias, virus o parásitos.",
+      "c": "Jabón.",
+      "d": "Una piedra."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_44",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El \"baño maría\" sirve para:",
+    "opciones": {
+      "a": "Mantener caliente o cocinar suavemente sin fuego directo.",
+      "b": "Enfriar rápidamente.",
+      "c": "Lavar los platos.",
+      "d": "Desinfectar verduras."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_45",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es un alimento \"perecedero\"?",
+    "opciones": {
+      "a": "Que dura poco tiempo sin condiciones de conservación.",
+      "b": "Que dura años.",
+      "c": "Las legumbres.",
+      "d": "El arroz."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_46",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La desinsectación elimina:",
+    "opciones": {
+      "a": "Ratas.",
+      "b": "Cucarachas e insectos.",
+      "c": "Virus.",
+      "d": "Polvo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_47",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"bridado\"?",
+    "opciones": {
+      "a": "Limpiar pescado.",
+      "b": "Atar una pieza de carne para que mantenga su forma.",
+      "c": "Poner pan rallado.",
+      "d": "Cortar en dados."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_48",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta líquida se compone de:",
+    "opciones": {
+      "a": "Caldos, infusiones y zumos colados.",
+      "b": "Purés espesos.",
+      "c": "Carne picada.",
+      "d": "Solo agua."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_49",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El calzado de seguridad debe ser:",
+    "opciones": {
+      "a": "Cómodo pero abierto.",
+      "b": "Antideslizante y con puntera reforzada si hay riesgo.",
+      "c": "Zapatillas de deporte.",
+      "d": "De cuero fino."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_50",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la \"marcha adelante\"?",
+    "opciones": {
+      "a": "El diseño de la cocina para evitar cruces sucio-limpio.",
+      "b": "Caminar rápido.",
+      "c": "Empezar por el primer plato.",
+      "d": "No mirar atrás."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_51",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La señalización verde indica:",
+    "opciones": {
+      "a": "Peligro.",
+      "b": "Socorro, salvamento o salida.",
+      "c": "Obligación.",
+      "d": "Prohibición."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_52",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿A qué temperatura se congela un alimento industrialmente?",
+    "opciones": {
+      "a": "0ºC.",
+      "b": "-18ºC o inferior.",
+      "c": "-5ºC.",
+      "d": "4ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_53",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta basal es para pacientes:",
+    "opciones": {
+      "a": "Con diabetes.",
+      "b": "Sin necesidades dietéticas especiales.",
+      "c": "Con alergias.",
+      "d": "Que no pueden masticar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_54",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"salsero\"?",
+    "opciones": {
+      "a": "El que pone música.",
+      "b": "Partida de cocina encargada de carnes, fondos y salsas calientes.",
+      "c": "Un tipo de especia.",
+      "d": "Un recipiente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_55",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La vitamina A es importante para:",
+    "opciones": {
+      "a": "La visión y la piel.",
+      "b": "Los huesos únicamente.",
+      "c": "La coagulación.",
+      "d": "No es importante."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_56",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es un \"alimento adulterado\"?",
+    "opciones": {
+      "a": "Con bacterias.",
+      "b": "Modificado fraudulentamente para variar su composición o peso.",
+      "c": "Podrido.",
+      "d": "Sucio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_57",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El almacenamiento de las verduras frescas debe ser en:",
+    "opciones": {
+      "a": "El congelador.",
+      "b": "Cámara de refrigeración con humedad controlada.",
+      "c": "Debajo de los fogones.",
+      "d": "Al sol."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_58",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La limpieza de la campana extractora previene:",
+    "opciones": {
+      "a": "Mal olor solamente.",
+      "b": "Incendios por acumulación de grasa.",
+      "c": "Que se funda la bombilla.",
+      "d": "Que el cocinero se manche."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_59",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es un residuo de Clase II?",
+    "opciones": {
+      "a": "Basura doméstica.",
+      "b": "Biosanitarios no específicos (gasas, vendas sin riesgo).",
+      "c": "Radioactivos.",
+      "d": "Químicos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_60",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta hipoprotéica es baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Proteínas.",
+      "c": "Agua.",
+      "d": "Azúcar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_61",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"macerado\"?",
+    "opciones": {
+      "a": "Triturar.",
+      "b": "Reposo en líquido con especias para aromatizar.",
+      "c": "Hervir.",
+      "d": "Congelar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_62",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La contaminación física es:",
+    "opciones": {
+      "a": "Virus.",
+      "b": "Objetos como cristales o metales.",
+      "c": "Jabón.",
+      "d": "Grasa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_63",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Cuál es la función del Jefe de Cocina?",
+    "opciones": {
+      "a": "Limpiar el suelo.",
+      "b": "Organización, dirección y supervisión de la cocina.",
+      "c": "Diagnosticar al paciente.",
+      "d": "Arreglar el ascensor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_64",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El \"pasapurés\" sirve para:",
+    "opciones": {
+      "a": "Freír.",
+      "b": "Triturar alimentos cocinados.",
+      "c": "Batir huevos.",
+      "d": "Colar leche."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_65",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la \"cuarta gama\"?",
+    "opciones": {
+      "a": "Conservas.",
+      "b": "Productos frescos, lavados, cortados y envasados.",
+      "c": "Congelados.",
+      "d": "Comida basura."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_66",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La desinfección consiste en:",
+    "opciones": {
+      "a": "Quitar el polvo.",
+      "b": "Eliminar o reducir microorganismos patógenos.",
+      "c": "Pintar.",
+      "d": "Ordenar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_67",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta \"blanca\" se usa a veces para:",
+    "opciones": {
+      "a": "Hipertensos.",
+      "b": "Preparación de pruebas digestivas.",
+      "c": "Obesos.",
+      "d": "Atletas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_68",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"blanqueado\"?",
+    "opciones": {
+      "a": "Poner lejía.",
+      "b": "Cocción corta para quitar impurezas o ablandar.",
+      "c": "Pintar el techo.",
+      "d": "Congelar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_69",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La basura de riesgo biológico va en:",
+    "opciones": {
+      "a": "Bolsa negra.",
+      "b": "Contenedor rígido o bolsa especial amarilla.",
+      "c": "El suelo.",
+      "d": "El contenedor azul."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_70",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es un \"roux\" blanco?",
+    "opciones": {
+      "a": "Harina y grasa cocinada brevemente (bechamel).",
+      "b": "Azúcar con agua.",
+      "c": "Clara de huevo montada.",
+      "d": "Queso fundido."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_71",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La vitamina K es esencial para:",
+    "opciones": {
+      "a": "La visión.",
+      "b": "La coagulación sanguínea.",
+      "c": "Los huesos.",
+      "d": "El pelo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_72",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la higiene alimentaria?",
+    "opciones": {
+      "a": "Lavar los platos.",
+      "b": "Medidas para garantizar la seguridad de los alimentos.",
+      "c": "Barrer la cocina.",
+      "d": "Cocinar rápido."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_73",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El almacenamiento de huevos debe ser en:",
+    "opciones": {
+      "a": "El congelador.",
+      "b": "Refrigeración a temperatura constante.",
+      "c": "Cerca de los fogones.",
+      "d": "Al sol."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_74",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"marmorizado\"?",
+    "opciones": {
+      "a": "Un tipo de mármol.",
+      "b": "Grasa veteada en la carne.",
+      "c": "Limpiar la mesa.",
+      "d": "Un postre."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_75",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta para la insuficiencia renal controla:",
+    "opciones": {
+      "a": "El azúcar.",
+      "b": "Proteínas, potasio y sodio.",
+      "c": "La fibra.",
+      "d": "El picante."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_76",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"desbarasado\"?",
+    "opciones": {
+      "a": "Cocinar.",
+      "b": "Retirada de vajilla y restos de comida.",
+      "c": "Limpiar el horno.",
+      "d": "Poner manteles."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_77",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La temperatura de seguridad para alimentos calientes es:",
+    "opciones": {
+      "a": "40ºC.",
+      "b": ">65ºC.",
+      "c": "100ºC.",
+      "d": "50ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_78",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"empanado\"?",
+    "opciones": {
+      "a": "Harina, huevo y pan rallado.",
+      "b": "Solo harina.",
+      "c": "Solo agua.",
+      "d": "Sal y pimienta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_79",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La vitamina D se llama también la vitamina:",
+    "opciones": {
+      "a": "Del sol.",
+      "b": "De la energía.",
+      "c": "Del crecimiento.",
+      "d": "De la piel."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_80",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la \"contaminación química\"?",
+    "opciones": {
+      "a": "Pelos.",
+      "b": "Detergentes, pesticidas o desinfectantes.",
+      "c": "Virus.",
+      "d": "Piedras."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_81",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La limpieza de manos debe hacerse con:",
+    "opciones": {
+      "a": "Solo agua.",
+      "b": "Jabón líquido y agua caliente.",
+      "c": "Un trapo.",
+      "d": "Alcohol solo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_82",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"asado\"?",
+    "opciones": {
+      "a": "Cocción con calor seco (horno/parrilla).",
+      "b": "Hervir.",
+      "c": "Congelar.",
+      "d": "Freír."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_83",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La dieta rica en potasio incluye:",
+    "opciones": {
+      "a": "Plátanos y verduras.",
+      "b": "Solo carne.",
+      "c": "Solo pan.",
+      "d": "Agua sola."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_84",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"deshuesado\"?",
+    "opciones": {
+      "a": "Quitar los huesos a una pieza.",
+      "b": "Poner huesos.",
+      "c": "Romper platos.",
+      "d": "Un tipo de baile."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_85",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La temperatura de congelación es:",
+    "opciones": {
+      "a": "0ºC.",
+      "b": "-18ºC.",
+      "c": "10ºC.",
+      "d": "4ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_86",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la higiene personal?",
+    "opciones": {
+      "a": "Ducharse una vez al mes.",
+      "b": "Hábitos de limpieza del trabajador.",
+      "c": "Limpiar el vestuario.",
+      "d": "No usar perfume."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_87",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La leche pasteurizada debe estar en:",
+    "opciones": {
+      "a": "Armario seco.",
+      "b": "Refrigeración.",
+      "c": "Congelador.",
+      "d": "El tejado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_88",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"rehogado\"?",
+    "opciones": {
+      "a": "Hervir.",
+      "b": "Cocinar con poca grasa a fuego lento.",
+      "c": "Congelar.",
+      "d": "Salar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_89",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La basura se retira:",
+    "opciones": {
+      "a": "Cada hora.",
+      "b": "Al final de la jornada o cuando esté llena.",
+      "c": "Cuando huela mal.",
+      "d": "Los lunes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_90",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"pinche\"?",
+    "opciones": {
+      "a": "El que pincha.",
+      "b": "Auxiliar de cocina.",
+      "c": "El jefe.",
+      "d": "Un tenedor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_91",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es un alérgeno?",
+    "opciones": {
+      "a": "Sustancia que provoca reacción alérgica.",
+      "b": "Una bacteria.",
+      "c": "Un virus.",
+      "d": "Un tipo de sal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_92",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La limpieza de la vajilla debe ser:",
+    "opciones": {
+      "a": "Con agua fría.",
+      "b": "Con agua caliente y detergente.",
+      "c": "Con un papel.",
+      "d": "No se limpia."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_93",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"baño maría\" inverso?",
+    "opciones": {
+      "a": "Calentar.",
+      "b": "Enfriar con hielo y agua.",
+      "c": "Freír.",
+      "d": "Hornear."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_94",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La vitamina E es un:",
+    "opciones": {
+      "a": "Antioxidante.",
+      "b": "Mineral.",
+      "c": "Ácido.",
+      "d": "Glúcido."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_95",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la trazabilidad hacia atrás?",
+    "opciones": {
+      "a": "Saber a quién compramos.",
+      "b": "Saber a quién vendemos.",
+      "c": "El proceso de cocción.",
+      "d": "Limpiar el suelo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_96",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El almacenamiento de productos de limpieza debe ser:",
+    "opciones": {
+      "a": "Con la comida.",
+      "b": "Separado de los alimentos.",
+      "c": "En el comedor.",
+      "d": "No importa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_97",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es el \"marinado\"?",
+    "opciones": {
+      "a": "Remojo en líquido para dar sabor o ablandar.",
+      "b": "Cocinar al vapor.",
+      "c": "Freír.",
+      "d": "Congelar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_98",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "La higiene de los cuchillos es:",
+    "opciones": {
+      "a": "Limpiarlos y desinfectarlos tras cada uso.",
+      "b": "Solo al final del día.",
+      "c": "Pasarlos por el delantal.",
+      "d": "No se limpian."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_99",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "El \"Sauté\" se usa para:",
+    "opciones": {
+      "a": "Preparar caldos y fondos.",
+      "b": "No es un utensilio de cocina.",
+      "c": "Rehogar, saltear y estofar géneros.",
+      "d": "Elaborar patatas.\r\n*"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_100",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "Preguntas de Reserva (Simulacro Nº 7)\r\nLas mesas calientes para mantener la temperatura de los alimentos cocinados (50º a 70º) no deberán superar nunca:",
+    "opciones": {
+      "a": "Los 70ºC.",
+      "b": "Los 50ºC.",
+      "c": "Los 100ºC.",
+      "d": "Los 150ºC.\r\n*"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_101",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Cuándo desecharemos una conserva realizada por acción del calor?",
+    "opciones": {
+      "a": "Cuando el envase esté sucio o tenga abombamientos.",
+      "b": "Cuando el envase tenga los bordes oxidados.",
+      "c": "Solo cuando coincidan A y B.",
+      "d": "Las respuestas A y B son correctas.\r\n*"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_102",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿En qué partida de la cocina se encargaría de preparar una galantina?",
+    "opciones": {
+      "a": "El salsero.",
+      "b": "Pastelero.",
+      "c": "Cuarto frío.",
+      "d": "Cualquiera de las tres.\r\n*"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_103",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "A qué se denomina en cocina \"Marmitón\":",
+    "opciones": {
+      "a": "A una marmita de grandes dimensiones.",
+      "b": "Al recipiente donde se prepara la \"Petite marmite\".",
+      "c": "Al pescado con el cual se prepara el \"Marmitako\".",
+      "d": "Al profesional encargado de fregar la batería de cocina.\r\n*"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim7_madrid2018_104",
+    "tema": "Otras Comunidades: Simulacro 7 - Madrid 2018 + Navarra 2019",
+    "pregunta": "¿Qué es la \"Anisomiasis\"?",
+    "opciones": {
+      "a": "Enfermedad por bacterias.",
+      "b": "Enfermedad por parásito en pescado crudo o poco cocinado.",
+      "c": "Un tipo de dieta.",
+      "d": "Una técnica de corte.\r\n*"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_0",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "Según la ley de prevención de Riesgos Laborales, se entenderá por «equipo de protección individual»:",
+    "opciones": {
+      "a": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o accesorio destinado a tal fin.",
+      "b": "Conjunto de elementos o medidas que compone una maquinaria, destinados para la seguridad del operario.",
+      "c": "Elementos de seguridad que se encuentran en las instalaciones, destinados a proteger al trabajador.",
+      "d": "Son correctas la B y la C."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_1",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿A qué tipo de cocina pertenece el local donde el almacenamiento, conservación, elaboración, producción, emplatado y distribución de los alimentos se realiza en el mismo local?",
+    "opciones": {
+      "a": "Cocina término.",
+      "b": "Cocina de alta producción.",
+      "c": "Cocina centralizada.",
+      "d": "Cocina mixta."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_2",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "Según el Código Alimentario Español, ¿qué es un alimento adulterado?:",
+    "opciones": {
+      "a": "Son los que sin fines engañosos o fraudulentos pretenden sustituir total o parcialmente un alimento.",
+      "b": "Son los que tienen efectos perjudiciales para toda una parte de la población.",
+      "c": "Cuando se ha adicionado o sustraído cualquier sustancia para variar la composición, el peso, el volumen fraudulentamente.",
+      "d": "Es el que está rotulado para similar otro conocido."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_3",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La zona de almacenaje de productos perecederos debe estar:",
+    "opciones": {
+      "a": "A temperatura ambiente.",
+      "b": "En el economato.",
+      "c": "En el muelle de descarga.",
+      "d": "En cámaras frigoríficas o de congelación."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_4",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué nutriente es la base de la dieta basal?",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Hidratos de carbono.",
+      "c": "Lípidos.",
+      "d": "Vitaminas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_5",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La técnica culinaria de cocinar un alimento en su propio jugo con un mínimo de grasa se denomina:",
+    "opciones": {
+      "a": "Hervir.",
+      "b": "Estofar.",
+      "c": "Freír.",
+      "d": "Gratinar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_6",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Cuál de estos es un pescado blanco?",
+    "opciones": {
+      "a": "Salmón.",
+      "b": "Atún.",
+      "c": "Sardina.",
+      "d": "Merluza."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_7",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La vitamina C es abundante en:",
+    "opciones": {
+      "a": "Carne de vacuno.",
+      "b": "Pescado blanco.",
+      "c": "Huevos.",
+      "d": "Frutas y hortalizas frescas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_8",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La zona de la cocina destinada al lavado de vajilla y cubiertos de los pacientes es:",
+    "opciones": {
+      "a": "Plonge.",
+      "b": "Office / Lavado de vajilla.",
+      "c": "Cuarto frío.",
+      "d": "Economato."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_9",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "Un Punto de Control Crítico (PCC) se define como:",
+    "opciones": {
+      "a": "El final de la jornada.",
+      "b": "La puerta de entrada de proveedores.",
+      "c": "El lugar donde se guardan los cuchillos.",
+      "d": "Fase en la que puede aplicarse un control esencial para prevenir un peligro alimentario."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_10",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es un \"fondo blanco\"?",
+    "opciones": {
+      "a": "Una salsa de queso.",
+      "b": "Un postre de leche.",
+      "c": "Caldo básico obtenido de la cocción de carnes blancas o huesos con hortalizas.",
+      "d": "Azúcar glas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_11",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta hiposódica es baja en:",
+    "opciones": {
+      "a": "Azúcar.",
+      "b": "Grasa.",
+      "c": "Sal (sodio).",
+      "d": "Fibra."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_12",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿A qué temperatura deben mantenerse las comidas calientes hasta su servicio?",
+    "opciones": {
+      "a": "40ºC.",
+      "b": "Mínimo 65ºC.",
+      "c": "50ºC.",
+      "d": "100ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_13",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El sistema de \"marcha adelante\" consiste en:",
+    "opciones": {
+      "a": "Trabajar muy rápido.",
+      "b": "No retroceder en las fases de elaboración para evitar contaminaciones.",
+      "c": "Caminar siempre hacia el comedor.",
+      "d": "Empezar por el primer plato."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_14",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La limpieza de la vajilla debe realizarse en el lavavajillas a una temperatura de aclarado de:",
+    "opciones": {
+      "a": "40ºC.",
+      "b": "60ºC.",
+      "c": "82ºC - 90ºC.",
+      "d": "120ºC."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_15",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la trazabilidad de un alimento?",
+    "opciones": {
+      "a": "La forma de cortarlo.",
+      "b": "Su color original.",
+      "c": "Capacidad de seguir su rastro a través de todas las etapas de producción.",
+      "d": "El precio por kilo."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_16",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "Las legumbres secas se almacenan en:",
+    "opciones": {
+      "a": "El congelador.",
+      "b": "El cuarto frío.",
+      "c": "El muelle.",
+      "d": "El economato (lugar fresco, seco y ventilado)."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_17",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta astringente está indicada para:",
+    "opciones": {
+      "a": "Estreñimiento.",
+      "b": "Diarrea.",
+      "c": "Diabetes.",
+      "d": "Obesidad."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_18",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es un \"roux\"?",
+    "opciones": {
+      "a": "Un tipo de pan.",
+      "b": "Una mezcla de harina y grasa usada para ligar salsas.",
+      "c": "Una especia picante.",
+      "d": "Una bebida."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_19",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El calzado de un pinche debe ser:",
+    "opciones": {
+      "a": "Abierto por detrás.",
+      "b": "De tela para que transpire.",
+      "c": "Antideslizante y cerrado.",
+      "d": "Con tacón alto."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_20",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La \"mise en place\" es:",
+    "opciones": {
+      "a": "La limpieza final.",
+      "b": "La preparación y organización de materiales antes de empezar a cocinar.",
+      "c": "Un tipo de mesa.",
+      "d": "El descanso del personal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_21",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué nutriente aporta 9 kcal por cada gramo?",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Hidratos de carbono.",
+      "c": "Lípidos (grasas).",
+      "d": "Vitaminas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_22",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"braseado\"?",
+    "opciones": {
+      "a": "Freír con mucha grasa.",
+      "b": "Cocción lenta en recipiente cerrado con poco líquido tras un dorado inicial.",
+      "c": "Cocinar al vapor.",
+      "d": "Comer crudo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_23",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La basura orgánica se deposita en bolsas de color:",
+    "opciones": {
+      "a": "Rojo.",
+      "b": "Amarillo.",
+      "c": "Negro / Gris.",
+      "d": "Azul."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_24",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es un residuo del Grupo III?",
+    "opciones": {
+      "a": "Cartón.",
+      "b": "Residuos sanitarios de riesgo (infecciosos o cortantes).",
+      "c": "Restos de comida común.",
+      "d": "Muebles rotos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_25",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Cuál de estos es un pescado azul?",
+    "opciones": {
+      "a": "Merluza.",
+      "b": "Gallo.",
+      "c": "Atún.",
+      "d": "Bacalao fresco."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_26",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La desratización se centra en eliminar:",
+    "opciones": {
+      "a": "Cucarachas.",
+      "b": "Roedores.",
+      "c": "Hormigas.",
+      "d": "Bacterias."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_27",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es un \"abatidor de temperatura\"?",
+    "opciones": {
+      "a": "Un horno.",
+      "b": "Equipo que enfría rápidamente alimentos cocinados para evitar riesgos.",
+      "c": "Un ventilador.",
+      "d": "Una placa de calor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_28",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta para diabéticos controla principalmente los:",
+    "opciones": {
+      "a": "Lípidos.",
+      "b": "Proteínas.",
+      "c": "Vitaminas.",
+      "d": "Hidratos de carbono."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_29",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"escaldado\"?",
+    "opciones": {
+      "a": "Cocción prolongada.",
+      "b": "Congelar.",
+      "c": "Sumergir brevemente en agua hirviendo.",
+      "d": "Secar al sol."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_30",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El almacenamiento de las carnes frescas debe hacerse a:",
+    "opciones": {
+      "a": "15ºC.",
+      "b": "10ºC.",
+      "c": "Entre 0ºC y 4ºC.",
+      "d": "-18ºC."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_31",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La zona de \"Plonge\" es para lavar:",
+    "opciones": {
+      "a": "Las manos.",
+      "b": "La verdura.",
+      "c": "Los platos de los pacientes.",
+      "d": "El menaje de cocina (ollas y sartenes)."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_32",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la contaminación cruzada?",
+    "opciones": {
+      "a": "Mezclar carne y pescado en un plato.",
+      "b": "Paso de gérmenes de un alimento contaminado a otro sano.",
+      "c": "Cocinar con mucha sal.",
+      "d": "Comprar en dos mercados distintos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_33",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La limpieza de los cubos de basura debe ser:",
+    "opciones": {
+      "a": "Mensual.",
+      "b": "Semanal.",
+      "c": "Diaria.",
+      "d": "No se limpian."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_34",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué nutriente es esencial para los huesos?",
+    "opciones": {
+      "a": "Hierro.",
+      "b": "Yodo.",
+      "c": "Calcio.",
+      "d": "Magnesio."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_35",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La vitamina liposoluble que ayuda a la coagulación es:",
+    "opciones": {
+      "a": "Vitamina A.",
+      "b": "Vitamina C.",
+      "c": "Vitamina D.",
+      "d": "Vitamina K."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_36",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la \"cuarta gama\"?",
+    "opciones": {
+      "a": "Conservas.",
+      "b": "Productos frescos, limpios, troceados y envasados.",
+      "c": "Congelados.",
+      "d": "Comida precocinada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_37",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La temperatura de congelación industrial es:",
+    "opciones": {
+      "a": "0ºC.",
+      "b": "-5ºC.",
+      "c": "-18ºC o inferior.",
+      "d": "4ºC."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_38",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"roux\" oscuro?",
+    "opciones": {
+      "a": "Mezcla de harina y grasa tostada para salsas oscuras.",
+      "b": "Salsa de tomate concentrada.",
+      "c": "Un tipo de chocolate.",
+      "d": "Harina quemada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_39",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta hipocalórica se caracteriza por ser baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Agua.",
+      "c": "Energía (calorías).",
+      "d": "Proteínas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_40",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la liofilización?",
+    "opciones": {
+      "a": "Cocinar al vacío.",
+      "b": "Deshidratación por congelación y vacío.",
+      "c": "Freír.",
+      "d": "Salar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_41",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El \"punto de humo\" es:",
+    "opciones": {
+      "a": "Cuando sale vapor de la olla.",
+      "b": "Temperatura a la que el aceite empieza a descomponerse.",
+      "c": "El final de una barbacoa.",
+      "d": "Una técnica de ahumado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_42",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La vitamina B12 se encuentra en:",
+    "opciones": {
+      "a": "Naranjas.",
+      "b": "Alimentos de origen animal.",
+      "c": "Pan.",
+      "d": "Agua."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_43",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la contaminación biológica?",
+    "opciones": {
+      "a": "Un trozo de cristal.",
+      "b": "Bacterias, virus o parásitos.",
+      "c": "Detergente.",
+      "d": "Una piedra."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_44",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El \"baño maría\" se usa para:",
+    "opciones": {
+      "a": "Cocciones suaves o mantener caliente sin contacto directo con el fuego.",
+      "b": "Freír patatas.",
+      "c": "Enfriar carne.",
+      "d": "Lavar la fruta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_45",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es un alimento perecedero?",
+    "opciones": {
+      "a": "El que dura años.",
+      "b": "El que se altera rápidamente por sus características.",
+      "c": "El cristal.",
+      "d": "Las piedras."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_46",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La desinsectación elimina:",
+    "opciones": {
+      "a": "Ratas.",
+      "b": "Insectos.",
+      "c": "Virus.",
+      "d": "Hongos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_47",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"bridado\"?",
+    "opciones": {
+      "a": "Limpiar pescado.",
+      "b": "Atar una pieza de carne para que no pierda la forma.",
+      "c": "Poner pan rallado.",
+      "d": "Cortar en dados."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_48",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta líquida se compone de:",
+    "opciones": {
+      "a": "Filete de ternera.",
+      "b": "Caldos, infusiones y zumos colados.",
+      "c": "Pan integral.",
+      "d": "Puré de patatas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_49",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El calzado de seguridad debe ser:",
+    "opciones": {
+      "a": "Abierto.",
+      "b": "Antideslizante y con puntera reforzada.",
+      "c": "De tela fina.",
+      "d": "Con tacón."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_50",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la \"marcha adelante\"?",
+    "opciones": {
+      "a": "Un baile.",
+      "b": "Circuito de trabajo para evitar cruces entre zonas limpias y sucias.",
+      "c": "Correr.",
+      "d": "No parar nunca."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_51",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La señalización roja indica:",
+    "opciones": {
+      "a": "Salvamento.",
+      "b": "Prohibición o material contra incendios.",
+      "c": "Obligación.",
+      "d": "Información."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_52",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿A qué temperatura se congela un alimento?",
+    "opciones": {
+      "a": "0ºC.",
+      "b": "-18ºC.",
+      "c": "10ºC.",
+      "d": "4ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_53",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta basal es para pacientes:",
+    "opciones": {
+      "a": "Con diabetes.",
+      "b": "Sin necesidades dietéticas especiales.",
+      "c": "Que no pueden comer.",
+      "d": "Con alergias."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_54",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"salsero\"?",
+    "opciones": {
+      "a": "Una música.",
+      "b": "Cocinero encargado de salsas y carnes.",
+      "c": "Una herramienta.",
+      "d": "Un recipiente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_55",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La vitamina A es importante para:",
+    "opciones": {
+      "a": "La visión.",
+      "b": "Los huesos.",
+      "c": "Los dientes.",
+      "d": "El pelo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_56",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es un alimento adulterado?",
+    "opciones": {
+      "a": "Con bacterias.",
+      "b": "Variado fraudulentamente en su composición.",
+      "c": "Podrido.",
+      "d": "Sucio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_57",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El almacenamiento de verduras frescas debe ser en:",
+    "opciones": {
+      "a": "Congelador.",
+      "b": "Refrigeración.",
+      "c": "Al sol.",
+      "d": "En el suelo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_58",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La limpieza de la campana extractora evita:",
+    "opciones": {
+      "a": "El ruido.",
+      "b": "Incendios por grasa.",
+      "c": "Que entre luz.",
+      "d": "Que el cocinero hable."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_59",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es un residuo de Clase II?",
+    "opciones": {
+      "a": "Basura de casa.",
+      "b": "Biosanitarios no específicos.",
+      "c": "Radioactivos.",
+      "d": "Químicos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_60",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta hipoprotéica es baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Proteínas.",
+      "c": "Fibra.",
+      "d": "Agua."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_61",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"macerado\"?",
+    "opciones": {
+      "a": "Triturar.",
+      "b": "Reposo en líquido con especias para aromatizar.",
+      "c": "Hervir.",
+      "d": "Congelar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_62",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La contaminación física es:",
+    "opciones": {
+      "a": "Virus.",
+      "b": "Objetos extraños (cristal, metal).",
+      "c": "Jabón.",
+      "d": "Mal olor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_63",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Cuál es la función del Jefe de Cocina?",
+    "opciones": {
+      "a": "Limpiar platos.",
+      "b": "Organización y dirección.",
+      "c": "Diagnosticar.",
+      "d": "Operar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_64",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El \"pasapurés\" sirve para:",
+    "opciones": {
+      "a": "Freír.",
+      "b": "Triturar alimentos cocinados.",
+      "c": "Batir huevos.",
+      "d": "Guardar pan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_65",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la \"cuarta gama\"?",
+    "opciones": {
+      "a": "Conservas.",
+      "b": "Vegetales limpios, cortados y envasados.",
+      "c": "Congelados.",
+      "d": "Comida basura."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_66",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La desinfección consiste en:",
+    "opciones": {
+      "a": "Quitar el polvo.",
+      "b": "Eliminar microorganismos patógenos.",
+      "c": "Pintar.",
+      "d": "Ordenar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_67",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta \"blanca\" se usa para:",
+    "opciones": {
+      "a": "Hipertensos.",
+      "b": "Pruebas digestivas.",
+      "c": "Obesos.",
+      "d": "Atletas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_68",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"blanqueado\"?",
+    "opciones": {
+      "a": "Poner lejía.",
+      "b": "Cocción corta para quitar impurezas o ablandar.",
+      "c": "Pintar.",
+      "d": "Congelar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_69",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La basura de riesgo biológico va en:",
+    "opciones": {
+      "a": "Bolsa negra.",
+      "b": "Bolsa o contenedor amarillo.",
+      "c": "Suelo.",
+      "d": "Contenedor azul."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_70",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es un \"roux\" blanco?",
+    "opciones": {
+      "a": "Harina y grasa poco cocinada.",
+      "b": "Azúcar con agua.",
+      "c": "Nata montada.",
+      "d": "Queso."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_71",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La vitamina K ayuda a:",
+    "opciones": {
+      "a": "Ver mejor.",
+      "b": "La coagulación.",
+      "c": "Crecer.",
+      "d": "Nada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_72",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la higiene alimentaria?",
+    "opciones": {
+      "a": "Lavar los platos.",
+      "b": "Medidas para garantizar la seguridad de alimentos.",
+      "c": "Barrer.",
+      "d": "Cocinar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_73",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El almacenamiento de huevos debe ser en:",
+    "opciones": {
+      "a": "Congelador.",
+      "b": "Refrigeración.",
+      "c": "Sol.",
+      "d": "Suelo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_74",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"marmorizado\"?",
+    "opciones": {
+      "a": "Un tipo de mármol.",
+      "b": "Grasa veteada en la carne.",
+      "c": "Limpiar la mesa.",
+      "d": "Un postre."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_75",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta para insuficiencia renal controla:",
+    "opciones": {
+      "a": "El azúcar.",
+      "b": "Proteínas y potasio.",
+      "c": "La fibra.",
+      "d": "El picante."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_76",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"desbarasado\"?",
+    "opciones": {
+      "a": "Cocinar.",
+      "b": "Retirar platos y restos.",
+      "c": "Limpiar el horno.",
+      "d": "Poner manteles."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_77",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La temperatura de seguridad caliente es:",
+    "opciones": {
+      "a": "40ºC.",
+      "b": ">65ºC.",
+      "c": "100ºC.",
+      "d": "50ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_78",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"empanado\"?",
+    "opciones": {
+      "a": "Harina, huevo y pan rallado.",
+      "b": "Harina solo.",
+      "c": "Agua.",
+      "d": "Sal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_79",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La vitamina D se conoce como la vitamina:",
+    "opciones": {
+      "a": "Del sol.",
+      "b": "De la energía.",
+      "c": "Del hueso.",
+      "d": "Del músculo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_80",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la \"contaminación química\"?",
+    "opciones": {
+      "a": "Pelos.",
+      "b": "Detergentes o pesticidas.",
+      "c": "Virus.",
+      "d": "Piedras."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_81",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La limpieza de manos se hace con:",
+    "opciones": {
+      "a": "Solo agua.",
+      "b": "Jabón y agua caliente.",
+      "c": "Un trapo.",
+      "d": "Arena."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_82",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"asado\"?",
+    "opciones": {
+      "a": "Cocción con calor seco.",
+      "b": "Hervir.",
+      "c": "Congelar.",
+      "d": "Freír."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_83",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La dieta rica en potasio incluye:",
+    "opciones": {
+      "a": "Plátano y verduras.",
+      "b": "Solo carne.",
+      "c": "Solo pan.",
+      "d": "Agua."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_84",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"deshuesado\"?",
+    "opciones": {
+      "a": "Quitar los huesos.",
+      "b": "Poner huesos.",
+      "c": "Romper platos.",
+      "d": "Bailar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_85",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La temperatura de congelación es:",
+    "opciones": {
+      "a": "0ºC.",
+      "b": "-18ºC.",
+      "c": "10ºC.",
+      "d": "4ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_86",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la higiene personal?",
+    "opciones": {
+      "a": "Ducharse.",
+      "b": "Hábitos de limpieza del trabajador.",
+      "c": "Limpiar vestuarios.",
+      "d": "No usar perfume."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_87",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La leche pasteurizada debe estar en:",
+    "opciones": {
+      "a": "Despensa.",
+      "b": "Frigorífico.",
+      "c": "Congelador.",
+      "d": "Patio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_88",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"rehogado\"?",
+    "opciones": {
+      "a": "Hervir.",
+      "b": "Cocinar con poca grasa a fuego lento.",
+      "c": "Congelar.",
+      "d": "Salar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_89",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La basura se saca:",
+    "opciones": {
+      "a": "Al año.",
+      "b": "Al final de la jornada.",
+      "c": "Cuando huela.",
+      "d": "Nunca."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_90",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"pinche\"?",
+    "opciones": {
+      "a": "El que pincha.",
+      "b": "Auxiliar de cocina.",
+      "c": "Jefe.",
+      "d": "Tenedor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_91",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es un alérgeno?",
+    "opciones": {
+      "a": "Sustancia que provoca alergia.",
+      "b": "Bacteria.",
+      "c": "Virus.",
+      "d": "Sal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_92",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La limpieza de la vajilla debe ser con:",
+    "opciones": {
+      "a": "Agua fría.",
+      "b": "Agua caliente y detergente.",
+      "c": "Papel.",
+      "d": "Nada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_93",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"baño maría\" inverso?",
+    "opciones": {
+      "a": "Calentar.",
+      "b": "Enfriar con hielo.",
+      "c": "Freír.",
+      "d": "Hornear."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_94",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La vitamina E es:",
+    "opciones": {
+      "a": "Antioxidante.",
+      "b": "Mineral.",
+      "c": "Ácido.",
+      "d": "Glúcido."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_95",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es la trazabilidad hacia atrás?",
+    "opciones": {
+      "a": "Saber a quién compramos.",
+      "b": "Saber a quién vendemos.",
+      "c": "Cocinar.",
+      "d": "Limpiar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_96",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "El almacenamiento de productos de limpieza debe ser:",
+    "opciones": {
+      "a": "Con comida.",
+      "b": "Separado de comida.",
+      "c": "En el comedor.",
+      "d": "No importa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_97",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Qué es el \"marinado\"?",
+    "opciones": {
+      "a": "Remojo en líquido con sabor.",
+      "b": "Vapor.",
+      "c": "Fritura.",
+      "d": "Congelado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_98",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La higiene de cuchillos es:",
+    "opciones": {
+      "a": "Limpiarlos tras cada uso.",
+      "b": "Solo al final.",
+      "c": "No se limpian.",
+      "d": "Con el delantal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_99",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "Las funciones de los pinches están reguladas en el artículo:",
+    "opciones": {
+      "a": "15.",
+      "b": "14.",
+      "c": "12.",
+      "d": "11."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_100",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "Preguntas de Reserva (Simulacro Nº 8)\r\n¿Cómo se llama el documento mediante el cual se saca el coste unitario a un plato?",
+    "opciones": {
+      "a": "Inventario.",
+      "b": "Catálogo.",
+      "c": "Escandallo.",
+      "d": "Informe."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_101",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "¿Cuál es el origen de un incendio generado por fallos en las instalaciones?",
+    "opciones": {
+      "a": "De origen mecánico.",
+      "b": "De origen técnico.",
+      "c": "De origen natural.",
+      "d": "De origen antrópico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_102",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "Señale la respuesta incorrecta:",
+    "opciones": {
+      "a": "El chocolate puede estar implicado en el desarrollo de migrañas en individuos susceptibles.",
+      "b": "Un exceso de enzima lactasa puede provocar un síndrome de intolerancia a la lactosa.",
+      "c": "La cafeína se asocia con casos de ansiedad crónica, insomnio y palpitaciones.",
+      "d": "La leche de vaca es uno de los alimentos alérgicos más comunes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_103",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "Los contaminantes ABIÓTICOS son:",
+    "opciones": {
+      "a": "Los que tienen vida propia.",
+      "b": "Los que carecen de vida.",
+      "c": "Los producidos por la rebaja de algún nutriente.",
+      "d": "Los que tienen forma alargada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim8_aragon2017_104",
+    "tema": "Otras Comunidades: Simulacro 8 - Pinche Aragón (2017)",
+    "pregunta": "La picadora es una máquina cuyo correcto funcionamiento:",
+    "opciones": {
+      "a": "Necesita una programación de mantenimiento.",
+      "b": "No necesita limpieza.",
+      "c": "Se engrasa con aceite de oliva.",
+      "d": "Solo la usa el jefe."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
   }
 ]
