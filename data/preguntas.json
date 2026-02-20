@@ -37671,5 +37671,831 @@
     "correcta": "b",
     "explicacion": "",
     "origen": "CSIF"
+  },
+  {
+    "id": "historico_sacyl_2008_0",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué medidas se deben tomar en una cocina para evitar la contaminación cruzada?",
+    "opciones": {
+      "a": "Instalar los equipos de preparación a los lados para evacuar fácilmente los desperdicios.",
+      "b": "Instalar los equipos de preparación en el centro para mayor comodidad.",
+      "c": "Que la dirección de la corriente de aire vaya de una zona sucia a una zona limpia.",
+      "d": "Juntar las zonas de emplatado y el fregado de la vajilla."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_1",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Por qué un manipulador de alimentos debe proteger sus heridas infectadas con una cura impermeable?",
+    "opciones": {
+      "a": "Porque el pus es muy desagradable.",
+      "b": "Porque se pueden transmitir gérmenes.",
+      "c": "Porque el contacto con el alimento puede empeorar la herida.",
+      "d": "No es necesario una cura impermeable."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_2",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿A qué grupo de salsas pertenece la bechamel?",
+    "opciones": {
+      "a": "Pequeñas salsas calientes.",
+      "b": "Grandes salsas básicas.",
+      "c": "Pequeñas salsas frías.",
+      "d": "Mahonesas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_3",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "Las cámaras de congelación deben tener una temperatura de:",
+    "opciones": {
+      "a": "Entre -25°C y -30°C.",
+      "b": "Entre -15°C y -30°C.",
+      "c": "Entre -20°C y -25°C.",
+      "d": "Entre -18°C y -25°C."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_4",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "Según la ley de prevención de riesgos laborales, la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo es:",
+    "opciones": {
+      "a": "Un accidente de trabajo.",
+      "b": "Un riesgo laboral.",
+      "c": "Una enfermedad profesional.",
+      "d": "Una condición de trabajo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_5",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué nombre recibe la unidad de tiempo que se emplea para medir la distancia entre dos puntos?",
+    "opciones": {
+      "a": "Hito.",
+      "b": "Etapa.",
+      "c": "Kilómetro.",
+      "d": "Isócrona."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_6",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "A efectos de prevención de riesgos laborales, se entenderá como \"equipo de trabajo\":",
+    "opciones": {
+      "a": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos.",
+      "b": "Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
+      "c": "El grupo de trabajadores que desempeñan una misma tarea.",
+      "d": "Las prendas de uniforme."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_7",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La descongelación de alimentos debe realizarse:",
+    "opciones": {
+      "a": "A temperatura ambiente sobre el mostrador de cocina.",
+      "b": "Sumergiendo el producto en agua caliente.",
+      "c": "Directamente al fuego.",
+      "d": "En frigorífico a temperaturas de refrigeración."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_8",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué microorganismo se multiplica mejor en productos de pastelería con crema y natas?",
+    "opciones": {
+      "a": "Estafilococo.",
+      "b": "Salmonella.",
+      "c": "Clostridium botulinum.",
+      "d": "Listeria."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_9",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "El método de conservación que utiliza calor a menos de 100°C es:",
+    "opciones": {
+      "a": "Esterilización.",
+      "b": "Tindalización.",
+      "c": "Pasteurización.",
+      "d": "Uperización (UHT)."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_10",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué es un \"fondo blanco\"?",
+    "opciones": {
+      "a": "Una salsa de nata.",
+      "b": "Un tipo de harina.",
+      "c": "Un postre de leche.",
+      "d": "Caldo básico hecho con carnes blancas o huesos y hortalizas sin dorar."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_11",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La técnica de cocinar un alimento sumergido en grasa a baja temperatura se llama:",
+    "opciones": {
+      "a": "Freír.",
+      "b": "Saltear.",
+      "c": "Hervir.",
+      "d": "Confitar / Pochar."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_12",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Cuál es el principal nutriente de la patata?",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Lípidos.",
+      "c": "Vitaminas.",
+      "d": "Hidratos de carbono (almidón)."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_13",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "En el sistema APPCC, un \"límite crítico\" es:",
+    "opciones": {
+      "a": "La fecha de caducidad.",
+      "b": "El precio máximo de la materia prima.",
+      "c": "Criterio que diferencia la aceptabilidad de la inaceptabilidad en un PCC.",
+      "d": "El final de la jornada laboral."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_14",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué residuo sanitario pertenece al Grupo III?",
+    "opciones": {
+      "a": "Restos de comida.",
+      "b": "Papel y cartón.",
+      "c": "Muebles antiguos.",
+      "d": "Residuos infecciosos o cortantes/punzantes."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_15",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La \"mise en place\" significa:",
+    "opciones": {
+      "a": "Preparación previa de todo lo necesario para iniciar un trabajo.",
+      "b": "Limpiar los platos después de comer.",
+      "c": "Servir la mesa al paciente.",
+      "d": "El final de la jornada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_16",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué es una salsa derivada de la mayonesa?",
+    "opciones": {
+      "a": "Española.",
+      "b": "Velouté.",
+      "c": "Holandesa.",
+      "d": "Tártara."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_17",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "El almacenamiento de las verduras frescas debe ser en:",
+    "opciones": {
+      "a": "Almacén de secos a 20°C.",
+      "b": "Congelador a -18°C.",
+      "c": "Cámara de refrigeración con humedad adecuada.",
+      "d": "Al sol para que maduren."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_18",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué vitamina es hidrosoluble?",
+    "opciones": {
+      "a": "Vitamina A.",
+      "b": "Vitamina D.",
+      "c": "Vitamina C.",
+      "d": "Vitamina E."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_19",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La dieta hiposódica está indicada para pacientes con:",
+    "opciones": {
+      "a": "Hipertensión arterial.",
+      "b": "Diabetes.",
+      "c": "Anemia.",
+      "d": "Estreñimiento."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_20",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Cuál es la función del \"chino\" en cocina?",
+    "opciones": {
+      "a": "Colar salsas y purés.",
+      "b": "Cortar carne.",
+      "c": "Freír huevos.",
+      "d": "Lavar verduras."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_21",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "En una evacuación por incendio, los ascensores:",
+    "opciones": {
+      "a": "Son la vía más rápida.",
+      "b": "No deben utilizarse nunca.",
+      "c": "Se usarán solo para camillas.",
+      "d": "Se usarán si hay poca gente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_22",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué tipo de extintor es el de CO2?",
+    "opciones": {
+      "a": "De agua.",
+      "b": "De espuma.",
+      "c": "De polvo seco.",
+      "d": "De nieve carbónica."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_23",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La técnica de dar pequeños cortes a la superficie de un pescado o carne se llama:",
+    "opciones": {
+      "a": "Mechar.",
+      "b": "Bridar.",
+      "c": "Albardar.",
+      "d": "Cincelar / Estriar."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_24",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "El \"roux\" oscuro se utiliza para ligar:",
+    "opciones": {
+      "a": "Cremas de verduras.",
+      "b": "Bechamel.",
+      "c": "Salsa Española.",
+      "d": "Salsas blancas de pescado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_25",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Cómo se llama el corte de patatas en rodajas finas y circulares?",
+    "opciones": {
+      "a": "Panadera / Española.",
+      "b": "Paja.",
+      "c": "Cerilla.",
+      "d": "Dado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_26",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué órgano del hospital asume la dirección de enfermería?",
+    "opciones": {
+      "a": "El Director Médico.",
+      "b": "El Jefe de Cocina.",
+      "c": "El Director de Gestión.",
+      "d": "El Director de Enfermería."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_27",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La desratización sirve para eliminar:",
+    "opciones": {
+      "a": "Cucarachas.",
+      "b": "Moscas.",
+      "c": "Bacterias.",
+      "d": "Roedores."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_28",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "El calzado de un pinche de cocina debe ser:",
+    "opciones": {
+      "a": "Abierto y cómodo.",
+      "b": "De tela.",
+      "c": "Con tacón alto.",
+      "d": "Antideslizante y cerrado."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_29",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La dieta astringente está indicada para:",
+    "opciones": {
+      "a": "Estreñimiento.",
+      "b": "Diarrea.",
+      "c": "Diabetes.",
+      "d": "Obesidad."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_30",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué es la trazabilidad hacia atrás?",
+    "opciones": {
+      "a": "Saber a quién vendemos.",
+      "b": "El proceso de cocción.",
+      "c": "Limpiar la cocina.",
+      "d": "Identificar a los proveedores y materias primas recibidas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_31",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Cuál de estos es un pescado azul?",
+    "opciones": {
+      "a": "Merluza.",
+      "b": "Caballa / Atún.",
+      "c": "Lenguado.",
+      "d": "Gallo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_32",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "El \"braseado\" requiere una cocción:",
+    "opciones": {
+      "a": "Muy rápida a fuego fuerte.",
+      "b": "En abundante aceite.",
+      "c": "Lenta en recipiente cerrado con poco líquido.",
+      "d": "Al vacío."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_33",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿A qué grupo pertenecen las legumbres en la pirámide alimenticia?",
+    "opciones": {
+      "a": "Alimentos plásticos y energéticos.",
+      "b": "Alimentos reguladores únicamente.",
+      "c": "Grasas.",
+      "d": "Azúcares."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_34",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La limpieza de los fogones debe ser:",
+    "opciones": {
+      "a": "Semanal.",
+      "b": "Mensual.",
+      "c": "Diaria después de cada servicio.",
+      "d": "Solo si se derrama algo."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_35",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué es el \"peligro físico\" en un alimento?",
+    "opciones": {
+      "a": "Bacterias.",
+      "b": "Detergente.",
+      "c": "Moho.",
+      "d": "Un cristal, metal o piedra."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_36",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Quién es el responsable de la salud de los trabajadores según la LPRL?",
+    "opciones": {
+      "a": "El sindicato.",
+      "b": "El médico de familia.",
+      "c": "El servicio de correos.",
+      "d": "El empresario / Administración pública."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_37",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La basura de la cocina debe estar en bolsas:",
+    "opciones": {
+      "a": "Transparentes.",
+      "b": "De papel.",
+      "c": "De tela.",
+      "d": "De plástico resistentes y cerradas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_38",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué es un \"abatidor de temperatura\"?",
+    "opciones": {
+      "a": "Un horno muy potente.",
+      "b": "Equipo para enfriar rápidamente alimentos cocinados.",
+      "c": "Una estufa.",
+      "d": "Un lavavajillas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_39",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La \"marcha adelante\" es un principio de:",
+    "opciones": {
+      "a": "Higiene y diseño de flujos en cocina.",
+      "b": "Caminar rápido en el pasillo.",
+      "c": "Servir los platos por la derecha.",
+      "d": "No volver a usar la misma sartén."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_40",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué significa \"ligar\" una salsa?",
+    "opciones": {
+      "a": "Mezclar dos salsas distintas.",
+      "b": "Tirarla.",
+      "c": "Darle espesor y consistencia.",
+      "d": "Ponerle mucha sal."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_41",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "El huevo pasterizado se llama:",
+    "opciones": {
+      "a": "Clara.",
+      "b": "Yema.",
+      "c": "Cáscara.",
+      "d": "Ovoproducto."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_42",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Cuál es la función del Director Gerente de un hospital?",
+    "opciones": {
+      "a": "Cocinar.",
+      "b": "Representación oficial y dirección del hospital.",
+      "c": "Limpiar las habitaciones.",
+      "d": "Pasar consulta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_43",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La postura correcta para mover un carro es:",
+    "opciones": {
+      "a": "Tirar de él hacia atrás.",
+      "b": "Con una sola mano.",
+      "c": "Con los brazos estirados.",
+      "d": "Empujar con ambas manos y el cuerpo hacia adelante."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_44",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué es la \"contaminación química\"?",
+    "opciones": {
+      "a": "Pelos en la sopa.",
+      "b": "Presencia de desinfectantes o plaguicidas en el alimento.",
+      "c": "Virus.",
+      "d": "Espinas de pescado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_45",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "El \"tren de lavado\" sirve para:",
+    "opciones": {
+      "a": "Limpiar los suelos.",
+      "b": "Lavar la ropa del personal.",
+      "c": "Transportar la comida.",
+      "d": "Lavado automático y continuo de vajilla."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_46",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué alimento es rico en fibra?",
+    "opciones": {
+      "a": "Carne de ternera.",
+      "b": "Pescado.",
+      "c": "Frutas, verduras y cereales integrales.",
+      "d": "Queso."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_47",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La zona de \"cuarto frío\" debe estar:",
+    "opciones": {
+      "a": "Cerca de los hornos.",
+      "b": "En el almacén de limpieza.",
+      "c": "Al aire libre.",
+      "d": "Climatizada y separada de la zona de calor."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_48",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Cuál es la conducta PAS en primeros auxilios?",
+    "opciones": {
+      "a": "Proteger, Avisar, Socorrer.",
+      "b": "Parar, Atender, Salir.",
+      "c": "Primero Auxiliar Siempre.",
+      "d": "Prevenir, Actuar, Sanar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_49",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Cómo se deben secar las manos un manipulador?",
+    "opciones": {
+      "a": "Con el delantal.",
+      "b": "Con una toalla de tela.",
+      "c": "Con papel de un solo uso.",
+      "d": "Al aire."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_50",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿A qué grupo pertenecen los alimentos que aportan energía?",
+    "opciones": {
+      "a": "Grasas e hidratos de carbono.",
+      "b": "Vitaminas.",
+      "c": "Minerales.",
+      "d": "Proteínas únicamente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_51",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "El \"baño María\" se usa para:",
+    "opciones": {
+      "a": "Cocciones suaves o mantener caliente sin contacto directo con fuego.",
+      "b": "Freír patatas.",
+      "c": "Congelar carne.",
+      "d": "Lavar los cubiertos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_52",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "Una dieta lacto-ovo-vegetariana incluye:",
+    "opciones": {
+      "a": "Solo vegetales.",
+      "b": "Vegetales, lácteos y huevos.",
+      "c": "Solo pescado.",
+      "d": "Solo carne."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_53",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Cuál es la finalidad de la dieta hospitalaria?",
+    "opciones": {
+      "a": "Terapéutica.",
+      "b": "Preventiva.",
+      "c": "Educativa.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_54",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "Según el código alimentario español, ¿en qué grupo de alimentos se incluye el tomate?",
+    "opciones": {
+      "a": "Hortalizas.",
+      "b": "Frutas carnosas.",
+      "c": "Verduras.",
+      "d": "Frutos oleaginosos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_55",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Qué tipo de cocción no esteriliza el alimento contaminado?",
+    "opciones": {
+      "a": "El realizado en marmitas a presión.",
+      "b": "El realizado en hornos a 200°C.",
+      "c": "El realizado en microondas.",
+      "d": "El realizado en las planchas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_56",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "¿Cuáles de los siguientes alimentos pertenecen al grupo de los denominados \"alimentos plásticos\"?",
+    "opciones": {
+      "a": "Frutas y verduras.",
+      "b": "Carnes, pescados y huevos (proteínas).",
+      "c": "Aceite y mantequilla.",
+      "d": "Hidratos de carbono."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_57",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "Los cambios que pueden sufrir los alimentos pueden ser de tres tipos:",
+    "opciones": {
+      "a": "Físicos, químicos y biológicos.",
+      "b": "Directos e indirectos.",
+      "c": "Contaminantes y bióticos.",
+      "d": "Agentes externos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sacyl_2008_58",
+    "tema": "Otras Comunidades: SACYL (Castilla y León 2008)",
+    "pregunta": "La oferta de empleo público reservará un cupo de las plazas para personas con discapacidad no inferior al:",
+    "opciones": {
+      "a": "3%.",
+      "b": "5% / 7% (según normativa vigente en 2008 era 5%).",
+      "c": "10%.",
+      "d": "2%."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
   }
 ]
