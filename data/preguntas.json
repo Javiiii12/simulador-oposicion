@@ -31721,5 +31721,1755 @@
     "correcta": "c",
     "explicacion": "",
     "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_0",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta terapéutica:",
+    "opciones": {
+      "a": "Está indicada para personas que no precisen una dieta específica.",
+      "b": "Nunca se convierte en la base del tratamiento.",
+      "c": "Tiene como finalidad ayudar en la curación de la enfermedad.",
+      "d": "Es la dieta que más se asemeja a la normal de una persona sana."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_2",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta basal:",
+    "opciones": {
+      "a": "Suele sobrepasar las 2500-3000 Kcal/día.",
+      "b": "Nunca puede solicitarse sin sal.",
+      "c": "Suele ser la dieta general existente en un determinado centro hospitalario.",
+      "d": "Se compone exclusivamente de verduras."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_4",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "En una dieta blanda podemos incluir:",
+    "opciones": {
+      "a": "Patatas hervidas.",
+      "b": "Frutos secos.",
+      "c": "Alimentos fritos.",
+      "d": "Frutas crudas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_6",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "Para un desayuno hipocalórico se calentará:",
+    "opciones": {
+      "a": "Leche deshidratada.",
+      "b": "Leche condensada.",
+      "c": "Leche enriquecida.",
+      "d": "Leche desnatada."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_8",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "Para un desayuno de una dieta astringente, se preparará como parte de líquidos:",
+    "opciones": {
+      "a": "Leche entera.",
+      "b": "Café con leche.",
+      "c": "Tila.",
+      "d": "Té claro."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_10",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "En un desayuno de una dieta diabética incluirá:",
+    "opciones": {
+      "a": "Dos piezas de pan blanco.",
+      "b": "Mantequilla.",
+      "c": "Una pieza de fruta.",
+      "d": "Un batido de vainilla."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_12",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "El pollo, alimento incluido en la dieta de un paciente, es rico en:",
+    "opciones": {
+      "a": "Proteína.",
+      "b": "Hidratos de carbono.",
+      "c": "Lípidos.",
+      "d": "Vitaminas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_14",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La celiaquía es una intolerancia permanente al:",
+    "opciones": {
+      "a": "Lactosa.",
+      "b": "Glucosa.",
+      "c": "Gluten.",
+      "d": "Fructosa."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_16",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "¿Qué cereal no contiene gluten?",
+    "opciones": {
+      "a": "Trigo.",
+      "b": "Arroz.",
+      "c": "Cebada.",
+      "d": "Centeno."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_18",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "El reglamento (UE) 1169/2011 obliga a informar sobre la presencia de:",
+    "opciones": {
+      "a": "Solo cacahuetes.",
+      "b": "14 sustancias o productos que causan alergias o intolerancias.",
+      "c": "Solo la leche y sus derivados.",
+      "d": "No es obligatorio informar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_20",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "Una dieta hídrica se compone de:",
+    "opciones": {
+      "a": "Agua, infusiones y caldos filtrados.",
+      "b": "Carne y pescado a la plancha.",
+      "c": "Purés de verduras.",
+      "d": "Solo leche."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_22",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta hiposódica es baja en:",
+    "opciones": {
+      "a": "Azúcar.",
+      "b": "Sal (Sodio).",
+      "c": "Grasa.",
+      "d": "Proteína."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_24",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "¿Qué alimento es rico en hidratos de carbono?",
+    "opciones": {
+      "a": "Filete de ternera.",
+      "b": "Pescado blanco.",
+      "c": "Pasta.",
+      "d": "Huevo."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_26",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta para un paciente con insuficiencia renal suele ser:",
+    "opciones": {
+      "a": "Hipoproteica.",
+      "b": "Hiperproteica.",
+      "c": "Rica en sal.",
+      "d": "Rica en potasio."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_28",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta rica en fibra está indicada para:",
+    "opciones": {
+      "a": "Estreñimiento.",
+      "b": "Diarrea.",
+      "c": "Úlcera gastroduodenal.",
+      "d": "Postoperatorio inmediato."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_30",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "¿Qué es un alérgeno?",
+    "opciones": {
+      "a": "Una sustancia que puede provocar una reacción alérgica.",
+      "b": "Un tipo de vitamina.",
+      "c": "Un conservante prohibido.",
+      "d": "Una bacteria de la carne."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_32",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "¿Cuál de estos alimentos es un alérgeno de declaración obligatoria?",
+    "opciones": {
+      "a": "Crustáceos.",
+      "b": "Carne de cerdo.",
+      "c": "Manzana.",
+      "d": "Lechuga."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_34",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta blanda mecánica es:",
+    "opciones": {
+      "a": "Para pacientes con dificultad para masticar, alimentos picados o blandos.",
+      "b": "Una dieta elaborada por una máquina.",
+      "c": "Solo líquidos.",
+      "d": "Muy rica en grasas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_36",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "En la dieta de un diabético se controla principalmente:",
+    "opciones": {
+      "a": "El consumo de grasas.",
+      "b": "El consumo de hidratos de carbono de absorción rápida.",
+      "c": "El consumo de agua.",
+      "d": "La temperatura de la comida."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_38",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta astringente se utiliza en caso de:",
+    "opciones": {
+      "a": "Estreñimiento.",
+      "b": "Diarrea.",
+      "c": "Anemia.",
+      "d": "Hipertensión."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_40",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta prescrita en función del estado del enfermo se denomina:",
+    "opciones": {
+      "a": "Dieta blanda.",
+      "b": "Dieta basal.",
+      "c": "Dieta terapéutica.",
+      "d": "Dieta hipocalórica."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_42",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "Una dieta hipoproteica está indicada en:",
+    "opciones": {
+      "a": "Apendicitis.",
+      "b": "Úlcera péptica.",
+      "c": "Insuficiencia hepática aguda.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_44",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "Sobre la modificación de la consistencia, señale la correcta:",
+    "opciones": {
+      "a": "La dieta líquida se usa como inicio de tolerancia.",
+      "b": "La dieta semiblanda es de transición.",
+      "c": "La dieta blanda es fácil de masticar y digerir.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_46",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta que contempla la supresión total de alimentos y líquidos es:",
+    "opciones": {
+      "a": "De transición.",
+      "b": "Astringente.",
+      "c": "Absoluta.",
+      "d": "Total."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b1_48",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 1)",
+    "pregunta": "La dieta para hipertensión arterial es:",
+    "opciones": {
+      "a": "Dieta hiposódica.",
+      "b": "Dieta blanda.",
+      "c": "Dieta absoluta.",
+      "d": "Dieta hídrica."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_0",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Qué alimentos no contienen lípidos?",
+    "opciones": {
+      "a": "Mantequilla y queso.",
+      "b": "Carne de ternera.",
+      "c": "Aceite.",
+      "d": "Azúcar."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_2",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "La cocina 45:",
+    "opciones": {
+      "a": "Envasa exclusivamente al vacío.",
+      "b": "Se basa en ensamblaje de productos de 4ª y 5ª gama.",
+      "c": "Es un sistema flexible sobre carriles móviles.",
+      "d": "Necesita mucha maquinaria."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_4",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Cómo se obtiene el aceite puro de oliva?",
+    "opciones": {
+      "a": "Por procedimientos mecánicos en frío, sedimentación y filtración.",
+      "b": "Mezcla de virgen y refinado.",
+      "c": "Refinando aceite de oliva virgen.",
+      "d": "Tratando orujo con disolvente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_6",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "Señale la afirmación falsa:",
+    "opciones": {
+      "a": "El pescado tiene menos grasas saturadas que algunas carnes.",
+      "b": "El pescado azul es más calórico que el blanco.",
+      "c": "El pescado fresco tiene mayor valor nutritivo que el congelado.",
+      "d": "Todas son falsas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_8",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "El sistema de emplatado consiste en:",
+    "opciones": {
+      "a": "Distribución de alimentos en contenedores de transporte.",
+      "b": "Retirada de bandejas de las habitaciones.",
+      "c": "Distribución en raciones individuales para consumo.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_10",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "Los glúcidos o hidratos de carbono aportan:",
+    "opciones": {
+      "a": "4 Kcal por gramo.",
+      "b": "9 Kcal por gramo.",
+      "c": "7 Kcal por gramo.",
+      "d": "No aportan calorías."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_12",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "Las grasas o lípidos aportan:",
+    "opciones": {
+      "a": "4 Kcal/g.",
+      "b": "9 Kcal/g.",
+      "c": "12 Kcal/g.",
+      "d": "2 Kcal/g."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_14",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Cuál es la función principal de las proteínas?",
+    "opciones": {
+      "a": "Energética.",
+      "b": "Plástica o estructural.",
+      "c": "Reguladora.",
+      "d": "Aislante térmico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_16",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "Las vitaminas son nutrientes:",
+    "opciones": {
+      "a": "Macronutrientes.",
+      "b": "Micronutrientes.",
+      "c": "Energéticos.",
+      "d": "No son nutrientes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_18",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "La falta de Vitamina C produce:",
+    "opciones": {
+      "a": "Raquitismo.",
+      "b": "Escorbuto.",
+      "c": "Ceguera nocturna.",
+      "d": "Beriberi."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_20",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "Los alimentos reguladores son ricos en:",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Grasas.",
+      "c": "Vitaminas y minerales.",
+      "d": "Hidratos de carbono."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_22",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Qué es la 4ª gama de alimentos?",
+    "opciones": {
+      "a": "Alimentos frescos, limpios, troceados y envasados (ensaladas).",
+      "b": "Alimentos congelados.",
+      "c": "Alimentos en conserva.",
+      "d": "Alimentos cocinados y listos para servir."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_24",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "La 5ª gama se refiere a:",
+    "opciones": {
+      "a": "Productos crudos.",
+      "b": "Productos precocinados o cocinados listos para calentar y servir.",
+      "c": "Fruta fresca.",
+      "d": "Legumbres secas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_26",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Qué son las calorías?",
+    "opciones": {
+      "a": "Unidad de medida de la energía que aportan los alimentos.",
+      "b": "El peso del alimento.",
+      "c": "La cantidad de grasa.",
+      "d": "El volumen de agua."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_28",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Cuál es un mineral esencial para los huesos?",
+    "opciones": {
+      "a": "Calcio.",
+      "b": "Sodio.",
+      "c": "Potasio.",
+      "d": "Cloro."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_30",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "Las legumbres son ricas en:",
+    "opciones": {
+      "a": "Proteína vegetal e hidratos de carbono.",
+      "b": "Solo grasas.",
+      "c": "Vitamina B12 únicamente.",
+      "d": "No aportan nada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_32",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "La dieta ovo-lacto-vegetariana incluye:",
+    "opciones": {
+      "a": "Solo vegetales.",
+      "b": "Vegetales, huevos y lácteos.",
+      "c": "Solo huevos.",
+      "d": "Carne y pescado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_34",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "El huevo es un alimento con proteínas de:",
+    "opciones": {
+      "a": "Bajo valor biológico.",
+      "b": "Alto valor biológico.",
+      "c": "Sin valor biológico.",
+      "d": "Solo grasa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_36",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Qué vitamina es liposoluble?",
+    "opciones": {
+      "a": "Vitamina C.",
+      "b": "Vitamina B12.",
+      "c": "Vitamina A.",
+      "d": "Vitamina B1."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_38",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "El agua representa en el cuerpo humano aproximadamente el:",
+    "opciones": {
+      "a": "10%.",
+      "b": "30%.",
+      "c": "60-70%.",
+      "d": "95%."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_40",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "En el diagrama circular, los alimentos ricos en lípidos pertenecen al:",
+    "opciones": {
+      "a": "Grupo I.",
+      "b": "Grupo II.",
+      "c": "Grupo IV.",
+      "d": "Grupo VI."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_42",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Qué enfermedad causa la insuficiencia de Vitamina D?",
+    "opciones": {
+      "a": "Caries.",
+      "b": "Cardiovasculares.",
+      "c": "Raquitismo.",
+      "d": "Escorbuto."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_44",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Qué son los yogures?",
+    "opciones": {
+      "a": "Postres elaborados con leche fermentada.",
+      "b": "Postres elaborados con leche condensada.",
+      "c": "Postres elaborados con natas.",
+      "d": "Postres elaborados con leche fresca."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_46",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "¿Qué es un lechal?",
+    "opciones": {
+      "a": "Cordero sacrificado entre 4 y 6 meses.",
+      "b": "Cordero que tiene entre 15 días y 2 meses.",
+      "c": "Cordero nacido en invierno.",
+      "d": "Cordero sobrealimentado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b2_48",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 2)",
+    "pregunta": "La leche higienizada:",
+    "opciones": {
+      "a": "Procede de explotaciones ganaderas.",
+      "b": "Es leche certificada.",
+      "c": "Es leche natural sometida a proceso tecnológico autorizado.",
+      "d": "Es aquella con composición modificada."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_0",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "Respecto a la elaboración de los platos, indique la opción correcta:",
+    "opciones": {
+      "a": "La prescripción de dietas corresponde a enfermería.",
+      "b": "Higiene de cocina es función de nutrición clínica.",
+      "c": "Se realiza con aportes solicitados y lo lleva a cabo personal de cocina.",
+      "d": "Las prescribe medicina preventiva."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_2",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "Indique la correcta. El objetivo principal del emplatado es:",
+    "opciones": {
+      "a": "Cambiar dietas cuando lo pida el paciente.",
+      "b": "Respetar las dietas, temperatura y presentación.",
+      "c": "La calidad es secundaria.",
+      "d": "Productos siempre al dente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_4",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "¿Cuál de las siguientes hortalizas son legumbres secas?",
+    "opciones": {
+      "a": "Calabacín y pepino.",
+      "b": "Berro y grelos.",
+      "c": "Zanahoria y nabo.",
+      "d": "Guisante, haba, tirabeque."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_6",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "¿En qué consiste la cocción al vacío?",
+    "opciones": {
+      "a": "Cocinar tradicional y después envasar al vacío.",
+      "b": "Introducir componentes crudos, hacer vacío y cocer en el envase.",
+      "c": "Preparación de materias primas para controlar raciones.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_8",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "La cinta de emplatado es:",
+    "opciones": {
+      "a": "Una cuerda para atar cajas.",
+      "b": "Sistema de transporte para montaje de bandejas individuales.",
+      "c": "Para medir la cocina.",
+      "d": "Un tipo de alimento."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_10",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "Las dietas terapéuticas deben estar:",
+    "opciones": {
+      "a": "Identificadas con tarjeta o código en la bandeja.",
+      "b": "Sin identificar para proteger datos.",
+      "c": "Solo en la cocina.",
+      "d": "Se las sabe el pinche de memoria."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_12",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "¿Cuál es la función del pinche en la cinta de emplatado?",
+    "opciones": {
+      "a": "Diagnosticar al paciente.",
+      "b": "Colocar alimentos, cubiertos o pan según el puesto asignado.",
+      "c": "Decidir el menú del día.",
+      "d": "Solo limpiar la cinta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_14",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "¿Qué es el \"Plato Testigo\" o \"Comida Testigo\"?",
+    "opciones": {
+      "a": "El plato que se come el jefe.",
+      "b": "Muestra guardada de cada plato para análisis en caso de brote.",
+      "c": "Un plato de plástico de adorno.",
+      "d": "La primera bandeja de la cinta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_16",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "La temperatura de los platos calientes en el emplatado debe ser:",
+    "opciones": {
+      "a": "Mínimo 65° C.",
+      "b": "20° C.",
+      "c": "40° C.",
+      "d": "Hirviendo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_18",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "¿Quién supervisa la cinta de emplatado?",
+    "opciones": {
+      "a": "El celador.",
+      "b": "El dietista/nutricionista o jefe de cocina.",
+      "c": "El paciente.",
+      "d": "La limpiadora."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_20",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "La \"Marcha Adelante\" impide:",
+    "opciones": {
+      "a": "Contaminación cruzada entre zonas sucias y limpias.",
+      "b": "Que los trabajadores lleguen tarde.",
+      "c": "Que se acabe la comida.",
+      "d": "No impide nada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_22",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "En una dieta de protección gástrica se evitan:",
+    "opciones": {
+      "a": "Picantes, fritos y alcohol.",
+      "b": "Agua.",
+      "c": "Arroz blanco.",
+      "d": "Pescado hervido."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_24",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "Un paciente con alergia a los frutos secos no puede comer:",
+    "opciones": {
+      "a": "Nueces y almendras.",
+      "b": "Pollo.",
+      "c": "Lentejas.",
+      "d": "Lechuga."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_26",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "¿Qué información debe aparecer en la tarjeta de dieta?",
+    "opciones": {
+      "a": "Nombre, cama/habitación y tipo de dieta.",
+      "b": "DNI y dirección del paciente.",
+      "c": "Sueldo del paciente.",
+      "d": "No hace falta tarjeta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_28",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "Los carros isotermos sirven para:",
+    "opciones": {
+      "a": "Guardar ropa.",
+      "b": "Mantener la temperatura de las bandejas durante el transporte.",
+      "c": "Cocinar dentro de ellos.",
+      "d": "Pesar a los pacientes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_30",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "La dieta hipocalórica es para:",
+    "opciones": {
+      "a": "Ganar peso.",
+      "b": "Perder peso (baja en calorías).",
+      "c": "Pacientes con mucha fiebre.",
+      "d": "Atletas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_32",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "En la intolerancia a la lactosa no se puede tomar:",
+    "opciones": {
+      "a": "Azúcar común.",
+      "b": "Leche de vaca y derivados no tratados.",
+      "c": "Carne de ternera.",
+      "d": "Huevos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_34",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "¿Qué alimento sustituye la carne en dietas vegetarianas?",
+    "opciones": {
+      "a": "Tofu o legumbres.",
+      "b": "Mantequilla.",
+      "c": "Manteca de cerdo.",
+      "d": "Nada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_36",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "La dieta rica en potasio se indica para:",
+    "opciones": {
+      "a": "Reponer pérdidas por diuréticos.",
+      "b": "Insuficiencia renal grave.",
+      "c": "Diabetes.",
+      "d": "Obesidad."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_38",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "El pan integral se usa en dietas:",
+    "opciones": {
+      "a": "Sin residuo.",
+      "b": "Ricas en fibra.",
+      "c": "Líquidas.",
+      "d": "Hipoproteicas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_40",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "¿Qué es un choque anafiláctico?",
+    "opciones": {
+      "a": "Un tipo de dieta.",
+      "b": "Reacción alérgica grave que afecta a todo el cuerpo.",
+      "c": "Un corte en el dedo.",
+      "d": "Una indigestión leve."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_42",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "La dieta líquida completa incluye:",
+    "opciones": {
+      "a": "Caldos, leche, zumos y yogures líquidos.",
+      "b": "Filete picado.",
+      "c": "Puré espeso.",
+      "d": "Solo agua."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_44",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "¿De quién es responsabilidad evitar trazas en platos de alérgicos?",
+    "opciones": {
+      "a": "Del personal de cocina.",
+      "b": "Del médico.",
+      "c": "Del paciente.",
+      "d": "De nadie."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_46",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "Señale la incorrecta sobre los huevos:",
+    "opciones": {
+      "a": "Identificación obligatoria de granja.",
+      "b": "Ovoproductos transformados industrialmente.",
+      "c": "Huevo fresco se vende hasta 12 días tras puesta y consume hasta 3 meses.",
+      "d": "No deben usarse nunca en restauración (sustituir por ovoproductos)."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema11_b3_48",
+    "tema": "Tema 11: Dietas y Control de Alérgenos (Bloque 3)",
+    "pregunta": "En las intolerancias alimentarias:",
+    "opciones": {
+      "a": "Interviene el sistema inmune.",
+      "b": "Puede producir shock anafiláctico mortal.",
+      "c": "Síntomas como urticaria o hinchazón.",
+      "d": "Se pueden consumir pequeñas cantidades sin síntomas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_0",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La aplicación del sistema análisis de peligros y puntos de control crítico (APPCC) permite. Señala la respuesta incorrecta:",
+    "opciones": {
+      "a": "Conseguir una mayor garantía de salubridad de los alimentos consumidos.",
+      "b": "Una utilización más eficaz de los recursos técnicos y económicos disponibles.",
+      "c": "Obliga a mantener una documentación específica que evidencie el control de los procesos.",
+      "d": "No se aplica este sistema de análisis de peligros y puntos de control crítico (APPCC) en las cocinas hospitalarias."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_2",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Dentro de los posibles métodos de vigilancia para comprobar si el procedimiento de limpieza se realiza bajo control, se recomienda:",
+    "opciones": {
+      "a": "Comprobación de pH de agua de aclarados.",
+      "b": "Métodos de detección de hormonas y/o ADN.",
+      "c": "La a y b son correctas.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_4",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Cuál de los siguientes no es un principio del APPCC?",
+    "opciones": {
+      "a": "Detectar cualquier peligro que deba evitarse, eliminarse o reducirse a niveles aceptables.",
+      "b": "Detectar los puntos de control crítico en la fase o fases en las que el control sea esencial.",
+      "c": "Establecer y aplicar procedimientos de vigilancia efectivos en los puntos de control crítico.",
+      "d": "Establecer medidas correctivas solo cuando el cliente se queje."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_6",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El sistema APPCC es un sistema de control de la seguridad alimentaria que se basa en:",
+    "opciones": {
+      "a": "La prevención, en lugar de basarse en el análisis del producto final.",
+      "b": "El análisis exclusivo del producto una vez terminado.",
+      "c": "La inspección visual de los platos por el pinche.",
+      "d": "El control de asistencia del personal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_8",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Qué es un Punto de Control Crítico (PCC)?",
+    "opciones": {
+      "a": "El momento en que se sirve la comida al paciente.",
+      "b": "Fase en la que puede aplicarse un control esencial para prevenir o eliminar un peligro para la inocuidad de los alimentos.",
+      "c": "La puerta de entrada de la cocina.",
+      "d": "La revisión de las nóminas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_10",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Un peligro alimentario puede ser de naturaleza:",
+    "opciones": {
+      "a": "Solo biológica.",
+      "b": "Solo química.",
+      "c": "Biológica, química o física.",
+      "d": "Solo física."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_12",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Establecer un sistema de vigilancia de los PCC es el principio:",
+    "opciones": {
+      "a": "Primero.",
+      "b": "Segundo.",
+      "c": "Tercero.",
+      "d": "Cuarto."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_14",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La trazabilidad de un alimento es:",
+    "opciones": {
+      "a": "La posibilidad de encontrar y seguir el rastro a través de todas las etapas de producción, transformación y distribución.",
+      "b": "Saber cuánto pesa el alimento.",
+      "c": "Conocer el precio de mercado.",
+      "d": "Dibujar el alimento."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_16",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El sistema de autocontrol APPCC es obligatorio para:",
+    "opciones": {
+      "a": "Todas las empresas del sector alimentario, incluidas cocinas hospitalarias.",
+      "b": "Solo fábricas de conservas.",
+      "c": "Solo restaurantes de lujo.",
+      "d": "Es opcional."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_18",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Qué significa el término \"Límite Crítico\"?",
+    "opciones": {
+      "a": "La fecha de caducidad.",
+      "b": "El número de platos que se pueden cocinar.",
+      "c": "Criterio que diferencia la aceptabilidad de la inaceptabilidad.",
+      "d": "El borde de la cinta de emplatado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_20",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Las medidas correctivas se aplican cuando:",
+    "opciones": {
+      "a": "La vigilancia indica que un PCC determinado no está bajo control.",
+      "b": "Se acaba el presupuesto.",
+      "c": "Hay mucho trabajo en la cocina.",
+      "d": "El director visita la cocina."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_22",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La documentación del sistema APPCC debe estar:",
+    "opciones": {
+      "a": "Siempre a disposición de las autoridades sanitarias para su comprobación.",
+      "b": "Guardada bajo llave y nadie puede verla.",
+      "c": "En el despacho del gerente del hospital únicamente.",
+      "d": "Solo existe en formato digital borrable."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_24",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Cuál es un ejemplo de peligro biológico?",
+    "opciones": {
+      "a": "Un trozo de cristal.",
+      "b": "Presencia de Salmonella en el huevo.",
+      "c": "Restos de detergente.",
+      "d": "Una grapa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_26",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Cuál es un ejemplo de peligro químico?",
+    "opciones": {
+      "a": "Bacterias.",
+      "b": "Virus.",
+      "c": "Residuos de plaguicidas o desinfectantes.",
+      "d": "Astillas de madera."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_28",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Cuál es un ejemplo de peligro físico?",
+    "opciones": {
+      "a": "Mohos.",
+      "b": "Toxinas.",
+      "c": "Fragmentos de metal o piedras.",
+      "d": "Productos de limpieza."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_30",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La formación de los trabajadores en el sistema APPCC es:",
+    "opciones": {
+      "a": "Innecesaria si saben cocinar.",
+      "b": "Obligatoria y fundamental para el éxito del sistema.",
+      "c": "Solo para los jefes de cocina.",
+      "d": "Una pérdida de tiempo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_32",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Los registros de temperatura de las cámaras frigoríficas forman parte de:",
+    "opciones": {
+      "a": "El sistema de vigilancia del APPCC.",
+      "b": "El inventario de maquinaria.",
+      "c": "El libro de recetas.",
+      "d": "La agenda del pinche."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_34",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El plan de limpieza y desinfección es:",
+    "opciones": {
+      "a": "Un prerrequisito necesario antes de implantar el APPCC.",
+      "b": "Algo que se hace si sobra tiempo.",
+      "c": "Solo para los suelos de la cocina.",
+      "d": "Lo hace una empresa externa y no necesita documentos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_36",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La trazabilidad \"hacia atrás\" se refiere a:",
+    "opciones": {
+      "a": "Saber a quién se ha servido la comida.",
+      "b": "Saber quiénes son nuestros proveedores y qué productos nos han suministrado.",
+      "c": "El orden de los platos en el menú.",
+      "d": "Caminar hacia atrás en la cocina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_38",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La trazabilidad \"hacia adelante\" permite:",
+    "opciones": {
+      "a": "Conocer el destino de los productos expedidos (ej. plantas del hospital).",
+      "b": "Predecir el futuro de la empresa.",
+      "c": "Saber qué vamos a comprar mañana.",
+      "d": "No existe esa trazabilidad."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_40",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Quién es el responsable de que se cumpla el APPCC en la cocina hospitalaria?",
+    "opciones": {
+      "a": "Los pacientes.",
+      "b": "El titular o responsable de la unidad de hostelería/alimentación.",
+      "c": "El ministerio de educación.",
+      "d": "Nadie en particular."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_42",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El sistema de autocontrol permite detectar fallos:",
+    "opciones": {
+      "a": "En tiempo real para evitar que el alimento llegue al consumidor.",
+      "b": "Una semana después de que el paciente haya comido.",
+      "c": "Solo si el laboratorio analiza todas las comidas.",
+      "d": "Solo por el sabor de la comida."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_44",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El diagrama de flujo en el APPCC es:",
+    "opciones": {
+      "a": "Un dibujo decorativo.",
+      "b": "Representación sistemática de la secuencia de fases de un proceso.",
+      "c": "El mapa de las tuberías.",
+      "d": "Un esquema de los turnos de trabajo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_46",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Si un límite crítico de temperatura de cocción no se alcanza, la medida correctiva sería:",
+    "opciones": {
+      "a": "Servir la comida igual porque hay prisa.",
+      "b": "Continuar la cocción hasta alcanzar la temperatura segura o destruir el producto.",
+      "c": "Cambiar el termómetro.",
+      "d": "No hacer nada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_48",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Las auditorías del sistema APPCC sirven para:",
+    "opciones": {
+      "a": "Sancionar a los pinches.",
+      "b": "Verificar que el sistema funciona correctamente y es eficaz.",
+      "c": "Contar los platos que faltan.",
+      "d": "Limpiar los almacenes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_50",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El control de plagas forma parte de:",
+    "opciones": {
+      "a": "Los planes generales de higiene o prerrequisitos.",
+      "b": "El menú del día.",
+      "c": "La zona de emplatado.",
+      "d": "No tiene relación con la seguridad alimentaria."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_52",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Qué debe hacerse si se recibe una mercancía a temperatura incorrecta?",
+    "opciones": {
+      "a": "Aceptarla y enfriarla rápido.",
+      "b": "Rechazarla por no cumplir los límites críticos de recepción.",
+      "c": "Guardarla en el almacén de secos.",
+      "d": "Cocinarla inmediatamente."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_54",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Cuál es el primer paso para establecer un plan APPCC?",
+    "opciones": {
+      "a": "Formar el equipo APPCC.",
+      "b": "Comprar termómetros.",
+      "c": "Pintar la cocina.",
+      "d": "Llamar al inspector."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_56",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El análisis de peligros consiste en:",
+    "opciones": {
+      "a": "Identificar los peligros potenciales asociados a cada etapa del proceso.",
+      "b": "Analizar la peligrosidad de los pinches.",
+      "c": "Revisar si las estanterías se pueden caer.",
+      "d": "Contar las bacterias una a una."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_58",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Un registro de trazabilidad debe contener:",
+    "opciones": {
+      "a": "Lote, fecha de entrada/salida y cantidad.",
+      "b": "El color del camión del proveedor.",
+      "c": "El nombre del conductor del camión.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_60",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La limpieza se define como:",
+    "opciones": {
+      "a": "Eliminación de microorganismos con productos químicos.",
+      "b": "Pintado de las paredes.",
+      "c": "Eliminación de tierra, residuos de alimentos, suciedad o grasa.",
+      "d": "Solo pasar un trapo seco."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_62",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La desinfección es:",
+    "opciones": {
+      "a": "Reducción del número de microorganismos mediante agentes químicos o físicos.",
+      "b": "Barrer el suelo.",
+      "c": "Lavar con agua sola.",
+      "d": "Ordenar el almacén."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_64",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El cloro es un agente:",
+    "opciones": {
+      "a": "Nutritivo.",
+      "b": "Desinfectante.",
+      "c": "Edulcorante.",
+      "d": "Espesante."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_66",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Qué es la contaminación cruzada según el APPCC?",
+    "opciones": {
+      "a": "La mezcla de sal y azúcar.",
+      "b": "El transporte de alimentos en avión.",
+      "c": "El paso de microbios de alimentos crudos a cocinados a través de manos o útiles.",
+      "d": "Cruzar los brazos al cocinar."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_68",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Un prerrequisito del sistema APPCC sobre el agua es:",
+    "opciones": {
+      "a": "Control de la potabilidad del agua.",
+      "b": "Que el agua esté siempre fría.",
+      "c": "Que el agua sea de colores.",
+      "d": "No hace falta controlar el agua."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_70",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La trazabilidad permite, en caso de alerta alimentaria:",
+    "opciones": {
+      "a": "Retirar del mercado/consumo de forma rápida el producto afectado.",
+      "b": "Saber cuánto dinero se ha perdido.",
+      "c": "Avisar a la prensa.",
+      "d": "Cambiar de proveedor para siempre."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_72",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La verificación del sistema APPCC debe realizarse:",
+    "opciones": {
+      "a": "Cada 10 años.",
+      "b": "Periódicamente para asegurar que el sistema sigue siendo válido.",
+      "c": "Nunca si se hizo bien al principio.",
+      "d": "Solo si lo pide el jefe de cocina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_74",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La \"marcha adelante\" en el diseño de cocinas:",
+    "opciones": {
+      "a": "Es un sistema de baile.",
+      "b": "Evita que se crucen los circuitos limpios y sucios.",
+      "c": "Permite que los carros vayan más rápido.",
+      "d": "Es obligatoria solo para pinches."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_76",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Qué información es clave para la trazabilidad interna?",
+    "opciones": {
+      "a": "La composición de los platos cocinados y su fecha de elaboración.",
+      "b": "El horario de los pinches.",
+      "c": "La marca de los platos.",
+      "d": "El número de tenedores."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_78",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Los envases de los alimentos deben:",
+    "opciones": {
+      "a": "Ser de materiales autorizados para uso alimentario.",
+      "b": "Estar rotos para ver el interior.",
+      "c": "Ser siempre de cartón.",
+      "d": "No importa el material."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_80",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La temperatura de un plato cocinado en el centro de la pieza debe ser de al menos:",
+    "opciones": {
+      "a": "50° C.",
+      "b": "65-70° C.",
+      "c": "100° C.",
+      "d": "40° C."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_82",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El sistema de identificación por lotes es fundamental para:",
+    "opciones": {
+      "a": "La trazabilidad.",
+      "b": "El pago de impuestos.",
+      "c": "La decoración del envase.",
+      "d": "No sirve para nada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_84",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Los registros del APPCC deben conservarse durante:",
+    "opciones": {
+      "a": "Una semana.",
+      "b": "Un periodo de tiempo adecuado (generalmente al menos 6 meses-1 año según vida útil).",
+      "c": "50 años.",
+      "d": "Se deben tirar cada día."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_86",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El plan de formación de manipuladores incluye:",
+    "opciones": {
+      "a": "Prácticas correctas de higiene.",
+      "b": "Conocimiento de los peligros de los alimentos.",
+      "c": "Funcionamiento del APPCC.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_88",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Qué es la \"trazabilidad de proceso\"?",
+    "opciones": {
+      "a": "El seguimiento de los alimentos dentro de la propia cocina.",
+      "b": "El viaje del camión desde la fábrica.",
+      "c": "La venta en el supermercado.",
+      "d": "El cultivo de la fruta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_90",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "La vigilancia de un PCC puede ser:",
+    "opciones": {
+      "a": "Continua o periódica.",
+      "b": "Solo una vez al mes.",
+      "c": "Cuando alguien se acuerde.",
+      "d": "Solo visual siempre."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_92",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "El equipo APPCC debe ser:",
+    "opciones": {
+      "a": "Formado por una sola persona.",
+      "b": "Multidisciplinar (personal de cocina, dietética, mantenimiento, calidad).",
+      "c": "Formado por personas externas al hospital solamente.",
+      "d": "Equipo multidisciplinar que exclusivamente controla el Plan APPCC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_94",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Qué es el sistema APPCC?",
+    "opciones": {
+      "a": "Un instrumento para ayudar a lograr niveles elevados de seguridad alimentaria.",
+      "b": "Un sistema de control de personal.",
+      "c": "Un método para definir los procesos de producción.",
+      "d": "Una guía de buenas prácticas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_96",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "¿Qué es la TRAZABILIDAD de un alimento?",
+    "opciones": {
+      "a": "Conocer de quién es el producto.",
+      "b": "Poder rastrear un alimento desde su origen hasta que llega a manos del consumidor.",
+      "c": "Conocer la procedencia.",
+      "d": "Saber de qué nutrientes se compone."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
+  },
+  {
+    "id": "csif_tema12_bÚnico_98",
+    "tema": "Tema 12: APPCC y Trazabilidad (Bloque Único)",
+    "pregunta": "Sistema de identificación y control a través de toda la cadena alimentaria: producción, transformación, distribución y consumo:",
+    "opciones": {
+      "a": "Seguimiento de cocina.",
+      "b": "Trazabilidad.",
+      "c": "Desinfección.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "CSIF"
   }
 ]

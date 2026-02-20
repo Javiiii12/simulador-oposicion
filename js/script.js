@@ -336,6 +336,8 @@ function createBaseTopicButton(baseTema, questionsSubset) {
         if (baseTema === 'Tema 8') titulo = "Prevención de Riesgos y Plan PERSEO";
         if (baseTema === 'Tema 9') titulo = "Higiene y Conservación de Alimentos";
         if (baseTema === 'Tema 10') titulo = "Organización y Funciones en la Cocina";
+        if (baseTema === 'Tema 11') titulo = "Dietas y Control de Alérgenos";
+        if (baseTema === 'Tema 12') titulo = "APPCC y Trazabilidad";
     }
 
     if (titulo === baseTema) titulo = "";
@@ -464,6 +466,8 @@ function createTopicButton(tema) {
         if (tema === 'Tema 8') titulo = "Prevención de Riesgos y Plan PERSEO";
         if (tema === 'Tema 9') titulo = "Higiene y Conservación de Alimentos";
         if (tema === 'Tema 10') titulo = "Organización y Funciones en la Cocina";
+        if (tema === 'Tema 11') titulo = "Dietas y Control de Alérgenos";
+        if (tema === 'Tema 12') titulo = "APPCC y Trazabilidad";
     }
 
     // Avoid redundancy if title == theme name
