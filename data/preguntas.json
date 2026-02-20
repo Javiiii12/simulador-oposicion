@@ -25617,5 +25617,1741 @@
     "correcta": "a",
     "explicacion": "",
     "origen": "CSIF"
+  },
+  {
+    "id": "historico_sescam_b1_2",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Para conseguir la máxima operatividad y eficacia en el funcionamiento de los servicios a nivel primario, las Áreas de salud se dividirán en:",
+    "opciones": {
+      "a": "Demarcaciones geográficas.",
+      "b": "Equipos de apoyo a la atención primaria.",
+      "c": "Equipos de apoyo a la atención primaria o especializada.",
+      "d": "Zonas básicas de salud."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_4",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Según el Estatuto Marco, quien no se incorpore al destino obtenido en movilidad voluntaria dentro de los plazos:",
+    "opciones": {
+      "a": "Será privado de su condición de estatutario.",
+      "b": "Será declarado en situación de excedencia voluntaria por el servicio de salud de origen.",
+      "c": "Será declarado en situación de excedencia forzosa.",
+      "d": "Será declarado en la situación de suspensión firme."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_6",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Las materias relativas a la prevención de riesgos laborales:",
+    "opciones": {
+      "a": "Deberán ser objeto de negociación (Ley 9/1987).",
+      "b": "No podrán ser objeto de negociación.",
+      "c": "Quedan excluidas de la obligatoriedad de negociación.",
+      "d": "Tienen obligatoriedad de negociación si no se aplica directamente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_8",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El personal que accede a los datos de la historia clínica en el ejercicio de sus funciones:",
+    "opciones": {
+      "a": "Tiene el deber de secreto, salvo datos de sus funciones.",
+      "b": "Queda sujeto al deber de secreto.",
+      "c": "Garantizará la autenticidad del contenido.",
+      "d": "Queda sujeto a protección de datos exceptuando información trascendental."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_10",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Los derechos y deberes fundamentales vienen recogidos en la Constitución Española en:",
+    "opciones": {
+      "a": "El Título I.",
+      "b": "El capítulo II, del título II.",
+      "c": "El Preámbulo.",
+      "d": "El Título Preliminar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_12",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Según la estructura de C-LM (Decreto 51/2017), ¿cuál de estas consejerías no existe?",
+    "opciones": {
+      "a": "Consejería de Economía, Empresas y Empleo.",
+      "b": "Consejería de Presidencia.",
+      "c": "Consejería de Fomento.",
+      "d": "Consejería de Educación, Cultura y Deportes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_14",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Respecto a los derechos de los usuarios en la Ley General de Sanidad, señala el FALSO:",
+    "opciones": {
+      "a": "Derecho a información sobre servicios sanitarios.",
+      "b": "Derecho a confidencialidad de la información.",
+      "c": "Derecho a negarse al tratamiento, sin excepciones, solicitando alta voluntaria.",
+      "d": "Derecho a que quede constancia escrita del proceso."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_16",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Según el Estatuto Marco (Ley 55/2003), ¿cuál de estas faltas es LEVE?",
+    "opciones": {
+      "a": "Aceptación de contraprestación por servicios.",
+      "b": "Descuido en cumplimiento de disposiciones sobre seguridad y salud.",
+      "c": "Falta de rendimiento que afecte al funcionamiento normal.",
+      "d": "Notoria falta de rendimiento con inhibición de funciones."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_18",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La Constitución española de 1978 entró en vigor:",
+    "opciones": {
+      "a": "El 6 de diciembre de 1978.",
+      "b": "Al día siguiente de su publicación en el BOE.",
+      "c": "El mismo día de su publicación en el BOE.",
+      "d": "Al día siguiente de su aprobación por las Cortes."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_20",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El Servicio de Salud de Castilla-La Mancha (SESCAM) es un organismo:",
+    "opciones": {
+      "a": "Sin personalidad jurídica propia ni capacidad de obrar.",
+      "b": "Sin personalidad jurídica propia y plena capacidad.",
+      "c": "Con personalidad jurídica propia y plena capacidad de obrar.",
+      "d": "Con personalidad jurídica propia y sin capacidad."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_22",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El personal estatutario sanitario con formación universitaria se clasifica en:",
+    "opciones": {
+      "a": "Licenciados y diplomados sanitarios.",
+      "b": "Licenciados, Licenciados Especialistas y Diplomados sanitarios.",
+      "c": "Licenciados, Licenciados Especialistas, Diplomados Especialistas y Diplomados sanitarios.",
+      "d": "Licenciados Especialistas y Diplomados Especialistas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_24",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "No es un requisito para participar en procesos de selección de personal fijo:",
+    "opciones": {
+      "a": "Estar en posesión de la titulación exigida.",
+      "b": "Poseer capacidad funcional necesaria.",
+      "c": "Tener cumplidos 16 años y no exceder la edad de jubilación forzosa.",
+      "d": "Poseer la nacionalidad española o de un estado miembro de la UE."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_26",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Según el art. 22 del Estatuto Marco, la renuncia a la condición de personal estatutario:",
+    "opciones": {
+      "a": "Tiene carácter voluntario y debe solicitarse con 15 días de antelación.",
+      "b": "Tiene carácter obligatorio.",
+      "c": "No debe ser solicitada por el interesado.",
+      "d": "No se puede renunciar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_28",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Son retribuciones básicas según el Estatuto Marco:",
+    "opciones": {
+      "a": "Sueldo y pagas extras.",
+      "b": "Sueldo y trienios.",
+      "c": "Sueldo y complemento de destino.",
+      "d": "Sueldo, trienios y pagas extraordinarias."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_30",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Según la Constitución Española, el Estado es:",
+    "opciones": {
+      "a": "Apolítico.",
+      "b": "Aconfesional.",
+      "c": "De bienestar social.",
+      "d": "Federal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_32",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Los Estatutos de Autonomía se aprueban mediante:",
+    "opciones": {
+      "a": "Ley Ordinaria.",
+      "b": "Ley Básica.",
+      "c": "Ley Orgánica.",
+      "d": "Ley Autonómica."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_34",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El nombramiento y cese del Director-Gerente del SESCAM corresponde a:",
+    "opciones": {
+      "a": "Titular de la Consejería de Salud.",
+      "b": "Presidente de la Junta a propuesta del Consejero.",
+      "c": "Consejo de Gobierno a propuesta del Consejero de Salud.",
+      "d": "Nombramiento Consejo de Gobierno y cese el Consejero."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_36",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "¿Quién ratificó la Constitución Española de 1978?",
+    "opciones": {
+      "a": "El Pueblo Español.",
+      "b": "Las Cortes Generales.",
+      "c": "El Rey.",
+      "d": "El Gobierno."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_38",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La Institución que organiza política y jurídicamente el autogobierno regional es:",
+    "opciones": {
+      "a": "El Estatuto de Autonomía.",
+      "b": "Las Cortes Regionales.",
+      "c": "La Junta de Comunidades.",
+      "d": "El Consejo de Gobierno."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_40",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La información clínica se proporcionará:",
+    "opciones": {
+      "a": "Por escrito siempre.",
+      "b": "Como regla general, verbalmente.",
+      "c": "Por escrito por norma general.",
+      "d": "Por escrito al recibir el alta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_42",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El complemento de carrera retribuye:",
+    "opciones": {
+      "a": "Atención permanente y continuada.",
+      "b": "Interés del titular.",
+      "c": "El grado alcanzado en la carrera profesional.",
+      "d": "Iniciativa del titular."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_44",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Duración mínima de la excedencia voluntaria según el Estatuto Marco:",
+    "opciones": {
+      "a": "1 año.",
+      "b": "2 años.",
+      "c": "3 meses.",
+      "d": "6 meses."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_46",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El Delegado Provincial de la Consejería de Salud ejercerá:",
+    "opciones": {
+      "a": "La autoridad sanitaria en la provincia y representación del Instituto de Consumo.",
+      "b": "La representación de la Consejería como órgano de comunicación.",
+      "c": "La coordinación de la Dirección General de Consumo.",
+      "d": "La revisión de actos relativos a ingresos públicos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_48",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La estructura interna y funcionamiento de los Colegios Profesionales (Art. 36 CE) deben ser:",
+    "opciones": {
+      "a": "Libres.",
+      "b": "Social y democrático.",
+      "c": "Democráticos.",
+      "d": "Unánime."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_50",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La selección de personal fijo garantizará los principios de:",
+    "opciones": {
+      "a": "Igualdad, mérito y capacidad, así como competencia.",
+      "b": "Igualdad, mérito y no discriminación.",
+      "c": "Igualdad, mérito y principio democrático.",
+      "d": "Igualdad, mérito y competencia."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_52",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La Institución del Defensor del Pueblo (Art. 54 CE) se regula por:",
+    "opciones": {
+      "a": "Ley Orgánica.",
+      "b": "Ley autonómica.",
+      "c": "Ley Ordinaria.",
+      "d": "Decreto-Ley."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_54",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El Gerente del Área de Salud será nombrado y cesado por:",
+    "opciones": {
+      "a": "Consejo de Dirección de Área.",
+      "b": "Consejo Interterritorial.",
+      "c": "Consejo competente.",
+      "d": "Dirección del Servicio de Salud de la CCAA a propuesta del Consejo de Dirección."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_56",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La Dirección General de Recursos Humanos ejercerá la función de:",
+    "opciones": {
+      "a": "Gestión de mantenimiento de recursos físicos.",
+      "b": "Elaboración de propuesta de oferta de empleo público (sanitario y no sanitario).",
+      "c": "Análisis de costes y evaluación presupuestaria.",
+      "d": "Elaboración de anteproyecto de ingresos y gastos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_58",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Las faltas graves del personal estatutario prescriben:",
+    "opciones": {
+      "a": "A los 4 años.",
+      "b": "A los 6 meses.",
+      "c": "A los 2 años desde que se cometió.",
+      "d": "Al año."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_60",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El Sistema Nacional de Salud es:",
+    "opciones": {
+      "a": "Conjunto de servicios de salud del Estado y CC.AA. según la Ley General de Sanidad.",
+      "b": "Conjunto de servicios de la Administración Autonómica.",
+      "c": "Conjunto de servicios del Estado y CC.AA. según leyes autonómicas.",
+      "d": "Conjunto de servicios de las CC.AA. según leyes autonómicas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_62",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La memoria del Área de Salud se aprobará por un periodo de:",
+    "opciones": {
+      "a": "Un mes.",
+      "b": "Tres meses.",
+      "c": "Seis meses.",
+      "d": "Un año."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_64",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "¿Cuándo se aplica el régimen del personal fijo al personal temporal?",
+    "opciones": {
+      "a": "Contratos superiores a un año.",
+      "b": "Nunca.",
+      "c": "En cuanto sea adecuado a la naturaleza de su condición.",
+      "d": "Siempre."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_66",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La inhabilitación especial para la profesión supone pérdida de condición si excede de:",
+    "opciones": {
+      "a": "6 meses.",
+      "b": "1 año.",
+      "c": "2 años.",
+      "d": "6 años."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_68",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Objetivo específico del Plan Perseo:",
+    "opciones": {
+      "a": "Prevenir agresiones y actos de violencia.",
+      "b": "Declaración y estudio de incidentes.",
+      "c": "Proteger a los profesionales.",
+      "d": "Garantizar asistencia sanitaria."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_70",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Dependencia funcional del Equipo de Atención Primaria:",
+    "opciones": {
+      "a": "Director Gerente.",
+      "b": "Coordinador Médico.",
+      "c": "Funcionario Técnico del Estado.",
+      "d": "Consejero de Sanidad."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_72",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Según la Ley General de Sanidad, cada provincia tendrá como mínimo:",
+    "opciones": {
+      "a": "Un área de Salud.",
+      "b": "Un Servicio de Salud.",
+      "c": "Una Zona Básica de Salud.",
+      "d": "Un Centro de Salud."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_74",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "¿Quién elabora el Plan de Salud de Castilla-La Mancha?",
+    "opciones": {
+      "a": "La Consejería competente en sanidad.",
+      "b": "La Presidencia de la Junta.",
+      "c": "El Consejo de Gobierno.",
+      "d": "Las Cortes de C-LM."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_76",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Causa de cese del personal sustituto:",
+    "opciones": {
+      "a": "Cumplimiento del plazo.",
+      "b": "Seis meses máximo.",
+      "c": "Tres meses máximo.",
+      "d": "Cuando el sustituido pierde el derecho a reincorporación a la misma plaza."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_78",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Discriminación por raza, sexo o religión constituye una falta:",
+    "opciones": {
+      "a": "Leve.",
+      "b": "Muy grave.",
+      "c": "Grave.",
+      "d": "Grave solo si es reincidente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_80",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Localización física del Equipo de Atención Primaria:",
+    "opciones": {
+      "a": "Zona Básica de Salud.",
+      "b": "Hospital del Área.",
+      "c": "Servicio de Salud.",
+      "d": "Centro de Salud."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_82",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La Atención Especializada se realiza:",
+    "opciones": {
+      "a": "Una vez superadas las posibilidades de la Atención Primaria.",
+      "b": "Cuando se necesite internamiento clínico.",
+      "c": "En casos de urgencia.",
+      "d": "En horario de urgencias."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_84",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El Complemento específico retribuye:",
+    "opciones": {
+      "a": "Nivel del puesto.",
+      "b": "Atención permanente y continuada.",
+      "c": "Contribución a objetivos e iniciativa.",
+      "d": "Dificultad técnica, dedicación, responsabilidad, peligrosidad o penosidad."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_86",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Descanso mínimo ininterrumpido entre jornadas:",
+    "opciones": {
+      "a": "24 horas.",
+      "b": "10 horas.",
+      "c": "12 horas.",
+      "d": "17 horas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_88",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Competencia para establecer directrices de política sanitaria en C-LM:",
+    "opciones": {
+      "a": "Consejería de Sanidad.",
+      "b": "SESCAM.",
+      "c": "Consejo de Gobierno de la Junta de Comunidades.",
+      "d": "Hospitales."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_90",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "El Consejo de Salud de Área es un órgano de:",
+    "opciones": {
+      "a": "Participación.",
+      "b": "Gestión.",
+      "c": "Dirección.",
+      "d": "Dirección y gestión."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_92",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Sanción y promulgación de leyes estatales corresponde a:",
+    "opciones": {
+      "a": "Congreso de los Diputados.",
+      "b": "Senado.",
+      "c": "Cortes Generales.",
+      "d": "El Rey."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_94",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Principios del régimen disciplinario según Estatuto Marco:",
+    "opciones": {
+      "a": "Igualdad, publicidad y no discriminación.",
+      "b": "Tipicidad, eficacia y proporcionalidad.",
+      "c": "Igualdad, mérito y capacidad.",
+      "d": "Publicidad, mérito y capacidad."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_96",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Principio rector de la política social y económica en la Constitución:",
+    "opciones": {
+      "a": "Deber y derecho al trabajo.",
+      "b": "Derecho a la protección de la salud.",
+      "c": "Propiedad privada y herencia.",
+      "d": "Derecho a la huelga."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_98",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Situación administrativa al desempeñar puesto en Administraciones Públicas abierto a estatutarios:",
+    "opciones": {
+      "a": "Servicios especiales.",
+      "b": "Servicio activo.",
+      "c": "Servicios bajo otro régimen jurídico.",
+      "d": "Servicios Especiales si supera seis meses."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_100",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Para imponer sanción por faltas leves es preceptivo:",
+    "opciones": {
+      "a": "Instrucción del procedimiento.",
+      "b": "Trámite de audiencia al interesado.",
+      "c": "Notificación de nombramiento de instructor.",
+      "d": "Apercibimiento escrito."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_102",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Ámbito de actuación del PLAN PERSEO incluye:",
+    "opciones": {
+      "a": "Todos los trabajadores de C-LM.",
+      "b": "Víctimas de violencia en el centro de trabajo.",
+      "c": "Trabajadores víctimas y agresores en sus centros.",
+      "d": "Todos los trabajadores del SESCAM."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_104",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "No es un derecho individual del personal estatutario:",
+    "opciones": {
+      "a": "Respeto a dignidad e intimidad.",
+      "b": "Ejercer la profesión con lealtad y eficacia.",
+      "c": "Movilidad voluntaria y promoción interna.",
+      "d": "Descanso, vacaciones y permisos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_106",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Deber falso del personal estatutario:",
+    "opciones": {
+      "a": "Ser identificado por nombre y categoría.",
+      "b": "Prestar colaboración profesional requerida.",
+      "c": "Mantener reserva y confidencialidad.",
+      "d": "Encuadramiento en el régimen de la seguridad social."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_108",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "La Comisión de servicio:",
+    "opciones": {
+      "a": "Tendrá derecho a reserva de plaza de origen.",
+      "b": "Se concede obligatoriamente en vacantes.",
+      "c": "Es definitiva.",
+      "d": "Percibirá retribuciones inferiores si el puesto lo es."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_110",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Falta grave según Estatuto Marco:",
+    "opciones": {
+      "a": "Abandono del servicio.",
+      "b": "Abuso de autoridad en funciones.",
+      "c": "Acoso sexual con agresión.",
+      "d": "Notorio incumplimiento de funciones."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_112",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "No es un órgano central del SESCAM:",
+    "opciones": {
+      "a": "Presidencia del Consejo de Administración.",
+      "b": "Consejo de Administración.",
+      "c": "Dirección Gerencia.",
+      "d": "Gerencias de Atención Especializada."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_114",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Falta muy grave:",
+    "opciones": {
+      "a": "Acoso sexual ambiental.",
+      "b": "Falta injustificada más de tres días.",
+      "c": "Encubrimiento de faltas graves.",
+      "d": "Notorio incumplimiento de funciones."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_116",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Diputados en las Cortes Regionales de C-LM:",
+    "opciones": {
+      "a": "48 a 60.",
+      "b": "47 a 59.",
+      "c": "45 a 57.",
+      "d": "25 a 35."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_118",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Competencia NO exclusiva del Estado:",
+    "opciones": {
+      "a": "Sanidad exterior.",
+      "b": "Registro general sanitario de alimentos e industrias.",
+      "c": "Acuerdos sanitarios internacionales.",
+      "d": "Alta Inspección."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_120",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Prescripción de sanción por falta muy grave:",
+    "opciones": {
+      "a": "2 años.",
+      "b": "5 años.",
+      "c": "4 años.",
+      "d": "6 años."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_122",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Afirmación falsa sobre la Ley General de Sanidad:",
+    "opciones": {
+      "a": "SNS es el conjunto de servicios del Estado y CC.AA.",
+      "b": "Estado ejerce Alta Inspección.",
+      "c": "Ayuntamientos son responsables del control sanitario ambiental.",
+      "d": "CC.AA. pueden firmar convenios de sanidad exterior con regiones similares extranjeras."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_124",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Función incorrecta de los Equipos de Atención Primaria:",
+    "opciones": {
+      "a": "Asistencia sanitaria ambulatoria, domiciliaria y de urgencia.",
+      "b": "Educación sanitaria.",
+      "c": "Planificar y ejecutar Cirugía Mayor Ambulatoria.",
+      "d": "Programas de salud mental, laboral y ambiental."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_126",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "¿Quién propone al Gerente del SESCAM?",
+    "opciones": {
+      "a": "Consejero de Salud y Bienestar Social.",
+      "b": "Cortes Regionales.",
+      "c": "Consejo de Gobierno.",
+      "d": "Consejo de Administración del SESCAM."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_128",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "No constituye un derecho del personal estatutario:",
+    "opciones": {
+      "a": "Formación continuada adecuada.",
+      "b": "Mantener actualizados conocimientos y aptitudes.",
+      "c": "Protección eficaz en seguridad y salud.",
+      "d": "Jubilación según normas aplicables."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_130",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "¿Límites a la libertad de expresión (Art. 20 CE)?",
+    "opciones": {
+      "a": "Sí, protección a la juventud e infancia.",
+      "b": "No.",
+      "c": "Sí, libertad de cátedra.",
+      "d": "Sí, cláusula de conciencia y secreto profesional."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_132",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Aprobación de la Constitución Española:",
+    "opciones": {
+      "a": "Cortes el 6 de diciembre, referéndum el 8 de diciembre.",
+      "b": "Cortes el 31 de octubre, referéndum el 8 de diciembre.",
+      "c": "Cortes el 31 de octubre, sanción Real el 27 de diciembre.",
+      "d": "Cortes el 6 de diciembre, ratificada el 29 de diciembre."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b1_134",
+    "tema": "Histórico: Documento 1: SESCAM",
+    "pregunta": "Presidencia del Consejo de Administración del SESCAM ejercida por:",
+    "opciones": {
+      "a": "Director Gerente.",
+      "b": "Miembro elegido del Consejo.",
+      "c": "Titular de la Consejería competente en sanidad.",
+      "d": "Presidente de la Junta."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_2",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Norma que aprobó el Estatuto de Autonomía de C-LM:",
+    "opciones": {
+      "a": "Ley Orgánica 9/1982 de 10 de agosto.",
+      "b": "Ley de Bases 10/1982.",
+      "c": "Ley de Cortes Generales 9/1982.",
+      "d": "Ley 9/1982."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_4",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Información falsa sobre la Dirección Gerencia del SESCAM:",
+    "opciones": {
+      "a": "Órgano unipersonal de dirección.",
+      "b": "Rango de Viceconsejería.",
+      "c": "Nombrado y cesado por el Consejero de Sanidad.",
+      "d": "Jefatura superior del personal adscrito."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_6",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Órgano administrativo periférico del SESCAM:",
+    "opciones": {
+      "a": "Consejo de Administración.",
+      "b": "Dirección Gerencia.",
+      "c": "Gerencia de Área.",
+      "d": "Secretaría General."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_8",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Designación y cese del Gerente del Área de Salud:",
+    "opciones": {
+      "a": "Consejero de Sanidad.",
+      "b": "Gerente del SESCAM.",
+      "c": "Consejo de Gobierno.",
+      "d": "Director General de RR.HH."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_10",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Falta disciplinaria GRAVE según Estatuto Marco:",
+    "opciones": {
+      "a": "Aceptación de contraprestación de usuarios.",
+      "b": "Descuido en disposiciones sobre seguridad y salud.",
+      "c": "Abandono del servicio.",
+      "d": "Notoria falta de rendimiento con inhibición."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_12",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Plazo de toma de posesión en movilidad voluntaria con cambio de servicio:",
+    "opciones": {
+      "a": "Un mes desde el día del cese.",
+      "b": "Un mes desde la notificación.",
+      "c": "30 días hábiles desde el cese.",
+      "d": "30 días hábiles desde la notificación."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_14",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Derecho a vacaciones retribuidas anuales:",
+    "opciones": {
+      "a": "23 días laborables.",
+      "b": "No inferior a 30 días naturales.",
+      "c": "1 mes natural.",
+      "d": "22 días naturales."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_16",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Principio de acción preventiva FALSO (Ley 31/95):",
+    "opciones": {
+      "a": "Evitar riesgos.",
+      "b": "Adaptar el trabajo a la persona.",
+      "c": "Evaluar riesgos inevitables.",
+      "d": "Anteponer protección individual a la colectiva."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_18",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Función incorrecta de los Equipos de Atención Primaria:",
+    "opciones": {
+      "a": "Asistencia ambulatoria y domiciliaria.",
+      "b": "Educación sanitaria.",
+      "c": "Planificación familiar con consejo genético.",
+      "d": "Programas de salud mental y laboral."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_20",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Actividad NO adscrita directamente a la Dirección de Enfermería:",
+    "opciones": {
+      "a": "Quirófanos.",
+      "b": "Servicio de Atención al paciente.",
+      "c": "Consultas Externas.",
+      "d": "Urgencias."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_22",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Sobre la Junta Técnico Asistencial de Hospitales:",
+    "opciones": {
+      "a": "Órgano de Participación y Asesoramiento. Presidente: Gerente.",
+      "b": "Órgano de Participación y Asesoramiento. Presidente: Director Médico.",
+      "c": "Órgano de Dirección. Presidente: Gerente.",
+      "d": "Órgano de Dirección. Presidente: Director Médico."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_24",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Afirmación falsa sobre información a pacientes:",
+    "opciones": {
+      "a": "Titulares son paciente y familiares de primer grado.",
+      "b": "Paciente informado según capacidad de comprensión.",
+      "c": "Limitación por necesidad terapéutica acreditada.",
+      "d": "Información a personas vinculadas si el paciente carece de capacidad."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_26",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Definición de riesgo laboral (Ley 31/95):",
+    "opciones": {
+      "a": "Posibilidad de accidente laboral.",
+      "b": "Posibilidad de lesión corporal.",
+      "c": "Posibilidad de sufrir un daño determinado derivado del trabajo.",
+      "d": "Posibilidad de incidente."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_28",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Constitución de las Cortes de C-LM:",
+    "opciones": {
+      "a": "47 a 59 diputados.",
+      "b": "36 a 48 diputados.",
+      "c": "57 a 69 diputados.",
+      "d": "25 a 35 diputados."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_30",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Objetivo principal de la política de prevención de riesgos:",
+    "opciones": {
+      "a": "Promoción de mejora de condiciones de trabajo para elevar nivel de protección.",
+      "b": "Calificación de enfermedades profesionales.",
+      "c": "Metodologías de evaluación de riesgos.",
+      "d": "Colaboración internacional."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_32",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Objetivo específico del Plan Perseo:",
+    "opciones": {
+      "a": "Prevenir conflictos profesionales-usuarios y riesgos a personas y bienes.",
+      "b": "Prevenir agresiones y violencia a profesionales y servicios.",
+      "c": "Proteger mediante medios materiales y humanos.",
+      "d": "Planes de autoprotección."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_34",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Competencia del Consejo de Gobierno (Ley 8/2000):",
+    "opciones": {
+      "a": "Aprobar el Plan de Salud regional.",
+      "b": "Control e inspección de actividades sanitarias.",
+      "c": "Competencia sancionadora.",
+      "d": "Control sanitario de cementerios."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_38",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Falta de respeto con superiores, compañeros o público:",
+    "opciones": {
+      "a": "Falta leve.",
+      "b": "Falta grave.",
+      "c": "Falta muy grave.",
+      "d": "No es falta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_40",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Comisión que NO asesora a la Dirección del Hospital:",
+    "opciones": {
+      "a": "Comisión de Bienestar Social.",
+      "b": "Comisión de Calidad.",
+      "c": "Junta Técnico Asistencial.",
+      "d": "Comisión de Emergencias."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_42",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Tiempo mínimo de conservación de documentación clínica:",
+    "opciones": {
+      "a": "5 años desde el alta.",
+      "b": "3 años.",
+      "c": "1 año.",
+      "d": "6 meses."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_44",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Competencia para organizar y tutelar salud pública:",
+    "opciones": {
+      "a": "Ministerio de Sanidad.",
+      "b": "Presidente del Gobierno.",
+      "c": "Poderes Públicos.",
+      "d": "El Rey."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_46",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Aspecto NO comprendido en actuación sanitaria laboral:",
+    "opciones": {
+      "a": "Promover salud integral del trabajador.",
+      "b": "Prestación de productos terapéuticos precisos.",
+      "c": "Vigilar condiciones ambientales nocivas.",
+      "d": "Mapa de riesgos laborales."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_48",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Derecho individual INCORRECTO:",
+    "opciones": {
+      "a": "Percepción puntual de retribuciones.",
+      "b": "Ser identificado por nombre y categoría.",
+      "c": "Estabilidad en el empleo.",
+      "d": "Respeto a dignidad e intimidad."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_50",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Ámbito de actividad de Áreas de Salud:",
+    "opciones": {
+      "a": "Atención primaria y especializada.",
+      "b": "Inspección sanitaria.",
+      "c": "Reglamento de salud.",
+      "d": "Plan de salud del área."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_52",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Compensación económica de vacaciones solo si:",
+    "opciones": {
+      "a": "No se han disfrutado.",
+      "b": "No disfrutadas por razones del servicio.",
+      "c": "Justificación del superior.",
+      "d": "Finaliza la prestación de servicios."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_54",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "¿Uso discriminatorio de datos de vigilancia de salud?",
+    "opciones": {
+      "a": "No.",
+      "b": "Solo en enfermedades contagiosas.",
+      "c": "Sí, notificando al trabajador.",
+      "d": "Sí."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_56",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Prestación de atención primaria:",
+    "opciones": {
+      "a": "Asistencia sanitaria a domicilio.",
+      "b": "Implantación de prótesis.",
+      "c": "Radioterapia.",
+      "d": "Tratamiento de infertilidad."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_58",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Sistema Nacional de Salud según Ley 14/86:",
+    "opciones": {
+      "a": "Conjunto de servicios de Salud del Estado y CC.AA.",
+      "b": "Servicios de Salud de las CC.AA.",
+      "c": "Servicios de Salud del Estado.",
+      "d": "Servicios de Salud de la Administración Local."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_60",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "¿Quién propone al Gerente del SESCAM?",
+    "opciones": {
+      "a": "Consejo de Administración.",
+      "b": "Titular de la Consejería de Sanidad.",
+      "c": "Consejo de Gobierno.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_62",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Sistema de provisión de plazas para personal estatutario:",
+    "opciones": {
+      "a": "Selección de personal.",
+      "b": "Reingreso al Servicio Activo.",
+      "c": "Promoción Interna y movilidad.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_64",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Usuarios del SNS según Ley General de Sanidad:",
+    "opciones": {
+      "a": "Exclusivamente españoles.",
+      "b": "Españoles residentes en España.",
+      "c": "Españoles y extranjeros residentes en España.",
+      "d": "Españoles y ciudadanos comunitarios."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_66",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "No es un deber del personal estatutario:",
+    "opciones": {
+      "a": "Respetar Constitución y ordenamiento.",
+      "b": "Cumplir régimen de horarios y jornada.",
+      "c": "Recibir protección eficaz en seguridad y salud.",
+      "d": "Cumplir normas de seguridad y salud laboral."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_68",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Causas de extinción de condición de personal fijo:",
+    "opciones": {
+      "a": "Separación del servicio.",
+      "b": "Jubilación.",
+      "c": "Renuncia.",
+      "d": "Las tres anteriores."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_70",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Retribuciones básicas:",
+    "opciones": {
+      "a": "Sueldo, trienios y pagas extras.",
+      "b": "Sueldo, trienios y destino.",
+      "c": "Sueldo, trienios y específico.",
+      "d": "Sueldo, productividad y extras."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_72",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Descanso mínimo en jornada superior a seis horas:",
+    "opciones": {
+      "a": "20 minutos.",
+      "b": "15 minutos.",
+      "c": "30 minutos.",
+      "d": "45 minutos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_74",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Principios del procedimiento disciplinario:",
+    "opciones": {
+      "a": "Celeridad, inmediatez y economía procesal.",
+      "b": "Celeridad, eficacia e inmediatez.",
+      "c": "Igualdad, mérito y capacidad.",
+      "d": "Celeridad, capacidad y eficacia."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_76",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Finalidad de la tarjeta sanitaria individual:",
+    "opciones": {
+      "a": "Acceso a prestaciones de SS que da Ministerio de Trabajo.",
+      "b": "Acceso a Servicios Sociales.",
+      "c": "Acceso a atención sanitaria del SNS.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_78",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Demarcaciones geográficas territoriales del sistema sanitario regional:",
+    "opciones": {
+      "a": "Centros de salud.",
+      "b": "Zonas de salud.",
+      "c": "Áreas de salud.",
+      "d": "Consejo de salud."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_80",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Forma política del Estado español:",
+    "opciones": {
+      "a": "Social y democrática de derecho.",
+      "b": "Monarquía Parlamentaria.",
+      "c": "Monarquía Constitucional.",
+      "d": "Estado Autonómico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_82",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Aprobación de estatutos de autonomía:",
+    "opciones": {
+      "a": "Leyes orgánicas.",
+      "b": "Leyes ordinarias.",
+      "c": "Leyes autonómicas.",
+      "d": "Leyes marco."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_84",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Residencia de la soberanía (CE 1978):",
+    "opciones": {
+      "a": "La Corona.",
+      "b": "El Gobierno.",
+      "c": "La Nación.",
+      "d": "El pueblo español."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_86",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "NO es un valor superior del ordenamiento:",
+    "opciones": {
+      "a": "Justicia.",
+      "b": "Igualdad.",
+      "c": "Libertad.",
+      "d": "Seguridad jurídica."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_88",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Vigilancia y control de normativa de prevención de riesgos:",
+    "opciones": {
+      "a": "Inspección de Trabajo y Seguridad Social.",
+      "b": "Instituto Nacional de Seguridad e Higiene.",
+      "c": "Medicina Preventiva.",
+      "d": "Servicios de Prevención."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_90",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Cada provincia contará como mínimo con:",
+    "opciones": {
+      "a": "1 área de salud.",
+      "b": "2 áreas de salud.",
+      "c": "3 áreas de salud.",
+      "d": "4 áreas de salud."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_92",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Nombramiento y cese de vocales del Consejo de Salud regional:",
+    "opciones": {
+      "a": "Consejo de Gobierno.",
+      "b": "Consejería de Sanidad.",
+      "c": "Consejo de Administración del SESCAM.",
+      "d": "Presidente del Consejo de Administración."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_94",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Presidencia del Consejo de Administración del SESCAM:",
+    "opciones": {
+      "a": "Director Gerente.",
+      "b": "Consejero de Sanidad.",
+      "c": "Secretario General.",
+      "d": "Director General de Atención Sanitaria."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_96",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Sistema general de selección de personal fijo:",
+    "opciones": {
+      "a": "Oposición.",
+      "b": "Concurso general.",
+      "c": "Concurso-oposición.",
+      "d": "Concurso específico."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_98",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Complemento por dificultad técnica, responsabilidad o peligrosidad:",
+    "opciones": {
+      "a": "De destino.",
+      "b": "De productividad.",
+      "c": "Específico.",
+      "d": "De atención continuada."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_100",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Límite de suspensión firme por sanción disciplinaria:",
+    "opciones": {
+      "a": "2 años.",
+      "b": "1 año.",
+      "c": "6 meses.",
+      "d": "6 años."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_102",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Servicio previo para excedencia voluntaria:",
+    "opciones": {
+      "a": "5 años.",
+      "b": "2 años.",
+      "c": "3 años.",
+      "d": "10 años."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_104",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Consideración del SESCAM:",
+    "opciones": {
+      "a": "Organismo autónomo.",
+      "b": "Entidad Pública.",
+      "c": "Empresa Pública.",
+      "d": "Entidad Privada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_106",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Incumplimiento de servicios esenciales en huelga es falta:",
+    "opciones": {
+      "a": "Grave.",
+      "b": "Muy grave.",
+      "c": "Leve.",
+      "d": "Grave o muy grave."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_108",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Años fijos previos para promoción interna:",
+    "opciones": {
+      "a": "4 años.",
+      "b": "3 años.",
+      "c": "2 años.",
+      "d": "5 años."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_110",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Antelación mínima para solicitar renuncia:",
+    "opciones": {
+      "a": "20 días.",
+      "b": "10 días.",
+      "c": "15 días.",
+      "d": "30 días."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_112",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "El trabajo en la Constitución Española es:",
+    "opciones": {
+      "a": "Un deber.",
+      "b": "Un derecho.",
+      "c": "Un derecho y un deber.",
+      "d": "Derecho para mujeres y deber para hombres."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_114",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Integración del Sistema Nacional de Salud:",
+    "opciones": {
+      "a": "Estructuras y servicios públicos al servicio de la salud.",
+      "b": "Estructuras públicas y privadas.",
+      "c": "Servicios de salud de las CC.AA.",
+      "d": "Red de hospitales y centros del Estado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sescam_b2_116",
+    "tema": "Histórico: Documento 2: SESCAM",
+    "pregunta": "Acceso a prestaciones sanitarias del SNS a través de:",
+    "opciones": {
+      "a": "Tarjeta sanitaria individual.",
+      "b": "Historia clínica.",
+      "c": "Atención Primaria.",
+      "d": "Situación de alta en SS."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
   }
 ]

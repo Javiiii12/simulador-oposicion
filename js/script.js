@@ -106,10 +106,19 @@ function setupEventListeners() {
     if (btnCCAA) btnCCAA.addEventListener('click', () => alert("🌍 Esta sección está en construcción. Pronto añadiremos exámenes de otras Comunidades Autónomas."));
 
     const btnHistorico = document.getElementById('btn-examenes-historico');
-    if (btnHistorico) btnHistorico.addEventListener('click', () => alert("🕰️ Estamos recopilando el histórico de preguntas sueltas. ¡Pronto disponible!"));
+    if (btnHistorico) btnHistorico.addEventListener('click', () => {
+        currentSource = 'Historico';
+        showTopics('HISTORICO');
+    });
 
     // Navegación (Volver)
-    document.getElementById('btn-back-topics').addEventListener('click', () => showView('menu'));
+    document.getElementById('btn-back-topics').addEventListener('click', () => {
+        if (currentSource === 'Historico') {
+            showView('examsMenu');
+        } else {
+            showView('menu');
+        }
+    });
     document.getElementById('btn-back-random').addEventListener('click', () => showView('menu'));
     document.getElementById('btn-back-mode').addEventListener('click', () => {
         // Volver depende... normalmente a Topics o Menu.
@@ -237,7 +246,11 @@ function showTopics(part) {
     const category = part;
     // Update Title
     const titleEl = document.getElementById('topic-title');
-    if (titleEl) titleEl.innerText = category === 'GENERAL' ? `Parte General (${currentSource})` : `Parte Específica (${currentSource})`;
+    if (titleEl) {
+        if (category === 'GENERAL') titleEl.innerText = `Parte General (${currentSource})`;
+        else if (category === 'ESPECIFICA') titleEl.innerText = `Parte Específica (${currentSource})`;
+        else if (category === 'HISTORICO') titleEl.innerText = `Histórico de Preguntas`;
+    }
 
     // Filter questions by Source AND Category
     let relevantQuestions = [];
@@ -266,6 +279,8 @@ function showTopics(part) {
             }
             return false;
         });
+    } else if (category === 'HISTORICO') {
+        relevantQuestions = sourceQuestions;
     }
 
     if (relevantQuestions.length === 0) {
