@@ -74,6 +74,37 @@ async function validateUserAccess(userId) {
             return;
         }
 
+        // Logic for tracking devices
+        const MAX_DEVICES = 2; // Allow up to 2 devices per license
+        let localDeviceId = localStorage.getItem('ope_device_id');
+        let isNewDevice = false;
+
+        if (!localDeviceId) {
+            localDeviceId = 'dev_' + Math.random().toString(36).substr(2, 9);
+            localStorage.setItem('ope_device_id', localDeviceId);
+            isNewDevice = true;
+        }
+
+        let currentDevices = data.dispositivos_usados || 0;
+
+        if (isNewDevice) {
+            if (currentDevices >= MAX_DEVICES) {
+                showAccessDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
+                localStorage.removeItem('ope_user_access');
+                localStorage.removeItem('ope_device_id');
+                return;
+            } else {
+                // Increment device count in Supabase
+                currentDevices++;
+                try {
+                    await supabaseClient
+                        .from('usuarios_acceso')
+                        .update({ dispositivos_usados: currentDevices })
+                        .eq('id_acceso', userId);
+                } catch (e) { console.error('Error updating devices:', e); }
+            }
+        }
+
         // Si es correcto
         localStorage.setItem('ope_user_access', userId);
 
@@ -94,7 +125,7 @@ async function validateUserAccess(userId) {
             await supabaseClient.from('access_logs').insert([{
                 created_at: new Date().toISOString(),
                 status: 'success',
-                device_info: data.nombre + ' (' + userId + ')'
+                device_info: data.nombre + ' (' + userId + ') - Disp: ' + currentDevices + '/' + MAX_DEVICES
             }]);
         } catch (e) { console.error('Error logging access:', e); }
 
