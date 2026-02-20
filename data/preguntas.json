@@ -39967,5 +39967,2945 @@
     "correcta": "a",
     "explicacion": "",
     "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_0",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La confidencialidad de toda información relacionada con su proceso y estancia, está siempre garantizada por el sistema sanitario en:",
+    "opciones": {
+      "a": "Centros privados",
+      "b": "Centros públicos",
+      "c": "Centros concertados",
+      "d": "En todos los Centros Sanitarios."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_1",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Se considera falta leve para el personal no sanitario:",
+    "opciones": {
+      "a": "La embriaguez cuando sea habitual",
+      "b": "El quebranto del secreto profesional",
+      "c": "La aceptación de compensaciones económicas",
+      "d": "La desatención con los superiores, compañeros, subordinados y público."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_2",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La pena de inhabilitación especial para la correspondiente profesión supondrá la pérdida de la condición de personal estatutario fijo, cuando dicha pena exceda de:",
+    "opciones": {
+      "a": "3 años",
+      "b": "5 años",
+      "c": "6 años",
+      "d": "5 años y 1 día"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_3",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Son titulares de los derechos y deberes contemplados en la ley 8/2000 de ordenación sanitaria de castilla-la mancha:",
+    "opciones": {
+      "a": "Todas las personas que residan en los municipios de la Comunidad Autónoma",
+      "b": "Todas las personas nacidas en municipios de Castilla-La Mancha",
+      "c": "Todas las personas nacidas en Castilla-La Mancha aunque residan en otra comunidad autónoma",
+      "d": "Sólo los nacidos en Castilla-La Mancha"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_4",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La renuncia a la condición de personal estatutario de los servicios de salud tiene carácter de:",
+    "opciones": {
+      "a": "Acto irrenunciable que no podrá ser solicitada por el interesado",
+      "b": "Acto voluntario que deberá ser solicitado por el interesado con una antelación mínima de 15 días a la fecha en que se desee hacer efectiva",
+      "c": "Acto voluntario que deberá ser solicitado por el interesado con una antelación mínima de 20 días a la fecha en que se desee hacer efectiva",
+      "d": "Acto involuntario que deberá ser solicitado por un representante del interesado con antelación mínima de 10 días"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_5",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La conformidad del paciente a que se refiere la Ley 41/2002 sobre el consentimiento informado, cumplirá los requisitos de...",
+    "opciones": {
+      "a": "Voluntaria y comprensible",
+      "b": "Libre y comprensible",
+      "c": "Voluntaria y libre",
+      "d": "Comprensible y consciente"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_6",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "En el articulado de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente, no se recoge...",
+    "opciones": {
+      "a": "Derecho a la información para la libre elección de medico",
+      "b": "Las Instrucciones previas de voluntades anticipadas",
+      "c": "Garantia de tiempo de respuesta asistencial",
+      "d": "Consentimiento informado"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_7",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El personal estatutario de los servicios de salud:",
+    "opciones": {
+      "a": "No podrá ser destinado a centros o unidades fuera del ámbito previsto en su nombramiento",
+      "b": "Podrá ser destinado a centros o unidades ubicadas fuera del ámbito previsto en su nombramiento, previa resolución motivada y con las garantías que en cada caso se dispongan, de conformidad con lo que establezcan las normas o los planes de ordenación de recursos humanos de su servicio de salud",
+      "c": "Sólo podrá ser destinado a unidades previstas en su nombramiento, aunque exista una resolución motivada",
+      "d": "Podrá ser destinado a centros o unidades ubicadas fuera del ámbito previsto en su nombramiento, emitiéndose una resolución posterior aunque no esté motivada"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_8",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Según la Ley General de Sanidad, el control sanitario de las escuelas es competencia que corresponde:",
+    "opciones": {
+      "a": "Al Estado, a través de las Delegaciones del Gobierno",
+      "b": "A las Diputaciones Provinciales en el ámbito de su Provincia",
+      "c": "A los Ayuntamientos en sus respectivos ámbitos municipales",
+      "d": "A la correspondiente Comunidad Autónoma."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_9",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cómo define la relación estatutaria el estatuto marco?",
+    "opciones": {
+      "a": "Una relación administrativa",
+      "b": "Una relación social",
+      "c": "Una relación laboral",
+      "d": "Una relación funcionarial especial"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_10",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El artículo 17 de la Ley de Prevención de Riesgos Laborales establece que \"cuando la utilización de un equipo de trabajo puede representar riesgo específico para la Seguridad y la Salud de los Trabajadores\" el empresario adoptará las medidas necesarias con el fin de que:",
+    "opciones": {
+      "a": "La utilización del Equipo de Trabajo quede reservada a los trabajadores más cualificados",
+      "b": "La realización de la vigilancia de la salud sea obligatoria en estos supuestos",
+      "c": "Los trabajos de reparación, transformación, mantenimiento o conservación sean realizados por los trabajadores específicamente capacitados para ello.",
+      "d": "Los trabajos de reparación, transformación, mantenimiento o conservación sean realizados por los trabajadores de mayor antigüedad en el puesto."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_11",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Una limpieza inadecuada de los equipos de producción:",
+    "opciones": {
+      "a": "Puede contaminar los alimentos",
+      "b": "Siempre los contaminará",
+      "c": "Sólo los contaminará si entran en contacto con los alimentos",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_12",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Es una obligación por parte del trabajador:",
+    "opciones": {
+      "a": "Cuidar correctamente los equipos de protección individual",
+      "b": "Colocar el equipo de protección individual después de su utilización en el lugar indicado para ello",
+      "c": "Informar de inmediato a su superior de cualquier defecto apreciado en el equipo de protección individual utilizado",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_13",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Según la Ley 41/2002, reguladora de la Autonomía del paciente y de derechos y obligaciones en materia de información y documentación clinica, \"la persona que requiere asistencia sanitaria y esté sometida a cuidados profesionales para el mantenimiento o recuperación de su salud\" es la definición de:",
+    "opciones": {
+      "a": "Paciente",
+      "b": "Usuario",
+      "c": "Enfermo",
+      "d": "Asegurado Protegido"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_14",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué características tendrán los contenedores de basura?",
+    "opciones": {
+      "a": "Impermeables",
+      "b": "De fácil limpieza",
+      "c": "Con tapa de cierre hermético",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_15",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Cuando se usa un limpiador y/o detergente, éstos se diluirán:",
+    "opciones": {
+      "a": "Siempre 0,1 litros en 1 litro de agua",
+      "b": "No se pueden diluir nunca",
+      "c": "Según las condiciones de uso recomendadas por el fabricante",
+      "d": "Sólo se diluirán si se mezclan con otros agentes limpiadores"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_16",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Los productos utilizados para lograr el tipo de presentación y concentración deseadas de un detergente o un limpiador, ¿se denominan?",
+    "opciones": {
+      "a": "Cargas",
+      "b": "Coadyuvante",
+      "c": "Aditivos",
+      "d": "Reforzantes"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_17",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Según el Real Decreto 770/1999, de 7 de mayo, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de detergentes y limpiadores. ¿Los productos para el lavado de vajillas pueden ser?",
+    "opciones": {
+      "a": "Detergentes para lavado a mano",
+      "b": "Productos para lavado a máquina",
+      "c": "Productos auxiliares para lavado a máquina",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_18",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Si se mezclan lejia y amoniaco:",
+    "opciones": {
+      "a": "Se potencia el poder limpiador de ambos",
+      "b": "Se potencia el poder desinfectante de ambos",
+      "c": "Se desprende un gas tóxico",
+      "d": "Se potencia el poder limpiador y desinfectante"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_19",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El Reglamento (CE) nº 1272/2008 sobre clasificación, etiquetado y envasado de sustancias y mezclas, entre ellas los limpiadores y detergentes, establece las frases H y P como:",
+    "opciones": {
+      "a": "Las H son indicaciones de riesgo y las P son de peligro",
+      "b": "Las H son indicaciones de peligro y las P son de riesgo",
+      "c": "Las H son consejos de prudencia y las P son indicaciones de riesgo",
+      "d": "Las H son indicaciones de peligro y las P son consejos de prudencia"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_20",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Cuando se mezcla lejía con agua siempre se debe:",
+    "opciones": {
+      "a": "Echar el agua sobre la lejia",
+      "b": "Echar la lejía sobre el agua",
+      "c": "Echar ambos productos a la vez",
+      "d": "No se deben mezclar"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_21",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La estructura organizativa central del plan perseo depende directamente de:",
+    "opciones": {
+      "a": "La Gerencia",
+      "b": "La Secretaría General del SESCAM",
+      "c": "Del Coordinador en prevención del SESCAM",
+      "d": "Del Director de seguridad"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_22",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Para qué se establecen las áreas de salud?",
+    "opciones": {
+      "a": "Para organizar un Sistema Sanitario coordinado e integral",
+      "b": "Para fomentar la atención sanitaria en zonas rurales",
+      "c": "Para delimitar la Atención Primaria y Especializada de la Salud",
+      "d": "Para la creación de Centros de Salud y Zonas de Salud"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_23",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Los útiles empleados que hayan tenido contacto con los alimentos:",
+    "opciones": {
+      "a": "Se someterán a limpieza y desinfección diaria después de cada jornada",
+      "b": "Se someterán a limpieza después de cada jornada y no hace falta desinfectarlos",
+      "c": "Se someterán a desinfección después de cada jornada y no hace falta limpiarlos",
+      "d": "Se someterán a limpieza y desinfección semanalmente"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_24",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Una de las caracteristicas que deben tener los lavavajillas automáticos es:",
+    "opciones": {
+      "a": "No sean fácilmente desmontables para evitar que entre suciedad",
+      "b": "Deben trabajar siempre con agua fria en todo su proceso",
+      "c": "Deben ser fácilmente desmontables para facilitar su limpieza",
+      "d": "B y C son correctas"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_25",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Todo profesional que detecte una emergencia, actúa inicialmente, como:",
+    "opciones": {
+      "a": "Equipo de primera intervención",
+      "b": "Equipo de segunda intervención",
+      "c": "Equipo de evacuación",
+      "d": "Equipo de primeros auxilios"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_26",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿De qué fecha es la ley del estatuto marco del personal estatutario de los servicios de salud?",
+    "opciones": {
+      "a": "16 de diciembre de 2001",
+      "b": "26 de diciembre de 2001",
+      "c": "16 de diciembre de 2003",
+      "d": "26 de diciembre de 2003"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_27",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Indique cuál de las siguientes es una retribución complementaria del personal estatutario:",
+    "opciones": {
+      "a": "El complemento especifico",
+      "b": "El sueldo",
+      "c": "Trienios",
+      "d": "Las pagas extraordinarias"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_28",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Los centros de salud constituyen:",
+    "opciones": {
+      "a": "El centro integral de la atención sanitaria",
+      "b": "El centro integral de la atención especializada",
+      "c": "La zona territorial de la Atención Primaria",
+      "d": "Las estructuras fisicas de las Zonas Básicas de Salud"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_29",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La puntera reforzada de los zapatos de trabajo protegen:",
+    "opciones": {
+      "a": "Tropezones y resbalones",
+      "b": "Caida de objetos pesados o punzantes sobre los pies",
+      "c": "Torceduras y luxaciones",
+      "d": "Sólo tienen una función estética"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_30",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cuál de los siguientes equipos es un Equipo de Protección Colectiva?",
+    "opciones": {
+      "a": "Las señales de emergencia",
+      "b": "El resguardo de la cortadora de fiambre",
+      "c": "El guante de malla de acero",
+      "d": "Las señales de evacuación"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_31",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Para evitar cortes en el manejo de cuchillos, éstos deberán estar:",
+    "opciones": {
+      "a": "No deben estar muy afilados",
+      "b": "Deben estar bien afilados",
+      "c": "Deben estar bien engrasados",
+      "d": "Ninguna de ellas es correcta"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_32",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El peso máximo recomendado para una carga en condiciones ideales de levantamiento es de:",
+    "opciones": {
+      "a": "A partir de 10 Kg.",
+      "b": "A partir de 15 Kg.",
+      "c": "A partir de 20 Kg.",
+      "d": "A partir de 25 Kg."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_33",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Para evitar quemaduras se debe:",
+    "opciones": {
+      "a": "Llenar los recipientes hasta su máxima capacidad",
+      "b": "Comprobar la temperatura de la freidora antes de utilizarla",
+      "c": "Estar lo más cerca posible de los fogones para vigilar los recipientes que se calientan",
+      "d": "Todas son correctas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_34",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué no se debe hacer con los productos químicos usados en cocina?",
+    "opciones": {
+      "a": "Mantener las etiquetas en buen estado de conservación, evitando su caída y manchado",
+      "b": "Utilizar los productos en envases distintos de los originales (trasvasar)",
+      "c": "Mantener los recipientes cerrados",
+      "d": "Almacenar los productos en lugares apropiados y alejados de los alimentos"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_35",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cuál de los siguientes contaminantes se considera un contaminante fisico?",
+    "opciones": {
+      "a": "Las vibraciones",
+      "b": "El formol",
+      "c": "El ruido",
+      "d": "A y C son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_36",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué es el efecto invernadero?",
+    "opciones": {
+      "a": "Acumulación de residuos orgánicos en el litoral marino o en un lago, laguna, embalse, etc., que causa la proliferación de ciertas algas",
+      "b": "Subida de la temperatura de la atmósfera que se produce como resultado de la concentración en la atmósfera de gases, principalmente dióxido de carbono",
+      "c": "La cantidad de contaminantes que emite una fábrica a la atmósfera",
+      "d": "La contaminación acuática producida en los polos ártico y antártico"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_37",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué contaminantes quedan excluidos de la Ley 34/2007de calidad del aire y protección de la atmósfera?",
+    "opciones": {
+      "a": "Contaminantes biológicos",
+      "b": "El ruido",
+      "c": "Las vibraciones",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_38",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El sistema de recogida diferenciada de materiales orgánicos fermentables y de materiales reciclables, así como cualquier otro sistema de recogida diferenciada que permita la separación de los materiales valorizables contenidos en los residuos, se denomina:",
+    "opciones": {
+      "a": "Reciclaje",
+      "b": "Recogida selectiva",
+      "c": "Separación ambiental",
+      "d": "Programa de revalorización"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_39",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "En los contenedores recogidos en el Plan Nacional de Residuos para la correcta segregación de los Residuos Sólidos Urbanos, ¿qué no se puede desechar en un contenedor amarillo?",
+    "opciones": {
+      "a": "Latas de conservas vacías",
+      "b": "Tetrabriks de leche vacíos",
+      "c": "Botellas de cristal vacías",
+      "d": "Botellas de plástico vacías"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_40",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Los envases de zumos, agua, vinos, salsas y productos lácteos producidos en la cocina hospitalaria, según el Plan de Gestión de Residuos del Servicio Andaluz de Salud, se consideran:",
+    "opciones": {
+      "a": "Residuos generales asimilables a urbanos",
+      "b": "Residuos hospitalarios asimilables a urbanos",
+      "c": "Residuos sanitarios asimilables a urbanos",
+      "d": "Residuos higiénicos asimilables a urbanos"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_41",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Una buena práctica ambiental para ahorrar energía en la cocina sería:",
+    "opciones": {
+      "a": "Calcular correctamente las cantidades para evitar restos",
+      "b": "No mantener el fuego al máximo cuando los alimentos han comenzado a hervir",
+      "c": "Emplear recipientes adecuados al tamaño del fogón",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_42",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cuál de las siguientes acciones no seria una buena práctica ambiental en la cocina?",
+    "opciones": {
+      "a": "Calcular correctamente las cantidades para evitar restos",
+      "b": "Usar papel de aluminio y recubrimientos plásticos y no recipientes reutilizables",
+      "c": "Utilizar preferentemente productos de temporada",
+      "d": "Ninguna de las anteriores es una buena práctica ambiental"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_43",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Separar en las cocinas las zonas frias y las calientes nos permitirá:",
+    "opciones": {
+      "a": "Minimizar los residuos al evitar la caducidad de los productos",
+      "b": "Reducir el consumo energético",
+      "c": "Reducir el consumo de agua",
+      "d": "No permite ninguna mejora ambiental de la cocina"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_44",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Tenemos que desechar en su contenedor correspondiente para su reciclaje un bote de cristal de mermelada vacio con su correspondiente tapa metálica, ¿a qué contenedor debemos tirarlo?",
+    "opciones": {
+      "a": "El envase al verde y la tapa al azul",
+      "b": "El envase al amarillo y la tapa al verde",
+      "c": "El envase al verde y la tapa al amarillo",
+      "d": "El envase al amarillo y la tapa también"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_45",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Según el Real Decreto 109/2010 de 5 de febrero BOE de 19 de febrero de 2010, corresponde garantizar que los manipuladores de alimentos tengan una formación adecuada a su puesto de trabajo:",
+    "opciones": {
+      "a": "Al trabajador",
+      "b": "A la Consejería de Salud",
+      "c": "Al Ministerio de Salud",
+      "d": "A la empresa alimentaria"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_46",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "En las cámaras frigoríficas:",
+    "opciones": {
+      "a": "Se rotaran los productos comprobando los marcados de fechas, evitando dejar sin usar productos con las fechas más atrasadas",
+      "b": "No se rotarán los productos",
+      "c": "No se comprueba la fecha de los productos",
+      "d": "Es indistinto rotar o no los productos"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_47",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Las puertas de las cámaras frigoríficas:",
+    "opciones": {
+      "a": "Estarán siempre abiertas",
+      "b": "Estarán abiertas lo indispensable",
+      "c": "Se tienen que mantener abiertas 10 minutos y después se cerrarán",
+      "d": "Se abrirán las puertas durante 20 minutos y después se cerrarán"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_48",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Para la elaboración de uno de los platos de la dieta basal, el cocinero solicita ternera para elaborar el plato de hoy. Se debe tener cuidado en:",
+    "opciones": {
+      "a": "Dejar las puertas abiertas de la cámara para regular la temperatura de los alimentos",
+      "b": "Cerrar bien las puertas de la cámara frigorifica para que los alimentos se mantengan a la temperatura adecuada",
+      "c": "Mantener la puerta de la cámara frigorifica abierta a lo largo de la jornada por si hay que coger más alimentos",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_49",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La formación en materia de higiene alimentaria se reconoce como:",
+    "opciones": {
+      "a": "Uno de los pilares básicos en el seno de la empresa alimentaria para asegurar la correcta aplicación de los requisitos adecuados en cada fase o proceso y conseguir así la producción de alimentos seguros",
+      "b": "Como algo no importante",
+      "c": "Lo último a tener en cuenta en un manipulador de alimentos",
+      "d": "No hace falta la formación"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_50",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La temperatura que debe mantener en su interior la cámara de congelados es de:",
+    "opciones": {
+      "a": "-18°C",
+      "b": "-5°C",
+      "c": "-4°C",
+      "d": "0°C"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_51",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué es el almacenamiento en refrigeración?",
+    "opciones": {
+      "a": "Es el almacenamiento en el congelador",
+      "b": "Es el almacenamiento en cámaras frigorificas",
+      "c": "Es el almacenamiento a más de 10°C",
+      "d": "A y B es correcto"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_52",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La cámara de productos cárnicos deberá estar a una temperatura de:",
+    "opciones": {
+      "a": "Temperatura entre -1°C y 3°C",
+      "b": "Temperatura entre 4°C y 6°C",
+      "c": "Temperatura entre -3°C y -10°C",
+      "d": "Temperatura entre -6°C y -10°C"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_53",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La cámara de pescados y descongelación de pescados deberá estar a una temperatura:",
+    "opciones": {
+      "a": "De -2°C",
+      "b": "Entre 0°C y 8°C",
+      "c": "Entre 9°C y 10°C",
+      "d": "-10°C"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_54",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Según la legislación actual ¿cada cuánto tiempo hay y que renovar la formación relacionada con los manipuladores de alimentos?:",
+    "opciones": {
+      "a": "Cada dos años",
+      "b": "Cada cuatro años",
+      "c": "Cada seis años",
+      "d": "La legislación actual no especifica un tiempo"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_55",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "En las zonas de tránsito en cocina se mantendrán:",
+    "opciones": {
+      "a": "Con el menaje que necesitamos para el trabajo diario",
+      "b": "Siempre despejadas",
+      "c": "Los manipuladores no depositarán ropas o efectos personales, desperdicios, cartones o cualquier objeto que pueda ser fuente de contaminación",
+      "d": "B y C son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_56",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Las cámaras de frutas y verduras deberán permanecer a una temperatura:",
+    "opciones": {
+      "a": "Entre -2°C y 2°C",
+      "b": "1°C",
+      "c": "Entre 8°C 11°C",
+      "d": "Entre 4°C 7°C"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_57",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La cámara de lácteos y alimentos varios (por ejemplo huevo líquido, o embutidos) deberán permanecer a una temperatura de:",
+    "opciones": {
+      "a": "Entre -2°C y 2°C",
+      "b": "Entre 1°C y 4°C",
+      "c": "Entre 8°C y 11°C",
+      "d": "1°C"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_58",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El cocinero aprecia que no va a tener bastante carne para las raciones a preparar, hará falta descongelar ternera para completar, y se hará:",
+    "opciones": {
+      "a": "Se descongelarán en escurridores con abundante agua fria",
+      "b": "Se colocarán en su debido recipiente en cámara a temperatura refrigeración",
+      "c": "Se colocarán en su debido recipiente en el cuarto frio",
+      "d": "En la cocina hospitalaria no se pueden utilizar los lomos congelados"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_59",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué son las conservas y semiconservas?",
+    "opciones": {
+      "a": "Son alimentos sin tratamiento que se envasan en recipientes",
+      "b": "Son alimentos que se conservan frescos",
+      "c": "Son alimentos que han sufrido un tratamiento normalmente térmico para su conservación y se han envasado en recipientes herméticamente cerrados",
+      "d": "Son alimentos que no han sufrido tratamiento térmico para su conservación y se han envasado en recipientes herméticamente cerrados"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_60",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cuál de las siguientes situaciones del personal estatutario fijo no es del régimen?",
+    "opciones": {
+      "a": "La jubilación forzosa",
+      "b": "La excedencia voluntaria",
+      "c": "Los servicios especiales",
+      "d": "El servicio activo"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_61",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿En qué consiste el salazón?",
+    "opciones": {
+      "a": "Consiste en tratar los alimentos con la sal comestible y otros condimentos",
+      "b": "Los procesos de salazón son: salazón en seco y salmuera",
+      "c": "Consiste en tratar los alimentos con la sal no comestible y otros condimentos",
+      "d": "A y B son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_62",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La ley de ordenación sanitaria de castilla-la mancha en su articulo 49 establece que \"el acceso ordinario de la población al sistema sanitario es a través de...\"",
+    "opciones": {
+      "a": "Atención básica",
+      "b": "Atención especializada",
+      "c": "Atención primaria",
+      "d": "Atención sanitaria"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_63",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué es un alimento?",
+    "opciones": {
+      "a": "Solo sustancias químicas",
+      "b": "Toda sustancia o producto de cualquier naturaleza sólidos o líquidos naturales o transformados, que por Sus características, aplicaciones, componentes, preparación y estado de conservación, sean susceptibles de ser habitual e idóneamente utilizados para la nutrición humana o como productos dietéticos",
+      "c": "Solo sustancias naturales",
+      "d": "Solo los productos que se le añaden vitaminas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_64",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El cuarto frio para la preparación de verduras:",
+    "opciones": {
+      "a": "Es la zona donde se preparan los pescados, crustáceos, mariscos, etc.",
+      "b": "Es la zona donde se cuecen las verduras, legumbres y tubérculos",
+      "c": "Es la zona donde se congelan las verduras, legumbres y tubérculos",
+      "d": "Es la zona donde se preparan las verduras, legumbres y tubérculos"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_65",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El cuarto de preparación de pescados con temperatura inferior a 18° C es:",
+    "opciones": {
+      "a": "Es la zona donde se preparan todos los productos: carnes, pescados y verduras",
+      "b": "Es la zona donde se congelan los pescados, crustáceos, mariscos, etc.",
+      "c": "Es la zona donde se cocinan los pescados, crustáceos, mariscos, etc.",
+      "d": "Es la zona donde se preparan los pescados, crustáceos, mariscos, etc."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_66",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El cuarto de preparación de carnes con temperatura inferior a 18° C es:",
+    "opciones": {
+      "a": "Es la zona donde se preparan todas las carnes y aves",
+      "b": "Es la zona de cocción de todas las carnes y aves",
+      "c": "Es la zona de congelación de todas las carnes y aves",
+      "d": "Es la zona donde se limpian las verduras"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_67",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El cuarto para preparación de platos frios con temperatura inferior a 15°C es:",
+    "opciones": {
+      "a": "Es la zona que se utiliza para la manipulación de productos que deban de ser consumidos en fresco",
+      "b": "Es la zona done se manipulan productos sin sufrir ningún proceso de cocción, y deben manipularse con extremas medidas de higiene",
+      "c": "Es la zona de cocción rápida donde se preparan productos",
+      "d": "A y B son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_68",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué es un producto sucedáneo?",
+    "opciones": {
+      "a": "Todo producto alimenticio sin fines engañosos o fraudulentos",
+      "b": "Todo producto alimenticio con expresa declaración de la finalidad perseguida",
+      "c": "Todo producto alimenticio que pretenda sustituir en todo o en parte a un alimento",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_69",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué es el Plonge?",
+    "opciones": {
+      "a": "Es la zona de lavado de todo el menaje y utillaje utilizado en cada proceso en la cocina: ollas, cacerolas, cazuelas, bandejas Gastronorm, etc.",
+      "b": "Es la zona específica sólo para el lavado de bandejas térmicas de los pacientes",
+      "c": "Es la zona específica donde se almacenan los residuos de las bandejas de pacientes",
+      "d": "Es la zona donde se almacenan los residuos de cocina"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_70",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué medidas higiénicas deben tener el personal de cocina?",
+    "opciones": {
+      "a": "Lavado de manos, muñecas y uñas, cada vez que el manipulador cambie de actividad y manipule nuevamente un alimento, o algún equipo que esté en contacto con él",
+      "b": "Usar un tipo de ropa exclusivo para el trabajo y que no haya tenido contacto con otros ambientes",
+      "c": "No usar joyas ni relojes a la hora de la manipulación de los alimentos, ya que pueden acumular suciedad y organismos contaminantes",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_71",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cuál de las siguientes prácticas se pueden considerar como prácticas peligrosas en la manipulación de los alimentos?",
+    "opciones": {
+      "a": "Comer, fumar, mascar chiche, estornudar o toser en los lugares donde se manipulan los alimentos",
+      "b": "Tocar los alimentos directamente con las manos",
+      "c": "Preparar alimentos con bastante antelación a ser consumidos",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_72",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cuál es la definición de alimento conservado?",
+    "opciones": {
+      "a": "Es aquel que después de haber sido sometido a tratamientos apropiados, se mantiene en las debidas condiciones higiénico-sanitarias para el consumo durante un tiempo variable",
+      "b": "Es aquel que después de haber sido sometido a tratamientos apropiados, no se mantiene en las debidas condiciones higiénico-sanitarias para el consumo durante un tiempo variable",
+      "c": "Es aquel que no ha sido sometido a tratamientos apropiados, y no se mantiene en las debidas condiciones higiénico-sanitarias para el consumo durante un tiempo variable",
+      "d": "Es aquel que no ha sido sometido a tratamientos apropiados, y se mantiene en las debidas condiciones higiénico-sanitarias para el consumo durante un tiempo variable"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_73",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Según la ley 31/95 de prevención de riesgos laborales, ¿cuántos delegados de prevención le corresponderia a un centro hospitalario de 800 trabajadores?",
+    "opciones": {
+      "a": "6",
+      "b": "8",
+      "c": "3",
+      "d": "4"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_74",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué es la desecación?",
+    "opciones": {
+      "a": "Es igual que la liofilización",
+      "b": "Es igual que la deshidratación",
+      "c": "La extracción de la humedad contenida en los alimentos sin utilizar las condiciones ambientales naturales",
+      "d": "La extracción de la humedad contenida en los alimentos utilizando las condiciones ambientales naturales"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_75",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La etiqueta energética informa de los valores de consumo de energía de los electrodomésticos, Si tuviésemos un horno en cocina, etiquetado con la letra A, significa:",
+    "opciones": {
+      "a": "Que consume menos que la media",
+      "b": "Que consume igual que la media",
+      "c": "Que consume más que la media",
+      "d": "Que consume electricidad limpia"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_76",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "La etiqueta energética informa de los valores de consumo de energía y agua (eficiencia) de los electrodomésticos. Si tuviésemos un horno en cocina, etiquetado con la letra D, significa:",
+    "opciones": {
+      "a": "Que consume menos que la media",
+      "b": "Que consume igual que la media",
+      "c": "Que consume más que la media",
+      "d": "Que consume electricidad limpia"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_77",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué características tiene la dieta basal?",
+    "opciones": {
+      "a": "Completa",
+      "b": "Variada",
+      "c": "Sin restricción de alimentos",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_78",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Quién define los platos que componen cada dieta?",
+    "opciones": {
+      "a": "El Servicio de Nutrición Clínica",
+      "b": "El Servicio de Medicina Preventiva",
+      "c": "El Jefe de Cocina",
+      "d": "El Cocinero"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_79",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Para qué se usa la bandeja isotérmica?",
+    "opciones": {
+      "a": "Para mantener la temperatura de los platos",
+      "b": "Para el servicio de los menús",
+      "c": "Para la conservación de los alimentos",
+      "d": "Las respuestas a y b son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_80",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cómo se sabrá el contenido de la bandeja sin abrirla?",
+    "opciones": {
+      "a": "Mediante la identificación por códigos",
+      "b": "Poniendo en carros diferentes los tipos de dietas",
+      "c": "Con el nombre del paciente",
+      "d": "Es necesario abrir la bandeja para conocer su contenido"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_81",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué precauciones tendrá el personal a la hora de emplatar?",
+    "opciones": {
+      "a": "Utilizará mascarilla",
+      "b": "Utilizará gorro",
+      "c": "Utilizará guantes",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_82",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Para qué se utiliza la sal en el lavavajillas?",
+    "opciones": {
+      "a": "Para eliminar la grasa",
+      "b": "Para que funcione óptimamente el sistema de descalcificación del agua",
+      "c": "Para impedir la formación de gotas de agua en la vajilla",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_83",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Por qué se debe seguir el principio de marcha adelante en la cocina?",
+    "opciones": {
+      "a": "Para evitar que los alimentos vuelvan atrás en el proceso",
+      "b": "Para evitar que se produzcan cruces entre zonas sucias y zonas limpias",
+      "c": "Para disminuir el riesgo de contaminación de alimentos",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_84",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cómo se lava la lechuga?",
+    "opciones": {
+      "a": "Bajo el grifo",
+      "b": "Sumergiendo en agua con unas gotas de lejia",
+      "c": "Con agua y amoniaco",
+      "d": "No es necesario lavarla"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_85",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Si se hubiera detectado un problema de contaminación de los alimentos por malas prácticas, ¿qué tipo de medidas se deberian plantear?",
+    "opciones": {
+      "a": "Preventivas",
+      "b": "Correctoras",
+      "c": "De control",
+      "d": "De verificación"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_86",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué se pretende con los reconocimientos médicos?",
+    "opciones": {
+      "a": "Mejorar los hábitos del manipulador",
+      "b": "Determinar el estado de salud de un individuo",
+      "c": "Evitar la contaminación de los alimentos",
+      "d": "Ninguna respuesta es correcta"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_87",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cuál de las afirmaciones siguientes no corresponde específicamente a las funciones que se le atribuyen a un centro de salud?",
+    "opciones": {
+      "a": "Es el marco territorial de la atención primaria de salud",
+      "b": "Alberga la estructura física de consultas y servicios asistenciales",
+      "c": "Sirve de centro de reunión entre comunidad y profesionales sanitarios",
+      "d": "Alberga los recursos materiales precisos para la realización de las exploraciones complementarias"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_88",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Si los manipuladores de alimentos cumplen las normas de higiene, ¿se garantiza al 100% la salubridad del alimento?",
+    "opciones": {
+      "a": "Si",
+      "b": "No, sólo al 50%",
+      "c": "No, pero se minimiza el riesgo para la salud",
+      "d": "No, pero se maximiza el riesgo para la salud"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_89",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cómo se acredita que el trabajador ha realizado una actividad de formación continuada?",
+    "opciones": {
+      "a": "Con una titulación oficial",
+      "b": "Con un certificado de profesionalidad",
+      "c": "Con un certificado individual",
+      "d": "Ninguna respuesta es correcta"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_90",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Las mesas de trabajo de la cocina se fregarán con:",
+    "opciones": {
+      "a": "Agua y lejia",
+      "b": "Agua jabonosa",
+      "c": "Agua limpia con bactericida",
+      "d": "Producto desincrustante"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_91",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿De qué factores depende la frecuencia en la limpieza?",
+    "opciones": {
+      "a": "Frecuencia de uso",
+      "b": "Estado previo de la limpieza",
+      "c": "Tipo de alimentos que se elaboren",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_92",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cómo influye el uso de productos eficaces en la limpieza?",
+    "opciones": {
+      "a": "Aumentando la acción mecánica",
+      "b": "Mejorando la acción química",
+      "c": "Aumentando el tiempo",
+      "d": "Disminuyendo la temperatura"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_93",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Para el accionamiento de un extintor se comienza por:",
+    "opciones": {
+      "a": "Quitar el pasador de seguridad tirando de su anilla",
+      "b": "Apretando la palanca hacia la maneta fija",
+      "c": "Empuñando la boquilla de la manguera",
+      "d": "Dirigiendo el chorro hacia la parte más alta de las llamas"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_94",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "El agua es un agente extintor que debe emplearse en:",
+    "opciones": {
+      "a": "Fuegos con brasa (excepto tensión eléctrica y fuegos de metales)",
+      "b": "Fuegos con liquidos inflamables",
+      "c": "Fuegos de combustibles gaseosos o líquidos",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_95",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué requisitos hay respecto a la Tª de los locales donde se manipulan alimentos?",
+    "opciones": {
+      "a": "La manipulación y almacenamiento se harán a temperatura adecuada, que se podrá comprobar y registrar",
+      "b": "La Tª se mantendrá constante durante todo el proceso de manipulación",
+      "c": "Será siempre de 20°C, para comodidad del trabajador",
+      "d": "La normativa no hace referencia a la temperatura salvo para productos conservados por frio"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_96",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Si la gestión del Servicio de Cocina se externaliza, y la comida se elabora en las instalaciones del Hospital, ¿qué modalidad es aquella en la que la explotación de la Cocina corresponde al personal del Centro Hospitalario, pero la provisión de la materia prima se lleva a cabo a través de un proveedor externo?",
+    "opciones": {
+      "a": "Unidad de producción externa",
+      "b": "Unidad de producción interna y provisión externa",
+      "c": "Unidad de producción mixta",
+      "d": "Internalización de la gestión"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_97",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué requisitos debe cumplir la dieta?",
+    "opciones": {
+      "a": "Aportar suficiente energia",
+      "b": "Ser equilibrada",
+      "c": "Debe contener todos los nutrientes",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_98",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué efecto tiene el frio sobre los alimentos?",
+    "opciones": {
+      "a": "Mata a los microorganismos, alargando la vida útil del alimento",
+      "b": "Solidifica el agua, impidiendo que esté disponible para los microorganismos",
+      "c": "Acidifica el medio, modificando su sabor",
+      "d": "Las respuestas a y b son correctas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_99",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Qué criterios de calidad aplicará el Pinche de Cocina en el trabajo de manipulación de alimentos?",
+    "opciones": {
+      "a": "Máximo aprovechamiento de los géneros",
+      "b": "Aplicación de técnicas adecuadas de cocción de los alimentos",
+      "c": "Maximización del uso de los equipos y medios energéticos",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_100",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cómo debe ser la ropa, que debe llevar un pinche de cocina durante su jornada laboral?",
+    "opciones": {
+      "a": "De color gris",
+      "b": "Exclusiva para el trabajo",
+      "c": "De fibra sintética",
+      "d": "Ignifuga"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_101",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "En la elaboración de una dieta se usan coles de Bruselas que han sido descongeladas, ¿qué haremos con el sobrante?",
+    "opciones": {
+      "a": "Se volverán a congelar",
+      "b": "Se volverán a congelar sumergiéndolas antes en agua con sal",
+      "c": "Se congelarán utilizando recipientes adecuados para su correcta conservación",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_102",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "Para el postre se emplean melocotones en almíbar. Se observa que la fecha de caducidad es para dentro de un mes, por lo que:",
+    "opciones": {
+      "a": "Los melocotones sobrantes podrán guardarse hasta el mes que queda para su caducidad",
+      "b": "Deberán consumirlos lo antes posible, conservándolos en frio",
+      "c": "La caducidad de los melocotones se reduce a la mitad, por lo que habrá que consumirlos antes de 15 días",
+      "d": "Los melocotones en almibar no se estropean una vez abiertos, por lo que podremos conservarlos todo el tiempo que queramos"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_103",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿En qué lugar deberá abrir las latas de conservas?",
+    "opciones": {
+      "a": "En el Plonge",
+      "b": "En el cuarto frío",
+      "c": "En la zona de elaboración",
+      "d": "Es indiferente"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim3_sas2018_104",
+    "tema": "Otras Comunidades: Simulacro 3 - SAS 2018 (Extra) + SESCAM 2010",
+    "pregunta": "¿Cuál no es un objetivo general en el plan perseo?",
+    "opciones": {
+      "a": "Recoger información y analizar los riesgos e incidentes",
+      "b": "Prevenir situaciones de tensión y conflicto entre profesionales y usuarios",
+      "c": "Prevenir agresiones y actos de violencia a profesionales",
+      "d": "Proteger a los profesionales de la violencia o agresión"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_0",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La formación de los manipuladores de alimentos deberá ser:",
+    "opciones": {
+      "a": "Adaptada a cada empresa alimentaria según las necesidades detectadas",
+      "b": "Cursos de 2 horas",
+      "c": "Cursos de 4 horas",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_1",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "En las instalaciones donde se manipulan alimentos está:",
+    "opciones": {
+      "a": "Prohibido fumar, comer, mascar chicle, escupir o cualquier otra conducta no higiénica, que pueda contaminar los alimentos",
+      "b": "Prohibido fumar, pero si se puede comer",
+      "c": "No se puede mascar chicles, pero se puede comer",
+      "d": "Está prohibido mascar chicle pero se puede fumar"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_2",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Una vez descongelados los productos alimenticios:",
+    "opciones": {
+      "a": "Si no se utilizan en dos días, se pueden volver a congelar",
+      "b": "Se elaborarán inmediatamente",
+      "c": "Si no se consumen inmediatamente, se conservarán refrigerados durante un periodo de tiempo y a una temperatura tal que evite la alteración de los mismos",
+      "d": "B y C son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_3",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La primera etapa de un programa de limpieza y desinfección es:",
+    "opciones": {
+      "a": "Secado",
+      "b": "Desinfección",
+      "c": "Prelavado",
+      "d": "Enjuague"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_4",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Las lejías no se deben mezclar con otros productos ya que pueden desprender gases:",
+    "opciones": {
+      "a": "Hipoclorito",
+      "b": "Cloro",
+      "c": "Oxígeno",
+      "d": "Nitrógeno"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_5",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Quién recibirá las instrucciones generales de empleo y uso de los extintores presentes en el Servicio de Cocina?",
+    "opciones": {
+      "a": "Sólo el Equipo de Emergencia",
+      "b": "Sólo el Jefe de Cocina",
+      "c": "Sólo el personal de vigilancia",
+      "d": "Todo el personal"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_6",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "El ruido se considera:",
+    "opciones": {
+      "a": "Un contaminante físico",
+      "b": "Un contaminante químico",
+      "c": "Un contaminante biológico",
+      "d": "No se considera un contaminante"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_7",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Una de las principales causas de la aparición de infecciones alimentarias es:",
+    "opciones": {
+      "a": "La manipulación y conservación incorrecta de alimentos",
+      "b": "La manipulación y conservación correcta de alimentos",
+      "c": "Mascarillas mal colocadas",
+      "d": "Ninguna de las respuestas es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_8",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Las bacterias pueden dispersarse y multiplicarse en áreas de manipulación de alimentos. Para evitarlo, se deberá:",
+    "opciones": {
+      "a": "Lavarse bien las manos",
+      "b": "Lavar y desinfectar, superficies y menajes",
+      "c": "Utilizar tablas de cortes distintas, según tipos de alimentos",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_9",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los equipos de atención primaria se componen de:",
+    "opciones": {
+      "a": "El conjunto de profesionales sanitarios con actuación en la zona de salud",
+      "b": "El conjunto de profesionales sanitarios y no sanitarios con actuación en la zona de salud",
+      "c": "El conjunto de profesionales sanitarios y no sanitarios con actuación en el centro de salud",
+      "d": "El conjunto de profesionales sanitarios y no sanitarios con actuación en el área de salud"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_10",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Cuál de las siguientes comisiones no es órgano colegiado de asesoramiento a la comisión de dirección del hospital?",
+    "opciones": {
+      "a": "Comisión de Bienestar Social",
+      "b": "Comisión Central de Garantía de la calidad",
+      "c": "Junta Técnico Asistencial",
+      "d": "Comisión de Actuación frente a Emergencias"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_11",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿A quién compete organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios?",
+    "opciones": {
+      "a": "Al Ministerio de Sanidad y Consumo",
+      "b": "Al Presidente del Gobierno",
+      "c": "A los Poderes Públicos",
+      "d": "Al Rey"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_12",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Un buen elemento para saber combinar alimentos que nos proporcionen una buena alimentación es:",
+    "opciones": {
+      "a": "La pirámide nutricional",
+      "b": "La tabla de nutrientes",
+      "c": "Una dieta cualquiera",
+      "d": "Tomar solo vegetales"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_13",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Las necesidades energéticas de un adulto dependen de:",
+    "opciones": {
+      "a": "El metabolismo basal",
+      "b": "La actividad corporal",
+      "c": "La acción dinámico-específica de los alimentos",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_14",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "En las carnes, pescados y huevos predominan:",
+    "opciones": {
+      "a": "Proteínas",
+      "b": "Hidratos",
+      "c": "Líquidos",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_15",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Qué Real Decreto deroga expresamente el Real Decreto 202/2000, de 11 de febrero, por el que se establecen las normas relativas a los manipuladores de alimentos?",
+    "opciones": {
+      "a": "Real Decreto 108/2009, de 2 febrero",
+      "b": "Real Decreto 105/2009, de 4 de marzo",
+      "c": "Real Decreto 109/2009, de 1 de enero",
+      "d": "Real Decreto 109/2010, de 5 de febrero"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_16",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿La formación en materia de higiene alimentaria para asegurar la correcta aplicación de los requisitos adecuados en cada fase y conseguir la producción de alimentos seguros, se reconoce como?",
+    "opciones": {
+      "a": "Un pilar básico",
+      "b": "No tiene un valor importante",
+      "c": "Depende de la empresa",
+      "d": "Solamente se tiene en cuenta en los bares"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_17",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La revisión o actualización de la formación de los manipuladores de alimentos debe orientarse a:",
+    "opciones": {
+      "a": "No necesita revisión ni actualización",
+      "b": "Se realizará cada 5 años",
+      "c": "Se realizará anualmente",
+      "d": "Se orientará a la corrección de las prácticas incorrectas de higiene detectadas y reforzar las Buenas Prácticas de Higiene"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_18",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Las personas que trabajen en una zona de manipulación de productos alimenticios deberán:",
+    "opciones": {
+      "a": "Mantener un elevado grado de limpieza",
+      "b": "Deberán llevar una vestimenta adecuada",
+      "c": "Deberán llevar una vestimenta adecuada y en su caso, protectora",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_19",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "El manipulador de alimentos deberá lavarse las manos frecuente y cuidadosamente con jabón líquido, agua caliente y cepillado de uñas. Se lavará siempre:",
+    "opciones": {
+      "a": "Al comenzar la jornada",
+      "b": "Antes y después de usar los servicios higiénicos",
+      "c": "Después de tocarse el pelo, la nariz o la boca",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_20",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Según el Reglamento (CE) nº 852/2004 del Parlamento Europeo relativo a la higiene de alimentos:",
+    "opciones": {
+      "a": "Se colocarán carteles indicando la obligación de lavarse las manos en las diferentes áreas de producción",
+      "b": "Se colocarán carteles indicando la obligación de lavarse las manos sólo en los almacenes",
+      "c": "Se colocarán carteles indicando la obligación de lavarse las manos, sólo en los aseos",
+      "d": "No hace falta colocar carteles en las cocinas"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_21",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Conforme a la ley general de sanidad, en todo caso, las áreas de salud deberán desarrollar sus actividades en el ámbito de:",
+    "opciones": {
+      "a": "La atención primaria de salud y atención especializada",
+      "b": "La inspección sanitaria",
+      "c": "La elaboración del Reglamento de la salud del Área",
+      "d": "El plan de salud del Área"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_22",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Entre los valores superiores de nuestro ordenamiento jurídico no se encuentra el de:",
+    "opciones": {
+      "a": "Justicia",
+      "b": "Igualdad",
+      "c": "Libertad",
+      "d": "Seguridad jurídica"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_23",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Al realizar un análisis de peligros, se incluyen una serie de factores entre ellos:",
+    "opciones": {
+      "a": "La probabilidad de que surjan peligros y la gravedad de sus efectos en relación con la salud",
+      "b": "La evaluación cualitativa y/o cuantitativa de la presencia de peligros",
+      "c": "La supervivencia o proliferación de los microorganismos involucrados",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_24",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Con cuánto tiempo se elaborarán las comidas para su consumo, salvo que vayan a ser congeladas o refrigeradas?",
+    "opciones": {
+      "a": "Con la menor antelación posible al tiempo de su consumo",
+      "b": "24 horas antes de su consumo",
+      "c": "12 horas antes de su consumo",
+      "d": "36 horas antes de su consumo"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_25",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Las materias primas descongeladas destinadas a elaborar comidas preparadas:",
+    "opciones": {
+      "a": "Se pueden volver a congelar antes de 24 horas",
+      "b": "Se pueden volver a congelar antes de 12 horas",
+      "c": "No se pueden volver a congelar",
+      "d": "Se pueden volver a congelar antes de 32 horas"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_26",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿A qué temperatura se deben conservar las comidas congeladas?",
+    "opciones": {
+      "a": "Menor o igual -18°C",
+      "b": "Menos de 0°C",
+      "c": "Menos de 8°C",
+      "d": "Menos de 5°C"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_27",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿A qué temperatura se deben almacenar las comidas calientes?",
+    "opciones": {
+      "a": "A más o igual a 65°C",
+      "b": "A menos de 65°C",
+      "c": "A 45°C",
+      "d": "A 50°C"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_28",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Qué es una cocina centralizada en los centros hospitalarios?",
+    "opciones": {
+      "a": "Cocina de tipo industrial que atiende simultáneamente a todos los centros",
+      "b": "Cocina industrial para un solo edifico situada en la planta central",
+      "c": "Cocina industrial para un número total de 50 pacientes en un sólo edificio",
+      "d": "Cocina industrial para un solo edificio"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_29",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Cómo deben de ser los materiales empleados tanto en la construcción como en los equipamientos de las cocinas hospitalarias?",
+    "opciones": {
+      "a": "Fáciles de limpiar",
+      "b": "De materiales porosos",
+      "c": "De materiales rugosos",
+      "d": "De cualquier tipo de material"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_30",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los equipos instalados en paredes o techos, en las cocinas hospitalarias, dispondrán de:",
+    "opciones": {
+      "a": "Protecciones para evitar cualquier tipo de accidente por rotura",
+      "b": "No se pueden instalar en techos",
+      "c": "Los equipos estarán todos en el exterior",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_31",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Las puertas colocadas en las cocinas hospitalarias serán de material liso, ¿por qué?",
+    "opciones": {
+      "a": "Son más decorativas",
+      "b": "Porque son más fáciles de limpiar",
+      "c": "Porque son más fáciles de desinfectar",
+      "d": "B y C son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_32",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Dónde se situarán los vestuarios del personal de cocina?",
+    "opciones": {
+      "a": "En la zona de sucio",
+      "b": "En la zona de preparación de alimentos",
+      "c": "En la zona de carga y descarga de alimentos",
+      "d": "En dependencia anexa"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_33",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "El quebranto de la reserva de los datos del centro o la intimidad personal de los usuarios es una falta disciplinaria de carácter:",
+    "opciones": {
+      "a": "Leve",
+      "b": "Grave, si hay encubrimiento y consentimiento",
+      "c": "Grave",
+      "d": "Muy grave"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_34",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los almacenes de residuos sólidos de las cocinas hospitalarias, ¿tienen que disponer de suministro de agua?",
+    "opciones": {
+      "a": "Dispondrán de suministro de agua de consumo humano fría y caliente",
+      "b": "No tienen por qué disponer de suministro de agua",
+      "c": "El agua se puede coger de las instalaciones de cocina",
+      "d": "B y C son correctas"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_35",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Qué Real Decreto establece las normas de higiene para la elaboración, distribución y comercio de comidas preparadas?",
+    "opciones": {
+      "a": "Real Decreto 3444/2000, de 2 de mayo",
+      "b": "Real Decreto 3484/2000, de 29 de diciembre",
+      "c": "Real Decreto 2000/1995, de 1 de julio",
+      "d": "Real Decreto 25/1999, de 1 de agosto"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_36",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "El personal estatutario tiene derecho a un período vacacional retribuido anual, que se podrá sustituir por una compensación económica en el caso de:",
+    "opciones": {
+      "a": "Que no se hayan podido disfrutar las vacaciones",
+      "b": "Que no se hayan podido disfrutar las vacaciones por razones del servicio",
+      "c": "Que el superior jerárquico lo justifique",
+      "d": "Que finalizase la prestación de los servicios"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_37",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "El Código Alimentario Español solo contempla la utilización de aditivos si:",
+    "opciones": {
+      "a": "Existe una necesidad manifiesta y representa una mejora evidente sobre las condiciones de los alimentos",
+      "b": "Está comprobado que su uso está exento de peligro para el consumidor",
+      "c": "Reúnen las debidas condiciones de pureza y pueden identificarse mediante analíticas",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_38",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La leche pasteurizada:",
+    "opciones": {
+      "a": "Podrá conservarse en botellas cerradas herméticamente y a temperatura ambiente",
+      "b": "Deberá conservarse en frigorífico",
+      "c": "Se conserva a temperatura ambiente",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_39",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La temperatura óptima para el crecimiento de la mayoría de los gérmenes nocivos para el hombre oscila entre:",
+    "opciones": {
+      "a": "15°C a 20°C",
+      "b": "20°C a 40°C",
+      "c": "5°C a 10°C",
+      "d": "10°C a 15°C"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_40",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Cuál es la grasa para preparar los fritos de mejores cualidades nutritivas y culinarias?",
+    "opciones": {
+      "a": "Manteca de cerdo",
+      "b": "Aceite de girasol",
+      "c": "Aceite de oliva",
+      "d": "Aceite de semillas"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_41",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Cómo se denomina la temperatura a la que empieza a descomponerse una determinada grasa?",
+    "opciones": {
+      "a": "Punto de frío",
+      "b": "Punto de calor",
+      "c": "Punto de humo o humeo",
+      "d": "Punto de congelación"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_42",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los carros baño maría de la cinta de emplatado deben estar en perfecto estado para que el agua alcance una temperatura de:",
+    "opciones": {
+      "a": "Más de 40°C",
+      "b": "Más de 50°C",
+      "c": "Menos de 80°C",
+      "d": "Más de 80°C"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_43",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los boquerones en vinagre son un tipo de conserva de pescado. ¿En qué se basa su elaboración?",
+    "opciones": {
+      "a": "En la deshidratación",
+      "b": "En la acidificación",
+      "c": "En la liofilización",
+      "d": "No están conservados"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_44",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Qué es el Código Alimentario Español?",
+    "opciones": {
+      "a": "Es el cuerpo orgánico de normas básicas y sistematizadas relativas a los alimentos, condimentos, estimulantes y bebidas",
+      "b": "Es un código numérico",
+      "c": "No existe",
+      "d": "No es Código Alimentario Español, sino Código Alimenticio Español"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_45",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Un agente tensioactivo puede ser:",
+    "opciones": {
+      "a": "lónico (aniónico o catiónico), no iónico o anfótero",
+      "b": "Primario, secundario o terciario",
+      "c": "Reforzante, aditivo o coadyuvante",
+      "d": "De alta, media o baja potencia"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_46",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los productos utilizados para lograr el tipo de presentación y concentración deseadas de un detergente o un limpiador, se denominan:",
+    "opciones": {
+      "a": "Coadyuvante",
+      "b": "Tensioactivo",
+      "c": "Carga",
+      "d": "Tensioactivo secundario"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_47",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿En qué año se publicó la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de detergentes y limpiadores?",
+    "opciones": {
+      "a": "1997",
+      "b": "1998",
+      "c": "1999",
+      "d": "2000"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_48",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Cuál de los siguientes componentes presentes en un detergente debe figurar siempre en la etiqueta sea cual sea su concentración?",
+    "opciones": {
+      "a": "Etilendiamino tetraacetato (EDTA) y sus sales",
+      "b": "Zeolitas",
+      "c": "Enzimas",
+      "d": "Jabón"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_49",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "El etiquetado de aquellos detergentes que resulten clasificados como productos peligrosos:",
+    "opciones": {
+      "a": "Deberá cumplir el Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos vigente",
+      "b": "Bastará con cumplir sólo el etiquetado de la Reglamentación técnico-sanitaria para detergentes y limpiadores",
+      "c": "No está sujeta a obligaciones de etiquetado",
+      "d": "La etiqueta deberá ser de color naranja"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_50",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "En el etiquetado de las lejías \"aptas para la desinfección de agua de bebida\" se deberá indicar claramente:",
+    "opciones": {
+      "a": "La cantidad de agua que puede desinfectar",
+      "b": "La cantidad de detergente que lleva",
+      "c": "La cantidad necesaria para su uso correcto",
+      "d": "La cantidad neta de hipoclorito que contiene"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_51",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Según la ley de prevención de riesgos laborales, los datos de vigilancia de la salud podrán ser usados con fines discriminatorios:",
+    "opciones": {
+      "a": "No",
+      "b": "Sólo en caso de enfermedades contagiosas",
+      "c": "Sí, siempre que se notifique al trabajador afectado",
+      "d": "Sí"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_52",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Entre otras prestaciones la atención primaria comprenderá:",
+    "opciones": {
+      "a": "La asistencia sanitaria en el domicilio del enfermo",
+      "b": "La implantación de prótesis y su oportuna renovación",
+      "c": "Radioterapia",
+      "d": "Diagnóstico y tratamiento de la infertilidad"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_53",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La ley 14/86 general de sanidad establece que:",
+    "opciones": {
+      "a": "El Sistema Nacional de Salud es el conjunto de los Servicios de Salud de la Administración del Estado y de las CC.AA.",
+      "b": "El SNS es el conjunto de los Servicios de Salud de la Administración de las CC.AA.",
+      "c": "El SNS es el conjunto de los Servicios de Salud de la Administración del Estado",
+      "d": "El SNS es el conjunto de los Servicios de Salud de la Administración Local"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_54",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los quemadores de gas:",
+    "opciones": {
+      "a": "Nunca deben desmontarse para su limpieza",
+      "b": "No es necesaria su limpieza",
+      "c": "Están prohibidos en cocinas industriales",
+      "d": "Deben limpiarse de vez en cuando, desmontándolos para una limpieza más profunda"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_55",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La lejía es un desinfectante que tiene como componente activo:",
+    "opciones": {
+      "a": "Alcohol etílico",
+      "b": "Agua",
+      "c": "Hipoclorito sódico",
+      "d": "Ácido peracético"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_56",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Quién está autorizado a utilizar una Boca de Incendio Equipada (BIE)?",
+    "opciones": {
+      "a": "El Equipo de Emergencia",
+      "b": "Los cocineros",
+      "c": "Los pinches",
+      "d": "Todo el personal"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_57",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Cuando una emergencia por fuego obliga al desalojo de los profesionales, ¿se denomina?",
+    "opciones": {
+      "a": "Actuación de \"Evacuación\"",
+      "b": "Actuación de \"Intervención\"",
+      "c": "Actuación de \"Alarma\"",
+      "d": "Actuación de \"Catástrofe\""
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_58",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Cuál es el sistema de provisión de plazas en el servicio de salud para el personal estatutario?",
+    "opciones": {
+      "a": "Selección de personal",
+      "b": "Reingreso al Servicio Activo",
+      "c": "Promoción Interna y de movilidad",
+      "d": "Todas las anteriores son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_59",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Cuál es el extintor más adecuado para un fuego con presencia de tensión eléctrica?",
+    "opciones": {
+      "a": "Extintor de agua",
+      "b": "Extintor de polvo convencional",
+      "c": "Extintor de anhídrido carbónico (CO2)",
+      "d": "No se puede utilizar ningún extintor"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_60",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "En un fuego de aceite ardiendo, ¿qué agente extintor NO se debe utilizar?",
+    "opciones": {
+      "a": "Agua a chorro",
+      "b": "Espuma física",
+      "c": "Polvo ABC (polivalente)",
+      "d": "Polvo BC (convencional)"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_61",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los suelos de una cocina, para evitar resbalones, deben ser:",
+    "opciones": {
+      "a": "De tramex (rejilla de acero)",
+      "b": "No limpiables con agua",
+      "c": "Antideslizantes y fácilmente limpiables",
+      "d": "Estériles"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_62",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los cuchillos de cocina deberán comprarse con el mango:",
+    "opciones": {
+      "a": "De acero",
+      "b": "Flexible",
+      "c": "Desmontable",
+      "d": "Antideslizante"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_63",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Maquinaria y electrodomésticos para la cocina deberán tener:",
+    "opciones": {
+      "a": "Instrucciones de uso en el mismo aparato",
+      "b": "El marcado CE",
+      "c": "Instrucciones de limpieza en el mismo aparato",
+      "d": "Dibujo rojo de biodegradabilidad"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_64",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Si la batidora tiene el cable de alimentación pelado, ¿qué debemos hacer?",
+    "opciones": {
+      "a": "Protegerlo con cinta aislante",
+      "b": "No utilizarla hasta su arreglo por personal especializado",
+      "c": "Enchufarla solo con toma de tierra",
+      "d": "Utilizarla con precaución"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_65",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Al escoger un cuchillo para realizar tareas encomendadas, se deberá:",
+    "opciones": {
+      "a": "Elegir el cuchillo adecuado para cada tarea",
+      "b": "Elegir el más grande",
+      "c": "Elegir el más afilado sin importar el tamaño",
+      "d": "Es indiferente"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_66",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Las manoplas para hornos se utilizan para evitar el riesgo de:",
+    "opciones": {
+      "a": "Que se resbalen las bandejas",
+      "b": "Que las bandejas calientes nos produzcan quemaduras",
+      "c": "Dermatitis",
+      "d": "No evitan ningún riesgo"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_67",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La introducción humana de sustancias o ruidos en el medio ambiente con efectos perjudiciales se denomina:",
+    "opciones": {
+      "a": "Inmisión",
+      "b": "Contaminación",
+      "c": "Protección ambiental",
+      "d": "Suciedad ambiental"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_68",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Las sustancias producidas en la combustión de los fogones se consideran:",
+    "opciones": {
+      "a": "Contaminantes físicos",
+      "b": "Contaminantes químicos",
+      "c": "Contaminantes biológicos",
+      "d": "No se consideran contaminantes"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_69",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Los envases vacíos de productos catalogados como peligrosos se consideran:",
+    "opciones": {
+      "a": "Residuos asimilables a urbanos",
+      "b": "Residuos peligrosos",
+      "c": "Residuos hospitalarios",
+      "d": "Residuos industriales"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_70",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Según la ley general de sanidad pueden ser usuarios del sistema nacional de salud:",
+    "opciones": {
+      "a": "Exclusivamente españoles",
+      "b": "Exclusivamente españoles residentes",
+      "c": "Todos los españoles y ciudadanos extranjeros residentes en España",
+      "d": "Exclusivamente españoles y ciudadanos comunitarios"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_71",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "No es un deber del personal estatutario de los servicios de salud:",
+    "opciones": {
+      "a": "Respetar la Constitución",
+      "b": "Cumplir el régimen de horarios y jornada",
+      "c": "Recibir protección eficaz en materia de seguridad y salud en el trabajo",
+      "d": "Cumplir las normas relativas a la seguridad y salud"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_72",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Son causas de extinción de la condición de personal estatutario fijo:",
+    "opciones": {
+      "a": "Sanción de separación del servicio",
+      "b": "La jubilación",
+      "c": "La renuncia",
+      "d": "Las tres anteriores son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_73",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Son retribuciones básicas:",
+    "opciones": {
+      "a": "Sueldo, trienios y pagas extraordinarias",
+      "b": "Sueldo, trienios y complemento de destino",
+      "c": "Sueldo, trienios y complemento específico",
+      "d": "Sueldo, productividad y pagas extraordinarias"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_74",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "El sistema sanitario de Castilla-La Mancha está configurado por demarcaciones denominadas:",
+    "opciones": {
+      "a": "Centros de salud",
+      "b": "Zonas de salud",
+      "c": "Áreas de salud",
+      "d": "Consejo de salud"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_75",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Cuál es una buena práctica ambiental a realizar en cocina?",
+    "opciones": {
+      "a": "Triturar desperdicios al desagüe",
+      "b": "Juntar todos los residuos en un contenedor",
+      "c": "Reducir el consumo de agua",
+      "d": "Ninguna de las anteriores"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_76",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Cuál de las siguientes acciones disminuye el consumo de energía en la cocina?",
+    "opciones": {
+      "a": "Abrir el horno frecuentemente",
+      "b": "Utilizar ollas de tamaño muy superior",
+      "c": "Tapar las ollas al cocinar",
+      "d": "Bajar al máximo la temperatura de cámaras"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_77",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Cuando se forma hielo en las cámaras de refrigeración:",
+    "opciones": {
+      "a": "Disminuye el consumo de electricidad",
+      "b": "Aumenta el consumo de electricidad",
+      "c": "No influye",
+      "d": "Permanece invariable"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_78",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Elaborar y supervisar dietas adaptadas corresponde a:",
+    "opciones": {
+      "a": "El cocinero",
+      "b": "El dietista nutricionista",
+      "c": "El pinche",
+      "d": "El gobernante"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_79",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Para prevenir enfermedades alimentarias, se deben aplicar cuatro medidas:",
+    "opciones": {
+      "a": "Limpiar, separar, cocinar y refrigerar",
+      "b": "Limpiar, cocinar, separar y congelar",
+      "c": "Limpiar, enjuagar, secar y guardar",
+      "d": "Ninguna respuesta es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_80",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Para comprobar las temperaturas de los alimentos se utiliza:",
+    "opciones": {
+      "a": "Un termómetro",
+      "b": "Una báscula",
+      "c": "Un barómetro",
+      "d": "No existe ningún artilugio"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_81",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Qué parámetros evalúan la calidad del servicio de alimentación?",
+    "opciones": {
+      "a": "Temperatura correcta",
+      "b": "Cumplimiento de horarios",
+      "c": "Presentación y emplatado",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_82",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Una competencia del Servicio de Dietética y Nutrición es:",
+    "opciones": {
+      "a": "Seguimiento de prescripciones dietéticas médicas",
+      "b": "Supervisar primeros platos",
+      "c": "Supervisar solo dietas blandas",
+      "d": "Controlar limpieza de almacenes"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_83",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Un desayuno de una dieta diabética incluirá:",
+    "opciones": {
+      "a": "Dos piezas de pan blanco",
+      "b": "Mantequilla",
+      "c": "Una pieza de fruta",
+      "d": "Un batido de vainilla"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_84",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Leche y derivados son alimentos en cross los que predominan:",
+    "opciones": {
+      "a": "Proteínas",
+      "b": "Lípidos",
+      "c": "Glúcidos",
+      "d": "Ninguna de las tres anteriores"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_85",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Una de las siguientes respuestas relativa al agua es FALSA:",
+    "opciones": {
+      "a": "Representa aprox. el 60% del peso corporal adulto",
+      "b": "Algunas frutas tienen hasta el 90% de agua",
+      "c": "Las necesidades hídricas son de 3.200 ml diarios",
+      "d": "El Ph del agua debe ser inferior a 0"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_86",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Una dieta hipocalórica es una dieta:",
+    "opciones": {
+      "a": "Rica en grasas",
+      "b": "Baja en calorías, reduciendo grasas e hidratos",
+      "c": "Baja en calorías, reduciendo el aporte energético total",
+      "d": "Indicada en bajo peso"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_87",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "En la dieta hipoglucémica se eliminan alimentos como:",
+    "opciones": {
+      "a": "Las grasas",
+      "b": "Los azúcares",
+      "c": "Pescados y huevos",
+      "d": "La sal"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_88",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Para una dieta hiposódica se debe disminuir o eliminar:",
+    "opciones": {
+      "a": "Alimentos ricos en fibras",
+      "b": "La sal en las comidas",
+      "c": "El azúcar",
+      "d": "Alimentos fritos"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_89",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "¿Que son los yogures?",
+    "opciones": {
+      "a": "Postres elaborados con leche fermentada",
+      "b": "Leche condensada",
+      "c": "Elaborados con nata",
+      "d": "Leche fresca"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_90",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Dieta de aprox. 2.500 Kcl/día para pacientes sin modificaciones se denomina:",
+    "opciones": {
+      "a": "Dieta blanda",
+      "b": "Dieta basal",
+      "c": "Dieta líquida",
+      "d": "Dieta semilíquida"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_91",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Dieta sin residuos para gastroenteritis o diarrea se denomina:",
+    "opciones": {
+      "a": "Dieta basal",
+      "b": "Dieta semi blanda",
+      "c": "Dieta blanda",
+      "d": "Dieta astringente"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_92",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Alimentos hipercalóricos donde predominan lípidos o grasas:",
+    "opciones": {
+      "a": "Verduras de hoja verde",
+      "b": "Mantecas y aceites",
+      "c": "Pescados y carnes",
+      "d": "Cereales"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_93",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Elección, preparación e ingestión de alimentos (acto voluntario) es:",
+    "opciones": {
+      "a": "Digestión",
+      "b": "Alimentación",
+      "c": "Nutrición",
+      "d": "Combustión"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_94",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Carnes o despojos sometidos a operaciones específicas se clasifican en:",
+    "opciones": {
+      "a": "Salazones, ahumados y adobados",
+      "b": "Tocinos",
+      "c": "Embutidos, charcutería y fiambres",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_95",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Las bandejas isotérmicas permiten:",
+    "opciones": {
+      "a": "Servir la comida fría",
+      "b": "Servir comida caliente y ensalada fría",
+      "c": "Solo comida caliente",
+      "d": "Solo postres"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_96",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La línea caliente es el sistema de mayor implantación en:",
+    "opciones": {
+      "a": "Distribución de comidas hospitalarias",
+      "b": "Repartos de meriendas",
+      "c": "Repartos de cenas",
+      "d": "Albaranes externos"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_97",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La seguridad alimentaria empieza en:",
+    "opciones": {
+      "a": "Producción primaria",
+      "b": "No es necesario",
+      "c": "El cocinado",
+      "d": "Entrega de albaranes"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_98",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "A temperaturas elevadas los tiempos de fritura son más cortos:",
+    "opciones": {
+      "a": "Es cierto",
+      "b": "No es correcto",
+      "c": "Cuanto más frío antes se fríe",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_99",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Según la ley general de sanidad, cada provincia contará con:",
+    "opciones": {
+      "a": "1 área de salud",
+      "b": "2 áreas de salud",
+      "c": "3 áreas de salud",
+      "d": "4 áreas de salud"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_100",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Posibilidad de seguir el rastro del alimento desde su origen:",
+    "opciones": {
+      "a": "Trazabilidad",
+      "b": "Desinfección",
+      "c": "Eslabón de la cadena",
+      "d": "Ninguna"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_101",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Trabajador con infección cutánea debe:",
+    "opciones": {
+      "a": "Ponerlo en conocimiento del responsable",
+      "b": "Comunicarlo a compañeros",
+      "c": "Curársela",
+      "d": "Nada"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_102",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "Nombramiento y cese de vocales del Consejo de Salud de C-LM corresponde a:",
+    "opciones": {
+      "a": "Consejo de Gobierno",
+      "b": "Consejería competente en sanidad",
+      "c": "Consejo de Administración SESCAM",
+      "d": "Presidente del Consejo"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_103",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "El calzado en la cocina debe ser:",
+    "opciones": {
+      "a": "Antiestático",
+      "b": "Suela antiperforante",
+      "c": "Antideslizante",
+      "d": "No transpirable"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim4_sas2015_104",
+    "tema": "Otras Comunidades: Simulacro 4 - SAS 2015 + SESCAM 2010",
+    "pregunta": "La soberanía reside en:",
+    "opciones": {
+      "a": "La Corona",
+      "b": "El Gobierno",
+      "c": "La Nación",
+      "d": "El pueblo español"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
   }
 ]
