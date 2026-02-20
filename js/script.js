@@ -200,29 +200,58 @@ async function handleLogin() {
 async function loadAdminLogs() {
     if (!supabaseClient) initSupabase();
     const tbody = document.getElementById('admin-table-body');
-    tbody.innerHTML = '<tr><td colspan="2" style="text-align:center;">Cargando...</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="2" style="text-align:center;">Cargando registros...</td></tr>';
     document.getElementById('admin-modal').classList.remove('hidden');
 
     try {
-        const { data, error } = await supabaseClient
+        // Fetch licenses usage
+        const { data: licensesData, error: licensesError } = await supabaseClient
+            .from('usuarios_acceso')
+            .select('*')
+            .order('dispositivos_usados', { ascending: false });
+
+        if (licensesError) throw licensesError;
+
+        // Fetch raw access logs
+        const { data: logsData, error: logsError } = await supabaseClient
             .from('access_logs')
             .select('*')
             .order('created_at', { ascending: false })
-            .limit(50);
+            .limit(30);
 
-        if (error) throw error;
+        if (logsError) throw logsError;
 
-        if (!data || data.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="2" style="text-align:center;">No hay registros.</td></tr>';
-            return;
+        let htmlContent = `
+            <tr style="background:#f4f6f8;"><td colspan="2" style="font-weight:bold; text-align:center; color:var(--primary);">Estado de Licencias</td></tr>
+        `;
+
+        if (licensesData && licensesData.length > 0) {
+            htmlContent += licensesData.map(lic => `
+                <tr>
+                    <td><strong>${lic.nombre}</strong><br><small style="color:#666;">ID: ${lic.id_acceso} ${lic.bloqueado ? '🚫 Bloqueado' : ''}</small></td>
+                    <td style="text-align:center; font-weight:bold; color:${lic.dispositivos_usados >= 2 ? 'red' : 'green'}">${lic.dispositivos_usados} / 2 Disp.</td>
+                </tr>
+            `).join('');
+        } else {
+            htmlContent += '<tr><td colspan="2" style="text-align:center;">No hay licencias registradas.</td></tr>';
         }
 
-        tbody.innerHTML = data.map(log => `
-            <tr>
-                <td>${new Date(log.created_at).toLocaleString('es-ES')}</td>
-                <td style="font-size: 0.8rem; word-break: break-all;">${log.device_info}</td>
-            </tr>
-        `).join('');
+        htmlContent += `
+            <tr style="background:#f4f6f8;"><td colspan="2" style="font-weight:bold; text-align:center; color:var(--primary); margin-top:10px;">Últimas Conexiones</td></tr>
+        `;
+
+        if (logsData && logsData.length > 0) {
+            htmlContent += logsData.map(log => `
+                <tr>
+                    <td>${new Date(log.created_at).toLocaleString('es-ES')}</td>
+                    <td style="font-size: 0.8rem; word-break: break-all;">${log.device_info}</td>
+                </tr>
+            `).join('');
+        } else {
+            htmlContent += '<tr><td colspan="2" style="text-align:center;">No hay conexiones recientes.</td></tr>';
+        }
+
+        tbody.innerHTML = htmlContent;
 
     } catch (e) {
         console.error(e);
