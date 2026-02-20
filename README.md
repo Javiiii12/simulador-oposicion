@@ -1,63 +1,40 @@
-# 🍳 Simulador OPE Pinche - SESCAM
+# 🍳 Simulador OPE Pinche - SESCAM (v1.13.x)
 
-Bienvenido al **Simulador de Exámenes para Pinche de Cocina (SESCAM)**. Esta es una aplicación web diseñada para ayudar a los opositores a practicar y estudiar de manera interactiva.
+Bienvenido al **Simulador de Exámenes para Pinche de Cocina (SESCAM)**. Esta es una aplicación web avanzada diseñada para optimizar el estudio de las oposiciones, usando un enfoque de *Mobile-First* y diseño *Premium Sanidad*.
 
-## 🚀 Características Principales
+## ✨ Novedades Recientes (v1.13+)
 
-### 1. Modos de Estudio
-- **🏋️‍♀️ Entrenamiento**: Ideal para estudiar. Responde a las preguntas y obtén **feedback inmediato** (verde/rojo) con la explicación de la respuesta correcta.
-- **⏱ Simulacro Examen**: Simula un examen real. Responde todas las preguntas sin saber si has acertado o fallado. Al final, obtendrás tu nota y podrás revisar tus fallos.
+*   **Estética "Sanatorio Teal"**: Un diseño renovado con colores institucionales (Teal/Mint médico), bordes de tarjeta redondeados, sombras dinámicas y degradados de cristal para una experiencia Premium.
+*   **Diseño 100% Responsivo**: Layout optimizado para móviles (una columna elástica) y PC (dos columnas, rejilla *Grid*). Etiquetas flotantes informativas (*Pronto*, *Oficiales*, *Reales*).
+*   **Gamificación de Estudio**: 
+    *   Feedback verde/rojo instantáneo al pulsar las opciones.
+    *   Mensajes motivacionales automáticos y variados en la pantalla de resultados (evaluando porcentajes ≥80%, entre 50-79%, y <50%).
+    *   Barra dinámica superior indicando la progresión de la batería de test.
+*   **Registros de Acceso Seguro (Admin)**: Capa de control de Logs de Acceso implementada con **Supabase** para realizar un seguimiento a prueba de manipulaciones de las conexiones al simulador usando cifrado SHA-256 local.
 
-### 2. Gestión de Progreso
-- **📊 Mi Historial**: La aplicación guarda automáticamente tus resultados (fecha, tema y nota) en tu navegador para que puedas ver tu evolución.
-- **🧠 Repaso de Fallos**: Las preguntas que falles se guardan en una lista especial (badge rojo). Usa el botón "Repasar Fallos" para volver a intentarlas hasta que las aciertes.
+## 🚀 Organización del Temario
 
-### 3. Organización por Temas
-- **Temas MAD**: Preguntas organizadas según el temario oficial (Constitución, Estatuto, Seguridad Alimentaria, Cocina, etc.).
-- **Exámenes Oficiales**: (En construcción) Recopilación de exámenes reales de años anteriores.
+El simulador se divide en ramas estructurales que garantizan un abanico completo de repaso:
+- **Fuentes de Estudio**: MAD (Oficiales), CSIF (Específicos), y Academia (Próximamente).
+- **Separación de Partes**: Desglose intuitivo entre *Parte General* (Temas 1 a 6) y *Parte Específica* (Temas 7 a 16).
+- **Exámenes Años Anteriores**: Pruebas íntegras reales (OPE 2020 SESCAM y de otras comunidades como SAS 2018, Murcia, Aragón).
 
----
+## 🛠 Modos de Juego y Perfil
 
-## 📂 Estructura del Proyecto
-
-La aplicación es una web estática (HTML/CSS/JS) que no requiere servidor backend (funciona directamente en el navegador).
-
-- `index.html`: La página principal y única (SPA - Single Page Application).
-- `css/style.css`: Estilos visuales, diseño responsive y tema "premium".
-- `js/script.js`: Toda la lógica de la aplicación (navegación, corrección, guardado de datos).
-- `data/preguntas.json`: Base de datos de preguntas en formato JSON.
-- `scripts/`: Herramientas en Python para gestión de datos (no necesarias para jugar).
-    - `ingest_manual.py`: Script para añadir nuevas preguntas desde texto.
-    - `limpiar_datos.py`: Script para limpiar y validar el JSON.
+1. **🏋️‍♀️ Modo Normal**: Entrenamiento libre de la batería concreta seleccionada.
+2. **🎲 Modo Aleatorio Global**: Construye un examen en tiempo real combinando *x* número de preguntas seleccionadas por el usuario al azar sumando de todas las fuentes disponibles.
+3. **🧠 Repaso de Fallos**: Banco de preguntas donde se guardan exclusivamente aquellas en las que el usuario ha errado históricamente para asentar conocimientos peliagudos.
 
 ---
 
-## 🛠 Cómo usar (Para Desarrolladores / Mantenimiento)
+## 💻 Arquitectura para Desarrolladores
 
-### Añadir Nuevas Preguntas
-1.  Abre `manual_input.txt` (si existe) o crea un archivo de texto con el formato:
-    ```text
-    1. ¿Pregunta?
-    a) Opción A
-    b) Opción B
-    c) Opción C
-    d) Opción D
-    Solución: b
-    ```
-2.  Ejecuta el script de ingesta:
-    ```bash
-    python scripts/ingest_manual.py
-    ```
-3.  Esto actualizará automáticamente `data/preguntas.json`.
+La aplicación está construida sobre tecnologías Web puras, alojada en GitHub Pages y con microservicios.
 
-### Despliegue
-Simplemente sube los cambios a GitHub. La web está alojada en **GitHub Pages**.
+- `index.html`: Punto de entrada (Single Page Application). Usa capas `div` dinámicas para la navegación en lugar de múltiples archivos HTML.
+- `css/style.css`: Controla toda la temática Premium Teal usando variables globales y Media Queries. Carga optimizada con *caché buster* (`?v=5.0`).
+- `js/script.js`: Motor del simulador. Almacena en `localStorage` el progreso y renderiza los tests mediante iteraciones sobre los fragmentos JSON.
+- `data/preguntas.json`: Corazón de los datos. Se divide por ramas, permitiendo añadir temas estructurados por años o fuentes casi ilimitadamente.
 
 ---
-
-## 📝 Notas
-- La aplicación usa `localStorage` para guardar el progreso. Si borras la caché del navegador, perderás tu historial.
-- No se envían datos a ningún servidor externo. ¡Tu privacidad está asegurada!
-
----
-*Desarrollado con ❤️ para opositores.*
+*Desarrollado con ❤️ y código limpio para dar el salto la codiciada plaza blanca.*
