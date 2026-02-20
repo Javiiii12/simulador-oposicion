@@ -21,21 +21,118 @@ const views = {
     results: document.getElementById('view-results')
 };
 
-// Inicialización
-document.addEventListener('DOMContentLoaded', () => {
-    loadData();
+// Security & Supabase
+const _supabaseUrl = 'https://fthltpsnuhwghclzvexi.supabase.co';
+const _supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ0aGx0cHNudWh3Z2hjbHp2ZXhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAwMDQ0MTksImV4cCI6MjA1NTU4MDQxOX0.jS3j9wN_-1M7OlyvV0W5vYm_9j1v6X0W-jS3j9wN_-1M';
+let supabaseClient = null;
+const VALID_HASH = "681b95b1285324707675354924c5b369c70b8f66870c97825700874e0626359e";
 
+function initSupabase() {
+    if (window.supabase && !supabaseClient) {
+        supabaseClient = window.supabase.createClient(_supabaseUrl, _supabaseKey);
+    }
+}
+
+function checkAuth() {
+    initSupabase();
+    const authData = localStorage.getItem('ope_auth_session');
+    if (authData) {
+        const parsed = JSON.parse(authData);
+        const now = new Date().getTime();
+        // 24 hours valid session
+        if (now - parsed.timestamp < 86400000) {
+            initApp();
+            return;
+        } else {
+            localStorage.removeItem('ope_auth_session');
+        }
+    }
+    // Show login overlay if not auth
+    const overlay = document.getElementById('login-overlay');
+    if (overlay) overlay.classList.remove('hidden');
+}
+
+function initApp() {
+    loadData();
     // Migración/Limpieza de IDs antiguos (Bug Fix)
-    // Si detectamos IDs numéricos simples (ej: "1", "2") o formato antiguo, limpiamos
-    // O simplemente forzamos limpieza una vez con una flag de versión.
     const v_data = localStorage.getItem('ope_version_data');
     if (v_data !== 'v1_unique_ids') {
         console.log("Migrando a IDs únicos... Limpiando fallos antiguos.");
         localStorage.removeItem('ope_failed_ids');
         localStorage.setItem('ope_version_data', 'v1_unique_ids');
     }
-
     updateFailureBadge();
+}
+
+async function handleLogin() {
+    const input = document.getElementById('login-password').value;
+    const errorEl = document.getElementById('login-error');
+    if (!input) return;
+
+    // Hash con CryptoJS
+    const hash = CryptoJS.SHA256(input).toString();
+
+    if (hash === VALID_HASH) {
+        errorEl.classList.add('hidden');
+        document.getElementById('login-overlay').classList.add('hidden');
+
+        localStorage.setItem('ope_auth_session', JSON.stringify({
+            timestamp: new Date().getTime()
+        }));
+
+        // Log access in Supabase
+        if (supabaseClient) {
+            try {
+                await supabaseClient.from('access_logs').insert([{
+                    fecha_hora: new Date().toISOString(),
+                    status: 'success',
+                    device_info: navigator.userAgent
+                }]);
+            } catch (e) { console.error('Error logging access:', e); }
+        }
+
+        initApp();
+    } else {
+        errorEl.classList.remove('hidden');
+    }
+}
+
+async function loadAdminLogs() {
+    if (!supabaseClient) initSupabase();
+    const tbody = document.getElementById('admin-table-body');
+    tbody.innerHTML = '<tr><td colspan="2" style="text-align:center;">Cargando...</td></tr>';
+    document.getElementById('admin-modal').classList.remove('hidden');
+
+    try {
+        const { data, error } = await supabaseClient
+            .from('access_logs')
+            .select('*')
+            .order('fecha_hora', { ascending: false })
+            .limit(50);
+
+        if (error) throw error;
+
+        if (!data || data.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="2" style="text-align:center;">No hay registros.</td></tr>';
+            return;
+        }
+
+        tbody.innerHTML = data.map(log => `
+            <tr>
+                <td>${new Date(log.fecha_hora).toLocaleString('es-ES')}</td>
+                <td style="font-size: 0.8rem; word-break: break-all;">${log.device_info}</td>
+            </tr>
+        `).join('');
+
+    } catch (e) {
+        console.error(e);
+        tbody.innerHTML = '<tr><td colspan="2" style="color:red; text-align:center;">Error al cargar logs</td></tr>';
+    }
+}
+
+// Inicialización
+document.addEventListener('DOMContentLoaded', () => {
+    checkAuth();
     setupEventListeners();
 });
 
@@ -46,6 +143,24 @@ function setupEventListeners() {
     // Selección de Rol
     document.getElementById('btn-role-pinche').addEventListener('click', () => showView('menu'));
     document.getElementById('btn-role-celador').addEventListener('click', () => alert("🚧 Celador: Estamos trabajando en ello. ¡Pronto disponible!"));
+
+    // Login Event Listeners
+    const btnLogin = document.getElementById('btn-login');
+    if (btnLogin) btnLogin.addEventListener('click', handleLogin);
+
+    const inputPw = document.getElementById('login-password');
+    if (inputPw) inputPw.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') handleLogin();
+    });
+
+    // Admin Panel Event Listeners
+    const btnAdmin = document.getElementById('btn-admin-panel');
+    if (btnAdmin) btnAdmin.addEventListener('click', loadAdminLogs);
+
+    const btnCloseAdmin = document.getElementById('btn-close-admin');
+    if (btnCloseAdmin) btnCloseAdmin.addEventListener('click', () => {
+        document.getElementById('admin-modal').classList.add('hidden');
+    });
 
     // Menú Principal
     document.getElementById('btn-back-menu').addEventListener('click', () => showView('roleSelection'));
