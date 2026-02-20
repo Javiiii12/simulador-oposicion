@@ -89,6 +89,15 @@ async function validateUserAccess(userId) {
         const licenseText = document.getElementById('licencia-activa');
         if (licenseText) licenseText.style.display = 'inline-block';
 
+        // Log access in Supabase
+        try {
+            await supabaseClient.from('access_logs').insert([{
+                created_at: new Date().toISOString(),
+                status: 'success',
+                device_info: data.nombre + ' (' + userId + ')'
+            }]);
+        } catch (e) { console.error('Error logging access:', e); }
+
         initApp();
     } catch (err) {
         console.error("Error validando usuario:", err);
