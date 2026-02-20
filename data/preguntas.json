@@ -48787,5 +48787,2917 @@
     "correcta": "a",
     "explicacion": "",
     "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_0",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "Señale cuál NO es un útil alimentario:",
+    "opciones": {
+      "a": "Vehículo de transporte.",
+      "b": "Etiquetas y precintos.",
+      "c": "Utillaje.",
+      "d": "Herramientas para reparaciones."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_1",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "Es un aceite de oliva virgen:",
+    "opciones": {
+      "a": "Aceite de oliva virgen corriente.",
+      "b": "Aceite puro de Oliva.",
+      "c": "Aceite refinado de orujo de aceituna.",
+      "d": "Aceite de orujo de aceituna."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_2",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "Las grasas comestibles pueden ser de origen animal o vegetal. Es una grasa vegetal comestible:",
+    "opciones": {
+      "a": "Manteca de coco.",
+      "b": "Mantequilla.",
+      "c": "Aceite de girasol.",
+      "d": "Manteca de palmera."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_3",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "NO es un derivado de la leche:",
+    "opciones": {
+      "a": "La leche concentrada.",
+      "b": "La nata.",
+      "c": "La mantequilla.",
+      "d": "El queso."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_4",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "NO es un tubérculo:",
+    "opciones": {
+      "a": "La zanahoria.",
+      "b": "La patata.",
+      "c": "La batata.",
+      "d": "La chufa."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_5",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Es carne de vacuno de categoría segunda?:",
+    "opciones": {
+      "a": "Brazuelo.",
+      "b": "Pescuezo.",
+      "c": "Espaldilla.",
+      "d": "Redondo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_6",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La definición \"huevo\" hace referencia a:",
+    "opciones": {
+      "a": "Todo tipo de huevos independientemente del animal que proceda.",
+      "b": "Sólo a huevo de gallináceas.",
+      "c": "Huevo de gallina y de cualquier ave.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_7",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "Un Punto de Control Crítico (PCC) se define como:",
+    "opciones": {
+      "a": "El final de la jornada.",
+      "b": "La puerta de entrada de proveedores.",
+      "c": "Fase en la que puede aplicarse un control esencial para prevenir un peligro alimentario.",
+      "d": "El lugar donde se guardan los cuchillos."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_8",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La zona de la cocina destinada al lavado de vajilla y cubiertos de los pacientes es:",
+    "opciones": {
+      "a": "Office / Lavado de vajilla.",
+      "b": "Plonge.",
+      "c": "Cuarto frío.",
+      "d": "Economato."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_9",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué nutriente es la base de la dieta basal?:",
+    "opciones": {
+      "a": "Hidratos de carbono.",
+      "b": "Proteínas.",
+      "c": "Lípidos.",
+      "d": "Vitaminas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_10",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la trazabilidad de un alimento?:",
+    "opciones": {
+      "a": "La forma de cortarlo.",
+      "b": "Su color original.",
+      "c": "Capacidad de seguir su rastro a través de todas las etapas de producción.",
+      "d": "El precio por kilo."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_11",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La técnica culinaria de cocinar un alimento en su propio jugo con un mínimo de grasa se denomina:",
+    "opciones": {
+      "a": "Hervir.",
+      "b": "Estofar.",
+      "c": "Freír.",
+      "d": "Gratinar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_12",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿A qué temperatura deben mantenerse las comidas calientes hasta su servicio?:",
+    "opciones": {
+      "a": "40ºC.",
+      "b": "Mínimo 65ºC.",
+      "c": "50ºC.",
+      "d": "100ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_13",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El sistema de \"marcha adelante\" consiste en:",
+    "opciones": {
+      "a": "Trabajar muy rápido.",
+      "b": "No retroceder en las fases de elaboración para evitar contaminaciones.",
+      "c": "Caminar siempre hacia el comedor.",
+      "d": "Empezar por el primer plato."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_14",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La limpieza de la vajilla debe realizarse en el lavavajillas a una temperatura de aclarado de:",
+    "opciones": {
+      "a": "40ºC.",
+      "b": "60ºC.",
+      "c": "82ºC - 90ºC.",
+      "d": "120ºC."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_15",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "Las legumbres secas se almacenan en:",
+    "opciones": {
+      "a": "El congelador.",
+      "b": "El cuarto frío.",
+      "c": "El muelle.",
+      "d": "El economato (lugar fresco, seco y ventilado)."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_16",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es un \"roux\"?:",
+    "opciones": {
+      "a": "Un tipo de pan.",
+      "b": "Una mezcla de harina y grasa usada para ligar salsas.",
+      "c": "Una especia picante.",
+      "d": "Una bebida."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_17",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El calzado de un pinche debe ser:",
+    "opciones": {
+      "a": "Abierto por detrás.",
+      "b": "De tela para que transpire.",
+      "c": "Antideslizante y cerrado.",
+      "d": "Con tacón alto."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_18",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La \"mise en place\" es:",
+    "opciones": {
+      "a": "La limpieza final.",
+      "b": "La preparación y organización de materiales antes de empezar a cocinar.",
+      "c": "Un tipo de mesa.",
+      "d": "El descanso del personal."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_19",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué nutriente aporta 9 kcal por cada gramo?:",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Hidratos de carbono.",
+      "c": "Lípidos (grasas).",
+      "d": "Vitaminas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_20",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"braseado\"?:",
+    "opciones": {
+      "a": "Freír con mucha grasa.",
+      "b": "Cocción lenta en recipiente cerrado con poco líquido tras un dorado inicial.",
+      "c": "Cocinar al vapor.",
+      "d": "Comer crudo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_21",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La basura orgánica se deposita en bolsas de color:",
+    "opciones": {
+      "a": "Rojo.",
+      "b": "Amarillo.",
+      "c": "Negro / Gris.",
+      "d": "Azul."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_22",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es un residuo del Grupo III?:",
+    "opciones": {
+      "a": "Cartón.",
+      "b": "Residuos sanitarios de riesgo (infecciosos o cortantes).",
+      "c": "Restos de comida común.",
+      "d": "Muebles rotos."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_23",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La desratización se centra en eliminar:",
+    "opciones": {
+      "a": "Cucarachas.",
+      "b": "Roedores.",
+      "c": "Hormigas.",
+      "d": "Bacterias."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_24",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es un \"abatidor de temperatura\"?:",
+    "opciones": {
+      "a": "Un horno.",
+      "b": "Equipo que enfría rápidamente alimentos cocinados para evitar riesgos.",
+      "c": "Un ventilador.",
+      "d": "Una placa de calor."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_25",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué carne se considera de categoría extra?:",
+    "opciones": {
+      "a": "Babilla.",
+      "b": "Cadera.",
+      "c": "Tapa.",
+      "d": "Solomillo."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_26",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"escaldado\"?:",
+    "opciones": {
+      "a": "Cocción prolongada.",
+      "b": "Congelar.",
+      "c": "Sumergir brevemente en agua hirviendo.",
+      "d": "Secar al sol."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_27",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El almacenamiento de las carnes frescas debe hacerse a:",
+    "opciones": {
+      "a": "15ºC.",
+      "b": "Entre 0ºC y 4ºC.",
+      "c": "10ºC.",
+      "d": "-18ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_28",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la contaminación cruzada?:",
+    "opciones": {
+      "a": "Paso de gérmenes de un alimento contaminado a otro sano.",
+      "b": "Mezclar carne y pescado en un plato.",
+      "c": "Cocinar con mucha sal.",
+      "d": "Comprar en dos mercados distintos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_29",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La limpieza de los cubos de basura debe ser:",
+    "opciones": {
+      "a": "Diaria.",
+      "b": "Mensual.",
+      "c": "Semanal.",
+      "d": "No se limpian."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_30",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué nutriente es esencial para los huesos?:",
+    "opciones": {
+      "a": "Hierro.",
+      "b": "Calcio.",
+      "c": "Yodo.",
+      "d": "Magnesio."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_31",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La vitamina liposoluble que ayuda a la coagulación es:",
+    "opciones": {
+      "a": "Vitamina A.",
+      "b": "Vitamina C.",
+      "c": "Vitamina D.",
+      "d": "Vitamina K."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_32",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La temperatura de congelación industrial es:",
+    "opciones": {
+      "a": "0ºC.",
+      "b": "-18ºC o inferior.",
+      "c": "-5ºC.",
+      "d": "4ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_33",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"roux\" oscuro?:",
+    "opciones": {
+      "a": "Mezcla de harina y grasa tostada para salsas oscuras.",
+      "b": "Salsa de tomate concentrada.",
+      "c": "Un tipo de chocolate.",
+      "d": "Harina quemada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_34",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La dieta hipocalórica se caracteriza por ser baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Energía (calorías).",
+      "c": "Agua.",
+      "d": "Proteínas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_35",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la liofilización?:",
+    "opciones": {
+      "a": "Cocinar al vacío.",
+      "b": "Deshidratación por congelación y vacío.",
+      "c": "Freír.",
+      "d": "Salar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_36",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El \"punto de humo\" es:",
+    "opciones": {
+      "a": "Temperatura a la que el aceite empieza a descomponerse.",
+      "b": "Cuando sale vapor de la olla.",
+      "c": "El final de una barbacoa.",
+      "d": "Una técnica de ahumado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_37",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la contaminación biológica?:",
+    "opciones": {
+      "a": "Bacterias, virus o parásitos.",
+      "b": "Un trozo de cristal.",
+      "c": "Detergente.",
+      "d": "Una piedra."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_38",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El \"baño maría\" se usa para:",
+    "opciones": {
+      "a": "Cocciones suaves o mantener caliente sin contacto directo con el fuego.",
+      "b": "Freír patatas.",
+      "c": "Enfriar carne.",
+      "d": "Lavar la fruta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_39",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es un alimento perecedero?:",
+    "opciones": {
+      "a": "El que dura años.",
+      "b": "El que se altera rápidamente por sus características.",
+      "c": "El cristal.",
+      "d": "Las piedras."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_40",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La desinsectación elimina:",
+    "opciones": {
+      "a": "Insectos.",
+      "b": "Ratas.",
+      "c": "Virus.",
+      "d": "Hongos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_41",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"bridado\"?:",
+    "opciones": {
+      "a": "Atar una pieza de carne para que no pierda la forma.",
+      "b": "Limpiar pescado.",
+      "c": "Poner pan rallado.",
+      "d": "Cortar en dados."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_42",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La dieta líquida se compone de:",
+    "opciones": {
+      "a": "Caldos, infusiones y zumos colados.",
+      "b": "Filete de ternera.",
+      "c": "Pan integral.",
+      "d": "Puré de patatas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_43",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El calzado de seguridad debe ser:",
+    "opciones": {
+      "a": "Antideslizante y con puntera reforzada.",
+      "b": "Abierto.",
+      "c": "De tela fina.",
+      "d": "Con tacón."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_44",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La señalización roja indica:",
+    "opciones": {
+      "a": "Prohibición o material contra incendios.",
+      "b": "Salvamento.",
+      "c": "Obligación.",
+      "d": "Información."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_45",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La dieta basal es para pacientes:",
+    "opciones": {
+      "a": "Sin necesidades dietéticas especiales.",
+      "b": "Con diabetes.",
+      "c": "Que no pueden comer.",
+      "d": "Con alergias."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_46",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"salsero\"?:",
+    "opciones": {
+      "a": "Cocinero encargado de salsas y carnes.",
+      "b": "Una música.",
+      "c": "Una herramienta.",
+      "d": "Un recipiente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_47",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es un alimento adulterado?:",
+    "opciones": {
+      "a": "Variado fraudulentamente en su composición.",
+      "b": "Con bacterias.",
+      "c": "Podrido.",
+      "d": "Sucio."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_48",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La limpieza de la campana extractora evita:",
+    "opciones": {
+      "a": "Incendios por grasa.",
+      "b": "El ruido.",
+      "c": "Que entre luz.",
+      "d": "Que el cocinero hable."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_49",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es un residuo de Clase II?:",
+    "opciones": {
+      "a": "Biosanitarios no específicos.",
+      "b": "Basura de casa.",
+      "c": "Radioactivos.",
+      "d": "Químicos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_50",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La dieta hipoprotéica es baja en:",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Sal.",
+      "c": "Fibra.",
+      "d": "Agua."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_51",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"macerado\"?:",
+    "opciones": {
+      "a": "Reposo en líquido con especias para aromatizar.",
+      "b": "Triturar.",
+      "c": "Hervir.",
+      "d": "Congelar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_52",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La contaminación física es:",
+    "opciones": {
+      "a": "Objetos extraños (cristal, metal).",
+      "b": "Virus.",
+      "c": "Jabón.",
+      "d": "Mal olor."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_53",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El \"pasapurés\" sirve para:",
+    "opciones": {
+      "a": "Triturar alimentos cocinados.",
+      "b": "Freír.",
+      "c": "Batir huevos.",
+      "d": "Guardar pan."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_54",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la \"cuarta gama\"?:",
+    "opciones": {
+      "a": "Vegetales limpios, cortados y envasados.",
+      "b": "Conservas.",
+      "c": "Congelados.",
+      "d": "Comida basura."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_55",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La desinfección consiste en:",
+    "opciones": {
+      "a": "Eliminar microorganismos patógenos.",
+      "b": "Quitar el polvo.",
+      "c": "Pintar.",
+      "d": "Ordenar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_56",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La dieta \"blanca\" se usa para:",
+    "opciones": {
+      "a": "Pruebas digestivas.",
+      "b": "Hipertensos.",
+      "c": "Obesos.",
+      "d": "Atletas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_57",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"blanqueado\"?:",
+    "opciones": {
+      "a": "Cocción corta para quitar impurezas o ablandar.",
+      "b": "Poner lejía.",
+      "c": "Pintar.",
+      "d": "Congelar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_58",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La basura de riesgo biológico va en:",
+    "opciones": {
+      "a": "Bolsa o contenedor amarillo.",
+      "b": "Bolsa negra.",
+      "c": "Suelo.",
+      "d": "Contenedor azul."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_59",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es un \"roux\" blanco?:",
+    "opciones": {
+      "a": "Harina y grasa poco cocinada.",
+      "b": "Azúcar con agua.",
+      "c": "Nata montada.",
+      "d": "Queso."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_60",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La vitamina K ayuda a:",
+    "opciones": {
+      "a": "La coagulación.",
+      "b": "Ver mejor.",
+      "c": "Crecer.",
+      "d": "Nada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_61",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la higiene alimentaria?:",
+    "opciones": {
+      "a": "Medidas para garantizar la seguridad de alimentos.",
+      "b": "Lavar los platos.",
+      "c": "Barrer.",
+      "d": "Cocinar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_62",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El almacenamiento de huevos debe ser en:",
+    "opciones": {
+      "a": "Refrigeración.",
+      "b": "Congelador.",
+      "c": "Sol.",
+      "d": "Suelo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_63",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"marmorizado\"?:",
+    "opciones": {
+      "a": "Grasa veteada en la carne.",
+      "b": "Un tipo de mármol.",
+      "c": "Limpiar la mesa.",
+      "d": "Un postre."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_64",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La dieta para insuficiencia renal controla:",
+    "opciones": {
+      "a": "Proteínas y potasio.",
+      "b": "El azúcar.",
+      "c": "La fibra.",
+      "d": "El picante."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_65",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"desbarasado\"?:",
+    "opciones": {
+      "a": "Retirar platos y restos.",
+      "b": "Cocinar.",
+      "c": "Limpiar el horno.",
+      "d": "Poner manteles."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_66",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La temperatura de seguridad caliente es:",
+    "opciones": {
+      "a": ">65ºC.",
+      "b": "40ºC.",
+      "c": "100ºC.",
+      "d": "50ºC."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_67",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"empanado\"?:",
+    "opciones": {
+      "a": "Harina, huevo y pan rallado.",
+      "b": "Harina solo.",
+      "c": "Agua.",
+      "d": "Sal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_68",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La vitamina D se conoce como la vitamina:",
+    "opciones": {
+      "a": "Del sol.",
+      "b": "De la energía.",
+      "c": "Del hueso.",
+      "d": "Del músculo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_69",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la \"contaminación química\"?:",
+    "opciones": {
+      "a": "Detergentes o pesticidas.",
+      "b": "Pelos.",
+      "c": "Virus.",
+      "d": "Piedras."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_70",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La limpieza de manos se hace con:",
+    "opciones": {
+      "a": "Jabón y agua caliente.",
+      "b": "Solo agua.",
+      "c": "Un trapo.",
+      "d": "Arena."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_71",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"asado\"?:",
+    "opciones": {
+      "a": "Cocción con calor seco.",
+      "b": "Hervir.",
+      "c": "Congelar.",
+      "d": "Freír."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_72",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La dieta rica en potasio incluye:",
+    "opciones": {
+      "a": "Plátano y verduras.",
+      "b": "Solo carne.",
+      "c": "Solo pan.",
+      "d": "Agua."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_73",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"deshuesado\"?:",
+    "opciones": {
+      "a": "Quitar los huesos.",
+      "b": "Poner huesos.",
+      "c": "Romper platos.",
+      "d": "Bailar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_74",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La temperatura de congelación es:",
+    "opciones": {
+      "a": "-18ºC.",
+      "b": "0ºC.",
+      "c": "10ºC.",
+      "d": "4ºC."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_75",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la higiene personal?:",
+    "opciones": {
+      "a": "Hábitos de limpieza del trabajador.",
+      "b": "Ducharse.",
+      "c": "Limpiar vestuarios.",
+      "d": "No usar perfume."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_76",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La leche pasteurizada debe estar en:",
+    "opciones": {
+      "a": "Frigorífico.",
+      "b": "Despensa.",
+      "c": "Congelador.",
+      "d": "Patio."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_77",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"rehogado\"?:",
+    "opciones": {
+      "a": "Cocinar con poca grasa a fuego lento.",
+      "b": "Hervir.",
+      "c": "Congelar.",
+      "d": "Salar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_78",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La basura se saca:",
+    "opciones": {
+      "a": "Al final de la jornada.",
+      "b": "Al año.",
+      "c": "Cuando huela.",
+      "d": "Nunca."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_79",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"pinche\"?:",
+    "opciones": {
+      "a": "Auxiliar de cocina.",
+      "b": "El que pincha.",
+      "c": "Jefe.",
+      "d": "Tenedor."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_80",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es un alérgeno?:",
+    "opciones": {
+      "a": "Sustancia que provoca alergia.",
+      "b": "Bacteria.",
+      "c": "Virus.",
+      "d": "Sal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_81",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La limpieza de la vajilla debe ser con:",
+    "opciones": {
+      "a": "Agua caliente y detergente.",
+      "b": "Agua fría.",
+      "c": "Papel.",
+      "d": "Nada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_82",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"baño maría\" inverso?:",
+    "opciones": {
+      "a": "Enfriar con hielo.",
+      "b": "Calentar.",
+      "c": "Freír.",
+      "d": "Hornear."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_83",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La vitamina E es:",
+    "opciones": {
+      "a": "Antioxidante.",
+      "b": "Mineral.",
+      "c": "Ácido.",
+      "d": "Glúcido."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_84",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la trazabilidad hacia atrás?:",
+    "opciones": {
+      "a": "Saber a quién compramos.",
+      "b": "Saber a quién vendemos.",
+      "c": "Cocinar.",
+      "d": "Limpiar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_85",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El almacenamiento de productos de limpieza debe ser:",
+    "opciones": {
+      "a": "Separado de comida.",
+      "b": "Con comida.",
+      "c": "En el comedor.",
+      "d": "No importa."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_86",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"marinado\"?:",
+    "opciones": {
+      "a": "Remojo en líquido con sabor.",
+      "b": "Vapor.",
+      "c": "Fritura.",
+      "d": "Congelado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_87",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La higiene de cuchillos es:",
+    "opciones": {
+      "a": "Limpiarlos tras cada uso.",
+      "b": "Solo al final.",
+      "c": "No se limpian.",
+      "d": "Con el delantal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_88",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "En la cinta de emplatado, el pinche se encarga de:",
+    "opciones": {
+      "a": "Colocar raciones y componentes según tarjeta.",
+      "b": "Cocinar.",
+      "c": "Diagnosticar.",
+      "d": "Administrar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_89",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Cómo se llama el documento con el coste de un plato?:",
+    "opciones": {
+      "a": "Escandallo.",
+      "b": "Inventario.",
+      "c": "Catálogo.",
+      "d": "Informe."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_90",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El origen de incendio por fallos en instalación es:",
+    "opciones": {
+      "a": "Técnico.",
+      "b": "Mecánico.",
+      "c": "Natural.",
+      "d": "Antrópico."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_91",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es un contaminante abiótico?:",
+    "opciones": {
+      "a": "Carece de vida.",
+      "b": "Tiene vida.",
+      "c": "Nutriente bajo.",
+      "d": "Forma alargada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_92",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La picadora necesita:",
+    "opciones": {
+      "a": "Mantenimiento y limpieza.",
+      "b": "No limpiarse.",
+      "c": "Engrasarse con aceite de oliva.",
+      "d": "Solo uso por el jefe."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_93",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿A qué grupo pertenecen las hortalizas?:",
+    "opciones": {
+      "a": "Reguladores.",
+      "b": "Plásticos.",
+      "c": "Energéticos.",
+      "d": "Todos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_94",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El \"roux\" blanco es base de:",
+    "opciones": {
+      "a": "Bechamel.",
+      "b": "Española.",
+      "c": "Mahonesa.",
+      "d": "Vinagreta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_95",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La vitamina C ayuda a:",
+    "opciones": {
+      "a": "Absorción del hierro.",
+      "b": "Coagulación.",
+      "c": "Visión.",
+      "d": "Digestión."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_96",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es la contaminación cruzada indirecta?:",
+    "opciones": {
+      "a": "A través de utensilios o manos.",
+      "b": "Contacto directo.",
+      "c": "Aire.",
+      "d": "Suelo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_97",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La temperatura de transporte en caliente debe ser:",
+    "opciones": {
+      "a": ">65ºC.",
+      "b": "40ºC.",
+      "c": "10ºC.",
+      "d": "0ºC."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_98",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "¿Qué es el \"marmorizado\"?:",
+    "opciones": {
+      "a": "Grasa intramuscular.",
+      "b": "Técnica de mármol.",
+      "c": "Limpieza.",
+      "d": "Corte."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_99",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "El calzado debe ser:",
+    "opciones": {
+      "a": "Antideslizante.",
+      "b": "De tela.",
+      "c": "De tacón.",
+      "d": "Chanclas.\r\n*"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_100",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "Preguntas de Reserva (Simulacro Nº 11)\r\nPara prevenir anisaquiasis se debe congelar el pescado a:",
+    "opciones": {
+      "a": "Igual o inferior a -20ºC durante 24 horas.",
+      "b": "Igual o inferior a -20ºC durante 48 horas.",
+      "c": "Igual o inferior a -15ºC durante 48 horas.",
+      "d": "Igual o inferior a -15ºC durante 24 horas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_101",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "Los quesos se clasifican según elaboración en:",
+    "opciones": {
+      "a": "Fresco, afinado, madurado o fermentado.",
+      "b": "Pasta blanda, prensada o fundido.",
+      "c": "Crema, fermentado y magro.",
+      "d": "Doble graso, extra graso, graso y magro."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_102",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La limpieza física:",
+    "opciones": {
+      "a": "Elimina toda serie de impurezas visibles de las superficies.",
+      "b": "Destruye patógenos.",
+      "c": "Elimina impurezas no visibles.",
+      "d": "Elimina microorganismos."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_103",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La tabla amarilla se usa para:",
+    "opciones": {
+      "a": "Carnes crudas de ave.",
+      "b": "Carnes rojas.",
+      "c": "Verduras.",
+      "d": "Comidas preparadas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim11_ext2017_104",
+    "tema": "Otras Comunidades: Simulacro 11 - Pinche Extremadura (2017 + 2014)",
+    "pregunta": "La anisakiasis ha aumentado por:",
+    "opciones": {
+      "a": "Mayor infestación del pescado capturado.",
+      "b": "Mejores diagnósticos.",
+      "c": "Mayor consumo de pescado crudo/poco cocinado.",
+      "d": "Todas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_0",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Señala la respuesta CORRECTA. ¿Cuándo se aprueba el Código Alimentario Español?",
+    "opciones": {
+      "a": "Por Decreto 2484/1967, de 21 de septiembre",
+      "b": "Por Decreto 8424/1967, de 21 de septiembre",
+      "c": "Por Decreto 5424/1967, de 21 de septiembre",
+      "d": "Por Decreto 8434/1967, de 21 de septiembre"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_1",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Señale la respuesta CORRECTA:",
+    "opciones": {
+      "a": "La leche U.H.T es sometida a una temperatura de -150° C durante un mínimo de 2 segundos.",
+      "b": "La leche pasteurizada se calienta a 72-78° C durante 15 segundos y se conserva 38 horas.",
+      "c": "La leche esterilizada tras el envasado es sometida a una temperatura de 110° C durante 30 minutos.",
+      "d": "La leche higienizada se entrega en las 36 horas siguientes a una refrigeración a menos de 4° C."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_2",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Señale la respuesta CORRECTA:",
+    "opciones": {
+      "a": "La compota se prepara con fruta entera o partida en trozos irregulares y con solución azucarada.",
+      "b": "La mermelada se prepara con fruta entera, troceada o tamizada y azúcar hasta conseguir un producto pastoso o gelatinoso.",
+      "c": "El dulce de fruta es el producto obtenido por cocción de fruta tamizada con azúcar.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_3",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "En la zona de preparación de vegetales:",
+    "opciones": {
+      "a": "Se procederá a la limpieza de hortalizas, tubérculos y frutas.",
+      "b": "Se procederá al pelado de los mismos.",
+      "c": "Se procederá al lavado de los mismos.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_4",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El cuarto frío para la preparación de verduras:",
+    "opciones": {
+      "a": "Es la zona donde se preparan los pescados.",
+      "b": "Es la zona donde se cuecen las verduras.",
+      "c": "Es la zona donde se preparan verduras, legumbres y tubérculos.",
+      "d": "Es la zona donde se congelan las hortalizas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_5",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El personal que trabaje en una zona de manipulación de alimentos deberá:",
+    "opciones": {
+      "a": "Mantener un elevado grado de limpieza.",
+      "b": "Llevar una vestimenta adecuada, limpia y protectora.",
+      "c": "Ambas son correctas.",
+      "d": "Solo b es correcta."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_6",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Cuál de las siguientes acciones disminuye el consumo de energía en la cocina?",
+    "opciones": {
+      "a": "Tapar las ollas al cocinar.",
+      "b": "Abrir el horno frecuentemente para vigilar.",
+      "c": "Utilizar recipientes mucho más grandes que el fuego.",
+      "d": "No realizar mantenimiento de los quemadores."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_7",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El sistema APPCC es preventivo y se basa en:",
+    "opciones": {
+      "a": "Analizar solo el producto terminado.",
+      "b": "Limpiar las cámaras una vez al mes.",
+      "c": "Controlar los puntos críticos durante todo el proceso.",
+      "d": "No llevar registros escritos."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_8",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es la contaminación cruzada?",
+    "opciones": {
+      "a": "Paso de contaminantes de un alimento crudo a uno cocinado por contacto o utensilios.",
+      "b": "Cocinar dos alimentos distintos a la vez.",
+      "c": "Mezclar dos tipos de aceites.",
+      "d": "Comprar a proveedores distintos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_9",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La zona de \"Plonge\" se destina a:",
+    "opciones": {
+      "a": "Cocinar carnes.",
+      "b": "Lavado de material pesado de cocina (ollas, bandejas).",
+      "c": "Almacenar productos químicos.",
+      "d": "Preparar ensaladas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_10",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es la trazabilidad?",
+    "opciones": {
+      "a": "Seguir el rastro de un alimento a través de todas las etapas.",
+      "b": "Cortar la verdura en tiras.",
+      "c": "Medir la temperatura del agua.",
+      "d": "Poner etiquetas de colores."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_11",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La dieta hiposódica es baja en:",
+    "opciones": {
+      "a": "Azúcar.",
+      "b": "Sal (Sodio).",
+      "c": "Grasas saturadas.",
+      "d": "Proteínas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_12",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿A qué temperatura se deben mantener las comidas calientes hasta el servicio?",
+    "opciones": {
+      "a": "40ºC.",
+      "b": "Mínimo 65ºC.",
+      "c": "100ºC.",
+      "d": "50ºC."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_13",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El principio de \"marcha adelante\" consiste en:",
+    "opciones": {
+      "a": "Correr en la cocina.",
+      "b": "Circuito lógico sin retrocesos para evitar contaminación.",
+      "c": "Servir primero los postres.",
+      "d": "No volver a usar la misma olla."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_14",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La limpieza de la vajilla de pacientes se realiza en:",
+    "opciones": {
+      "a": "El Plonge.",
+      "b": "El cuarto frío.",
+      "c": "El Office o zona de lavado de vajilla.",
+      "d": "La zona de preparación de carnes."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_15",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué nutriente aporta 9 kcal por gramo?",
+    "opciones": {
+      "a": "Hidratos de carbono.",
+      "b": "Proteínas.",
+      "c": "Lípidos (Grasas).",
+      "d": "Vitaminas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_16",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es un \"fondo blanco\"?",
+    "opciones": {
+      "a": "Caldo básico de ave o ternera con hortalizas sin dorar.",
+      "b": "Una crema de leche.",
+      "c": "Un postre.",
+      "d": "Salsa de tomate."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_17",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El almacenamiento de huevos frescos debe ser en:",
+    "opciones": {
+      "a": "El congelador.",
+      "b": "Refrigeración a temperatura constante.",
+      "c": "Al sol.",
+      "d": "En la despensa caliente."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_18",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La dieta astringente se utiliza para:",
+    "opciones": {
+      "a": "El estreñimiento.",
+      "b": "La diarrea.",
+      "c": "La obesidad.",
+      "d": "La anemia."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_19",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"braseado\"?",
+    "opciones": {
+      "a": "Freír.",
+      "b": "Cocción lenta con poco líquido tras un dorado previo.",
+      "c": "Congelar.",
+      "d": "Salar."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_20",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La basura orgánica se deposita en bolsas:",
+    "opciones": {
+      "a": "Rojas.",
+      "b": "Negras o grises.",
+      "c": "Amarillas.",
+      "d": "Transparentes."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_21",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es un residuo de Grupo III?",
+    "opciones": {
+      "a": "Cartón.",
+      "b": "Biosanitario de riesgo (específico).",
+      "c": "Resto de comida de paciente sano.",
+      "d": "Papel de oficina."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_22",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Cuál de estos es un pescado azul?",
+    "opciones": {
+      "a": "Merluza.",
+      "b": "Atún / Caballa.",
+      "c": "Lenguado.",
+      "d": "Gallo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_23",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El calzado de un pinche debe ser:",
+    "opciones": {
+      "a": "Abierto.",
+      "b": "De tela.",
+      "c": "Antideslizante y cerrado.",
+      "d": "Con cordones largos."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_24",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es un \"abatidor de temperatura\"?",
+    "opciones": {
+      "a": "Un horno.",
+      "b": "Un ventilador.",
+      "c": "Equipo para enfriar rápidamente alimentos cocinados.",
+      "d": "Una placa de calor."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_25",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿A qué grupo pertenecen las hortalizas?",
+    "opciones": {
+      "a": "Alimentos reguladores.",
+      "b": "Energéticos.",
+      "c": "Plásticos.",
+      "d": "Complementarios."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_26",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"roux\"?",
+    "opciones": {
+      "a": "Mezcla de harina y agua.",
+      "b": "Un postre.",
+      "c": "Mezcla de harina y grasa para ligar salsas.",
+      "d": "Una carne asada."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_27",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La vitamina C abunda en:",
+    "opciones": {
+      "a": "Carnes rojas.",
+      "b": "Leche entera.",
+      "c": "Huevos fritos.",
+      "d": "Frutas cítricas y pimientos."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_28",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"escaldado\"?",
+    "opciones": {
+      "a": "Cocinar totalmente.",
+      "b": "Congelar.",
+      "c": "Sumergir brevemente en agua hirviendo.",
+      "d": "Secar al aire."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_29",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La limpieza de campanas extractoras evita:",
+    "opciones": {
+      "a": "El ruido.",
+      "b": "Que el jefe grite.",
+      "c": "Riesgo de incendio por grasa acumulada.",
+      "d": "Que se funda la luz."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_30",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El almacenamiento de carnes frescas debe ser a:",
+    "opciones": {
+      "a": "Entre 0ºC y 4ºC.",
+      "b": "10ºC.",
+      "c": "-18ºC.",
+      "d": "Temperatura ambiente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_31",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es la liofilización?",
+    "opciones": {
+      "a": "Cocinar al vacío.",
+      "b": "Salar.",
+      "c": "Deshidratación por congelación y vacío.",
+      "d": "Freír."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_32",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿A qué grupo pertenecen los celíacos?",
+    "opciones": {
+      "a": "Intolerancia a la lactosa.",
+      "b": "Alergia al huevo.",
+      "c": "Intolerancia al gluten.",
+      "d": "Alergia al pescado."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_33",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La \"comida testigo\" se guarda durante:",
+    "opciones": {
+      "a": "24 horas.",
+      "b": "48 horas.",
+      "c": "7 días.",
+      "d": "15 días."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_34",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es la desratización?",
+    "opciones": {
+      "a": "Eliminar moscas.",
+      "b": "Eliminar roedores.",
+      "c": "Eliminar bacterias.",
+      "d": "Eliminar virus."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_35",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La dieta hipocalórica es baja en:",
+    "opciones": {
+      "a": "Sal.",
+      "b": "Agua.",
+      "c": "Proteínas.",
+      "d": "Energía (Calorías)."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_36",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es la contaminación biológica?",
+    "opciones": {
+      "a": "Un cristal.",
+      "b": "Detergente.",
+      "c": "Bacterias, virus o parásitos.",
+      "d": "Una piedra."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_37",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué nutriente es el principal para los huesos?",
+    "opciones": {
+      "a": "Hierro.",
+      "b": "Yodo.",
+      "c": "Calcio.",
+      "d": "Magnesio."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_38",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La temperatura de congelación industrial es:",
+    "opciones": {
+      "a": "0ºC.",
+      "b": "-5ºC.",
+      "c": "-18ºC o inferior.",
+      "d": "4ºC."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_39",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es un residuo de Clase II?",
+    "opciones": {
+      "a": "Basura doméstica.",
+      "b": "Biosanitario no específico (gasas, vendas sin riesgo).",
+      "c": "Radioactivo.",
+      "d": "Químico."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_40",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El \"punto de humo\" es:",
+    "opciones": {
+      "a": "Cuando sale vapor.",
+      "b": "Cuando el aceite se descompone y es tóxico.",
+      "c": "El final de un cigarrillo.",
+      "d": "Una técnica de ahumado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_41",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La vitamina B12 está en:",
+    "opciones": {
+      "a": "Naranjas.",
+      "b": "Alimentos de origen animal.",
+      "c": "Lechuga.",
+      "d": "Pan."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_42",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"baño maría\"?",
+    "opciones": {
+      "a": "Cocción suave sin contacto directo con fuego.",
+      "b": "Freír con mucho aceite.",
+      "c": "Congelar rápido.",
+      "d": "Lavar la fruta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_43",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Un alimento perecedero es:",
+    "opciones": {
+      "a": "El que dura años.",
+      "b": "El que se altera rápidamente por sus características.",
+      "c": "El metal.",
+      "d": "El arroz seco."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_44",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"bridado\"?",
+    "opciones": {
+      "a": "Atar carne para que no pierda forma.",
+      "b": "Limpiar pescado.",
+      "c": "Poner sal.",
+      "d": "Cortar verduras."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_45",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La dieta líquida incluye:",
+    "opciones": {
+      "a": "Caldos, infusiones y zumos colados.",
+      "b": "Carne picada.",
+      "c": "Pan tostado.",
+      "d": "Puré de legumbres."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_46",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La señalización roja indica:",
+    "opciones": {
+      "a": "Salvamento.",
+      "b": "Prohibición o material contra incendios.",
+      "c": "Obligación.",
+      "d": "Información."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_47",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"salsero\"?",
+    "opciones": {
+      "a": "Cocinero encargado de salsas y carnes.",
+      "b": "Una música.",
+      "c": "Una herramienta.",
+      "d": "Un recipiente."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_48",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La desinsectación elimina:",
+    "opciones": {
+      "a": "Ratas.",
+      "b": "Insectos.",
+      "c": "Virus.",
+      "d": "Moho."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_49",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El calzado debe ser:",
+    "opciones": {
+      "a": "Antideslizante.",
+      "b": "De tela.",
+      "c": "De tacón.",
+      "d": "Abierto."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_50",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es un alimento adulterado?",
+    "opciones": {
+      "a": "Con bacterias.",
+      "b": "Modificado fraudulentamente en su composición.",
+      "c": "Podrido.",
+      "d": "Mal cocinado."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_51",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La dieta hipoprotéica es baja en:",
+    "opciones": {
+      "a": "Proteínas.",
+      "b": "Sal.",
+      "c": "Azúcar.",
+      "d": "Agua."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_52",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La vitamina K ayuda a:",
+    "opciones": {
+      "a": "Ver mejor.",
+      "b": "La coagulación sanguínea.",
+      "c": "Crecer.",
+      "d": "Nada."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_53",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La basura de riesgo biológico va en:",
+    "opciones": {
+      "a": "Bolsa negra.",
+      "b": "Bolsa o contenedor amarillo.",
+      "c": "Contenedor azul.",
+      "d": "Suelo."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_54",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es un \"roux\" blanco?",
+    "opciones": {
+      "a": "Harina y grasa poco cocinada.",
+      "b": "Azúcar con agua.",
+      "c": "Nata.",
+      "d": "Queso."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_55",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La higiene alimentaria son:",
+    "opciones": {
+      "a": "Medidas para garantizar la seguridad de alimentos.",
+      "b": "Lavar platos.",
+      "c": "Barrer.",
+      "d": "Cocinar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_56",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Almacenamiento de huevos:",
+    "opciones": {
+      "a": "Refrigeración.",
+      "b": "Congelación.",
+      "c": "Sol.",
+      "d": "Suelo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_57",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"marmorizado\"?",
+    "opciones": {
+      "a": "Grasa veteada en la carne.",
+      "b": "Mármol de mesa.",
+      "c": "Limpieza.",
+      "d": "Corte."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_58",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Dieta insuficiencia renal controla:",
+    "opciones": {
+      "a": "Proteínas y potasio.",
+      "b": "Azúcar.",
+      "c": "Fibra.",
+      "d": "Picante."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_59",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"desbarasado\"?",
+    "opciones": {
+      "a": "Retirar platos y restos.",
+      "b": "Cocinar.",
+      "c": "Limpiar horno.",
+      "d": "Poner manteles."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_60",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La temperatura de seguridad caliente es:",
+    "opciones": {
+      "a": ">65ºC.",
+      "b": "40ºC.",
+      "c": "100ºC.",
+      "d": "50ºC."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_61",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Vitamina D es la de:",
+    "opciones": {
+      "a": "El sol.",
+      "b": "La energía.",
+      "c": "El hueso.",
+      "d": "El músculo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_62",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Contaminación química por:",
+    "opciones": {
+      "a": "Detergentes o pesticidas.",
+      "b": "Pelos.",
+      "c": "Virus.",
+      "d": "Piedras."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_63",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Limpieza de manos con:",
+    "opciones": {
+      "a": "Jabón y agua caliente.",
+      "b": "Solo agua.",
+      "c": "Un trapo.",
+      "d": "Arena."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_64",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"asado\"?",
+    "opciones": {
+      "a": "Cocción calor seco.",
+      "b": "Hervir.",
+      "c": "Congelar.",
+      "d": "Freír."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_65",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Dieta rica en potasio incluye:",
+    "opciones": {
+      "a": "Plátano y verduras.",
+      "b": "Solo carne.",
+      "c": "Solo pan.",
+      "d": "Agua."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_66",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"deshuesado\"?",
+    "opciones": {
+      "a": "Quitar huesos.",
+      "b": "Poner huesos.",
+      "c": "Romper platos.",
+      "d": "Bailar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_67",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La temperatura de congelación es:",
+    "opciones": {
+      "a": "-18ºC.",
+      "b": "0ºC.",
+      "c": "10ºC.",
+      "d": "4ºC."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_68",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La leche pasterizada debe estar en:",
+    "opciones": {
+      "a": "Frigorífico.",
+      "b": "Despensa.",
+      "c": "Congelador.",
+      "d": "Patio."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_69",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La basura se saca:",
+    "opciones": {
+      "a": "Al final de la jornada.",
+      "b": "Al año.",
+      "c": "Cuando huela.",
+      "d": "Nunca."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_70",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"pinche\"?",
+    "opciones": {
+      "a": "Auxiliar de cocina.",
+      "b": "El que pincha.",
+      "c": "Jefe.",
+      "d": "Tenedor."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_71",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es un alérgeno?",
+    "opciones": {
+      "a": "Sustancia que provoca alergia.",
+      "b": "Bacteria.",
+      "c": "Virus.",
+      "d": "Sal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_72",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Limpieza de vajilla con:",
+    "opciones": {
+      "a": "Agua caliente y detergente.",
+      "b": "Agua fría.",
+      "c": "Papel.",
+      "d": "Nada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_73",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Vitamina E es:",
+    "opciones": {
+      "a": "Antioxidante.",
+      "b": "Mineral.",
+      "c": "Ácido.",
+      "d": "Glúcido."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_74",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Trazabilidad hacia atrás:",
+    "opciones": {
+      "a": "Saber a quién compramos.",
+      "b": "Saber a quién vendemos.",
+      "c": "Cocinar.",
+      "d": "Limpiar."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_75",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Almacenamiento productos limpieza:",
+    "opciones": {
+      "a": "Separado de comida.",
+      "b": "Con comida.",
+      "c": "En comedor.",
+      "d": "No importa."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_76",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"marinado\"?",
+    "opciones": {
+      "a": "Remojo en líquido con sabor.",
+      "b": "Vapor.",
+      "c": "Fritura.",
+      "d": "Congelado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_77",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Higiene de cuchillos:",
+    "opciones": {
+      "a": "Limpiarlos tras cada uso.",
+      "b": "Solo al final.",
+      "c": "No se limpian.",
+      "d": "Con delantal."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_78",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "En cinta emplatado, pinche:",
+    "opciones": {
+      "a": "Coloca raciones según tarjeta.",
+      "b": "Cocina.",
+      "c": "Diagnostica.",
+      "d": "Administra."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_79",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Documento con coste de un plato:",
+    "opciones": {
+      "a": "Escandallo.",
+      "b": "Inventario.",
+      "c": "Catálogo.",
+      "d": "Informe."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_80",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Incendio por fallos instalación:",
+    "opciones": {
+      "a": "Técnico.",
+      "b": "Mecánico.",
+      "c": "Natural.",
+      "d": "Antrópico."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_81",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es contaminante abiótico?",
+    "opciones": {
+      "a": "Carece de vida.",
+      "b": "Tiene vida.",
+      "c": "Nutriente bajo.",
+      "d": "Alargado."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_82",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La picadora necesita:",
+    "opciones": {
+      "a": "Mantenimiento y limpieza.",
+      "b": "No limpiarse.",
+      "c": "Aceite oliva.",
+      "d": "Solo jefe."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_83",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿A qué grupo hortalizas?",
+    "opciones": {
+      "a": "Reguladores.",
+      "b": "Plásticos.",
+      "c": "Energéticos.",
+      "d": "Todos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_84",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Vitamina C ayuda a:",
+    "opciones": {
+      "a": "Absorción hierro.",
+      "b": "Coagulación.",
+      "c": "Visión.",
+      "d": "Digestión."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_85",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Contaminación cruzada indirecta:",
+    "opciones": {
+      "a": "Por utensilios o manos.",
+      "b": "Contacto directo.",
+      "c": "Aire.",
+      "d": "Suelo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_86",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Temperatura transporte caliente:",
+    "opciones": {
+      "a": ">65ºC.",
+      "b": "40ºC.",
+      "c": "10ºC.",
+      "d": "0ºC."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_87",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es el \"marmorizado\"?",
+    "opciones": {
+      "a": "Grasa intramuscular.",
+      "b": "Técnica mármol.",
+      "c": "Limpieza.",
+      "d": "Corte."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_88",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Calzado debe ser:",
+    "opciones": {
+      "a": "Antideslizante.",
+      "b": "De tela.",
+      "c": "Tacón.",
+      "d": "Chanclas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_89",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Congelar anisaquis a:",
+    "opciones": {
+      "a": "-20ºC durante 24h.",
+      "b": "-20ºC durante 48h.",
+      "c": "-15ºC durante 48h.",
+      "d": "-15ºC durante 24h."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_90",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "¿Qué es la limpieza física?",
+    "opciones": {
+      "a": "Elimina impurezas visibles.",
+      "b": "Destruye patógenos.",
+      "c": "No visible.",
+      "d": "Microorganismos."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_91",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Tabla amarilla para:",
+    "opciones": {
+      "a": "Carnes crudas ave.",
+      "b": "Carnes rojas.",
+      "c": "Verduras.",
+      "d": "Comidas preparadas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_92",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Anisakiasis ha aumentado por:",
+    "opciones": {
+      "a": "Mayor infestación.",
+      "b": "Mejor diagnóstico.",
+      "c": "Mayor consumo crudo.",
+      "d": "Todas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_93",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "La dieta triturada (Túrmix):",
+    "opciones": {
+      "a": "Es para problemas de masticación.",
+      "b": "Es para deportistas.",
+      "c": "No tiene nutrientes.",
+      "d": "Se hace con agua sola."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_94",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Dieta para niños 12 meses:",
+    "opciones": {
+      "a": "Lactante.",
+      "b": "Pediátrica.",
+      "c": "Basal.",
+      "d": "Líquida."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_95",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Los lactantes de 6 meses:",
+    "opciones": {
+      "a": "Toman biberón.",
+      "b": "Comen filetes.",
+      "c": "Comen ensaladas.",
+      "d": "No comen."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_96",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Dieta pediátrica aporta:",
+    "opciones": {
+      "a": "2000 Kcal aprox.",
+      "b": "500 Kcal.",
+      "c": "5000 Kcal.",
+      "d": "Nada."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_97",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Higiene de comidas preparadas:",
+    "opciones": {
+      "a": "Regulada por RD 3484/2000.",
+      "b": "No está regulada.",
+      "c": "Solo para bares.",
+      "d": "Solo para casas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_98",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Comidas para conservar se:",
+    "opciones": {
+      "a": "Refrigeran o congelan.",
+      "b": "Dejan fuera.",
+      "c": "Tiran.",
+      "d": "Salan mucho."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_99",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Lavamanos deben ser de:",
+    "opciones": {
+      "a": "Accionamiento no manual (pedal/sensor).",
+      "b": "Plástico.",
+      "c": "Madera.",
+      "d": "Tela.\r\n*"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_100",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Preguntas de Reserva (Simulacro Nº 12)\r\nLa dieta triturada de consistencia pastosa:",
+    "opciones": {
+      "a": "También se denomina Túrmix.",
+      "b": "No precisarán el uso de suplementos vitamínicos.",
+      "c": "Tiene restricción específica de alimentos.",
+      "d": "Ninguna es correcta.\r\n*"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_101",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "El Real Decreto 3484/2000 tiene por objeto definir normas de higiene:",
+    "opciones": {
+      "a": "De elaboración, envasado, almacenamiento, transporte, etc. de comidas preparadas.",
+      "b": "De las comidas preparadas.",
+      "c": "De los alimentos.",
+      "d": "Todas son correctas.\r\n*"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim12_ext2014_103",
+    "tema": "Otras Comunidades: Simulacro 12 - Pinche Extremadura (2014)",
+    "pregunta": "Los lavamanos, provistos de agua potable y secado higiénico:",
+    "opciones": {
+      "a": "Serán de acero inoxidable.",
+      "b": "Estarán colocados adecuadamente.",
+      "c": "Serán de accionamiento no manual.",
+      "d": "Todas son correctas.\r\n*"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
   }
 ]
