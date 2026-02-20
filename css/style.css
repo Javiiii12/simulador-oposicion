@@ -25,7 +25,8 @@
 
 body {
     font-family: 'Inter', -apple-system, sans-serif;
-    background-color: var(--bg);
+    background: linear-gradient(135deg, #F0F4F8 0%, #E0F2F1 100%);
+    background-attachment: fixed;
     color: var(--text);
     margin: 0;
     min-height: 100vh;
@@ -101,16 +102,18 @@ h1 {
     color: var(--text);
     min-height: 48px;
     height: auto;
+    width: 100%;
     max-width: 100%;
     word-break: break-word;
     white-space: normal;
     gap: 10px;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
 .btn-menu:hover {
-    border-color: var(--primary);
+    border-color: var(--primary-light);
     transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(0, 91, 159, 0.15);
+    box-shadow: 0 10px 25px rgba(0, 137, 123, 0.15);
 }
 
 .btn-menu.special {
@@ -136,7 +139,16 @@ h1 {
     display: flex;
     align-items: center;
     gap: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
+    padding-bottom: 12px;
+    border-bottom: 3px solid var(--primary-light);
+}
+
+.view-header h2 {
+    color: var(--primary-dark);
+    font-size: 1.6rem;
+    font-weight: 800;
+    margin: 0;
 }
 
 .btn-icon {
@@ -149,30 +161,53 @@ h1 {
 .topics-grid {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 10px;
+    gap: 15px;
 }
 
 .btn-topic {
     background: var(--surface);
-    padding: 15px;
-    border: 1px solid #ddd;
+    padding: 20px;
+    border: none;
+    border-left: 6px solid var(--primary);
     border-radius: var(--radius);
     text-align: left;
     cursor: pointer;
-    transition: all 0.2s;
-    box-shadow: var(--shadow);
-    min-height: 48px;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    min-height: 54px;
     height: auto;
     display: block;
+    width: 100%;
     max-width: 100%;
     word-break: break-word;
     white-space: normal;
+    color: var(--text);
+    font-size: 1.05rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-topic::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.6), transparent);
+    transform: translateX(-100%);
+    transition: 0.5s;
 }
 
 .btn-topic:hover {
-    background: #f0f4f8;
-    border-color: var(--primary);
-    transform: translateX(4px);
+    background: #ffffff;
+    border-left-color: var(--secondary);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(0, 137, 123, 0.15);
+}
+
+.btn-topic:hover::after {
+    transform: translateX(100%);
 }
 
 /* CONFIGURACIÓN ALEATORIA */
