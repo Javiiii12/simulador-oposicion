@@ -101,6 +101,13 @@ function setupEventListeners() {
         startGame(questions, 'exam', 'Examen OPE 2020 (Extraordinario 2022)');
     });
 
+    // Exámenes Años Anteriores: Otras Secciones
+    const btnCCAA = document.getElementById('btn-examenes-ccaa');
+    if (btnCCAA) btnCCAA.addEventListener('click', () => alert("🌍 Esta sección está en construcción. Pronto añadiremos exámenes de otras Comunidades Autónomas."));
+
+    const btnHistorico = document.getElementById('btn-examenes-historico');
+    if (btnHistorico) btnHistorico.addEventListener('click', () => alert("🕰️ Estamos recopilando el histórico de preguntas sueltas. ¡Pronto disponible!"));
+
     // Navegación (Volver)
     document.getElementById('btn-back-topics').addEventListener('click', () => showView('menu'));
     document.getElementById('btn-back-random').addEventListener('click', () => showView('menu'));
@@ -243,9 +250,12 @@ function showTopics(part) {
 
     if (category === 'GENERAL') {
         relevantQuestions = sourceQuestions.filter(q => {
-            const t = q.tema.toLowerCase();
-            return t.includes('tema 1') || t.includes('tema 2') || t.includes('tema 3') ||
-                t.includes('tema 4') || t.includes('tema 5') || t.includes('tema 6');
+            const match = q.tema.match(/tema\s+(\d+)/i);
+            if (match) {
+                const num = parseInt(match[1]);
+                return num >= 1 && num <= 6;
+            }
+            return false;
         });
     } else if (category === 'ESPECIFICA') {
         relevantQuestions = sourceQuestions.filter(q => {
@@ -294,8 +304,12 @@ function createBaseTopicButton(baseTema, questionsSubset) {
     const btn = document.createElement('button');
     btn.className = 'btn-topic';
 
-    // Total questions for this base tema
-    const temaQuestions = questionsSubset.filter(q => q.tema.includes(baseTema));
+    // Total questions for this base tema, using strict prefix matching to avoid 'Tema 1' matching 'Tema 10'
+    const temaQuestions = questionsSubset.filter(q =>
+        q.tema === baseTema ||
+        q.tema.startsWith(baseTema + ":") ||
+        q.tema.startsWith(baseTema + " ")
+    );
     const count = temaQuestions.length;
 
     let titulo = TOPIC_TITLES[baseTema] || baseTema;
