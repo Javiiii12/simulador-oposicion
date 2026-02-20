@@ -35,6 +35,13 @@ body {
     align-items: center;
     max-width: 100vw;
     overflow-x: hidden;
+
+    /* ANTI-COPY PROTECTIONS */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
 }
 
 .container {

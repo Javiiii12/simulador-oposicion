@@ -133,6 +133,18 @@ async function loadAdminLogs() {
 
 // Inicialización
 document.addEventListener('DOMContentLoaded', () => {
+    // ANTI-COPY PROTECTIONS
+    document.addEventListener('contextmenu', e => e.preventDefault());
+    document.addEventListener('keydown', e => {
+        if (e.ctrlKey && (e.key === 'c' || e.key === 'x' || e.key === 'p' || e.key === 'a' || e.key === 's')) {
+            e.preventDefault();
+        }
+        if (e.key === 'PrintScreen' || e.key === 'F12') {
+            e.preventDefault();
+            navigator.clipboard.writeText(''); // Clear clipboard immediately
+        }
+    });
+
     checkAuth();
     setupEventListeners();
 });
