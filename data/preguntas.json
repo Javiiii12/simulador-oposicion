@@ -53183,5 +53183,1503 @@
     "correcta": "a",
     "explicacion": "",
     "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_0",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "1.- Se define trazabilidad como:",
+    "opciones": {
+      "a": "La posibilidad de seguir el rastro exclusivamente de un alimento, nunca de otros elementos a través de la etapa de distribución",
+      "b": "La posibilidad de seguir el rastro de un alimento o de una sustancia destinada a ser incorporada en alimentos o con probabilidad de serlo, a través de todas las etapas de producción, transformación y distribución",
+      "c": "La posibilidad de seguir el rastro de un alimento o de una sustancia destinada a ser incorporada en alimentos o con probabilidad de serlo, a través de la etapa de distribución",
+      "d": "La posibilidad de seguir el rastro exclusivamente de un alimento, a través de las etapas de producción, transformación y distribución"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_1",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "2.- ¿Qué son alimentos de cuarta gama?",
+    "opciones": {
+      "a": "Se denominan alimentos de cuarta gama aquellos que están refrigerados o congelados",
+      "b": "Son las conservas y semiconservas, es decir, aquellos que se presentan envasados tras someterse a alguna operación de esterilización-pasteurización",
+      "c": "Son alimentos envasados en atmósferas modificadas o al vacío",
+      "d": "Ninguna respuesta es correcta"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_2",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "3.- Señale la respuesta CORRECTA con respeto a la forma óptima de cocinar:",
+    "opciones": {
+      "a": "Se ha de cocinar de forma realista dentro de las posibilidades existentes, tanto de personal como de medios técnicos",
+      "b": "Se ha de cocinar de forma segura, con exigencia absoluta de que la comida que servimos sea higiénicamente segura",
+      "c": "Se ha de cocinar de forma atractiva al comensal, sin renunciar al valor del sabor, olor y presentación del plato",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_3",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "4.- Respecto al control de Anisakis en productos de la pesca que se consumen crudos o prácticamente crudos se someterán a:",
+    "opciones": {
+      "a": "Una temperatura igual o inferior a -20ºC durante 24 horas",
+      "b": "Una temperatura igual o inferior a -20ºC, durante 48 horas",
+      "c": "Una temperatura igual o inferior a -15ºC, durante 48 horas",
+      "d": "Una temperatura igual o inferior a -15ºC, durante 24 horas"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_4",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "5.- Los quesos se clasifican de acuerdo con el procedimiento de elaboración en:",
+    "opciones": {
+      "a": "De pasta blanda, prensada o fundido",
+      "b": "Crema de queso, fermentado y magro",
+      "c": "Fresco, afinado, madurado o fermentado",
+      "d": "Doble graso, extra graso, graso y magro"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_5",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "6.- Señale la respuesta CORRECTA con respecto a la limpieza física:",
+    "opciones": {
+      "a": "Es el proceso que destruye todos los microorganismos patógenos no visibles y, por consiguiente, los malos olores correspondientes",
+      "b": "Elimina toda la serie de impurezas y microorganismos patógenos",
+      "c": "Elimina impurezas no visibles e impurezas visibles de las superficies a limpiar",
+      "d": "Elimina toda serie de impurezas visibles de las superficies a limpiar"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_6",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "7.- Las tablas de fácil limpieza para cortar distintos alimentos, están diferenciadas por colores, la de color amarillo la utilizaremos para:",
+    "opciones": {
+      "a": "Carnes crudas rojas, en especial cordero y ternera",
+      "b": "Verduras, sobre todo endibias y coliflor",
+      "c": "Comidas preparadas",
+      "d": "Carnes crudas de ave"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_7",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "8.- La incidencia de la anisakiasis humana ha aumentado en los últimos años debido a:",
+    "opciones": {
+      "a": "Mayor infestación del pescado capturado",
+      "b": "Mejoras en el diagnóstico de la enfermedad en humano",
+      "c": "Cambios en las preferencias culinarias por consumo de pescado crudo",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_8",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "9.- La electrocución se considera un procedimiento de desinsectación:",
+    "opciones": {
+      "a": "Mecánico",
+      "b": "Químico",
+      "c": "Físico",
+      "d": "Físico-Químico"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_9",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "10.- ¿Cómo influye el uso de productos eficaces en la limpieza?",
+    "opciones": {
+      "a": "Aumentando el tiempo",
+      "b": "Aumentando la acción mecánica",
+      "c": "Mejorando la acción química",
+      "d": "Disminuyendo la temperatura"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_10",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "11.- La separación de los circuitos de limpio y sucio debe ser clara y han de especificarse los horarios de recogida y transporte y los ascensores, en los cuales sólo deberá circular el personal de limpieza. Una vez concluida esta tarea y antes de que el resto del personal los utilice, se limpiarán los ascensores con una solución de agua jabonosa y lejía en una proporción de:",
+    "opciones": {
+      "a": "5:1",
+      "b": "4:1",
+      "c": "2:2",
+      "d": "3:1"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_11",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "12.- Respecto a la limpieza y desinfección, hay que tener en cuenta:",
+    "opciones": {
+      "a": "El tipo de suciedad a tratar",
+      "b": "La dureza del agua",
+      "c": "La superficie que hay que limpiar y desinfectar",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_12",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "13.- Una lejía clasificada como \"apta para la desinfección de agua de bebida\" deberá cumplir los siguientes requisitos:",
+    "opciones": {
+      "a": "Se deberán indicar las instrucciones de uso adecuado para el consumidor",
+      "b": "Se deberá indicar claramente la cantidad necesaria para su uso correcto",
+      "c": "El fabricante indicará en la etiqueta las instrucciones de uso oportunas para que el consumidor obtenga una concentración de 10 miligramos de cloro activo por litro (10 ppm de cloro) en el agua a tratar",
+      "d": "Son correctas a) y b)"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_13",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "14.- Señale la respuesta CORRECTA con respecto a los productos de limpieza en una cocina:",
+    "opciones": {
+      "a": "Serán almacenados en un local apartado, y preferiblemente con aprovisionamiento de agua y drenaje o desagüe",
+      "b": "Deberán estar identificados todos los envases, con sus etiquetas correspondientes y se podrán leer para aclarar las dosis y pautas a seguir en su uso",
+      "c": "No se trasvasarán los productos de limpieza a otros contenedores que puedan producir error por parte del usuario, se quedarán en su envase original",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_14",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "15.- ¿Qué requisitos debe cumplir el traslado interno de los residuos?",
+    "opciones": {
+      "a": "Se podrán trasvasar residuos de un envase a otro",
+      "b": "Los circuitos utilizados no serán de uso exclusivo",
+      "c": "No se trasvasarán residuos de un envase a otro",
+      "d": "Todas las anteriores son correctas"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_15",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "16.- Indique la respuesta INCORRECTA con respecto a las recomendaciones generales en el tratamiento de desperdicios:",
+    "opciones": {
+      "a": "Los desperdicios húmedos u olores fuertes se envolverán previamente en una bolsa impermeable",
+      "b": "Pueden llenarse las bolsas o contenedores más de 2/3 de su capacidad total",
+      "c": "Los cubos con tapa accionable tienen doble ventana: higiene y comodidad",
+      "d": "Las bolsas deben llevarse cerradas al punto de concentración de desperdicios"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_16",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "17.- Cuál es el orden correcto de las etapas que se llevan a cabo en una cocina centralizada:",
+    "opciones": {
+      "a": "Recepción, almacenamiento, elaboración, preparación, emplatado y distribución",
+      "b": "Recepción, elaboración, preparación almacenamiento, emplatado y distribución",
+      "c": "Recepción, almacenamiento, preparación, elaboración, emplatado y distribución",
+      "d": "Recepción, almacenamiento, distribución, preparación, elaboración y emplatado"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_17",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "18.- Señala qué factores influyen en la desinfección de una superficie de trabajo:",
+    "opciones": {
+      "a": "Número de microorganismos: Si es grande se necesita mayor cantidad de desinfectante",
+      "b": "Concentración del producto: En principio, a menor concentración, mayor cantidad de moléculas activas de producto y mayor capacidad de destrucción de microorganismos",
+      "c": "Superficie de actuación: Las asperezas, rugosidades y poros aumentan las posibilidades de contacto con los microorganismos y aumentan la eficacia del desinfectante",
+      "d": "Temperatura: a mayor temperatura mayor eficacia del desinfectante"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_18",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "19.- Las carnes, pescados y huevos aportan al organismo, de manera principal:",
+    "opciones": {
+      "a": "Grasas",
+      "b": "Proteínas",
+      "c": "Oligoelementos",
+      "d": "Vitaminas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_19",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "20.- Un abatidor permite la bajada de temperatura:",
+    "opciones": {
+      "a": "De 65ºC hasta 3º-5ºC en un tiempo máximo de una hora y media",
+      "b": "De 65ºC hasta 3º-5ºC en un tiempo máximo de dos horas",
+      "c": "De 65ºC hasta 3º-5ºC en un tiempo máximo de dos horas y media",
+      "d": "De 65ºC hasta 3º-5ºC en un tiempo mínimo de tres horas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_20",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "21.- La utilización de ultrasonidos como método de desratización se considera un:",
+    "opciones": {
+      "a": "Método de desratización activa por procedimientos físicos",
+      "b": "Método de desratización pasivo",
+      "c": "Método de destrucción activo por procedimiento químico",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_21",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "22.- Señale la respuesta CORRECTA sobre las normas de higiene para la elaboración y distribución de comidas preparadas:",
+    "opciones": {
+      "a": "Los locales deberán estar alejados de cualquier dependencia que pudiera ser origen de suciedad, pudiendo comunicar con servicios higiénicos, vestuarios o aseos",
+      "b": "Deberá estar centrado con respecto a las plantas de hospitalización con el fin de que las distancias sean las menores posibles a la hora de la distribución de las comidas",
+      "c": "Las conexiones del edificio no tienen que contar con pasos diferenciados para la salida de carros con la comida y entrada de carros con la vajilla sucia y restos de comida",
+      "d": "Son correctas la a) y la b)"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_22",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "23.- Señala la respuesta CORRECTA en el proceso de la distribución en la cadena caliente:",
+    "opciones": {
+      "a": "Cocinado, emplatado y distribución, manteniendo una temperatura mínima de 70ºC",
+      "b": "Cocinado, emplatado y distribución, manteniendo una temperatura máxima de 65ºC",
+      "c": "Cocinado, emplatado y distribución, manteniendo una temperatura mínima de 65ºC",
+      "d": "Cocinado, emplatado y distribución, manteniendo una temperatura máxima de 70ºC"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_23",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "24.- Señale la respuesta CORRECTA con respecto a las condiciones que deben tener los almacenes:",
+    "opciones": {
+      "a": "El almacén de mercancías tendrá una zona de recepción, que estará equipada con una báscula de pesado",
+      "b": "El almacén de productos de limpieza estará dentro del almacén de víveres",
+      "c": "El almacén de residuos y desperdicios será refrigerado, y deberá estar físicamente separado",
+      "d": "Son correctas la a) y la c)"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_24",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "25.- ¿Por qué se produce el escorbuto?",
+    "opciones": {
+      "a": "Por falta de vitamina D",
+      "b": "Por exceso de vitamina D en la dieta",
+      "c": "Por una dieta deficitaria en vitamina C",
+      "d": "Por exceso de vitamina C en la dieta"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_25",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "26.- ¿Cuál de los siguientes componentes no forma parte de un detergente?",
+    "opciones": {
+      "a": "Aditivos",
+      "b": "Tensioactivos",
+      "c": "Coadyuvantes",
+      "d": "Pavimentadores"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_26",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "27.- ¿Qué efectos produce la electrocución en un trabajador?",
+    "opciones": {
+      "a": "La corriente circulará por el organismo por las zonas de mayor resistencia",
+      "b": "Puede producir quemadura",
+      "c": "Es ocasionada por la corriente eléctrica continua",
+      "d": "Todas son correctas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_27",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "28.- ¿Cómo se clasifican los residuos generados en la cocina de un hospital?",
+    "opciones": {
+      "a": "Citotóxicos y biosanitarios",
+      "b": "Urbanos",
+      "c": "Sanitarios urbanos",
+      "d": "Sanitarios asimilables a urbanos"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_28",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "29.- Señale la afirmación CORRECTA con respecto a los depósitos:",
+    "opciones": {
+      "a": "Los depósitos intermedios para residuos no tendrán salida al exterior para evitar el acceso de personas no autorizadas",
+      "b": "Los depósitos intermedios no dispondrán de ventilación para evitar la propagación de olores",
+      "c": "Los depósitos intermedios serán refrigerados para evitar la proliferación de microorganismos",
+      "d": "Todas las afirmaciones son correctas"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_29",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "30.- Señale la respuesta CORRECTA en relación con la definición de pescadero:",
+    "opciones": {
+      "a": "Es el lugar donde se limpia el pescado para su elaboración",
+      "b": "Es el lugar donde se elaboran platos de pescado y sus salsas y guarniciones",
+      "c": "Es el lugar donde se elaboran pescados a la parrilla y de fritura",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_30",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "31.- ¿Qué temperatura es recomendada de la cámara de la carne?",
+    "opciones": {
+      "a": "Entre 1º y 5° C",
+      "b": "Entre 1º y 3ºC",
+      "c": "Entre 1º y 2ºC",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_31",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "32.- Se entiende por violencia de género:",
+    "opciones": {
+      "a": "La que como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aún sin convivencia",
+      "b": "La que como manifestación... cuando exista convivencia",
+      "c": "La que como manifestación... cuando exista convivencia",
+      "d": "La que como manifestación... siempre que se cree un entorno intimidatorio..."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_32",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "33.- En el nombramiento de personal estatutario eventual, procederá el estudio de las causas que lo motivaron, para valorar, en su caso, si procede la creación de una plaza estructural en la plantilla del centro:",
+    "opciones": {
+      "a": "Si se realizan más de dos nombramientos para la prestación de los mismos servicios por un periodo acumulado de doce o más meses en un periodo de dos años",
+      "b": "Si se realizan más de dos nombramientos para la prestación de los mismos servicios por un periodo acumulado de doce o más meses en un periodo de tres años",
+      "c": "Si se realizan más de dos nombramientos para la prestación de los mismos servicios por un periodo acumulado de seis meses en un periodo de dos años",
+      "d": "Si se realizan más de dos nombramientos para la prestación de los mismos servicios por un periodo acumulado de seis meses en un periodo de doce meses"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_33",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "34.- Respecto a la Campilobacteriosis, que se ha convertido en una de las causas más frecuentes de gastroenteritis bacterianas en adultos, solo superado por la salmonelosis, el mecanismo de transmisión más importante es por:",
+    "opciones": {
+      "a": "Contaminación cruzada entre alimentos",
+      "b": "Transmisión por manipuladores",
+      "c": "Son correctas a) y b)",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_34",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "35.- Desde el punto de vista de la tuberculosis señale la opción CORRECTA:",
+    "opciones": {
+      "a": "El hacinamiento, mala higiene, poca luz o escasa ventilación favorece su transmisión",
+      "b": "Los hábitos alimentarios como el consumo de productos lácteos sin higienizar favorecen la presentación de la enfermedad",
+      "c": "Es una enfermedad de presentación con brotes coincidentes con épocas de escasez",
+      "d": "Todas son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_35",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "35 (bis).- En relación con el economato, señala la afirmación incorrecta:",
+    "opciones": {
+      "a": "Deberá disponer de una entrada lo suficientemente ancha para facilitar la entrada de carros",
+      "b": "Deberá disponer de la mayor iluminación natural posible",
+      "c": "Deberá tener un aislamiento total de insectos y roedores",
+      "d": "Es el lugar donde se almacenan los productos no perecederos"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_36",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "36.- La calidad higiénica de las elaboraciones culinarias se consigue cumpliendo las normas de higiene en todas las fases del proceso. Señala lo incorrecto:",
+    "opciones": {
+      "a": "Cada profesional debe velar por el mantenimiento de las condiciones técnicas adecuadas en cada fase, y las buenas prácticas en la manipulación de alimentos",
+      "b": "El plato testigo es una muestra aleatoria de algunas de las elaboraciones preparadas, distribuidas o servidas",
+      "c": "Los criterios microbiológicos utilizados para valorar los productos del análisis de muestras están determinados en el Real Decreto 3484/2000, de 29 de diciembre",
+      "d": "Si una materia prima no está contaminada, pero el producto final sí lo está, probablemente se deba a una incorrecta manipulación en alguna de sus fases de elaboración o manipulación."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_37",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "37.- ¿Qué es un \"COULIS\"?",
+    "opciones": {
+      "a": "Tomate picado gruesamente",
+      "b": "Un jugo de tomate (o puré fino de frutas/verduras)",
+      "c": "Un trozo de pan frito de forma cuadrada o triangular",
+      "d": "Hortalizas cortadas en dados de 1 a 3 mm"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_38",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "38.- El recipiente cilíndrico provisto de un mango para facilitar su manejo, de menor tamaño que una marmita y que se emplea para cocinar, levantar pequeñas cantidades y elaborar salsas y guarniciones, se denomina:",
+    "opciones": {
+      "a": "Cazo",
+      "b": "Sauté",
+      "c": "Sartén",
+      "d": "Rondón"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_39",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "39.- Añadir vino a una asadora recién utilizada para recuperar el jugo que contenga se denomina:",
+    "opciones": {
+      "a": "Emborrachar",
+      "b": "Blanquear",
+      "c": "Brasear",
+      "d": "Desglasar"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_40",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "40.- ¿Cómo se llama el recipiente al cual se le acopla una rejilla y se emplea para abrillantar o Sufratar elaboraciones y también para escurrir fritos?",
+    "opciones": {
+      "a": "Ramiqui",
+      "b": "Mandolina",
+      "c": "Grasera",
+      "d": "Escarchadera"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_41",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "41.- En el almacenamiento de los productos hay que tener en cuenta:",
+    "opciones": {
+      "a": "Los productos congelados no deben volver a congelarse ya que al descongelarse la primera vez suelta líquido, y al congelarse de nuevo se convierte en cristales de hielo que desgarran el interior del producto afectando a su seguridad alimenticia",
+      "b": "Los productos congelados deben ser almacenados inmediatamente a su llegada en cámaras congeladoras mediante frio negativo (-18° C) cambiándoles el envase...",
+      "c": "Los productos frescos de consumo inmediato se almacenan en refrigeradores mediante lo que se denomina frio positivo (3ºC) y en el mismo envase en el que se han recibido",
+      "d": "El control de la temperatura y humedad se realizará al menos cada dos días mediante la utilización de termómetros e higrómetros"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_42",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "42.- Dentro de la seguridad alimentaria, los procesadores de alimentos han de tener cierto conocimiento de los peligros potenciales que tienen los alimentos con los que trabajan y cómo pueden afectar éstos a la salud del consumidor. Dentro de estos peligros se encuentran los físicos que son:",
+    "opciones": {
+      "a": "El agua contaminada con pesticidas, fungicidas, herbicidas...",
+      "b": "Cualquier material extraño potencialmente dañino que normalmente no se encuentra en los alimentos (ej. cristales, metales)",
+      "c": "El posible daño causado por la adhesión o cercanía a productos de limpieza...",
+      "d": "La transmisión de organismos unicelulares a los alimentos..."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_43",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "43.- El escabeche es un método de conservación netamente español que consiste en introducir un género en un preparado cocinado a base de vinagre, aceite, sal, especias. Señala lo incorrecto:",
+    "opciones": {
+      "a": "El producto a escabechar debe estar cocinado previamente",
+      "b": "Si el producto está caliente el escabeche debe estar caliente y dar juntos un hervor",
+      "c": "Hay actas dar un hervor prolongado al producto y al escabeche para acentuar las propiedades conservadoras del escabeche y que el producto coja el sabor característico",
+      "d": "Una proporción adecuada para su elaboración sería: dos partes de aceite, una de vinagre, y una de vino blanco..."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_44",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "44.- Cuál de las siguientes afirmaciones es incorrecta:",
+    "opciones": {
+      "a": "La cocción en olla a presión, permite cocer a temperaturas superiores a los 100ºC",
+      "b": "Escalfar, es una técnica de origen francés que consiste en sumergir en aceite hirviendo durante menos de 30 segundos los alimentos",
+      "c": "Freír es el proceso de sumergir un alimento en grasa caliente y puede llegar a los 200ºC",
+      "d": "Confitar es un proceso de cocción sumergido en un medio graso a baja temperatura (de 60ºC a 90ºC), por un periodo largo de tiempo"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_45",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "45.- Cuál de las siguientes frases es correcta en relación con la manipulación de los alimentos:",
+    "opciones": {
+      "a": "En los locales de manipulación deben instalarse lavamanos de fácil acceso, de accionamiento manual...",
+      "b": "Para prevenir la transmisión indirecta se deben lavar las manos adecuadamente después de haber manipulado alimentos crudos y empezar a manipular alimentos preparados",
+      "c": "A veces los manipuladores transfieren a los alimentos microorganismos a través de las secreciones de la boca; es lo que se conoce como transmisión indirecta",
+      "d": "Todas las frases son correctas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_46",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "46.- ¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": {
+      "a": "Limpieza y desinfección son operaciones dirigidas a combatir la proliferación y actividad de los microorganismos que no pueden contaminar los alimentos...",
+      "b": "En las superficies, pavimentos y paredes se debe realizar la limpieza a diario igual que en los útiles de trabajo y máquinas desmontables",
+      "c": "Desinfectar es eliminar en parte el número de bacterias... de tal forma que sea nocivo para las personas",
+      "d": "La esterilización es la eliminación total de todas las bacterias, microorganismos y formas vivas posibles"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_47",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "47.- ¿Cómo se produce la \"LIOFILIZACIÓN\" de los alimentos para su conservación?",
+    "opciones": {
+      "a": "Mediante la reducción del agua del alimento, utilizando las condiciones ambientales naturales como el sol",
+      "b": "Mediante la reducción del agua contenida en el alimento por la acción artificial del calor, actuando el aire caliente sobre el alimento",
+      "c": "Mediante la reducción del agua del alimento controlando las condiciones dentro de una cámara, donde el alimento está sometido a grandes presiones y a muy baja temperatura (congelación y sublimación)",
+      "d": "Mediante el troceado de los alimentos y su conservación en sal en una cámara frigorífica"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_48",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "48.- Cuál es la técnica de conservación en la que los alimentos se someten a un tratamiento térmico entre 63ºC y 80ºC y luego se enfrían inmediatamente?",
+    "opciones": {
+      "a": "Liofilización",
+      "b": "Uperización",
+      "c": "Pasteurización",
+      "d": "Todas son correctas"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_49",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "49.- Las parrillas que funcionan por irradiación:",
+    "opciones": {
+      "a": "Son parrillas que usan el contacto como forma de cocinar",
+      "b": "Son parrillas de placas ranuradas que usan el contacto como forma de cocinado",
+      "c": "Son parrillas que se acercan a una fuente de calor incandescente, producido por ejemplo por roca volcánica calentada",
+      "d": "Ninguna es correcta"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_50",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "50.- ¿Qué es un \"ABATIDOR DE TEMPERATURA\"?",
+    "opciones": {
+      "a": "Son cámaras destinadas a la conservación de productos a medio o largo plazo...",
+      "b": "Son frigoríficos que bajan rápidamente la temperatura de los alimentos que acaban de ser cocinados",
+      "c": "Son máquinas indispensables para la conservación de los géneros que se recepcionan...",
+      "d": "Se emplea para mantener calientes los platos..."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_51",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "51.- En relación con la conservación de los pescados y mariscos:",
+    "opciones": {
+      "a": "Se realizará a una temperatura de entre 0ºC y 2ºC positivos",
+      "b": "Se almacenará con el resto de productos perecederos",
+      "c": "Se colocarán en recipientes adecuados sin rejilla para evitar la circulación de aire alrededor de la piezas",
+      "d": "Todas son correctas"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_52",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "52.- La posibilidad de seguir la pista a un alimento a través de toda la cadena alimentaria (producción, transformación, distribución y consumo) gracias a un sistema de identificación y control, se denomina:",
+    "opciones": {
+      "a": "Trazabilidad",
+      "b": "Riesgo",
+      "c": "Medidas preventivas",
+      "d": "Todas son correctas"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_53",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "53.- Cuando en cocina hablamos de \"CONCASSÉ\" nos estamos refiriendo a:",
+    "opciones": {
+      "a": "Voz francesa que significa jugo (zumo) de tomate",
+      "b": "Voz francesa que significa cazuela pequeña de barro refractario",
+      "c": "Voz francesa que significa tomate picado gruesamente (y sin piel ni pepitas)",
+      "d": "Ingredientes diversos, picados y mezclados para rellenos"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_54",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "54.- La \"CONTAMINACIÓN CRUZADA\" es:",
+    "opciones": {
+      "a": "La que se produce entre los alimentos crudos durante su manipulación...",
+      "b": "La que se produce cuando los alimentos cocinados contactan con alimentos crudos, bien directamente, o a través del equipo, utensilios y personal manipulador",
+      "c": "La que se produce mediante la transmisión de microorganismos patógenos procedentes de las carnes crudas a las superficies de trabajo...",
+      "d": "No existe este término"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_55",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "55.- En una cocina organizada de manera tradicional, ¿quién elabora los platos de caza?",
+    "opciones": {
+      "a": "Cuarto frío",
+      "b": "Entremetier",
+      "c": "Salsero",
+      "d": "El jefe de cocina, al ser un producto extremadamente delicado"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_56",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "56.- La \"CHIFONADA\" es un término culinario que consiste en:",
+    "opciones": {
+      "a": "Lechuga o acedera finamente cortada y cocidas en mantequilla",
+      "b": "Retirar la piel de una carne sacrificada",
+      "c": "Ingredientes diversos, picados y mezclados para rellenos",
+      "d": "Corte en dados gruesos irregulares"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_57",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "57.- La higiene alimentaria consiste en:",
+    "opciones": {
+      "a": "La protección del alimento frente a la contaminación física, química y microbiológica...",
+      "b": "La destrucción de todas y cada una de las bacterias perjudiciales...",
+      "c": "La prevención de la multiplicación de bacterias perjudiciales por debajo del umbral...",
+      "d": "Todas las afirmaciones son correctas"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_58",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "58.- En la cocina se denomina \"BRESA\" a:",
+    "opciones": {
+      "a": "Sopa preparada con puré de cangrejos y las colas de los mismos",
+      "b": "Aguja o varilla para asar pequeños trozos de carne ensartando en ella guarniciones diversas",
+      "c": "Conjunto de hortalizas y hierbas aromáticas cortadas de forma regular para fondos o asados",
+      "d": "Ninguna de estas afirmaciones es correcta"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_59",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "59.- En los sistemas APPCC se usa una terminología específica. El diagrama de flujo es:",
+    "opciones": {
+      "a": "El control de un producto en todas las etapas de producción...",
+      "b": "La secuencia detallada de las etapas o fases del proceso que afecten a un producto en cada una de las actividades...",
+      "c": "El examen metódico e independiente...",
+      "d": "Cualquier punto, procedimiento, operación o etapa..."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_60",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "60.- ¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": {
+      "a": "Las cámaras frigoríficas deberán estar dotadas de termómetro e indicador de humedad interior, siendo su temperatura siempre la misma independientemente de los productos...",
+      "b": "Los congeladores son cámaras destinadas a conservar productos a medio o largo plazo, su temperatura será de -18ºC siendo su humedad del 50%",
+      "c": "Los abatidores de temperatura son frigoríficos que bajan lentamente la temperatura...",
+      "d": "La mesa caliente se emplea para asar por contacto todo tipo de piezas..."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_61",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "61.- El término culinario \"ESQUINAR\" es:",
+    "opciones": {
+      "a": "Cortar una res en dos siguiendo su espina dorsal",
+      "b": "Presionar con el rodillo sobre una pasta...",
+      "c": "Cortar un género en lonchas delgadas y alargadas",
+      "d": "Quebrar de forma grosera..."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_62",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "62.- ¿Qué es una \"BRUNOISE\"?",
+    "opciones": {
+      "a": "Un caldo de verduras",
+      "b": "Un corte de hortalizas en dados pequeños regulares",
+      "c": "Un corte de hortalizas en dados gruesos irregulares",
+      "d": "Un corte de hortalizas en tiras finas y alargadas"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_63",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "63.- Cuál de los siguientes alimentos debe declararse como alérgeno cuando se usa como ingrediente:",
+    "opciones": {
+      "a": "Las judías verdes",
+      "b": "Las aceitunas",
+      "c": "El apio",
+      "d": "Ninguno de los elementos anteriores produce alergia alguna..."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_64",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "64.- Sobre los procesos de limpieza debemos saber que:",
+    "opciones": {
+      "a": "Los útiles y herramientas se friegan con el frotado correspondiente y la ayuda de los detergentes y desinfectantes, dejándolos escurrir para su posterior guardado",
+      "b": "La limpieza de locales, en un primer paso, se hace mediante frotado o barrido en seco para quitar la suciedad superficial",
+      "c": "Si la limpieza de útiles no se realiza en máquinas que alcancen los 82ºC de temperatura se recomienda lavar con detergentes autorizados para uso alimentario y sumergir los útiles en agua a 80ºC durante 30 segundos con aclarado con agua abundante",
+      "d": "Todas las respuestas son correctas"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_65",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "65.- El corte vertical de un pescado plano, que se compone de piel, carne y espina central y con un peso aproximado de entre 200 y 250 gr. se denomina:",
+    "opciones": {
+      "a": "Darne",
+      "b": "Rodaja",
+      "c": "Suprema",
+      "d": "Trancha"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_66",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "66.- Las legumbres secas se comercializan con tres categorías: I, II y Extra. En el etiquetado se identifican por colores. ¿Con qué color identificamos a las de categoría \"Extra\"?",
+    "opciones": {
+      "a": "Verde",
+      "b": "Amarillo",
+      "c": "Azul",
+      "d": "Rojo"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_67",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "67.- Tienen acción conservadora de los alimentos, las siguientes sustancias:",
+    "opciones": {
+      "a": "El azúcar con dosis superiores a 20%",
+      "b": "La sal con dosis superiores a 20% (20 gramos de sal por cada 100 gr. de agua)",
+      "c": "El azúcar con dosis superiores al 15%",
+      "d": "La sal con dosis superiores al 15%"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_68",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "68.- La \"ESPÁTULA DE BALLENA\" es:",
+    "opciones": {
+      "a": "El utensilio con mango y hoja lisa, alargada y flexible, usada para untar y estirar rellenos",
+      "b": "El utensilio en forma de cuchara grande...",
+      "c": "La herramienta compuesta por un mango pequeño y una hoja gruesa pequeña y dura...",
+      "d": "La espátula de goma que se usa para recoger los restos de cremas y salsas..."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_69",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "69.- Diga cuál de las siguientes frases no es correcta:",
+    "opciones": {
+      "a": "Las principales fuentes de salmonelosis son los alimentos de origen animal...",
+      "b": "La salmonella se destruye a 65ºC mantenida durante 30 minutos",
+      "c": "La salmonella contamina más alimentos que cualquier otro microorganismo",
+      "d": "La salmonella aparece por la ingestión de alimentos contaminados por colibacilos"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_70",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "70.- Cuál de las siguientes afirmaciones es incorrecta:",
+    "opciones": {
+      "a": "Un cocinado al horno consiste en someter el alimento a la acción del calor sin mediación de ningún ingrediente sólido",
+      "b": "Si queremos evitar que un alimento frito se seque, debemos caramelizar el exterior o recubrir con algún elemento...",
+      "c": "Las sartenes de salteado tienen los laterales inclinados...",
+      "d": "Las técnicas de microondas consisten en generar ondas electromagnéticas que actúan solamente en las moléculas de hidratos de carbono, lípidos y proteínas de los alimentos"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_71",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "71.- Según la Ley de Información Alimentaría en el anexo se listan las sustancias que suponen un peligro para las personas que sufren alergias o intolerancias alimentarias. Señala qué alimento no causa alergia o intolerancia:",
+    "opciones": {
+      "a": "Pescado",
+      "b": "Carne",
+      "c": "Leche",
+      "d": "Mostaza"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_72",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "72.- ¿Qué es el \"RELEVÉ\" de cocina?",
+    "opciones": {
+      "a": "Un documento en el que se reflejan los productos que se deben comprar",
+      "b": "Un documento que facilita la recepción de los productos",
+      "c": "Un documento que refleja el parte de consumo diario en cocina",
+      "d": "Ninguna de las respuestas anteriores es correcta"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_73",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "73.- La cantidad de un artículo que se suma al stock mínimo, con la intención de adelantarse a posibles problemas de reposición inmediata y que actuará de colchón ante un incremento inesperado de ventas, se denomina:",
+    "opciones": {
+      "a": "Stock de seguridad",
+      "b": "Stock máximo",
+      "c": "Revalorización periódica",
+      "d": "Media ponderada"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_74",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "74.- La batería de cocina se limpia en:",
+    "opciones": {
+      "a": "El office.",
+      "b": "La Plonge.",
+      "c": "El fregadero.",
+      "d": "La limpia una empresa externa."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_75",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "75.- El recipiente destinado principalmente para el cocinado de un rodaballo recibe el nombre de:",
+    "opciones": {
+      "a": "Rondón.",
+      "b": "Turbotera.",
+      "c": "Lubinera.",
+      "d": "Prusiana."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_76",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "75 (bis).- ¿Cuáles de estos productos no debería recepcionar en mi cocina por no estar dentro de la temperatura correcta de recepción?",
+    "opciones": {
+      "a": "Carne picada a 8ºC",
+      "b": "Filetes de merluza congelados a -19ºC.",
+      "c": "Tetrabrik de leche a temperatura ambiente.",
+      "d": "Pollo a 3ºC"
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_77",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "76.- ¿Qué es la trazabilidad?",
+    "opciones": {
+      "a": "Un prerrequisito para la detección de animales indeseables en cocina.",
+      "b": "Un prerrequisito de limpieza y desinfección de mis instalaciones.",
+      "c": "Una técnica culinaria.",
+      "d": "Un prerrequisito que me permite rastrear un producto a lo largo de mi sistema de producción."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_78",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "77.- ¿Qué intervalo de temperatura se conoce con el nombre de \"zona de peligro\", la temperatura más óptima donde crecen los microorganismos?",
+    "opciones": {
+      "a": "De +5° C a +65°C.",
+      "b": "De -18°C a +5°C.",
+      "c": "De 0°C a +100°C.",
+      "d": "Más de +65°C."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_79",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "78.- Cuál de los siguientes métodos mata a las bacterias?",
+    "opciones": {
+      "a": "Calentamiento.",
+      "b": "Refrigeración.",
+      "c": "Congelación.",
+      "d": "Lavado con agua."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_80",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "79.- ¿A qué temperatura deben de servirse los alimentos para garantizar la seguridad alimentaria?",
+    "opciones": {
+      "a": "Más de +35ºC en platos calientes y menos de +8ºC en platos fríos.",
+      "b": "Más de +65ºC en platos calientes y menos de +8ºC en platos fríos.",
+      "c": "Más de +65ºC en platos calientes y menos de +12ºC en platos fríos.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_81",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "80.- ¿Antes de empezar a trabajar debo?:",
+    "opciones": {
+      "a": "Quitarme todos los objetos personales (pendientes, relojes, anillos, etc.)",
+      "b": "Ponerme ropa exclusiva de trabajo.",
+      "c": "Ponerme el gorro y todo el pelo dentro del mismo, incluido el flequillo.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_82",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "81.- Para impedir la entrada de suciedad a las instalaciones de cocina:",
+    "opciones": {
+      "a": "Dejaré que circule el aire, dejando puertas y ventanas abiertas.",
+      "b": "Mantendré las puertas y ventanas cerradas.",
+      "c": "Permitiré el paso de personas libremente por la cocina.",
+      "d": "No se puede impedir que entre la suciedad, es imposible."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_83",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "82.- Ante indicios de la presencia de animales indeseables en las instalaciones de cocina, debo:",
+    "opciones": {
+      "a": "Limpiar la zona adecuadamente.",
+      "b": "Comunicarlo al responsable del comedor para que tome medidas.",
+      "c": "Nada, ya lo verá nuestro responsable.",
+      "d": "a y b son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_84",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "83.- ¿Dónde se tiene que guardar los productos de limpieza?",
+    "opciones": {
+      "a": "En almacén independiente o armario cerrado.",
+      "b": "En el almacén de los alimentos.",
+      "c": "Sobre la fregadera.",
+      "d": "Al lado de los fogones y las mesas de preparación, que estén siempre a mano."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_85",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "84.- ¿En qué orden se considera que deberá corresponder la distribución de los distintos locales desde la entrada exterior?",
+    "opciones": {
+      "a": "Recepción de mercancías, almacenes y cámaras frigoríficas, preparación, aseo y vestuarios.",
+      "b": "Almacén y cámaras frigoríficas, preparación de mercancías, preparación, aseo y vestuarios.",
+      "c": "Aseo y vestuarios, recepción mercancías, almacenes y cámaras frigoríficas, preparación.",
+      "d": "a y c son correctas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_86",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "85.- A qué grados debe estar la carne a su recepción.",
+    "opciones": {
+      "a": "Entre 2ºC y 5ºC.",
+      "b": "Entre 4ºC y 5ºC.",
+      "c": "Entre 0ºC y 4ºC.",
+      "d": "Entre 2ºC y 4ºC."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_87",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "86.- Cuando preparamos una dieta con textura miel, ¿Qué consistencia debe tener?",
+    "opciones": {
+      "a": "Suavemente espesa.",
+      "b": "Moderadamente espesa.",
+      "c": "Extremadamente espesa.",
+      "d": "Las respuestas a y b son correctas."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_88",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "87.- ¿Qué puntos no tenemos en cuenta a la hora de almacenar los alimentos?",
+    "opciones": {
+      "a": "No almacenar nada en el suelo.",
+      "b": "La parte baja de las estanterías ha de estar completamente limpia.",
+      "c": "El almacén debe estar fresco con la máxima luz posible.",
+      "d": "El almacén debe estar fresco y seco con la mínima luz posible."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_89",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "88.- En una dieta astringente para la diarrea ¿qué alimentos no estarían aconsejados?",
+    "opciones": {
+      "a": "Arroz blanco y pasta cocida.",
+      "b": "Pollo o pescado hervido o a la plancha.",
+      "c": "Ensaladas, frutas crudas, leche.",
+      "d": "Las respuestas a y b son correctas."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_90",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "89.- Una ensalada envasada como producto de cuarta gama, con atmósfera modificada, se almacenará en:",
+    "opciones": {
+      "a": "La cámara de congelados.",
+      "b": "La cámara de verduras / refrigeración.",
+      "c": "El almacén de productos no perecederos.",
+      "d": "En cualquiera de los tres anteriores."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_91",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "90.- Dentro del denominado camino de evacuación, puede incluirse:",
+    "opciones": {
+      "a": "Acceso a la vía de evacuación.",
+      "b": "Vías de descarga.",
+      "c": "Vías de evacuación.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_92",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "91.- Corresponderá el mantenimiento de los cubos de basura de la cocina, su limpieza y secado:",
+    "opciones": {
+      "a": "Al personal de limpieza.",
+      "b": "Al personal de mantenimiento.",
+      "c": "Al pinche encargado de la limpieza de la cocina.",
+      "d": "Al cocinero."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_93",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "92.- La limpieza de las bandejas se realizará normalmente:",
+    "opciones": {
+      "a": "En la Plonge.",
+      "b": "En el tren de lavado.",
+      "c": "En el lavavajillas.",
+      "d": "En el fregadero."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_94",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "93.- La contaminación indirecta por gérmenes pueden causarla:",
+    "opciones": {
+      "a": "La persona que manipula los alimentos por ser portados de gérmenes.",
+      "b": "La presencia de gérmenes en los utensilios utilizados.",
+      "c": "Los gérmenes presentes en el lugar de la recolección, almacenamiento y manipulación.",
+      "d": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_95",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "94.- Los agentes contaminantes que los alimentos pueden adquirir durante su paso por la cadena alimentaria son:",
+    "opciones": {
+      "a": "Contaminación física.",
+      "b": "Contaminación química.",
+      "c": "Contaminación biológica.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_96",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "95.- Los platos calientes deben servirse a una temperatura mínima de:",
+    "opciones": {
+      "a": "20ºC",
+      "b": "40ºC",
+      "c": "65ºC",
+      "d": "100ºC"
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_97",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "96.- ¿Qué aditivos naturales se pueden utilizar para evitar la alteración de alimento o bien aditivos artificiales de origen industrial, debidamente autorizados (conservantes)?",
+    "opciones": {
+      "a": "Vinagre.",
+      "b": "Limón.",
+      "c": "Sal.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_98",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "97.- Son partes de un cuchillo:",
+    "opciones": {
+      "a": "El mango y la punta.",
+      "b": "La hoja y el mango.",
+      "c": "El filo, el mango y la punta.",
+      "d": "El filo los dientes y la hoja"
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_99",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "98.- Las personas que, por su actividad laboral, tiene contacto directo con los alimentos durante su preparación, fabricación, transformación, elaboración, envasado, almacenamiento, transporte, distribución, venta, suministro y servicio, son llamadas:",
+    "opciones": {
+      "a": "Manipuladores alimentarios.",
+      "b": "Manipuladores de alimentos.",
+      "c": "Manejadores de alimentos.",
+      "d": "Manejadores alimentarios."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_100",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "99.- Las maquinarias que forman parte de las cocinas pueden clasificarse en:",
+    "opciones": {
+      "a": "Generadores de calor, generadores de frío y maquinaria auxiliar.",
+      "b": "Conservadores de calor y generadores de frío.",
+      "c": "Generadores de calor y maquinaria auxiliar",
+      "d": "Ninguna de las respuestas es correcta."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_101",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "100.- Los generadores de calor son:",
+    "opciones": {
+      "a": "Aparatos utilizados para mantener el calor en la cocina.",
+      "b": "Aquellos que se mantienen siempre a una temperatura elevada y constante.",
+      "c": "Aquellos que pueden transformar los alimentos tanto por la acción del frío como del calor.",
+      "d": "Aparatos destinados a transformar los alimentos por la acción del calor."
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_102",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "Preguntas de reserva:\r\n101.- Los hornos de convección:",
+    "opciones": {
+      "a": "Permiten cocinar alimentos de distinto tipo sin que se mezclen los sabores.",
+      "b": "Pueden ser de leña.",
+      "c": "Pueden llevar una estufa de fermentación.",
+      "d": "Están reforzados con ladrillo."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_103",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "102.- En una marmita de cocción, ¿qué elaboraciones podemos preparar?",
+    "opciones": {
+      "a": "Frituras de patatas.",
+      "b": "Panes y dulces.",
+      "c": "De gran rendimiento tales como legumbres, sopas, potajes, arroces.",
+      "d": "Únicamente sirven para calentar caldos."
+    },
+    "correcta": "c",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_104",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "103.- El material del que debe estar hecho una paella basculante (sartén basculante) es:",
+    "opciones": {
+      "a": "Hierro colado",
+      "b": "Hojalata",
+      "c": "Acero fundido",
+      "d": "Acero inoxidable"
+    },
+    "correcta": "d",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_105",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "104.- Las salamandras, además de para glasear y gelatinar, las podemos utilizar para...",
+    "opciones": {
+      "a": "Que los platos, una vez montados, salgan calientes al comedor.",
+      "b": "Asar carnes.",
+      "c": "Asar pescados.",
+      "d": "Todas las respuestas son correctas."
+    },
+    "correcta": "a",
+    "explicacion": "",
+    "origen": "Historico"
+  },
+  {
+    "id": "historico_sim14_ext_cyl_106",
+    "tema": "Otras Comunidades: Simulacro 14 - Pinche Extremadura 2014 + Ayudante CyL 2016",
+    "pregunta": "105.- ¿Son las campanas extractoras generadores de calor?",
+    "opciones": {
+      "a": "Sí, puesto que se utilizan encima de una fuente de calor.",
+      "b": "No",
+      "c": "Depende en qué situaciones.",
+      "d": "Ninguna de las respuestas es correcta."
+    },
+    "correcta": "b",
+    "explicacion": "",
+    "origen": "Historico"
   }
 ]
