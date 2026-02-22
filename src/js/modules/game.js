@@ -48,8 +48,9 @@ export function startReviewMode(onlyFailures = false) {
             .map((_q, i) => i)
             .filter(i => {
                 const ans = state.userAnswers[i];
-                const question = questions[i];   // ← fix: look up by index
-                return !ans || ans.toLowerCase() !== (question.correcta || '').toLowerCase();
+                if (!ans) return false;  // skip blancs — only answered-wrong count as fallos
+                const question = questions[i];
+                return ans.toLowerCase() !== (question.correcta || '').toLowerCase();
             });
 
         if (idxToKeep.length === 0) {
