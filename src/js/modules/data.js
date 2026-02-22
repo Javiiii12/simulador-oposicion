@@ -73,12 +73,13 @@ export async function loadAllData() {
         console.log("Fetching question data...");
 
         const bust = `?v=${Date.now()}`;
-        const [resMad, resCsif, resAcad1, resAcad2, resAcad3] = await Promise.all([
+        const [resMad, resCsif, resAcad1, resAcad2, resAcad3, resAcad4] = await Promise.all([
             fetch(`data/preguntas.json${bust}`),
             fetch(`data/csif_questions.json${bust}`),
             fetch(`data/academia_tema1.json${bust}`),
             fetch(`data/academia_tema2.json${bust}`),
-            fetch(`data/academia_tema3.json${bust}`)
+            fetch(`data/academia_tema3.json${bust}`),
+            fetch(`data/academia_tema4.json${bust}`)
         ]);
 
         if (!resMad.ok) throw new Error(`HTTP ${resMad.status} al cargar preguntas.json`);
@@ -88,6 +89,7 @@ export async function loadAllData() {
         const textAcad1 = resAcad1.ok ? await resAcad1.text() : '[]';
         const textAcad2 = resAcad2.ok ? await resAcad2.text() : '[]';
         const textAcad3 = resAcad3.ok ? await resAcad3.text() : '[]';
+        const textAcad4 = resAcad4.ok ? await resAcad4.text() : '[]';
 
         // Sanitize BOM (Byte Order Mark) that corrupts JSON.parse()
         const sanitize = (str) => str.replace(/^\uFEFF/, '').trim();
@@ -97,6 +99,7 @@ export async function loadAllData() {
         const acadData1 = JSON.parse(sanitize(textAcad1));
         const acadData2 = JSON.parse(sanitize(textAcad2));
         const acadData3 = JSON.parse(sanitize(textAcad3));
+        const acadData4 = JSON.parse(sanitize(textAcad4));
 
         // Tag standard format sources
         const madWithSource = madData.map(q => ({ ...q, source: q.origen || 'MAD', origen: q.origen || 'MAD' }));
@@ -106,7 +109,8 @@ export async function loadAllData() {
         const acadNormalized = [
             ...acadData1.map(q => normalizeAcademiaQuestion(q, 'Academia')),
             ...acadData2.map(q => normalizeAcademiaQuestion(q, 'Academia')),
-            ...acadData3.map(q => normalizeAcademiaQuestion(q, 'Academia'))
+            ...acadData3.map(q => normalizeAcademiaQuestion(q, 'Academia')),
+            ...acadData4.map(q => normalizeAcademiaQuestion(q, 'Academia'))
         ];
 
         state.allQuestions = [...madWithSource, ...csifWithSource, ...acadNormalized];
