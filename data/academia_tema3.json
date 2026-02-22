@@ -1,0 +1,302 @@
+[
+    {
+        "id": "academia_t3_test1_q1",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según la Ley General de Sanidad, el Plan Integrado de Salud tendrá como plazo de vigencia:",
+        "opciones": [
+            "Un año",
+            "Dos años",
+            "Cuatro años",
+            "El que en el mismo Plan se determine"
+        ],
+        "respuesta_correcta": "El que en el mismo Plan se determine"
+    },
+    {
+        "id": "academia_t3_test1_q2",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "En relación a las Áreas de Salud, señale la respuesta VERDADERA:",
+        "opciones": [
+            "La demarcación territorial de las Áreas de Salud la establece la Alta Inspección Sanitaria con datos del Instituto Nacional de Estadística e Instituto Geográfico Nacional",
+            "En la dirección de las Áreas de Salud no participan las corporaciones locales, porque las competencias han sido transferidas a las comunidades autónomas",
+            "Como regla general el Área de Salud extenderá su acción a una población no inferior a 200.000 habitantes ni superior a 250.000, a excepción de Baleares, Canarias, Ceuta y Melilla",
+            "La Ley 14/1986, de 25 de abril, General de Sanidad establece que en todo caso cada provincia tendrá, como mínimo, un Área Sanitaria e impide que un Área abarque territorios de varias provincias"
+        ],
+        "respuesta_correcta": "Como regla general el Área de Salud extenderá su acción a una población no inferior a 200.000 habitantes ni superior a 250.000, a excepción de Baleares, Canarias, Ceuta y Melilla"
+    },
+    {
+        "id": "academia_t3_test1_q3",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Indicar lo correcto acerca de las competencias asumidas por las Comunidades Autónomas:",
+        "opciones": [
+            "Las decisiones y actuaciones públicas previstas en la Ley General de Sanidad que no se hayan reservado expresamente a las Comunidades Autónomas se entenderán atribuidas al Estado",
+            "Las Comunidades Autónomas asumirán todas las competencias en materia sanitaria salvo las que la Constitución reserva en exclusiva al Estado",
+            "Las Comunidades Autónomas ejercerán las competencias asumidas en sus Estatutos",
+            "Las Comunidades Autónomas ejercerán las competencias asumidas en sus Estatutos y las que el Estado les transfiera o, en su caso, les delegue"
+        ],
+        "respuesta_correcta": "Las Comunidades Autónomas ejercerán las competencias asumidas en sus Estatutos y las que el Estado les transfiera o, en su caso, les delegue"
+    },
+    {
+        "id": "academia_t3_test1_q4",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Los Consejos de Salud de Área son órganos de:",
+        "opciones": [
+            "Participación",
+            "Dirección",
+            "Gestión",
+            "Dirección colegiada"
+        ],
+        "respuesta_correcta": "Participación"
+    },
+    {
+        "id": "academia_t3_test1_q5",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "De acuerdo con lo establecido en el artículo 3 de la Ley 14/1986, de 25 de abril, General de Sanidad, en relación con los principios generales del sistema de salud, los medios y actuaciones del sistema sanitario estarán orientados prioritariamente a:",
+        "opciones": [
+            "La prevención y curación de la enfermedad",
+            "La promoción de la salud y a la prevención de las enfermedades",
+            "La prevención de la salud pública y a la curación de las enfermedades",
+            "La prevención de los riesgos para la salud y a la atención integral de las enfermedades"
+        ],
+        "respuesta_correcta": "La promoción de la salud y a la prevención de las enfermedades"
+    },
+    {
+        "id": "academia_t3_test1_q6",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según la Ley General de Sanidad, para conseguir la máxima operatividad y eficacia en el funcionamiento de los servicios a nivel primario, las áreas de salud se dividirán en:",
+        "opciones": [
+            "Zonas Básicas de Salud",
+            "Centros de Salud",
+            "Consultorios Locales",
+            "Hospitales Generales"
+        ],
+        "respuesta_correcta": "Zonas Básicas de Salud"
+    },
+    {
+        "id": "academia_t3_test1_q7",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Conforme la Ley General de Sanidad, ¿A quién corresponde organizar los servicios de salud de acuerdo con los principios que se establecen en dicha norma?:",
+        "opciones": [
+            "Al Ministerio de Sanidad",
+            "A las Comunidades Autónomas",
+            "A la Comisión de Recursos Humanos del Sistema Nacional de Salud",
+            "Al Instituto Nacional de Gestión Sanitaria"
+        ],
+        "respuesta_correcta": "A las Comunidades Autónomas"
+    },
+    {
+        "id": "academia_t3_test1_q8",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "¿Quiénes son los titulares del derecho a la protección de la salud y a la atención sanitaria según establece la Ley 14/1986, de 25 de abril, General de Sanidad?:",
+        "opciones": [
+            "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional",
+            "Sólo los españoles que residan en territorio nacional",
+            "Sólo los españoles que residan en territorio nacional o en el extranjero",
+            "Todos los españoles que residan en territorio nacional y los extranjeros que tengan la nacionalidad española"
+        ],
+        "respuesta_correcta": "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional"
+    },
+    {
+        "id": "academia_t3_test1_q9",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según la Ley General de Sanidad, el servicio de salud de cada Comunidad Autónoma estará integrado por los centros, servicios y establecimientos siguientes:",
+        "opciones": [
+            "Los de la propia Comunidad Autónoma",
+            "Los de las Diputaciones Provinciales, Hospitales y Centros de Salud",
+            "Los Hospitales, Centros de Especialidades o Ambulatorios y los Centros de Salud",
+            "Los de la propia Comunidad Autónoma, las Diputaciones, los Ayuntamientos y cualesquiera otras administraciones territoriales intracomunitarias"
+        ],
+        "respuesta_correcta": "Los de la propia Comunidad Autónoma, las Diputaciones, los Ayuntamientos y cualesquiera otras administraciones territoriales intracomunitarias"
+    },
+    {
+        "id": "academia_t3_test1_q10",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Para conseguir la máxima operatividad y eficacia en el funcionamiento de los servicios a nivel primario, las Áreas de Salud se dividirán en:",
+        "opciones": [
+            "Centros de salud",
+            "Consultorios locales",
+            "Centros de Especialidades y Tratamiento",
+            "Zonas básicas de salud"
+        ],
+        "respuesta_correcta": "Zonas básicas de salud"
+    },
+    {
+        "id": "academia_t3_test1_q11",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "La LGS reconoce en su artículo 7, como principio de organización y funcionamiento de los Servicios Sanitarios:",
+        "opciones": [
+            "Descentralización, coordinación, eficiencia y economía",
+            "Descentralización, eficacia, eficiencia y economía",
+            "Eficacia, celeridad, economía y flexibilidad",
+            "Ninguna de las anteriores son correctas"
+        ],
+        "respuesta_correcta": "Eficacia, celeridad, economía y flexibilidad"
+    },
+    {
+        "id": "academia_t3_test1_q12",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Como regla general, y sin perjuicio de las excepciones a que hubiera lugar, el Área de Salud extenderá su acción a una población:",
+        "opciones": [
+            "No inferior a 100.000 habitantes ni superior a 150.000",
+            "No inferior a 150.000 habitantes ni superior a 350.000",
+            "No inferior a 200.000 habitantes ni superior a 250.000",
+            "No inferior a 300.000 habitantes ni superior a 350.000"
+        ],
+        "respuesta_correcta": "No inferior a 200.000 habitantes ni superior a 250.000"
+    },
+    {
+        "id": "academia_t3_test1_q13",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según la Ley General de Sanidad, para conseguir la máxima operatividad y eficacia en el funcionamiento de los servicios a nivel primario, las áreas de salud se dividirán en:",
+        "opciones": [
+            "Zonas Básicas de Salud",
+            "Centros de Salud",
+            "Consultorios Locales",
+            "Hospitales Generales"
+        ],
+        "respuesta_correcta": "Zonas Básicas de Salud"
+    },
+    {
+        "id": "academia_t3_test1_q14",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según el artículo 57 de la Ley 14/1986, de 25 de abril, General de Sanidad, las áreas de salud contarán, como mínimo con los siguientes órganos:",
+        "opciones": [
+            "El Consejo de Salud de Área",
+            "El Consejo de Dirección de Área",
+            "El Gerente de Área",
+            "Todas son correctas"
+        ],
+        "respuesta_correcta": "Todas son correctas"
+    },
+    {
+        "id": "academia_t3_test1_q15",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "En los términos del art. 10 de la Ley General de Sanidad, no es un derecho de los ciudadanos:",
+        "opciones": [
+            "La información sobre los servicios sanitarios a que puede acceder y sobre los requisitos necesarios para su uso",
+            "La gratuidad de los servicios y tratamientos sanitarios que se consideren necesarios para promover, conservar o restablecer su salud",
+            "La confidencialidad de toda la información relacionada con su proceso y con su estancia en instituciones sanitarias públicas y privadas que colaboren con el sistema público",
+            "A utilizar las vías de reclamación y de propuesta de sugerencias en los plazos previstos"
+        ],
+        "respuesta_correcta": "La gratuidad de los servicios y tratamientos sanitarios que se consideren necesarios para promover, conservar o restablecer su salud"
+    },
+    {
+        "id": "academia_t3_test1_q16",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según la Ley General de Sanidad, cada Comunidad Autónoma uniprovincial tendrá como mínimo:",
+        "opciones": [
+            "Dos Áreas",
+            "Tres Áreas",
+            "Un Área",
+            "Cuatro Áreas"
+        ],
+        "respuesta_correcta": "Un Área"
+    },
+    {
+        "id": "academia_t3_test1_q17",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según el art. 1 de la Ley General de Sanidad, son titulares del derecho a la protección de la salud:",
+        "opciones": [
+            "Todos los trabajadores que tengan establecida su residencia en el territorio nacional",
+            "Todos los ciudadanos mayores de edad que tengan establecida su residencia en el territorio nacional",
+            "Todos los españoles, cualquiera que sea su lugar de residencia, y los extranjeros que tengan establecida su residencia en territorio nacional",
+            "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional"
+        ],
+        "respuesta_correcta": "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional"
+    },
+    {
+        "id": "academia_t3_test1_q18",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Indicar cuál es una función del Consejo de Dirección de Área:",
+        "opciones": [
+            "Ejecución de las directrices establecidas por la Dirección Gerencia del Servicio de Salud, de las propias del Plan de Salud del Área y de las normas correspondientes a la Administración autonómica y del Estado",
+            "Verificar la adecuación de las actuaciones en el Área de Salud a las normas y directrices de la política sanitaria y económica",
+            "Promover la participación comunitaria en el seno del Área de Salud",
+            "La propuesta de nombramiento y cese del gerente del Área de Salud"
+        ],
+        "respuesta_correcta": "La propuesta de nombramiento y cese del gerente del Área de Salud"
+    },
+    {
+        "id": "academia_t3_test1_q19",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "La Ley 14/1986, de 25 de abril, General de Sanidad, establece como una obligación de los ciudadanos con las instituciones y organismos del sistema sanitario:",
+        "opciones": [
+            "Utilizar las vías de reclamación y de propuesta de sugerencias en los plazos previstos",
+            "Participar, a través de las instituciones comunitarias, en las actividades sanitarias, en los términos establecidos en esta Ley y en las disposiciones que la desarrollen",
+            "Cumplir las prescripciones generales de naturaleza sanitaria comunes a toda la población, así como las específicas determinadas por los Servicios Sanitarios",
+            "A la confidencialidad de toda la información relacionada con su proceso y con su estancia en instituciones sanitarias públicas y privadas que colaboren con el sistema público"
+        ],
+        "respuesta_correcta": "Cumplir las prescripciones generales de naturaleza sanitaria comunes a toda la población, así como las específicas determinadas por los Servicios Sanitarios"
+    },
+    {
+        "id": "academia_t3_test1_q20",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según la Ley General de Sanidad, no es una función del Consejo de Salud del Área:",
+        "opciones": [
+            "Conocer e informar la Memoria Anual del Área de Salud",
+            "Orientar las directrices sanitarias del Área",
+            "La aprobación de las prioridades de actuación sanitaria específicas del Área de Salud",
+            "Verificar la adecuación de las actuaciones en el Área de Salud a las normas y directrices de la política sanitaria y económica"
+        ],
+        "respuesta_correcta": "La aprobación de las prioridades de actuación sanitaria específicas del Área de Salud"
+    },
+    {
+        "id": "academia_t3_test1_q21",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según la Ley General de Sanidad, el centro de salud tendrá las siguientes funciones: (64)",
+        "opciones": [
+            "Facilitar el trabajo en equipo de los profesionales sanitarios de la zona",
+            "Fijar sus propias reglas de funcionamiento",
+            "Elegir a sus profesionales entre los empleados del servicio de salud",
+            "Elegir el hospital al que estará vinculado"
+        ],
+        "respuesta_correcta": "Facilitar el trabajo en equipo de los profesionales sanitarios de la zona"
+    },
+    {
+        "id": "academia_t3_test1_q22",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "De conformidad con el artículo 1 de la Ley 14/1986, General de Sanidad, son titulares del derecho a la protección de la salud y a la atención sanitaria:",
+        "opciones": [
+            "Todos los españoles residentes en el territorio nacional y en situación de alta en la Seguridad Social",
+            "Todos los españoles",
+            "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en la Unión Europea",
+            "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional"
+        ],
+        "respuesta_correcta": "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional"
+    },
+    {
+        "id": "academia_t3_test1_q23",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Es una característica fundamental del Sistema Nacional de Salud:",
+        "opciones": [
+            "La extensión de sus servicios a toda la población",
+            "La financiación de las obligaciones derivadas de esta Ley se realizará mediante recursos de las Administraciones Públicas y participación del sector privado",
+            "La facturación de las atenciones a los beneficiarios",
+            "La centralización de recursos en servicios de referencia"
+        ],
+        "respuesta_correcta": "La extensión de sus servicios a toda la población"
+    },
+    {
+        "id": "academia_t3_test1_q24",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "¿Cómo se denomina la demarcación geográfica y poblacional que sirve de marco territorial a la Atención Primaria de salud?:",
+        "opciones": [
+            "Plan de Salud",
+            "Zona Básica de salud",
+            "Área de Salud",
+            "Gerencia de atención integrada"
+        ],
+        "respuesta_correcta": "Zona Básica de salud"
+    },
+    {
+        "id": "academia_t3_test1_q25",
+        "tema": "Tema 3: Test 1",
+        "pregunta": "Según la Ley General de Sanidad, la atención primaria integral de la salud, además de las acciones curativas y rehabilitadoras, incluye:",
+        "opciones": [
+            "La hospitalización",
+            "La asistencia domiciliaria y la hospitalización",
+            "Las acciones que tiendan a la promoción de la salud y a la prevención de la enfermedad del individuo y de la Comunidad",
+            "Las intervenciones quirúrgicas de elevada dificultad o complejidad técnica que entrañen grave peligro para el paciente"
+        ],
+        "respuesta_correcta": "Las acciones que tiendan a la promoción de la salud y a la prevención de la enfermedad del individuo y de la Comunidad"
+    }
+]
