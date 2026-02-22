@@ -62,6 +62,11 @@ body {
     display: block;
 }
 
+/* Utility class used by JS to hide/show elements */
+.hidden {
+    display: none !important;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
