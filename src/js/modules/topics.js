@@ -106,7 +106,8 @@ function createBaseTopicButton(baseTema, questionsSubset) {
     }
     if (titulo === baseTema) titulo = '';
 
-    const bloques = [...new Set(temaQ.map(q => q.tema))].filter(t => t.toLowerCase().includes('bloque'));
+    const subTemaList = [...new Set(temaQ.map(q => q.tema))];
+    const bloques = subTemaList.filter(t => t.toLowerCase().includes('bloque') || t.toLowerCase().includes('test'));
     const hasBlocks = bloques.length > 0;
 
     const btn = document.createElement('button');
