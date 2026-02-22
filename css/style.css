@@ -630,6 +630,72 @@ input[type="number"] {
 }
 
 /* RESPONSIVE DESIGN (Desktop & Tablets > 768px) */
+/* GRID OVERLAY NAVIGATION */
+.grid-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 2000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    backdrop-filter: blur(5px);
+}
+
+.grid-content {
+    background: var(--surface);
+    padding: 25px;
+    border-radius: var(--radius);
+    max-width: 500px;
+    width: 100%;
+    max-height: 80vh;
+    overflow-y: auto;
+    text-align: center;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+.grid-buttons-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.btn-grid-number {
+    aspect-ratio: 1/1;
+    border: 2px solid #ddd;
+    background: white;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+}
+
+.btn-grid-number:hover {
+    border-color: var(--primary);
+    background: #f0f0ff;
+}
+
+.btn-grid-number.current {
+    box-shadow: 0 0 0 3px var(--secondary);
+    transform: scale(1.1);
+    z-index: 1;
+}
+
+.btn-grid-number.answered {
+    background: var(--primary-light);
+    color: white;
+    border-color: var(--primary-light);
+}
+
 @media (min-width: 768px) {
 
     .menu-grid,

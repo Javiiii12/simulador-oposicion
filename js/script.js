@@ -5,6 +5,7 @@ let currentIndex = 0;
 let score = 0;
 let userAnswers = {};
 let currentMode = 'training'; // 'training', 'exam', 'failures'
+let originalMode = 'training'; // To restore mode after review
 let currentTopicName = ''; // Para guardar en historial
 
 // Elementos DOM - Cache
@@ -410,10 +411,23 @@ function setupEventListeners() {
             }
         });
     }
+
+    // Botón borrar fallos desde pantalla de resultados
+    const btnClearResults = document.getElementById('btn-clear-failures');
+    if (btnClearResults) {
+        btnClearResults.addEventListener('click', () => {
+            if (confirm("¿Borrar todos los fallos guardados?")) {
+                clearFailures();
+                // Ocultar botones relacionados puesto que ya no hay fallos
+                document.getElementById('btn-review-failed').classList.add('hidden');
+                document.getElementById('btn-clear-failures').classList.add('hidden');
+            }
+        });
+    }
     document.getElementById('btn-home-results').addEventListener('click', () => showView('menu'));
     document.getElementById('btn-retry').addEventListener('click', () => {
-        // Reintentar mismo set
-        startGame(currentQuestions, currentMode, currentTopicName);
+        // Reintentar mismo set - USAR originalMode para evitar quedarse en 'review'
+        startGame(currentQuestions, originalMode, currentTopicName);
     });
 
     // Configuración Aleatoria Avanzada
@@ -920,29 +934,6 @@ function removeFailedId(id) {
     let ids = getFailedIds();
     ids = ids.filter(x => x !== id);
     localStorage.setItem('ope_failed_ids', JSON.stringify(ids));
-    // Event Listeners for new Clear Buttons
-    const btnClearMenu = document.getElementById('btn-clear-failures-menu');
-    if (btnClearMenu) {
-        btnClearMenu.addEventListener('click', (e) => {
-            e.stopPropagation();
-            if (confirm("¿Estás seguro de que quieres borrar el historial de fallos?")) {
-                clearFailures();
-            }
-        });
-    }
-
-    const btnClearResults = document.getElementById('btn-clear-failures');
-    if (btnClearResults) {
-        btnClearResults.addEventListener('click', () => {
-            if (confirm("¿Borrar todos los fallos guardados?")) {
-                clearFailures();
-                // Hide filters since no failures left
-                document.getElementById('btn-review-failed').classList.add('hidden');
-                document.getElementById('btn-clear-failures').classList.add('hidden');
-            }
-        });
-    }
-
     updateFailureBadge();
 }
 
@@ -1054,7 +1045,10 @@ function startGame(questionsSet, mode, topicName) {
     currentIndex = 0;
     score = 0;
     userAnswers = {};
-    currentMode = mode; // 'training', 'exam', 'failures'
+    currentMode = mode; // 'training', 'exam', 'failures', 'review'
+    if (mode !== 'review') {
+        originalMode = mode; // Guardamos el modo original (no review) para el botón Repetir
+    }
     currentTopicName = topicName;
 
     // UI Updates
@@ -1407,12 +1401,19 @@ function showGrid() {
         // Estado
         const answer = userAnswers[index];
         if (index === currentIndex) btn.classList.add('current');
-        if (answer) btn.classList.add('answered');
-
-        // Mark correct/incorrect if in review or training (and answered)
-        if (currentMode !== 'exam' && answer) {
-            if (answer === q.correcta) btn.style.borderColor = "var(--success)";
-            else btn.style.borderColor = "var(--error)";
+        if (answer) {
+            btn.classList.add('answered');
+            if (currentMode !== 'exam') {
+                if (answer === q.correcta) {
+                    btn.style.backgroundColor = "var(--success)";
+                    btn.style.color = "white";
+                    btn.style.borderColor = "var(--success)";
+                } else {
+                    btn.style.backgroundColor = "var(--error)";
+                    btn.style.color = "white";
+                    btn.style.borderColor = "var(--error)";
+                }
+            }
         }
 
         btn.onclick = () => {
