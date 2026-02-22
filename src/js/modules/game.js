@@ -45,10 +45,11 @@ export function startReviewMode(onlyFailures = false) {
 
     if (onlyFailures) {
         const idxToKeep = questions
-            .map((q, i) => i)
+            .map((_q, i) => i)
             .filter(i => {
                 const ans = state.userAnswers[i];
-                return !ans || ans.toLowerCase() !== (q.correcta || '').toLowerCase();
+                const question = questions[i];   // ← fix: look up by index
+                return !ans || ans.toLowerCase() !== (question.correcta || '').toLowerCase();
             });
 
         if (idxToKeep.length === 0) {
