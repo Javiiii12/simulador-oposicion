@@ -150,12 +150,17 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
     });
     container.appendChild(btnBack);
 
+    // Only include questions from numbered blocks in COMPLETO.
+    // Generic subtemas (e.g. 'La Constitución') are hidden AND excluded from COMPLETO.
+    const numbered = subTemas.filter(t => /(?:bloque|test)\s*\d+/i.test(t));
+    const completoQ = numbered.length > 0 ? temaQ.filter(q => numbered.includes(q.tema)) : temaQ;
+
     // "All blocks" button
     const btnAll = document.createElement('button');
     btnAll.className = 'btn-topic';
     btnAll.style.background = '#e3f2fd';
-    btnAll.innerHTML = `<strong>${baseTema} COMPLETO</strong><br><small>Mezclar todos los bloques (${temaQ.length} pregs)</small>`;
-    btnAll.addEventListener('click', () => prepareModeSelection(`${baseTema} (Todos)`, () => temaQ));
+    btnAll.innerHTML = `<strong>${baseTema} COMPLETO</strong><br><small>Mezclar todos los bloques (${completoQ.length} pregs)</small>`;
+    btnAll.addEventListener('click', () => prepareModeSelection(`${baseTema} (Todos)`, () => completoQ));
     container.appendChild(btnAll);
 
     // Only render blocks that have an explicit number (Bloque N / Test N).

@@ -1,0 +1,314 @@
+[
+    {
+        "id": "academia_t2_test1_q1",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "En Castilla-La Mancha, la superior representación de la Región, la ostenta:",
+        "opciones": [
+            "El Presidente de la Junta de Comunidades de Castilla-La Mancha",
+            "El Presidente de las Cortes de Castilla-La Mancha",
+            "El Presidente del Consejo Consultivo de Castilla-La Mancha",
+            "El Delegado del Gobierno en Castilla-La Mancha"
+        ],
+        "respuesta_correcta": "El Presidente de la Junta de Comunidades de Castilla-La Mancha"
+    },
+    {
+        "id": "academia_t2_test1_q2",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Cualquier alteración de los límites provinciales habrá de ser aprobada por:",
+        "opciones": [
+            "El órgano de gobierno de la Comunidad Autónoma a la que pertenezca, mediante ley ordinaria",
+            "Las Cortes Generales mediante ley orgánica",
+            "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, mediante Decreto Ley",
+            "La Asamblea Legislativa de la Comunidad Autónoma a la que pertenezca"
+        ],
+        "respuesta_correcta": "Las Cortes Generales mediante ley orgánica"
+    },
+    {
+        "id": "academia_t2_test1_q3",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Teniendo en cuenta lo indicado por el art.8 del Estatuto de Autonomía de Castilla-La Mancha, no es un órgano de la Junta de Comunidades de C-LM:",
+        "opciones": [
+            "Las Cortes de Castilla-La Mancha",
+            "El Presidente de la Junta",
+            "El Consejo de Gobierno",
+            "La Diputación Provincial de Albacete"
+        ],
+        "respuesta_correcta": "La Diputación Provincial de Albacete"
+    },
+    {
+        "id": "academia_t2_test1_q4",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Las competencias en materia sanitaria de la Comunidad Autónoma de Castilla-La Mancha adscritas a la Consejería de Sanidad se encuentran en:",
+        "opciones": [
+            "Decreto 81/2019 de 16 de julio",
+            "Decreto 105/2023, de 25 de julio",
+            "Decreto 85/2019 de 16 de julio",
+            "Decreto 68/2023, de 25 de julio"
+        ],
+        "respuesta_correcta": "Decreto 105/2023, de 25 de julio"
+    },
+    {
+        "id": "academia_t2_test1_q5",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "La dirección electrónica autonómica que pone a disposición de la ciudadanía toda clase de servicios e informaciones relacionadas con Castilla-La Mancha, se denomina:",
+        "opciones": [
+            "La Sede Universal de Transparencia",
+            "La Ventana electrónica de Transparencia",
+            "El Portal de Transparencia",
+            "El Enlace registral de Transparencia"
+        ],
+        "respuesta_correcta": "El Portal de Transparencia"
+    },
+    {
+        "id": "academia_t2_test1_q6",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Según se establece en el art.2 del Decreto 68/2023, de 9 de julio, de Castilla-La Mancha, ¿Quién asume las funciones de Secretaría del Consejo de Gobierno?:",
+        "opciones": [
+            "La persona titular de la Vicepresidencia Primera",
+            "La persona titular de la Consejería de Igualdad y Portavoz",
+            "La persona titular de la Consejería de Economía, Empresas y Empleo",
+            "La persona titular de la Consejería de Hacienda y Administraciones Públicas"
+        ],
+        "respuesta_correcta": "La persona titular de la Vicepresidencia Primera"
+    },
+    {
+        "id": "academia_t2_test1_q7",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Según el Estatuto de Autonomía de Castilla-La Mancha, es competencia exclusiva de la Junta de Comunidades de Castilla-La Mancha: (31)",
+        "opciones": [
+            "Las bases y coordinación general de la sanidad",
+            "La legislación básica sobre el sistema de responsabilidad de la Administración",
+            "La asistencia social y los servicios sociales",
+            "Sanidad, higiene, promoción y restauración de la salud"
+        ],
+        "respuesta_correcta": "La asistencia social y los servicios sociales"
+    },
+    {
+        "id": "academia_t2_test1_q8",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Según el artículo 31 del Estatuto de Autonomía de Castilla-La Mancha, la Junta de Comunidades de Castilla-La Mancha, tiene competencia exclusiva en:",
+        "opciones": [
+            "Asociaciones",
+            "Productos farmacéuticos",
+            "Propiedad intelectual",
+            "Protección y tutela de menores"
+        ],
+        "respuesta_correcta": "Protección y tutela de menores"
+    },
+    {
+        "id": "academia_t2_test1_q9",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "La aprobación del Presupuesto de la Comunidad Autónoma de Castilla-La Mancha corresponde a: (51)",
+        "opciones": [
+            "La Consejería de Economía, Empresas y Empleo",
+            "El Consejo de Gobierno",
+            "Las Cortes de Castilla-La Mancha",
+            "La Consejería de Hacienda y Administraciones Públicas"
+        ],
+        "respuesta_correcta": "Las Cortes de Castilla-La Mancha"
+    },
+    {
+        "id": "academia_t2_test1_q10",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "El Estatuto de Autonomía de Castilla-La Mancha recoge entre sus competencias exclusivas:",
+        "opciones": [
+            "El derecho a la protección de la salud",
+            "Asistencia social y servicios sociales",
+            "Sanidad e higiene, promoción, prevención y restauración de la salud",
+            "Coordinación hospitalaria en general, incluida la de la Seguridad Social"
+        ],
+        "respuesta_correcta": "Asistencia social y servicios sociales"
+    },
+    {
+        "id": "academia_t2_test1_q11",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Compete a las Cortes de Castilla-La Mancha:",
+        "opciones": [
+            "Interponer recursos de casación ante el Tribunal Constitucional",
+            "Plantear cuestión de inconstitucionalidad",
+            "Interponer recursos de inconstitucionalidad",
+            "Interponer recursos de amparo ante el Tribunal Constitucional"
+        ],
+        "respuesta_correcta": "Interponer recursos de inconstitucionalidad"
+    },
+    {
+        "id": "academia_t2_test1_q12",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "El Instituto de Ciencias de la Salud de Castilla-La Mancha, es un organismo adscrito a:",
+        "opciones": [
+            "La Consejería de Sanidad",
+            "La Consejería de Salud y Bienestar Social",
+            "El Servicio de Salud de Castilla-La Mancha",
+            "La Consejería de Sanidad y Bienestar Social"
+        ],
+        "respuesta_correcta": "La Consejería de Sanidad"
+    },
+    {
+        "id": "academia_t2_test1_q13",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Las Cortes de Castilla-La Mancha tienen las siguientes funciones:",
+        "opciones": [
+            "Representar a la Junta de Comunidades de Castilla-La Mancha",
+            "Acordar los impuestos y exigir pagarlos",
+            "Aprobar las normas reglamentarias para desarrollar las Leyes",
+            "Dirigir la Administración"
+        ],
+        "respuesta_correcta": "Acordar los impuestos y exigir pagarlos"
+    },
+    {
+        "id": "academia_t2_test1_q14",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Según establece el Estatuto de Autonomía, es competencia de la Junta de Comunidades de Castilla-La Mancha el desarrollo legislativo y la ejecución en las materias siguientes: (32)",
+        "opciones": [
+            "Ordenación del territorio, urbanismos y vivienda",
+            "Montes, aprovechamientos y servicios forestales, vías pecuarias, pastos y espacios naturales protegidos",
+            "Promoción del deporte y de la adecuada utilización del ocio",
+            "Espectáculos públicos"
+        ],
+        "respuesta_correcta": "Montes, aprovechamientos y servicios forestales, vías pecuarias, pastos y espacios naturales protegidos"
+    },
+    {
+        "id": "academia_t2_test1_q15",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Indique cuál de las siguientes Consejerías no existe en la actualidad:",
+        "opciones": [
+            "Consejería de Agricultura, Ganadería y Desarrollo Rural",
+            "Consejería de Hacienda, Administraciones Públicas y Transformación Digital",
+            "Consejería de Sanidad y Bienestar Social",
+            "Consejería de Igualdad"
+        ],
+        "respuesta_correcta": "Consejería de Sanidad y Bienestar Social"
+    },
+    {
+        "id": "academia_t2_test1_q16",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Según el artículo octavo del Estatuto de Autonomía de Castilla-La Mancha, los poderes de la región se ejercen a través de...",
+        "opciones": [
+            "Junta de Comunidades de Castilla-La Mancha",
+            "Tribunal Superior de Justicia de Castilla-La Mancha",
+            "Las Cortes de Castilla-La Mancha y el Consejo de Gobierno",
+            "El Consejo de Gobierno y el Presidente de la Junta"
+        ],
+        "respuesta_correcta": "Junta de Comunidades de Castilla-La Mancha"
+    },
+    {
+        "id": "academia_t2_test1_q17",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "El Estatuto de Autonomía de Castilla-La Mancha se aprueba por:",
+        "opciones": [
+            "Ley Orgánica",
+            "Ley Ordinaria",
+            "Reglamento",
+            "Real Decreto Ley"
+        ],
+        "respuesta_correcta": "Ley Orgánica"
+    },
+    {
+        "id": "academia_t2_test1_q18",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Según el artículo 8 del Estatuto de Autonomía de Castilla-La Mancha, los poderes de la región se ejercen a través:",
+        "opciones": [
+            "De las Cortes de Castilla-La Mancha",
+            "De las Cortes de Castilla-La Mancha y el Tribunal Superior de Justicia",
+            "De la Junta de Comunidades de Castilla-La Mancha",
+            "Del Presidente de la Junta y el Consejo de Gobierno"
+        ],
+        "respuesta_correcta": "De la Junta de Comunidades de Castilla-La Mancha"
+    },
+    {
+        "id": "academia_t2_test1_q19",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "La Consejería de Sanidad de Castilla-La Mancha se estructura en los siguientes órganos centrales:",
+        "opciones": [
+            "Secretaría General, Dirección General de Salud Pública, Dirección General de Planificación, Ordenación e Inspección Sanitaria, Dirección General de Humanización, Dirección General de Cuidados y Calidad",
+            "Secretaría General, Dirección General de Asistencia Sanitaria, Dirección General de Planificación, Dirección General de Ordenación e Inspección Sanitaria, Dirección General de Humanización y Atención Sociosanitaria",
+            "Secretaría General, Dirección General de Salud Pública, Dirección General de Planificación, Ordenación e Inspección Sanitaria y Farmacia, Dirección General de Humanización y Atención Sociosanitaria",
+            "Secretaría General, Dirección General de Salud Pública, Dirección General de Consumo, Dirección General de Planificación, Ordenación e Inspección Sanitaria. Dirección General de Humanización y Atención Sociosanitaria"
+        ],
+        "respuesta_correcta": "Secretaría General, Dirección General de Salud Pública, Dirección General de Planificación, Ordenación e Inspección Sanitaria y Farmacia, Dirección General de Humanización y Atención Sociosanitaria"
+    },
+    {
+        "id": "academia_t2_test1_q20",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "El Tribunal Superior de Justicia de Castilla La Mancha tiene su sede en: (23)",
+        "opciones": [
+            "Albacete",
+            "Ciudad Real",
+            "Guadalajara",
+            "Toledo"
+        ],
+        "respuesta_correcta": "Albacete"
+    },
+    {
+        "id": "academia_t2_test1_q21",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "La Administración de Justicia:",
+        "opciones": [
+            "Es competencia exclusiva de las Comunidades Autónomas",
+            "Es competencia compartida entre el Estado y las Comunidades Autónomas",
+            "Es competencia exclusiva del Estado",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "respuesta_correcta": "Es competencia exclusiva del Estado"
+    },
+    {
+        "id": "academia_t2_test1_q22",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Según el Estatuto de Autonomía de Castilla-La Mancha, corresponde a la Junta de Comunidades, en los términos que establezcan las Leyes y las normas reglamentarias que en desarrollo de su legislación dicte el Estado, la función ejecutiva en materia de:",
+        "opciones": [
+            "Espectáculos públicos",
+            "Régimen minero y energético",
+            "Gestión de prestaciones y servicios sociales del Sistema de Seguridad Social: INSERSO",
+            "Régimen local"
+        ],
+        "respuesta_correcta": "Gestión de prestaciones y servicios sociales del Sistema de Seguridad Social: INSERSO"
+    },
+    {
+        "id": "academia_t2_test1_q23",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Según el Estatuto de Autonomía de Castilla-La Mancha, el órgano ejecutivo colegiado de la región, que dirige la acción política y administrativa regional, y ejerce la función ejecutiva y la potestad reglamentaria, recibe el nombre de:",
+        "opciones": [
+            "Cortes Generales",
+            "Cortes Generales Autonómicas",
+            "Consejo de Gobierno",
+            "Gabinete de Presidencia"
+        ],
+        "respuesta_correcta": "Consejo de Gobierno"
+    },
+    {
+        "id": "academia_t2_test1_q24",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "De acuerdo con el artículo 14 del Estatuto de Autonomía de Castilla-La Mancha el Presidente de la Junta de Comunidades será elegido:",
+        "opciones": [
+            "Por las Cortes de Castilla-La Mancha de entre sus miembros y será nombrado por el Rey",
+            "Por las Cortes de Castilla-La Mancha, a propuesta del Rey",
+            "Por las Cortes de Castilla-La Mancha de entre sus miembros, a propuesta del Consejo Consultivo de Castilla-La Mancha",
+            "Por el Rey, a propuesta del Presidente de las Cortes de Castilla-La Mancha"
+        ],
+        "respuesta_correcta": "Por las Cortes de Castilla-La Mancha de entre sus miembros y será nombrado por el Rey"
+    },
+    {
+        "id": "academia_t2_test1_q25",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "Según el Estatuto de Autonomía, el Presidente de la Junta de Comunidades de Castilla-La Mancha será nombrado por:",
+        "opciones": [
+            "Las Cortes de Castilla-La Mancha",
+            "El Rey",
+            "Las Cortes Generales",
+            "El Presidente del Gobierno de la Nación"
+        ],
+        "respuesta_correcta": "El Rey"
+    },
+    {
+        "id": "academia_t2_test1_q26",
+        "tema": "Tema 2: Test 1",
+        "pregunta": "De acuerdo con el artículo 149.3 de la Constitución Española, en el régimen de distribución de competencias entre el Estado y las Comunidades Autónomas:",
+        "opciones": [
+            "Las materias no atribuidas expresamente al Estado por la Constitución podrán corresponder a las Comunidades Autónomas, en virtud de las correspondientes Leyes marco",
+            "Las normas autonómicas prevalecerán, en caso de conflicto, sobre las del Estado en todo lo que no esté atribuido a la exclusiva competencia autonómica",
+            "El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas",
+            "El derecho autonómico será, en todo caso, supletorio del derecho estatal"
+        ],
+        "respuesta_correcta": "El derecho estatal será, en todo caso, supletorio del derecho de las Comunidades Autónomas"
+    }
+]

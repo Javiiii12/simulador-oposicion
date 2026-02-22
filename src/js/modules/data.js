@@ -73,34 +73,40 @@ export async function loadAllData() {
         console.log("Fetching question data...");
 
         const bust = `?v=${Date.now()}`;
-        const [resMad, resCsif, resAcad] = await Promise.all([
+        const [resMad, resCsif, resAcad1, resAcad2] = await Promise.all([
             fetch(`data/preguntas.json${bust}`),
             fetch(`data/csif_questions.json${bust}`),
-            fetch(`data/academia_tema1.json${bust}`)
+            fetch(`data/academia_tema1.json${bust}`),
+            fetch(`data/academia_tema2.json${bust}`)
         ]);
 
         if (!resMad.ok) throw new Error(`HTTP ${resMad.status} al cargar preguntas.json`);
 
         const textMad = await resMad.text();
         const textCsif = resCsif.ok ? await resCsif.text() : '[]';
-        const textAcad = resAcad.ok ? await resAcad.text() : '[]';
+        const textAcad1 = resAcad1.ok ? await resAcad1.text() : '[]';
+        const textAcad2 = resAcad2.ok ? await resAcad2.text() : '[]';
 
         // Sanitize BOM (Byte Order Mark) that corrupts JSON.parse()
         const sanitize = (str) => str.replace(/^\uFEFF/, '').trim();
 
         const madData = JSON.parse(sanitize(textMad));
         const csifData = JSON.parse(sanitize(textCsif));
-        const acadData = JSON.parse(sanitize(textAcad));
+        const acadData1 = JSON.parse(sanitize(textAcad1));
+        const acadData2 = JSON.parse(sanitize(textAcad2));
 
         // Tag standard format sources
         const madWithSource = madData.map(q => ({ ...q, source: q.origen || 'MAD', origen: q.origen || 'MAD' }));
         const csifWithSource = csifData.map(q => fixCsifQuestion(q));
 
         // Normalize Academia format (array opciones → object, respuesta_correcta → correcta)
-        const acadNormalized = acadData.map(q => normalizeAcademiaQuestion(q, 'Academia'));
+        const acadNormalized = [
+            ...acadData1.map(q => normalizeAcademiaQuestion(q, 'Academia')),
+            ...acadData2.map(q => normalizeAcademiaQuestion(q, 'Academia'))
+        ];
 
         state.allQuestions = [...madWithSource, ...csifWithSource, ...acadNormalized];
-        console.log(`Successfully loaded ${state.allQuestions.length} questions. (MAD: ${madWithSource.length}, CSIF: ${csifWithSource.length}, Academia: ${acadNormalized.length})`);
+        console.log(`Loaded ${state.allQuestions.length} questions. (MAD: ${madWithSource.length}, CSIF: ${csifWithSource.length}, Academia: ${acadNormalized.length})`);
         return state.allQuestions;
 
     } catch (err) {
