@@ -132,8 +132,11 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
     if (titleEl) titleEl.innerText = `${baseTema} — Bloques`;
 
     subTemas.sort((a, b) => {
-        const ma = a.match(/bloque (\d+)/i), mb = b.match(/bloque (\d+)/i);
-        return (ma ? parseInt(ma[1]) : 0) - (mb ? parseInt(mb[1]) : 0);
+        const getN = s => {
+            const m = s.match(/(?:bloque|test)\s+(\d+)/i);
+            return m ? parseInt(m[1]) : 999;
+        };
+        return getN(a) - getN(b);
     });
 
     // Back button
