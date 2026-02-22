@@ -158,8 +158,11 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
     btnAll.addEventListener('click', () => prepareModeSelection(`${baseTema} (Todos)`, () => temaQ));
     container.appendChild(btnAll);
 
-    // Individual block buttons
-    subTemas.forEach(subTema => {
+    // Only render blocks that have an explicit number (Bloque N / Test N).
+    // Generic subtemas are still counted in COMPLETO but not shown individually.
+    const numberedSubTemas = subTemas.filter(t => /(?:bloque|test)\s*\d+/i.test(t));
+
+    numberedSubTemas.forEach(subTema => {
         const qCount = temaQ.filter(q => q.tema === subTema).length;
         let displayTitle = subTema.replace(baseTema, '').replace(':', '').trim() || subTema;
         const btn = document.createElement('button');
