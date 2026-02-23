@@ -17,7 +17,7 @@ export const TOPIC_TITLES = {
     "Tema 7": "Plan de autoprotección y prevención de incendios",
     "Tema 8": "Ley de Prevención de Riesgos Laborales",
     "Tema 9": "La Atención Primaria de Salud",
-    "Tema 10": "Distribución del trabajo en cocina",
+    "Tema 10": "La Asistencia Especializada",
     "Tema 11": "Los alimentos: clasificación y características",
     "Tema 12": "Autocontrol y Seguridad Alimentaria (APPCC)",
     "Tema 13": "Manipulación de alimentos y formación",

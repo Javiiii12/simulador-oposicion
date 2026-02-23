@@ -73,7 +73,7 @@ export async function loadAllData() {
         console.log("Fetching question data...");
 
         const bust = `?v=${Date.now()}`;
-        const [resMad, resCsif, resAcad1, resAcad2, resAcad3, resAcad4, resAcad5, resAcad8, resAcad9] = await Promise.all([
+        const [resMad, resCsif, resAcad1, resAcad2, resAcad3, resAcad4, resAcad5, resAcad8, resAcad9, resAcad10] = await Promise.all([
             fetch(`data/preguntas.json${bust}`),
             fetch(`data/csif_questions.json${bust}`),
             fetch(`data/academia_tema1.json${bust}`),
@@ -82,7 +82,8 @@ export async function loadAllData() {
             fetch(`data/academia_tema4.json${bust}`),
             fetch(`data/academia_tema5.json${bust}`),
             fetch(`data/academia_tema8.json${bust}`),
-            fetch(`data/academia_tema9.json${bust}`)
+            fetch(`data/academia_tema9.json${bust}`),
+            fetch(`data/academia_tema10.json${bust}`)
         ]);
 
         if (!resMad.ok) throw new Error(`HTTP ${resMad.status} al cargar preguntas.json`);
@@ -96,6 +97,7 @@ export async function loadAllData() {
         const textAcad5 = resAcad5.ok ? await resAcad5.text() : '[]';
         const textAcad8 = resAcad8.ok ? await resAcad8.text() : '[]';
         const textAcad9 = resAcad9.ok ? await resAcad9.text() : '[]';
+        const textAcad10 = resAcad10.ok ? await resAcad10.text() : '[]';
 
         // Sanitize BOM (Byte Order Mark) that corrupts JSON.parse()
         const sanitize = (str) => str.replace(/^\uFEFF/, '').trim();
@@ -109,6 +111,7 @@ export async function loadAllData() {
         const acadData5 = JSON.parse(sanitize(textAcad5));
         const acadData8 = JSON.parse(sanitize(textAcad8));
         const acadData9 = JSON.parse(sanitize(textAcad9));
+        const acadData10 = JSON.parse(sanitize(textAcad10));
 
         // Tag standard format sources
         const madWithSource = madData.map(q => ({ ...q, source: q.origen || 'MAD', origen: q.origen || 'MAD' }));
@@ -122,7 +125,8 @@ export async function loadAllData() {
             ...acadData4.map(q => normalizeAcademiaQuestion(q, 'Academia')),
             ...acadData5.map(q => normalizeAcademiaQuestion(q, 'Academia')),
             ...acadData8.map(q => normalizeAcademiaQuestion(q, 'Academia')),
-            ...acadData9.map(q => normalizeAcademiaQuestion(q, 'Academia'))
+            ...acadData9.map(q => normalizeAcademiaQuestion(q, 'Academia')),
+            ...acadData10.map(q => normalizeAcademiaQuestion(q, 'Academia'))
         ];
 
         state.allQuestions = [...madWithSource, ...csifWithSource, ...acadNormalized];
