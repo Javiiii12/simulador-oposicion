@@ -67,12 +67,36 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         const exactId = data.id_acceso;
         const normalizedUserId = userId.trim().toLowerCase();
 
-        // A device is NEW if it has never successfully registered for THIS user
-        const registeredFor = Storage.getDeviceRegisteredFor();
-        const isNew = registeredFor !== normalizedUserId;
+        // A device is NEW if it has never successfully registered for THIS user,
+        // OR if the registration seems stale (e.g. counter reset in DB)
+        const registeredInfo = Storage.getDeviceRegisteredFor() || "";
+        let isNew = false;
+        let localRegIndex = 0;
+
+        if (registeredInfo.includes('|')) {
+            const [regUserId, regIdxStr] = registeredInfo.split('|');
+            if (regUserId === normalizedUserId) {
+                localRegIndex = parseInt(regIdxStr) || 0;
+            } else {
+                isNew = true; // Different user registered here
+            }
+        } else if (registeredInfo === normalizedUserId) {
+            // Legacy support (old version only stored userId)
+            localRegIndex = 1; // Assume it was the first
+        } else {
+            isNew = true; // No registration info
+        }
+
+        // SELF-CORRECTION: If DB says 0, everyone must re-register.
+        // If DB counter < our local index, it means a reset happened.
+        // If we are legacy (no localRegIndex) but DB is < MAX_DEVICES, claim a slot to be sure.
+        if (!isNew && (currentDevices === 0 || currentDevices < localRegIndex || (localRegIndex === 0 && currentDevices < MAX_DEVICES))) {
+            console.warn(`Sincronización de dispositivo: Re-registrando para asegurar contador exacto...`);
+            isNew = true;
+        }
 
         if (isNew) {
-            // New device for this user — check limit
+            // New or re-syncing device — check limit
             if (currentDevices >= MAX_DEVICES) {
                 onDenied(`Límite alcanzado: esta licencia ya usa ${MAX_DEVICES} dispositivos.`);
                 Storage.clearUser();
@@ -89,9 +113,9 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             if (updateError) {
                 console.error('Error al actualizar dispositivos_usados:', updateError);
             } else {
-                // Only mark as registered locally after successful Supabase write
-                Storage.setDeviceRegisteredFor(normalizedUserId);
-                console.log(`Dispositivo registrado. Total: ${currentDevices}/${MAX_DEVICES}`);
+                // Save composite registration: userId|index
+                Storage.setDeviceRegisteredFor(`${normalizedUserId}|${currentDevices}`);
+                console.log(`Dispositivo registrado en slot ${currentDevices}/${MAX_DEVICES}`);
             }
         }
 
