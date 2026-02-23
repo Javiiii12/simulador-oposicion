@@ -2,325 +2,325 @@
     {
         "id": "academia_t8_test1_q1",
         "tema": "Tema 8: Test 1",
-        "pregunta": "¿Cómo se denomina el área del Servicio de Urgencias donde se realiza la valoración inicial del paciente para establecer su prioridad asistencial?",
+        "pregunta": "De conformidad con la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, respecto al derecho a la protección frente a los riesgos laborales:",
         "opciones": [
-            "Área de Observación",
-            "Área de Triaje",
-            "Box de Críticos",
-            "Área de Consultas"
+            "El coste de las medidas relativas a la seguridad y la salud en el trabajo puede recaer sobre los trabajadores hasta un máximo de 1% del coste total",
+            "El coste de las medidas relativas a la seguridad y la salud en el trabajo no deberá recaer en modo alguno sobre los trabajadores",
+            "El coste de las medidas relativas a la seguridad y la salud en el trabajo será compartido entre empresario y trabajador",
+            "El coste de las medidas relativas a la seguridad y la salud en el trabajo tributa como rendimiento en especie del trabajador"
         ],
-        "respuesta_correcta": "Área de Triaje"
+        "respuesta_correcta": "El coste de las medidas relativas a la seguridad y la salud en el trabajo no deberá recaer en modo alguno sobre los trabajadores"
     },
     {
         "id": "academia_t8_test1_q2",
         "tema": "Tema 8: Test 1",
-        "pregunta": "En la recepción de pacientes en urgencias, si un paciente llega en ambulancia con una urgencia vital, el celador deberá:",
+        "pregunta": "En las reuniones del Comité de Seguridad y Salud participarán los Delegados Sindicales:",
         "opciones": [
-            "Esperar a que el administrativo tome los datos antes de moverlo",
-            "Trasladarlo inmediatamente al Box de Críticos o Reanimación según indique el personal sanitario",
-            "Pedirle que espere su turno en la sala de espera",
-            "Llevarlo directamente a rayos X"
+            "Sin voz ni voto",
+            "Con voz pero sin voto",
+            "Con voz y voto",
+            "Sin voz ni voto, previo acuerdo de la mayoría de sus miembros"
         ],
-        "respuesta_correcta": "Trasladarlo inmediatamente al Box de Críticos o Reanimación según indique el personal sanitario"
+        "respuesta_correcta": "Con voz pero sin voto"
     },
     {
         "id": "academia_t8_test1_q3",
         "tema": "Tema 8: Test 1",
-        "pregunta": "Es función del celador de urgencias con respecto a los familiares de los pacientes:",
+        "pregunta": "El plazo de que dispone la autoridad laboral para ratificar o anular el acuerdo de paralización de la actividad de los trabajadores en caso de riesgo grave e inminente es de:",
         "opciones": [
-            "Informar sobre el diagnóstico médico",
-            "Impedir el paso a las zonas asistenciales salvo autorización expresa",
-            "Dar el alta hospitalaria a los familiares",
-            "Cobrar las tasas de urgencias"
+            "48 horas",
+            "72 horas",
+            "24 horas",
+            "96 horas"
         ],
-        "respuesta_correcta": "Impedir el paso a las zonas asistenciales salvo autorización expresa"
+        "respuesta_correcta": "24 horas"
     },
     {
         "id": "academia_t8_test1_q4",
         "tema": "Tema 8: Test 1",
-        "pregunta": "¿Qué color se utiliza habitualmente en el triaje para identificar a un paciente que requiere atención inmediata (urgencia vital)?",
+        "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en las empresas de 2.001 a 3.000 trabajadores, habrá:",
         "opciones": [
-            "Azul",
-            "Verde",
-            "Rojo",
-            "Amarillo"
+            "5 Delegados de Prevención",
+            "6 Delegados de Prevención",
+            "7 Delegados de Prevención",
+            "8 Delegados de Prevención"
         ],
-        "respuesta_correcta": "Rojo"
+        "respuesta_correcta": "6 Delegados de Prevención"
     },
     {
         "id": "academia_t8_test1_q5",
         "tema": "Tema 8: Test 1",
-        "pregunta": "Cuando un paciente fallece en el servicio de urgencias, el traslado al mortuorio es responsabilidad de:",
+        "pregunta": "Según el art. 22 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, el acceso a la información médica de carácter personal se limitará:",
         "opciones": [
-            "La familia",
-            "El celador",
-            "El personal de la funeraria únicamente",
-            "El enfermero de guardia"
+            "Al personal médico y a las autoridades sanitarias que lleven a cabo la vigilancia de la salud de los trabajadores",
+            "Al empresario, al propio trabajador y al personal sanitario que participe",
+            "A los delegados de prevención y a la Inspección de Trabajo y Seguridad Social",
+            "Al empresario, al propio trabajador y a los delegados de prevención"
         ],
-        "respuesta_correcta": "El celador"
+        "respuesta_correcta": "Al personal médico y a las autoridades sanitarias que lleven a cabo la vigilancia de la salud de los trabajadores"
     },
     {
         "id": "academia_t8_test1_q6",
         "tema": "Tema 8: Test 1",
-        "pregunta": "En el área de observación de urgencias, el celador se encargará de:",
+        "pregunta": "Según la Ley de Prevención de Riesgos Laborales, el empresario deberá garantizar que cada trabajador reciba formación preventiva adecuada:",
         "opciones": [
-            "Vigilar las constantes vitales en los monitores",
-            "El traslado de los pacientes para la realización de pruebas complementarias",
-            "Administrar la medicación oral",
-            "Realizar las curas de enfermería"
+            "En el momento de la contratación, se produzcan cambios en las funciones o cambios en los equipos de trabajo",
+            "En el momento de la contratación, se produzcan cambios en las funciones o cada dos años desde la contratación",
+            "En el momento de la contratación, se produzcan cambios en los equipos de trabajo o cada dos años desde la contratación",
+            "En el momento de la contratación y cada dos años desde la contratación"
         ],
-        "respuesta_correcta": "El traslado de los pacientes para la realización de pruebas complementarias"
+        "respuesta_correcta": "En el momento de la contratación, se produzcan cambios en las funciones o cambios en los equipos de trabajo"
     },
     {
         "id": "academia_t8_test1_q7",
         "tema": "Tema 8: Test 1",
-        "pregunta": "Si un paciente en urgencias se encuentra en estado de agitación o agresividad, el celador deberá:",
+        "pregunta": "Según el art. 35 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo son:",
         "opciones": [
-            "Ignorarlo hasta que se calme",
-            "Colaborar en la sujeción mecánica si lo indica el personal facultativo",
-            "Expulsarlo del hospital inmediatamente",
-            "Sujetarlo por iniciativa propia sin avisar a nadie"
+            "Los Delegados de Prevención",
+            "Los miembros del Comité de Seguridad y Salud",
+            "Los Delegados de Personal",
+            "Los Delegados sindicales"
         ],
-        "respuesta_correcta": "Colaborar en la sujeción mecánica si lo indica el personal facultativo"
+        "respuesta_correcta": "Los Delegados de Prevención"
     },
     {
         "id": "academia_t8_test1_q8",
         "tema": "Tema 8: Test 1",
-        "pregunta": "El inventario y reposición de materiales pesados (balas de oxígeno, sillas de ruedas) en urgencias corresponde a:",
+        "pregunta": "Según el art. 16 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, cuando se haya producido un daño para la salud de los trabajadores, ¿Quién debe llevar a cabo una investigación al respecto, a fin de detectar las causas de estos hechos?",
         "opciones": [
-            "El celador",
-            "El auxiliar de enfermería",
-            "El supervisor de planta",
-            "El farmacéutico"
+            "La Inspección de Trabajo",
+            "Los Delegados de Personal o los representantes de los trabajadores",
+            "El Comité de Seguridad y Salud",
+            "El empresario"
         ],
-        "respuesta_correcta": "El celador"
+        "respuesta_correcta": "El empresario"
     },
     {
         "id": "academia_t8_test1_q9",
         "tema": "Tema 8: Test 1",
-        "pregunta": "¿Cuál es la función del celador en la 'puerta de urgencias'?",
+        "pregunta": "En las relaciones de trabajo a través de empresas de trabajo temporal, será responsable del cumplimiento de las obligaciones en materia de información acerca de los riesgos a los que vayan a estar expuestos los trabajadores:",
         "opciones": [
-            "Realizar el triaje médico",
-            "Ayudar a bajar a los pacientes de los vehículos y facilitar camillas o sillas",
-            "Controlar el tráfico de la ciudad",
-            "Limpiar la acera de entrada"
+            "La empresa de trabajo temporal",
+            "La Mutua de accidentes profesionales",
+            "La empresa usuaria",
+            "El instituto de Trabajo y Seguridad Social"
         ],
-        "respuesta_correcta": "Ayudar a bajar a los pacientes de los vehículos y facilitar camillas o sillas"
+        "respuesta_correcta": "La empresa usuaria"
     },
     {
         "id": "academia_t8_test1_q10",
         "tema": "Tema 8: Test 1",
-        "pregunta": "En el traslado de un paciente crítico dentro de urgencias, el celador:",
+        "pregunta": "Indicar cuál es un objetivo general del Plan Perseo:",
         "opciones": [
-            "Trasladará al paciente solo, sin más personal",
-            "Irá acompañado obligatoriamente de personal sanitario (médico/enfermero)",
-            "Dejará que los familiares empujen la camilla",
-            "Utilizará el montacargas de basura para ir más rápido"
+            "Realizar la declaración y estudio de incidentes y accidentes de cualquier naturaleza para la planificación de su prevención y acciones a realizar por el Servicio de Prevención",
+            "Establecer líneas eficaces de asesoramiento jurídico a las Gerencias y a los trabajadores implicados en situaciones de violencia psicológica, verbal o física",
+            "Elaborar y cumplimentar procedimientos y manuales sobre normas de trabajo en la atención a pacientes",
+            "Prevenir situaciones de tensión y conflictos entre profesionales y usuarios de nuestro Servicio de Salud, así como los riesgos que pongan en peligro a las personas, actividades y bienes del centro"
         ],
-        "respuesta_correcta": "Irá acompañado obligatoriamente de personal sanitario (médico/enfermero)"
+        "respuesta_correcta": "Prevenir situaciones de tensión y conflictos entre profesionales y usuarios de nuestro Servicio de Salud, así como los riesgos que pongan en peligro a las personas, actividades y bienes del centro"
     },
     {
         "id": "academia_t8_test1_q11",
         "tema": "Tema 8: Test 1",
-        "pregunta": "La limpieza de la camilla tras el uso con un paciente con enfermedades infectocontagiosas en urgencias es función de:",
+        "pregunta": "Según el art. 9 de la Ley 31/1995, de Prevención de riesgos laborales, corresponde a la Inspección de Trabajo y Seguridad Social:",
         "opciones": [
-            "El celador",
-            "El personal de limpieza",
-            "El enfermero",
-            "El médico"
+            "Promoción y, en su caso, realización de actividades de formación, información, investigación, estudio y divulgación en materia de prevención de riesgos laborales",
+            "La elaboración y divulgación de estudios, investigaciones y estadísticas relacionados con la salud de los trabajadores",
+            "La función de la vigilancia y control de la normativa sobre prevención de riesgos laborales",
+            "La implantación de sistemas de información adecuados que permitan la elaboración de mapas de riesgos laborales"
         ],
-        "respuesta_correcta": "El personal de limpieza"
+        "respuesta_correcta": "La función de la vigilancia y control de la normativa sobre prevención de riesgos laborales"
     },
     {
         "id": "academia_t8_test1_q12",
         "tema": "Tema 8: Test 1",
-        "pregunta": "Si un paciente llega a urgencias con una fractura abierta en la pierna, el celador debe:",
+        "pregunta": "Según el art. 4 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales ¿Cómo se llama la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo?",
         "opciones": [
-            "Intentar colocar el hueso en su sitio",
-            "Trasladarlo en camilla con el máximo cuidado para evitar movimientos bruscos",
-            "Decirle que camine hasta la consulta",
-            "Quitarle la ropa rápidamente sin esperar instrucciones"
+            "Acontecimiento potencialmente peligroso",
+            "Suceso previsible",
+            "Riesgo laboral",
+            "Fuerza mayor"
         ],
-        "respuesta_correcta": "Trasladarlo en camilla con el máximo cuidado para evitar movimientos bruscos"
+        "respuesta_correcta": "Riesgo laboral"
     },
     {
         "id": "academia_t8_test1_q13",
         "tema": "Tema 8: Test 1",
-        "pregunta": "El documento donde se recogen los datos del paciente y el motivo de su urgencia se llama:",
+        "pregunta": "Según el art. 35 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en una empresa de 60 trabajadores se elegirá:",
         "opciones": [
-            "Hoja de reclamaciones",
-            "Hoja de admisión o urgencias",
-            "Libro de visitas",
-            "Receta médica"
+            "Un Delegado de Prevención",
+            "2 Delegados de Prevención",
+            "3 Delegados de Prevención",
+            "4 Delegados de Prevención"
         ],
-        "respuesta_correcta": "Hoja de admisión o urgencias"
+        "respuesta_correcta": "2 Delegados de Prevención"
     },
     {
         "id": "academia_t8_test1_q14",
         "tema": "Tema 8: Test 1",
-        "pregunta": "¿Qué debe hacer el celador si encuentra un objeto de valor de un paciente inconsciente en urgencias?",
+        "pregunta": "El órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos se denomina:",
         "opciones": [
-            "Guardárselo en el bolsillo",
-            "Entregarlo en administración o al responsable del servicio siguiendo el protocolo de custodia",
-            "Dejarlo sobre la camilla",
-            "Dárselo al primer familiar que vea"
+            "Comité de Seguridad y Salud",
+            "Comisión de Seguridad y Salud en el Trabajo",
+            "Instituto de Seguridad e Higiene en el Trabajo",
+            "Servicio de Prevención"
         ],
-        "respuesta_correcta": "Entregarlo en administración o al responsable del servicio siguiendo el protocolo de custodia"
+        "respuesta_correcta": "Comité de Seguridad y Salud"
     },
     {
         "id": "academia_t8_test1_q15",
         "tema": "Tema 8: Test 1",
-        "pregunta": "En el Box de Reanimación (RCP), la función del celador es:",
+        "pregunta": "La denominación 'Plan Perseo' se corresponde con:",
         "opciones": [
-            "Realizar el masaje cardíaco de forma autónoma",
-            "Colaborar con el equipo sanitario en lo que sea requerido (movilización, traer material)",
-            "Dar las descargas con el desfibrilador",
-            "Intubar al paciente"
+            "Plan de Seguridad Sanitaria",
+            "Plan de Seguridad y Prevención contra la gripe A/h1n1",
+            "Plan Director de Seguridad Corporativa y de Protección del Patrimonio del SESCAM",
+            "Plan Director de las Inversiones en Infraestructuras del SESCAM"
         ],
-        "respuesta_correcta": "Colaborar con el equipo sanitario en lo que sea requerido (movilización, traer material)"
+        "respuesta_correcta": "Plan Director de Seguridad Corporativa y de Protección del Patrimonio del SESCAM"
     },
     {
         "id": "academia_t8_test1_q16",
         "tema": "Tema 8: Test 1",
-        "pregunta": "Los celadores de urgencias dependen jerárquicamente de:",
+        "pregunta": "¿Cómo se llama el organismo público que tiene como misión el análisis y estudio de las condiciones de seguridad y salud en el trabajo?",
         "opciones": [
-            "El médico de guardia",
-            "El Jefe de Personal Subalterno o el Supervisor de Urgencias",
-            "El Director Gerente únicamente",
-            "El Consejero de Sanidad"
+            "OIT Organización Internacional del Trabajo",
+            "Agencia Europea para la seguridad y la salud en el trabajo",
+            "INSHT Instituto Nacional Seguridad e Higiene en el Trabajo",
+            "Mutuas de accidentes de trabajo y enfermedades profesionales"
         ],
-        "respuesta_correcta": "El Jefe de Personal Subalterno o el Supervisor de Urgencias"
+        "respuesta_correcta": "INSHT Instituto Nacional Seguridad e Higiene en el Trabajo"
     },
     {
         "id": "academia_t8_test1_q17",
         "tema": "Tema 8: Test 1",
-        "pregunta": "Cuando un paciente de urgencias debe ser ingresado en planta, el traslado lo realiza:",
+        "pregunta": "Según la Ley de Prevención de Riesgos Laborales, cuando la adaptación de las condiciones o del tiempo de trabajo no resultase posible, la relación de los puestos de trabajo exentos de riesgos para la salud de la trabajadora embarazada o del feto se determinará por:",
         "opciones": [
-            "El celador de urgencias",
-            "La familia del paciente",
-            "El celador de planta que baja a buscarlo",
-            "El administrativo de ingresos"
+            "El servicio de prevención",
+            "El empresario, previa consulta con los representantes de los trabajadores",
+            "Los servicios médicos del Instituto Nacional de la Seguridad Social",
+            "La Inspección de Trabajo"
         ],
-        "respuesta_correcta": "El celador de urgencias"
+        "respuesta_correcta": "El empresario, previa consulta con los representantes de los trabajadores"
     },
     {
         "id": "academia_t8_test1_q18",
         "tema": "Tema 8: Test 1",
-        "pregunta": "¿A qué zona de urgencias se dirige a un paciente con una patología leve (ej. una picadura)?",
+        "pregunta": "La no presentación de la certificación negativa del Registro Central de Delincuentes Sexuales, cuando resultara obligatorio en los procesos selectivos para el acceso temporal o definitivo a las categorías del SESCAM, determinará:",
         "opciones": [
-            "Box de Críticos",
-            "Consultas de Pediatría",
-            "Área de Urgencias Menores o Consultas Rápidas",
-            "Quirófano de urgencias"
+            "La suspensión cautelar de prestar servicios en unidades de pediatría o en cualquier otro servicio con atención directa a menores",
+            "La comunicación de tal incidencia a la autoridad judicial competente en menores",
+            "La imposibilidad del nombramiento correspondiente",
+            "Autorizar al SESCAM para que compruebe y verifique de oficio los datos contenidos en dicho Registro"
         ],
-        "respuesta_correcta": "Área de Urgencias Menores o Consultas Rápidas"
+        "respuesta_correcta": "La imposibilidad del nombramiento correspondiente"
     },
     {
         "id": "academia_t8_test1_q19",
         "tema": "Tema 8: Test 1",
-        "pregunta": "El celador deberá conocer la ubicación de:",
+        "pregunta": "Según el art. 4 de la Ley de Prevención de Riesgos Laborales, no queda específicamente incluida en el concepto de 'condición de trabajo':",
         "opciones": [
-            "Sillas de ruedas y camillas de repuesto",
-            "Botellas de oxígeno y material de transporte",
-            "Salidas de emergencia y extintores",
-            "Todas las respuestas son correctas"
+            "Las características generales de los locales, instalaciones, equipos, productos y demás útiles existentes en el centro de trabajo",
+            "La naturaleza de los agentes físicos, químicos o biológicos presentes en el ambiente de trabajo",
+            "Las características del trabajo, incluidas las relativas a su ordenación y organización",
+            "Las condiciones personales del trabajador"
         ],
-        "respuesta_correcta": "Todas las respuestas son correctas"
+        "respuesta_correcta": "Las condiciones personales del trabajador"
     },
     {
         "id": "academia_t8_test1_q20",
         "tema": "Tema 8: Test 1",
-        "pregunta": "Si un paciente llega a urgencias con síntomas de infarto, el triaje debe ser:",
+        "pregunta": "Según el art. 22 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, la vigilancia periódica del estado de la salud de los trabajadores es obligatoria cuando:",
         "opciones": [
-            "Inmediato (Prioridad 1 o 2)",
-            "Demorable (Prioridad 5)",
-            "Normal (Prioridad 4)",
-            "No necesita triaje"
+            "Así se establezca en el plan de prevención",
+            "Así lo decida el empresario previo aviso a los representantes legales de los trabajadores",
+            "Así lo establezca el Comité de Seguridad y Salud",
+            "Sea imprescindible para evaluar los efectos de las condiciones de trabajo sobre la salud de los trabajadores"
         ],
-        "respuesta_correcta": "Inmediato (Prioridad 1 o 2)"
+        "respuesta_correcta": "Sea imprescindible para evaluar los efectos de las condiciones de trabajo sobre la salud de los trabajadores"
     },
     {
         "id": "academia_t8_test1_q21",
         "tema": "Tema 8: Test 1",
-        "pregunta": "La ayuda en la colocación de férulas de yeso en el área de traumatología de urgencias es función de:",
+        "pregunta": "Según el art. 21 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, cuando los trabajadores estén o puedan estar expuestos a un riesgo grave e inminente, el empresario estará obligado a:",
         "opciones": [
-            "El celador, colaborando con el médico o enfermero",
-            "El celador, que lo hace solo",
-            "Solo el traumatólogo",
-            "El personal de mantenimiento"
+            "Informar lo antes posible a todos los trabajadores afectados acerca de la existencia de dicho riesgo y de las medidas adoptadas o que, en su caso, deban adoptarse en materia de protección",
+            "Comunicar dicha situación a los servicios de prevención",
+            "Permanecer en su puesto de trabajo hasta que todos los trabajadores hayan abandonado el centro de trabajo",
+            "Interrumpir su actividad y abandonar el lugar de trabajo"
         ],
-        "respuesta_correcta": "El celador, colaborando con el médico o enfermero"
+        "respuesta_correcta": "Informar lo antes posible a todos los trabajadores afectados acerca de la existencia de dicho riesgo y de las medidas adoptadas o que, en su caso, deban adoptarse en materia de protección"
     },
     {
         "id": "academia_t8_test1_q22",
         "tema": "Tema 8: Test 1",
-        "pregunta": "Es deber del celador en urgencias mantener el orden en:",
+        "pregunta": "Según la Ley 31/1995 de Prevención de Riesgos Laborales, no es una competencia de los Delegados de Prevención:",
         "opciones": [
-            "Los pasillos y zonas de paso de camillas",
-            "La cafetería del hospital",
-            "El archivo central",
-            "La biblioteca médica"
+            "Colaborar con la dirección de la empresa en la mejora de la acción preventiva",
+            "Ordenar la paralización inmediata de trabajos cuando se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores",
+            "Promover y fomentar la cooperación de los trabajadores en la ejecución de la normativa sobre prevención de riesgos laborales",
+            "Ejercer una labor de vigilancia y control sobre el cumplimiento de la normativa de prevención de riesgos laborales"
         ],
-        "respuesta_correcta": "Los pasillos y zonas de paso de camillas"
+        "respuesta_correcta": "Ordenar la paralización inmediata de trabajos cuando se advierta la existencia de riesgo grave e inminente para la seguridad o salud de los trabajadores"
     },
     {
         "id": "academia_t8_test1_q23",
         "tema": "Tema 8: Test 1",
-        "pregunta": "¿Qué debe hacer el celador si un paciente pide el alta voluntaria en urgencias?",
+        "pregunta": "Según el art. 6 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, los requisitos mínimos que deben reunir las condiciones de trabajo para la protección de la seguridad y la salud de los trabajadores:",
         "opciones": [
-            "Dejarle marchar sin más",
-            "Comunicarlo inmediatamente al personal de enfermería o médico responsable",
-            "Obligarle a quedarse por la fuerza",
-            "Cobrarle la consulta antes de que se vaya"
+            "Se establecerán por ley",
+            "Serán regulados por el Gobierno a través de normas reglamentarias",
+            "Se establecerán mediante negociación colectiva",
+            "Serán regulados por las Comunidades Autónomas previa consulta a las organizaciones sindicales y empresariales más representativas"
         ],
-        "respuesta_correcta": "Comunicarlo inmediatamente al personal de enfermería o médico responsable"
+        "respuesta_correcta": "Serán regulados por el Gobierno a través de normas reglamentarias"
     },
     {
         "id": "academia_t8_test1_q24",
         "tema": "Tema 8: Test 1",
-        "pregunta": "El traslado de muestras biológicas urgentes al laboratorio es responsabilidad de:",
+        "pregunta": "Según el art. 19 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, indicar lo correcto acerca de la formación que deberá impartirse a los trabajadores:",
         "opciones": [
-            "El celador",
-            "El técnico de laboratorio que sube a por ellas",
-            "El sistema de tubos neumáticos únicamente",
-            "La familia del paciente"
+            "El coste de la formación será compartido entre empresario y trabajadores",
+            "La formación se impartirá preferentemente por las Administraciones públicas competentes en materia laboral",
+            "La formación se proporcionará exclusivamente en el momento de la contratación",
+            "La formación se podrá impartir por la empresa mediante medios propios o concertándola con servicios ajenos"
         ],
-        "respuesta_correcta": "El celador"
+        "respuesta_correcta": "La formación se podrá impartir por la empresa mediante medios propios o concertándola con servicios ajenos"
     },
     {
         "id": "academia_t8_test1_q25",
         "tema": "Tema 8: Test 1",
-        "pregunta": "En un accidente con múltiples víctimas, el celador seguirá las instrucciones del:",
+        "pregunta": "Según se menciona en el Plan Perseo, la definición de la OIT 'Toda acción, incidente o comportamiento que se aparta de lo razonable mediante el cual una persona es amenazada, humillada o lesionada por otra en el ejercicio de su actividad profesional' corresponde a:",
         "opciones": [
-            "Plan de Catástrofes del Hospital",
-            "Primer periodista que llegue",
-            "Conductor de la ambulancia",
-            "No hay protocolo establecido"
+            "Riesgo laboral",
+            "Acoso",
+            "Violencia en el lugar de trabajo",
+            "Daños en el trabajo"
         ],
-        "respuesta_correcta": "Plan de Catástrofes del Hospital"
+        "respuesta_correcta": "Violencia en el lugar de trabajo"
     },
     {
         "id": "academia_t8_test1_q26",
         "tema": "Tema 8: Test 1",
-        "pregunta": "El celador de urgencias debe tener un trato con el paciente:",
+        "pregunta": "Según el art. 36 de la Ley 31/1995, en las empresas que no cuenten con Comité de Seguridad y Salud por no alcanzar el número mínimo de trabajadores, las competencias atribuidas a aquél serán ejercidas por:",
         "opciones": [
-            "Amable, respetuoso y manteniendo la confidencialidad",
-            "Distante y autoritario",
-            "Informal y jocoso",
-            "No debe hablar con el paciente"
+            "El Comité de empresa",
+            "Los Delegados Sindicales",
+            "Los Delegados de Prevención",
+            "Los Delegados de Personal"
         ],
-        "respuesta_correcta": "Amable, respetuoso y manteniendo la confidencialidad"
+        "respuesta_correcta": "Los Delegados de Prevención"
     },
     {
         "id": "academia_t8_test1_q27",
         "tema": "Tema 8: Test 1",
-        "pregunta": "Al trasladar a un paciente en camilla por un pasillo, el celador debe empujar desde:",
+        "pregunta": "Según la Ley 31/1995, de Prevención de Riesgos Laborales, cuando haya un riesgo grave que pueda provocar daños a la salud, los trabajadores deberán:",
         "opciones": [
-            "Los pies del paciente (él va mirando hacia adelante)",
-            "La cabeza del paciente",
-            "Cualquier lado es igual",
-            "Debe ir de espaldas"
+            "Continuar trabajando hasta terminar la tarea que estén realizando",
+            "Dejarán de trabajar o abandonarán el lugar de trabajo de inmediato",
+            "Quedarse en el lugar de trabajo hasta que lo diga el empresario",
+            "Quedarse en el lugar de trabajo hasta que lo diga el delegado de prevención"
         ],
-        "respuesta_correcta": "La cabeza del paciente"
+        "respuesta_correcta": "Dejarán de trabajar o abandonarán el lugar de trabajo de inmediato"
     }
 ]
