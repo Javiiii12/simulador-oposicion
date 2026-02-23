@@ -1,0 +1,326 @@
+[
+    {
+        "id": "academia_t8_test1_q1",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "¿Cómo se denomina el área del Servicio de Urgencias donde se realiza la valoración inicial del paciente para establecer su prioridad asistencial?",
+        "opciones": [
+            "Área de Observación",
+            "Área de Triaje",
+            "Box de Críticos",
+            "Área de Consultas"
+        ],
+        "respuesta_correcta": "Área de Triaje"
+    },
+    {
+        "id": "academia_t8_test1_q2",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "En la recepción de pacientes en urgencias, si un paciente llega en ambulancia con una urgencia vital, el celador deberá:",
+        "opciones": [
+            "Esperar a que el administrativo tome los datos antes de moverlo",
+            "Trasladarlo inmediatamente al Box de Críticos o Reanimación según indique el personal sanitario",
+            "Pedirle que espere su turno en la sala de espera",
+            "Llevarlo directamente a rayos X"
+        ],
+        "respuesta_correcta": "Trasladarlo inmediatamente al Box de Críticos o Reanimación según indique el personal sanitario"
+    },
+    {
+        "id": "academia_t8_test1_q3",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "Es función del celador de urgencias con respecto a los familiares de los pacientes:",
+        "opciones": [
+            "Informar sobre el diagnóstico médico",
+            "Impedir el paso a las zonas asistenciales salvo autorización expresa",
+            "Dar el alta hospitalaria a los familiares",
+            "Cobrar las tasas de urgencias"
+        ],
+        "respuesta_correcta": "Impedir el paso a las zonas asistenciales salvo autorización expresa"
+    },
+    {
+        "id": "academia_t8_test1_q4",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "¿Qué color se utiliza habitualmente en el triaje para identificar a un paciente que requiere atención inmediata (urgencia vital)?",
+        "opciones": [
+            "Azul",
+            "Verde",
+            "Rojo",
+            "Amarillo"
+        ],
+        "respuesta_correcta": "Rojo"
+    },
+    {
+        "id": "academia_t8_test1_q5",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "Cuando un paciente fallece en el servicio de urgencias, el traslado al mortuorio es responsabilidad de:",
+        "opciones": [
+            "La familia",
+            "El celador",
+            "El personal de la funeraria únicamente",
+            "El enfermero de guardia"
+        ],
+        "respuesta_correcta": "El celador"
+    },
+    {
+        "id": "academia_t8_test1_q6",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "En el área de observación de urgencias, el celador se encargará de:",
+        "opciones": [
+            "Vigilar las constantes vitales en los monitores",
+            "El traslado de los pacientes para la realización de pruebas complementarias",
+            "Administrar la medicación oral",
+            "Realizar las curas de enfermería"
+        ],
+        "respuesta_correcta": "El traslado de los pacientes para la realización de pruebas complementarias"
+    },
+    {
+        "id": "academia_t8_test1_q7",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "Si un paciente en urgencias se encuentra en estado de agitación o agresividad, el celador deberá:",
+        "opciones": [
+            "Ignorarlo hasta que se calme",
+            "Colaborar en la sujeción mecánica si lo indica el personal facultativo",
+            "Expulsarlo del hospital inmediatamente",
+            "Sujetarlo por iniciativa propia sin avisar a nadie"
+        ],
+        "respuesta_correcta": "Colaborar en la sujeción mecánica si lo indica el personal facultativo"
+    },
+    {
+        "id": "academia_t8_test1_q8",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "El inventario y reposición de materiales pesados (balas de oxígeno, sillas de ruedas) en urgencias corresponde a:",
+        "opciones": [
+            "El celador",
+            "El auxiliar de enfermería",
+            "El supervisor de planta",
+            "El farmacéutico"
+        ],
+        "respuesta_correcta": "El celador"
+    },
+    {
+        "id": "academia_t8_test1_q9",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "¿Cuál es la función del celador en la 'puerta de urgencias'?",
+        "opciones": [
+            "Realizar el triaje médico",
+            "Ayudar a bajar a los pacientes de los vehículos y facilitar camillas o sillas",
+            "Controlar el tráfico de la ciudad",
+            "Limpiar la acera de entrada"
+        ],
+        "respuesta_correcta": "Ayudar a bajar a los pacientes de los vehículos y facilitar camillas o sillas"
+    },
+    {
+        "id": "academia_t8_test1_q10",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "En el traslado de un paciente crítico dentro de urgencias, el celador:",
+        "opciones": [
+            "Trasladará al paciente solo, sin más personal",
+            "Irá acompañado obligatoriamente de personal sanitario (médico/enfermero)",
+            "Dejará que los familiares empujen la camilla",
+            "Utilizará el montacargas de basura para ir más rápido"
+        ],
+        "respuesta_correcta": "Irá acompañado obligatoriamente de personal sanitario (médico/enfermero)"
+    },
+    {
+        "id": "academia_t8_test1_q11",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "La limpieza de la camilla tras el uso con un paciente con enfermedades infectocontagiosas en urgencias es función de:",
+        "opciones": [
+            "El celador",
+            "El personal de limpieza",
+            "El enfermero",
+            "El médico"
+        ],
+        "respuesta_correcta": "El personal de limpieza"
+    },
+    {
+        "id": "academia_t8_test1_q12",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "Si un paciente llega a urgencias con una fractura abierta en la pierna, el celador debe:",
+        "opciones": [
+            "Intentar colocar el hueso en su sitio",
+            "Trasladarlo en camilla con el máximo cuidado para evitar movimientos bruscos",
+            "Decirle que camine hasta la consulta",
+            "Quitarle la ropa rápidamente sin esperar instrucciones"
+        ],
+        "respuesta_correcta": "Trasladarlo en camilla con el máximo cuidado para evitar movimientos bruscos"
+    },
+    {
+        "id": "academia_t8_test1_q13",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "El documento donde se recogen los datos del paciente y el motivo de su urgencia se llama:",
+        "opciones": [
+            "Hoja de reclamaciones",
+            "Hoja de admisión o urgencias",
+            "Libro de visitas",
+            "Receta médica"
+        ],
+        "respuesta_correcta": "Hoja de admisión o urgencias"
+    },
+    {
+        "id": "academia_t8_test1_q14",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "¿Qué debe hacer el celador si encuentra un objeto de valor de un paciente inconsciente en urgencias?",
+        "opciones": [
+            "Guardárselo en el bolsillo",
+            "Entregarlo en administración o al responsable del servicio siguiendo el protocolo de custodia",
+            "Dejarlo sobre la camilla",
+            "Dárselo al primer familiar que vea"
+        ],
+        "respuesta_correcta": "Entregarlo en administración o al responsable del servicio siguiendo el protocolo de custodia"
+    },
+    {
+        "id": "academia_t8_test1_q15",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "En el Box de Reanimación (RCP), la función del celador es:",
+        "opciones": [
+            "Realizar el masaje cardíaco de forma autónoma",
+            "Colaborar con el equipo sanitario en lo que sea requerido (movilización, traer material)",
+            "Dar las descargas con el desfibrilador",
+            "Intubar al paciente"
+        ],
+        "respuesta_correcta": "Colaborar con el equipo sanitario en lo que sea requerido (movilización, traer material)"
+    },
+    {
+        "id": "academia_t8_test1_q16",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "Los celadores de urgencias dependen jerárquicamente de:",
+        "opciones": [
+            "El médico de guardia",
+            "El Jefe de Personal Subalterno o el Supervisor de Urgencias",
+            "El Director Gerente únicamente",
+            "El Consejero de Sanidad"
+        ],
+        "respuesta_correcta": "El Jefe de Personal Subalterno o el Supervisor de Urgencias"
+    },
+    {
+        "id": "academia_t8_test1_q17",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "Cuando un paciente de urgencias debe ser ingresado en planta, el traslado lo realiza:",
+        "opciones": [
+            "El celador de urgencias",
+            "La familia del paciente",
+            "El celador de planta que baja a buscarlo",
+            "El administrativo de ingresos"
+        ],
+        "respuesta_correcta": "El celador de urgencias"
+    },
+    {
+        "id": "academia_t8_test1_q18",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "¿A qué zona de urgencias se dirige a un paciente con una patología leve (ej. una picadura)?",
+        "opciones": [
+            "Box de Críticos",
+            "Consultas de Pediatría",
+            "Área de Urgencias Menores o Consultas Rápidas",
+            "Quirófano de urgencias"
+        ],
+        "respuesta_correcta": "Área de Urgencias Menores o Consultas Rápidas"
+    },
+    {
+        "id": "academia_t8_test1_q19",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "El celador deberá conocer la ubicación de:",
+        "opciones": [
+            "Sillas de ruedas y camillas de repuesto",
+            "Botellas de oxígeno y material de transporte",
+            "Salidas de emergencia y extintores",
+            "Todas las respuestas son correctas"
+        ],
+        "respuesta_correcta": "Todas las respuestas son correctas"
+    },
+    {
+        "id": "academia_t8_test1_q20",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "Si un paciente llega a urgencias con síntomas de infarto, el triaje debe ser:",
+        "opciones": [
+            "Inmediato (Prioridad 1 o 2)",
+            "Demorable (Prioridad 5)",
+            "Normal (Prioridad 4)",
+            "No necesita triaje"
+        ],
+        "respuesta_correcta": "Inmediato (Prioridad 1 o 2)"
+    },
+    {
+        "id": "academia_t8_test1_q21",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "La ayuda en la colocación de férulas de yeso en el área de traumatología de urgencias es función de:",
+        "opciones": [
+            "El celador, colaborando con el médico o enfermero",
+            "El celador, que lo hace solo",
+            "Solo el traumatólogo",
+            "El personal de mantenimiento"
+        ],
+        "respuesta_correcta": "El celador, colaborando con el médico o enfermero"
+    },
+    {
+        "id": "academia_t8_test1_q22",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "Es deber del celador en urgencias mantener el orden en:",
+        "opciones": [
+            "Los pasillos y zonas de paso de camillas",
+            "La cafetería del hospital",
+            "El archivo central",
+            "La biblioteca médica"
+        ],
+        "respuesta_correcta": "Los pasillos y zonas de paso de camillas"
+    },
+    {
+        "id": "academia_t8_test1_q23",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "¿Qué debe hacer el celador si un paciente pide el alta voluntaria en urgencias?",
+        "opciones": [
+            "Dejarle marchar sin más",
+            "Comunicarlo inmediatamente al personal de enfermería o médico responsable",
+            "Obligarle a quedarse por la fuerza",
+            "Cobrarle la consulta antes de que se vaya"
+        ],
+        "respuesta_correcta": "Comunicarlo inmediatamente al personal de enfermería o médico responsable"
+    },
+    {
+        "id": "academia_t8_test1_q24",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "El traslado de muestras biológicas urgentes al laboratorio es responsabilidad de:",
+        "opciones": [
+            "El celador",
+            "El técnico de laboratorio que sube a por ellas",
+            "El sistema de tubos neumáticos únicamente",
+            "La familia del paciente"
+        ],
+        "respuesta_correcta": "El celador"
+    },
+    {
+        "id": "academia_t8_test1_q25",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "En un accidente con múltiples víctimas, el celador seguirá las instrucciones del:",
+        "opciones": [
+            "Plan de Catástrofes del Hospital",
+            "Primer periodista que llegue",
+            "Conductor de la ambulancia",
+            "No hay protocolo establecido"
+        ],
+        "respuesta_correcta": "Plan de Catástrofes del Hospital"
+    },
+    {
+        "id": "academia_t8_test1_q26",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "El celador de urgencias debe tener un trato con el paciente:",
+        "opciones": [
+            "Amable, respetuoso y manteniendo la confidencialidad",
+            "Distante y autoritario",
+            "Informal y jocoso",
+            "No debe hablar con el paciente"
+        ],
+        "respuesta_correcta": "Amable, respetuoso y manteniendo la confidencialidad"
+    },
+    {
+        "id": "academia_t8_test1_q27",
+        "tema": "Tema 8: Test 1",
+        "pregunta": "Al trasladar a un paciente en camilla por un pasillo, el celador debe empujar desde:",
+        "opciones": [
+            "Los pies del paciente (él va mirando hacia adelante)",
+            "La cabeza del paciente",
+            "Cualquier lado es igual",
+            "Debe ir de espaldas"
+        ],
+        "respuesta_correcta": "La cabeza del paciente"
+    }
+]
