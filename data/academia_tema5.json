@@ -1,7 +1,7 @@
 [
     {
         "id": "academia_t5_test1_q1",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "De acuerdo con la Ley 55/2003, del Estatuto Marco, el personal estatutario se clasifica atendiendo a:",
         "opciones": [
             "La función desarrollada, el nivel del título exigido y el tipo de nombramiento",
@@ -13,7 +13,7 @@
     },
     {
         "id": "academia_t5_test1_q2",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "Es personal estatutario sanitario de formación universitaria el que ostenta:",
         "opciones": [
             "El título de Licenciado o Doctor",
@@ -25,7 +25,7 @@
     },
     {
         "id": "academia_t5_test1_q3",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "El nombramiento de personal estatutario interino se podrá expedir:",
         "opciones": [
             "Cuando exista una vacante y no sea posible su cobertura por personal fijo",
@@ -37,7 +37,7 @@
     },
     {
         "id": "academia_t5_test1_q4",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "¿Qué carácter tiene el personal estatutario sustituto?",
         "opciones": [
             "Temporal, para atender las funciones de personal fijo o temporal durante periodos de vacaciones o permisos",
@@ -49,7 +49,7 @@
     },
     {
         "id": "academia_t5_test1_q5",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "Según el artículo 17 de la Ley 55/2003, el personal estatutario tiene derecho a:",
         "opciones": [
             "La estabilidad en el empleo y al mantenimiento de su condición de personal estatutario fijo",
@@ -61,7 +61,7 @@
     },
     {
         "id": "academia_t5_test1_q6",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "Es un deber del personal estatutario, según el artículo 19:",
         "opciones": [
             "Ejercer la profesión con lealtad y eficacia",
@@ -73,7 +73,7 @@
     },
     {
         "id": "academia_t5_test1_q7",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "La provisión de plazas del personal estatutario se basará en los principios de:",
         "opciones": [
             "Igualdad, mérito, capacidad y publicidad",
@@ -85,7 +85,7 @@
     },
     {
         "id": "academia_t5_test1_q8",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "El periodo de prueba para el personal de formación universitaria (Grupo A) no podrá exceder de:",
         "opciones": [
             "Tres meses",
@@ -97,7 +97,7 @@
     },
     {
         "id": "academia_t5_test1_q9",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "¿Cuándo se produce la pérdida de la condición de personal estatutario fijo?",
         "opciones": [
             "Por renuncia",
@@ -109,7 +109,7 @@
     },
     {
         "id": "academia_t5_test1_q10",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "La movilidad voluntaria se articulará a través de:",
         "opciones": [
             "Concursos de traslados",
@@ -121,7 +121,7 @@
     },
     {
         "id": "academia_t5_test1_q11",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "La situación de servicios especiales se declara cuando el personal estatutario:",
         "opciones": [
             "Sea nombrado miembro del Gobierno o de los órganos de gobierno de las CCAA",
@@ -133,7 +133,7 @@
     },
     {
         "id": "academia_t5_test1_q12",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "¿Qué retribuciones tienen el carácter de básicas?",
         "opciones": [
             "Sueldo y trienios",
@@ -145,7 +145,7 @@
     },
     {
         "id": "academia_t5_test1_q13",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "El complemento de carrera está destinado a retribuir:",
         "opciones": [
             "El grado alcanzado por el profesional en cuanto a conocimientos y experiencia",
@@ -157,7 +157,7 @@
     },
     {
         "id": "academia_t5_test1_q14",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "La jornada ordinaria de trabajo se determinará:",
         "opciones": [
             "En las normas, pactos o acuerdos de cada servicio de salud",
@@ -169,7 +169,7 @@
     },
     {
         "id": "academia_t5_test1_q15",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "Se considera falta muy grave:",
         "opciones": [
             "El abandono del servicio",
@@ -181,7 +181,7 @@
     },
     {
         "id": "academia_t5_test1_q16",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "Las faltas graves prescriben a los:",
         "opciones": [
             "Dos años",
@@ -193,7 +193,7 @@
     },
     {
         "id": "academia_t5_test1_q17",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "Las sanciones por faltas muy graves pueden ser:",
         "opciones": [
             "Separación del servicio",
@@ -205,7 +205,7 @@
     },
     {
         "id": "academia_t5_test1_q18",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "El descanso semanal mínimo será de:",
         "opciones": [
             "24 horas ininterrumpidas",
@@ -217,7 +217,7 @@
     },
     {
         "id": "academia_t5_test1_q19",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "La excedencia por cuidado de familiares tiene una duración máxima de:",
         "opciones": [
             "Un año",
@@ -229,7 +229,7 @@
     },
     {
         "id": "academia_t5_test1_q20",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "Se entiende por carrera profesional:",
         "opciones": [
             "El derecho de los profesionales a progresar de forma individualizada y voluntaria",
@@ -241,7 +241,7 @@
     },
     {
         "id": "academia_t5_test1_q21",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "El personal emérito es aquel que:",
         "opciones": [
             "Se jubila y sigue prestando servicios de consultoría por su prestigio",
@@ -253,7 +253,7 @@
     },
     {
         "id": "academia_t5_test1_q22",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "¿Qué órgano es competente para la imposición de la sanción de separación del servicio?",
         "opciones": [
             "El órgano competente de la Comunidad Autónoma",
@@ -265,7 +265,7 @@
     },
     {
         "id": "academia_t5_test1_q23",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "Las faltas leves prescriben a los:",
         "opciones": [
             "Seis meses",
@@ -277,7 +277,7 @@
     },
     {
         "id": "academia_t5_test1_q24",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "El tiempo de permanencia en la situación de excedencia por cuidado de hijos será:",
         "opciones": [
             "Computable a efectos de trienios y carrera profesional",
@@ -289,7 +289,7 @@
     },
     {
         "id": "academia_t5_test1_q25",
-        "tema": "Tema 5: Estatuto Marco del Personal Estatutario",
+        "tema": "Tema 5: Test 1",
         "pregunta": "El régimen de jornada, descansos y vacaciones se rige por:",
         "opciones": [
             "El Capítulo X de la Ley 55/2003",
@@ -298,5 +298,605 @@
             "El Reglamento de Régimen Interior de cada hospital únicamente"
         ],
         "respuesta_correcta": "El Capítulo X de la Ley 55/2003"
+    },
+    {
+        "id": "academia_t5_test2_q1",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "Según la Ley 55/2003, ¿qué personal tiene la consideración de personal estatutario sanitario?",
+        "opciones": [
+            "El que ostenta esta condición en virtud de un título civil o militar",
+            "El que ostenta esta condición en virtud del título de formación universitaria o de formación profesional",
+            "El que desarrolla funciones de gestión y servicios",
+            "Exclusivamente los Licenciados en Medicina"
+        ],
+        "respuesta_correcta": "El que ostenta esta condición en virtud del título de formación universitaria o de formación profesional"
+    },
+    {
+        "id": "academia_t5_test2_q2",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "El personal estatutario de gestión y servicios se divide en:",
+        "opciones": [
+            "Formación universitaria, formación profesional y otro personal",
+            "Licenciados, Diplomados y Técnicos",
+            "Personal fijo, temporal e interino",
+            "Personal sanitario y no sanitario"
+        ],
+        "respuesta_correcta": "Formación universitaria, formación profesional y otro personal"
+    },
+    {
+        "id": "academia_t5_test2_q3",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "Las plazas vacantes de personal estatutario se cubrirán mediante:",
+        "opciones": [
+            "Personal interino, cuando no sea posible su cobertura por personal fijo",
+            "Personal sustituto siempre",
+            "Personal eventual por un periodo máximo de 12 meses",
+            "Contratos de trabajo ordinarios"
+        ],
+        "respuesta_correcta": "Personal interino, cuando no sea posible su cobertura por personal fijo"
+    },
+    {
+        "id": "academia_t5_test2_q4",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "El personal estatutario tiene derecho a la carrera profesional, que consiste en:",
+        "opciones": [
+            "El ascenso a puestos de jefatura por antigüedad",
+            "El derecho de los profesionales a progresar, de forma individualizada y voluntaria, en el sistema de desarrollo profesional",
+            "El aumento anual del sueldo base",
+            "La posibilidad de cambiar de centro de trabajo cada dos años"
+        ],
+        "respuesta_correcta": "El derecho de los profesionales a progresar, de forma individualizada y voluntaria, en el sistema de desarrollo profesional"
+    },
+    {
+        "id": "academia_t5_test2_q5",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "¿Qué situación administrativa se declara cuando el personal estatutario es nombrado para un puesto de confianza en el Gobierno?",
+        "opciones": [
+            "Excedencia voluntaria",
+            "Servicios especiales",
+            "Servicio activo con reserva de plaza",
+            "Suspensión provisional"
+        ],
+        "respuesta_correcta": "Servicios especiales"
+    },
+    {
+        "id": "academia_t5_test2_q6",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "Las retribuciones complementarias del personal estatutario son:",
+        "opciones": [
+            "Sueldo y trienios",
+            "Complemento de destino, complemento específico, complemento de carrera y complemento de atención continuada",
+            "Solo el complemento de destino",
+            "Pagas extraordinarias y productividad"
+        ],
+        "respuesta_correcta": "Complemento de destino, complemento específico, complemento de carrera y complemento de atención continuada"
+    },
+    {
+        "id": "academia_t5_test2_q7",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "El personal estatutario jubilado que sea nombrado 'personal emérito' tendrá funciones de:",
+        "opciones": [
+            "Dirección técnica exclusivamente",
+            "Consultoría, asesoría y formación",
+            "Gestión de recursos humanos",
+            "Asistencia médica directa a jornada completa"
+        ],
+        "respuesta_correcta": "Consultoría, asesoría y formación"
+    },
+    {
+        "id": "academia_t5_test2_q8",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "La jornada ordinaria de trabajo no podrá exceder, como promedio anual y en cómputo semanal, de:",
+        "opciones": [
+            "40 horas",
+            "37,5 horas",
+            "48 horas, incluidas las guardias",
+            "Lo que se determine en cada Servicio de Salud respetando los límites legales"
+        ],
+        "respuesta_correcta": "48 horas, incluidas las guardias"
+    },
+    {
+        "id": "academia_t5_test2_q9",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "La sanción de separación del servicio por falta muy grave prescribe a los:",
+        "opciones": [
+            "Dos años",
+            "Tres años",
+            "Seis años",
+            "Cinco años"
+        ],
+        "respuesta_correcta": "Seis años"
+    },
+    {
+        "id": "academia_t5_test2_q10",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "Se considera falta grave del personal estatutario:",
+        "opciones": [
+            "La falta de asistencia injustificada de un día",
+            "La incorrección con los superiores, compañeros o público",
+            "El descuido o negligencia en el ejercicio de sus funciones que no afecte a la seguridad del paciente",
+            "La falta de obediencia a las instrucciones de los superiores siempre que no sea manifiesta"
+        ],
+        "respuesta_correcta": "La incorrección con los superiores, compañeros o público"
+    },
+    {
+        "id": "academia_t5_test2_q11",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "El personal estatutario fijo puede solicitar la excedencia voluntaria por interés particular siempre que haya prestado servicios efectivos durante:",
+        "opciones": [
+            "Los últimos tres años",
+            "Los últimos cinco años",
+            "El último año únicamente",
+            "No se requiere tiempo mínimo"
+        ],
+        "respuesta_correcta": "Los últimos cinco años"
+    },
+    {
+        "id": "academia_t5_test2_q12",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "¿Cuál es el tiempo máximo de duración del nombramiento de personal eventual por acumulación de tareas?",
+        "opciones": [
+            "Tres meses",
+            "Seis meses en un periodo de doce",
+            "Nueve meses en un periodo de doce",
+            "Un año improrrogable"
+        ],
+        "respuesta_correcta": "Nueve meses en un periodo de doce"
+    },
+    {
+        "id": "academia_t5_test2_q13",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "La renuncia a la condición de personal estatutario debe ser comunicada con una antelación mínima de:",
+        "opciones": [
+            "Diez días",
+            "Quince días",
+            "Un mes",
+            "Siete días"
+        ],
+        "respuesta_correcta": "Quince días"
+    },
+    {
+        "id": "academia_t5_test2_q14",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "En la promoción interna temporal, el personal estatutario podrá desempeñar funciones de una categoría superior por un periodo máximo de:",
+        "opciones": [
+            "Seis meses",
+            "Un año",
+            "Dos años",
+            "Lo que dure la causa que lo motivó"
+        ],
+        "respuesta_correcta": "Lo que dure la causa que lo motivó"
+    },
+    {
+        "id": "academia_t5_test2_q15",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "¿A quién corresponde la competencia para incoar un expediente disciplinario?",
+        "opciones": [
+            "Al Consejo de Gobierno",
+            "A la Dirección del Servicio de Salud o al órgano que se determine",
+            "Exclusivamente al Gerente del centro",
+            "Al Jefe de Personal"
+        ],
+        "respuesta_correcta": "A la Dirección del Servicio de Salud o al órgano que se determine"
+    },
+    {
+        "id": "academia_t5_test2_q16",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "La situación de 'excedencia forzosa' se produce cuando:",
+        "opciones": [
+            "El personal fijo es cesado por sanción",
+            "Por supresión de la plaza y no es posible el reingreso",
+            "Lo solicita el trabajador por motivos personales",
+            "El trabajador es nombrado para cargo público"
+        ],
+        "respuesta_correcta": "Por supresión de la plaza y no es posible el reingreso"
+    },
+    {
+        "id": "academia_t5_test2_q17",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "El descanso entre jornadas de trabajo deberá ser de al menos:",
+        "opciones": [
+            "10 horas",
+            "12 horas",
+            "8 horas",
+            "14 horas"
+        ],
+        "respuesta_correcta": "12 horas"
+    },
+    {
+        "id": "academia_t5_test2_q18",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "Las vacaciones anuales retribuidas no podrán ser inferiores a:",
+        "opciones": [
+            "22 días hábiles",
+            "30 días naturales",
+            "30 días hábiles",
+            "Un mes natural"
+        ],
+        "respuesta_correcta": "30 días naturales"
+    },
+    {
+        "id": "academia_t5_test2_q19",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "La falta de rendimiento que afecte al funcionamiento de los servicios se califica como:",
+        "opciones": [
+            "Falta leve",
+            "Falta grave",
+            "Falta muy grave",
+            "No es sancionable si no es voluntaria"
+        ],
+        "respuesta_correcta": "Falta grave"
+    },
+    {
+        "id": "academia_t5_test2_q20",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "¿Qué es la 'movilidad por razón de salud'?",
+        "opciones": [
+            "El derecho a pedir la baja médica",
+            "La posibilidad de traslado a otro puesto por motivos de salud del trabajador o familiares",
+            "El derecho a la jubilación anticipada por enfermedad profesional",
+            "Un permiso retribuido por enfermedad"
+        ],
+        "respuesta_correcta": "La posibilidad de traslado a otro puesto por motivos de salud del trabajador o familiares"
+    },
+    {
+        "id": "academia_t5_test2_q21",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "El personal estatutario tiene derecho a la libre sindicación:",
+        "opciones": [
+            "No, está prohibido",
+            "Sí, conforme a la Ley Orgánica de Libertad Sindical",
+            "Solo en el sector privado",
+            "Solo si tiene más de 10 años de antigüedad"
+        ],
+        "respuesta_correcta": "Sí, conforme a la Ley Orgánica de Libertad Sindical"
+    },
+    {
+        "id": "academia_t5_test2_q22",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "La jubilación parcial del personal estatutario se rige por:",
+        "opciones": [
+            "Lo establecido en las Leyes de Presupuestos y la normativa de Seguridad Social",
+            "Decisión unilateral del Gerente",
+            "El Estatuto de los Trabajadores",
+            "No existe la jubilación parcial"
+        ],
+        "respuesta_correcta": "Lo establecido en las Leyes de Presupuestos y la normativa de Seguridad Social"
+    },
+    {
+        "id": "academia_t5_test2_q23",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "Los trienios consisten en una cantidad igual para cada grupo de clasificación por cada:",
+        "opciones": [
+            "Año de servicio",
+            "Dos años de servicio",
+            "Tres años de servicio",
+            "Cinco años de servicio"
+        ],
+        "respuesta_correcta": "Tres años de servicio"
+    },
+    {
+        "id": "academia_t5_test2_q24",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "La reincorporación al servicio activo tras una excedencia por cuidado de familiares se realizará:",
+        "opciones": [
+            "En el mismo puesto si es el primer año",
+            "En cualquier puesto de la misma provincia",
+            "Al cabo de seis meses de la solicitud",
+            "Tras superar un examen de actualización"
+        ],
+        "respuesta_correcta": "En el mismo puesto si es el primer año"
+    },
+    {
+        "id": "academia_t5_test2_q25",
+        "tema": "Tema 5: Test 2",
+        "pregunta": "El 'procedimiento disciplinario' se rige por los principios de:",
+        "opciones": [
+            "Inmediatez y arbitrariedad",
+            "Eficacia, celeridad y respeto a los derechos de defensa",
+            "Secreto absoluto",
+            "Oralidad exclusivamente"
+        ],
+        "respuesta_correcta": "Eficacia, celeridad y respeto a los derechos de defensa"
+    },
+    {
+        "id": "academia_t5_test3_q1",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "¿Cuál de los siguientes no es un principio básico del Estatuto Marco?",
+        "opciones": [
+            "Sometimiento pleno a la ley y al derecho",
+            "Igualdad, mérito y capacidad en el acceso",
+            "Libertad de residencia sin límites por necesidades del servicio",
+            "Cooperación con las Administraciones públicas en materia de salud"
+        ],
+        "respuesta_correcta": "Libertad de residencia sin límites por necesidades del servicio"
+    },
+    {
+        "id": "academia_t5_test3_q2",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "La selección del personal estatutario fijo se realizará con carácter general a través del sistema de:",
+        "opciones": [
+            "Concurso",
+            "Concurso-oposición",
+            "Oposición libre únicamente",
+            "Libre designación"
+        ],
+        "respuesta_correcta": "Concurso-oposición"
+    },
+    {
+        "id": "academia_t5_test3_q3",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El personal estatutario interino deberá ser cesado cuando:",
+        "opciones": [
+            "Se incorpore personal fijo por el procedimiento legalmente establecido",
+            "Transcurran tres meses desde su nombramiento",
+            "Se amortice la plaza",
+            "Las opciones A y C son correctas"
+        ],
+        "respuesta_correcta": "Las opciones A y C son correctas"
+    },
+    {
+        "id": "academia_t5_test3_q4",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El personal estatutario sanitario de formación profesional (Técnicos) se clasifica en:",
+        "opciones": [
+            "Grado superior y Grado medio",
+            "Nivel 1, 2 y 3",
+            "A1 y A2",
+            "Personal de oficio y personal técnico"
+        ],
+        "respuesta_correcta": "Grado superior y Grado medio"
+    },
+    {
+        "id": "academia_t5_test3_q5",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "Se considera 'jornada nocturna' la que se realiza entre las:",
+        "opciones": [
+            "22:00 y las 06:00 horas del día siguiente",
+            "23:00 y las 08:00 horas del día siguiente",
+            "20:00 y las 08:00 horas del día siguiente",
+            "22:00 y las 08:00 horas del día siguiente"
+        ],
+        "respuesta_correcta": "22:00 y las 08:00 horas del día siguiente"
+    },
+    {
+        "id": "academia_t5_test3_q6",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El personal que realice al menos 3 horas de su trabajo diario en periodo nocturno tiene la consideración de:",
+        "opciones": [
+            "Trabajador nocturno",
+            "Trabajador a turnos",
+            "Personal de guardia",
+            "Personal de atención continuada"
+        ],
+        "respuesta_correcta": "Trabajador nocturno"
+    },
+    {
+        "id": "academia_t5_test3_q7",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El derecho a la huelga del personal estatutario está garantizado:",
+        "opciones": [
+            "Siempre que se garantice el mantenimiento de los servicios esenciales",
+            "Está prohibido por la naturaleza del servicio de salud",
+            "Solo para el personal administrativo",
+            "Requiere autorización previa del Gerente"
+        ],
+        "respuesta_correcta": "Siempre que se garantice el mantenimiento de los servicios esenciales"
+    },
+    {
+        "id": "academia_t5_test3_q8",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "La situación de 'servicios en comunidades autónomas' se produce cuando:",
+        "opciones": [
+            "El personal fijo de un Servicio de Salud pasa a prestar servicios en otro mediante concurso de traslados",
+            "El personal se va de vacaciones a otra comunidad",
+            "El personal es despedido",
+            "Se solicita una excedencia"
+        ],
+        "respuesta_correcta": "El personal fijo de un Servicio de Salud pasa a prestar servicios en otro mediante concurso de traslados"
+    },
+    {
+        "id": "academia_t5_test3_q9",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El 'complemento de productividad' está destinado a retribuir:",
+        "opciones": [
+            "El especial rendimiento y la consecución de objetivos",
+            "La antigüedad en el puesto",
+            "El título de doctor",
+            "El trabajo nocturno"
+        ],
+        "respuesta_correcta": "El especial rendimiento y la consecución de objetivos"
+    },
+    {
+        "id": "academia_t5_test3_q10",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "¿Qué sanción corresponde a una falta leve?",
+        "opciones": [
+            "Amonestación por escrito",
+            "Apercibimiento",
+            "Suspensión de funciones de 1 a 10 días",
+            "Solo se anota en el expediente"
+        ],
+        "respuesta_correcta": "Apercibimiento"
+    },
+    {
+        "id": "academia_t5_test3_q11",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "La suspensión de funciones, si es firme, no podrá exceder de:",
+        "opciones": [
+            "Seis años",
+            "Tres años",
+            "Un año",
+            "Dos años"
+        ],
+        "respuesta_correcta": "Seis años"
+    },
+    {
+        "id": "academia_t5_test3_q12",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El personal estatutario puede ser declarado en situación de 'suspensión provisional' durante:",
+        "opciones": [
+            "Un máximo de seis meses, salvo paralización por causa imputable al interesado",
+            "Tres meses improrrogables",
+            "Lo que dure el juicio sin límite",
+            "Un año"
+        ],
+        "respuesta_correcta": "Un máximo de seis meses, salvo paralización por causa imputable al interesado"
+    },
+    {
+        "id": "academia_t5_test3_q13",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "La excedencia por violencia de género tiene una duración inicial de reserva de puesto de:",
+        "opciones": [
+            "Seis meses",
+            "Un año",
+            "Dos años",
+            "Tres meses"
+        ],
+        "respuesta_correcta": "Seis meses"
+    },
+    {
+        "id": "academia_t5_test3_q14",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "La jubilación forzosa se declara al cumplir la edad de:",
+        "opciones": [
+            "65 años (con las excepciones de prórroga legalmente establecidas)",
+            "67 años siempre",
+            "60 años con 30 años de servicio",
+            "70 años para médicos únicamente"
+        ],
+        "respuesta_correcta": "65 años (con las excepciones de prórroga legalmente establecidas)"
+    },
+    {
+        "id": "academia_t5_test3_q15",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El reingreso al servicio activo del personal que no tenga reserva de plaza se efectuará mediante:",
+        "opciones": [
+            "Participación en concursos de traslados",
+            "Reingreso provisional en vacante",
+            "Nombramiento interino",
+            "Las opciones A y B son correctas"
+        ],
+        "respuesta_correcta": "Las opciones A y B son correctas"
+    },
+    {
+        "id": "academia_t5_test3_q16",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "¿Qué es la 'Atención Continuada'?",
+        "opciones": [
+            "El servicio que garantiza la asistencia sanitaria 24 horas al día",
+            "La consulta diaria del médico de cabecera",
+            "El seguimiento de pacientes crónicos",
+            "La formación de los residentes"
+        ],
+        "respuesta_correcta": "El servicio que garantiza la asistencia sanitaria 24 horas al día"
+    },
+    {
+        "id": "academia_t5_test3_q17",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "Se considera falta muy grave el quebrantamiento del secreto profesional:",
+        "opciones": [
+            "Solo si causa perjuicio a la Administración",
+            "Siempre, con independencia de si causa perjuicio",
+            "Cuando suponga un perjuicio grave para el interesado o para la asistencia",
+            "Es una falta grave, no muy grave"
+        ],
+        "respuesta_correcta": "Cuando suponga un perjuicio grave para el interesado o para la asistencia"
+    },
+    {
+        "id": "academia_t5_test3_q18",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "Las infracciones en materia de incompatibilidades se consideran:",
+        "opciones": [
+            "Faltas leves",
+            "Faltas graves",
+            "Faltas muy graves",
+            "Depende de la cuantía económica percibida"
+        ],
+        "respuesta_correcta": "Faltas muy graves"
+    },
+    {
+        "id": "academia_t5_test3_q19",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El personal estatutario tiene derecho a permisos retribuidos por:",
+        "opciones": [
+            "Fallecimiento, accidente o enfermedad grave de un familiar",
+            "Traslado de domicilio",
+            "Cumplimiento de un deber inexcusable",
+            "Todas las anteriores son correctas"
+        ],
+        "respuesta_correcta": "Todas las anteriores son correctas"
+    },
+    {
+        "id": "academia_t5_test3_q20",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El periodo de prueba para el personal de gestión y servicios de formación no universitaria (Técnicos) es de:",
+        "opciones": [
+            "Dos meses",
+            "Tres meses",
+            "Un mes",
+            "Seis meses"
+        ],
+        "respuesta_correcta": "Dos meses"
+    },
+    {
+        "id": "academia_t5_test3_q21",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "La situación de excedencia voluntaria por agrupación familiar se concede por un periodo de:",
+        "opciones": [
+            "Mínimo de dos años y máximo de quince",
+            "Sin duración mínima ni máxima",
+            "Un año máximo",
+            "Tres años"
+        ],
+        "respuesta_correcta": "Sin duración mínima ni máxima"
+    },
+    {
+        "id": "academia_t5_test3_q22",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "La pérdida de la nacionalidad española o de un estado miembro de la UE conlleva:",
+        "opciones": [
+            "La pérdida de la condición de personal estatutario, salvo que se adquiera otra nacionalidad habilitante",
+            "El paso a la situación de excedencia",
+            "Una sanción de suspensión de funciones",
+            "No afecta a la condición de personal fijo"
+        ],
+        "respuesta_correcta": "La pérdida de la condición de personal estatutario, salvo que se adquiera otra nacionalidad habilitante"
+    },
+    {
+        "id": "academia_t5_test3_q23",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "¿Qué ocurre si el personal estatutario no se incorpora a su destino tras un concurso de traslados en el plazo establecido?",
+        "opciones": [
+            "Se le declara de oficio en situación de excedencia voluntaria por interés particular",
+            "Se le sanciona con separación del servicio",
+            "Pierde el derecho a la movilidad de por vida",
+            "Se le anula el nombramiento previo de personal fijo"
+        ],
+        "respuesta_correcta": "Se le declara de oficio en situación de excedencia voluntaria por interés particular"
+    },
+    {
+        "id": "academia_t5_test3_q24",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El 'complemento de destino' retribuye:",
+        "opciones": [
+            "El nivel del puesto de trabajo",
+            "La distancia al domicilio",
+            "La peligrosidad",
+            "El título universitario"
+        ],
+        "respuesta_correcta": "El nivel del puesto de trabajo"
+    },
+    {
+        "id": "academia_t5_test3_q25",
+        "tema": "Tema 5: Test 3",
+        "pregunta": "El personal estatutario tiene derecho a participar en la gestión de su unidad a través de:",
+        "opciones": [
+            "La negociación colectiva únicamente",
+            "Los órganos de representación y participación previstos",
+            "Asambleas diarias",
+            "Votación directa del Gerente"
+        ],
+        "respuesta_correcta": "Los órganos de representación y participación previstos"
     }
 ]
