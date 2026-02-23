@@ -1558,5 +1558,365 @@
             "Sorteo ante notario"
         ],
         "respuesta_correcta": "Igualdad, mérito y capacidad"
+    },
+    {
+        "id": "academia_t5_test6_q1",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "¿Qué norma regula la relación funcionarial especial del personal estatutario de los servicios de salud?",
+        "opciones": [
+            "La Ley 55/2003, de 16 de diciembre",
+            "El Estatuto de los Trabajadores",
+            "La Ley 14/1986 General de Sanidad",
+            "La Constitución Española únicamente"
+        ],
+        "respuesta_correcta": "La Ley 55/2003, de 16 de diciembre"
+    },
+    {
+        "id": "academia_t5_test6_q2",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "El personal estatutario se clasifica en las categorías de:",
+        "opciones": [
+            "Sanitario y de gestión y servicios",
+            "Médico, enfermero y administrativo",
+            "Fijo y temporal únicamente",
+            "Catedrático, titular y adjunto"
+        ],
+        "respuesta_correcta": "Sanitario y de gestión y servicios"
+    },
+    {
+        "id": "academia_t5_test6_q3",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "¿Cuál de las siguientes es una retribución básica?",
+        "opciones": [
+            "Sueldo, trienios y pagas extraordinarias",
+            "Complemento de destino",
+            "Productividad variable",
+            "Carrera profesional"
+        ],
+        "respuesta_correcta": "Sueldo, trienios y pagas extraordinarias"
+    },
+    {
+        "id": "academia_t5_test6_q4",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "La situación de 'excedencia voluntaria por interés particular' requiere:",
+        "opciones": [
+            "Haber prestado servicios efectivos durante los 5 años inmediatamente anteriores",
+            "Una antigüedad mínima de 2 años",
+            "Ser personal temporal con más de 10 años de servicio",
+            "No requiere tiempo mínimo de servicio"
+        ],
+        "respuesta_correcta": "Haber prestado servicios efectivos durante los 5 años inmediatamente anteriores"
+    },
+    {
+        "id": "academia_t5_test6_q5",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "¿Cuál es la sanción máxima por una falta grave?",
+        "opciones": [
+            "Suspensión de funciones por tiempo no superior a dos años",
+            "Separación del servicio definitiva",
+            "Apercibimiento verbal",
+            "Traslado forzoso a otra comunidad autónoma"
+        ],
+        "respuesta_correcta": "Suspensión de funciones por tiempo no superior a dos años"
+    },
+    {
+        "id": "academia_t5_test6_q6",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "El descanso semanal mínimo para el personal estatutario será de:",
+        "opciones": [
+            "36 horas ininterrumpidas",
+            "24 horas",
+            "48 horas",
+            "12 horas entre turnos"
+        ],
+        "respuesta_correcta": "36 horas ininterrumpidas"
+    },
+    {
+        "id": "academia_t5_test6_q7",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "Se considera falta muy grave:",
+        "opciones": [
+            "El abandono del servicio",
+            "La falta de asistencia de un día",
+            "La incorrección con los compañeros",
+            "El descuido en el material de oficina"
+        ],
+        "respuesta_correcta": "El abandono del servicio"
+    },
+    {
+        "id": "academia_t5_test6_q8",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "¿Qué retribución complementaria compensa la realización de jornadas nocturnas o en festivos?",
+        "opciones": [
+            "El complemento de atención continuada",
+            "El complemento específico",
+            "El complemento de destino",
+            "El sueldo base"
+        ],
+        "respuesta_correcta": "El complemento de atención continuada"
+    },
+    {
+        "id": "academia_t5_test6_q9",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "El personal estatutario fijo tiene derecho a la carrera profesional, que es:",
+        "opciones": [
+            "Voluntaria e individualizada",
+            "Obligatoria cada 5 años",
+            "Solo para el personal médico",
+            "Un ascenso de puesto de trabajo"
+        ],
+        "respuesta_correcta": "Voluntaria e individualizada"
+    },
+    {
+        "id": "academia_t5_test6_q10",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "La situación de servicios especiales conlleva:",
+        "opciones": [
+            "Reserva de la plaza que se ocupaba",
+            "Pérdida de la antigüedad",
+            "Cese definitivo en el servicio de salud",
+            "Reducción del sueldo al 50%"
+        ],
+        "respuesta_correcta": "Reserva de la plaza que se ocupaba"
+    },
+    {
+        "id": "academia_t5_test6_q11",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "El periodo de prueba para el subgrupo A1 no podrá exceder de:",
+        "opciones": [
+            "Seis meses",
+            "Tres meses",
+            "Un mes",
+            "Dos meses"
+        ],
+        "respuesta_correcta": "Seis meses"
+    },
+    {
+        "id": "academia_t5_test6_q12",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "Las faltas graves prescriben a los:",
+        "opciones": [
+            "Dos años",
+            "Seis meses",
+            "Tres años",
+            "Un año"
+        ],
+        "respuesta_correcta": "Dos años"
+    },
+    {
+        "id": "academia_t5_test6_q13",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "¿Quién es el titular del derecho a la huelga en el ámbito estatutario?",
+        "opciones": [
+            "El personal estatutario, garantizando servicios esenciales",
+            "Solo el personal no sanitario",
+            "Nadie, está prohibido",
+            "Solo los sindicatos mayoritarios"
+        ],
+        "respuesta_correcta": "El personal estatutario, garantizando servicios esenciales"
+    },
+    {
+        "id": "academia_t5_test6_q14",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "La reincorporación al servicio activo tras una excedencia por cuidado de hijos en el segundo año se hará:",
+        "opciones": [
+            "En el mismo puesto si hay vacante",
+            "En un puesto de la misma localidad",
+            "Se pierde el derecho a la plaza",
+            "Automáticamente en su plaza de origen"
+        ],
+        "respuesta_correcta": "En un puesto de la misma localidad"
+    },
+    {
+        "id": "academia_t5_test6_q15",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "Se considera personal sustituto aquel que:",
+        "opciones": [
+            "Cubre las ausencias por vacaciones o permisos de otro trabajador",
+            "Ocupa una vacante de forma definitiva",
+            "Realiza guardias de forma exclusiva",
+            "Es contratado por ETT"
+        ],
+        "respuesta_correcta": "Cubre las ausencias por vacaciones o permisos de otro trabajador"
+    },
+    {
+        "id": "academia_t5_test6_q16",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "El 'complemento de destino' se asigna según:",
+        "opciones": [
+            "El nivel del puesto de trabajo",
+            "La titulación del trabajador",
+            "Los años de antigüedad",
+            "La calidad del trabajo"
+        ],
+        "respuesta_correcta": "El nivel del puesto de trabajo"
+    },
+    {
+        "id": "academia_t5_test6_q17",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "La jubilación forzosa se produce al cumplir los:",
+        "opciones": [
+            "65 años (con posibilidad de prórroga hasta los 70)",
+            "60 años",
+            "67 años obligatoriamente",
+            "70 años para todos"
+        ],
+        "respuesta_correcta": "65 años (con posibilidad de prórroga hasta los 70)"
+    },
+    {
+        "id": "academia_t5_test6_q18",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "¿Qué es la 'movilidad interna'?",
+        "opciones": [
+            "El cambio de puesto de trabajo dentro del mismo centro o institución",
+            "El traslado a otra comunidad autónoma",
+            "La promoción a una categoría superior",
+            "El cambio de servicio de salud"
+        ],
+        "respuesta_correcta": "El cambio de puesto de trabajo dentro del mismo centro o institución"
+    },
+    {
+        "id": "academia_t5_test6_q19",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "Las infracciones en materia de prevención de riesgos laborales son:",
+        "opciones": [
+            "Sancionables conforme a la normativa de prevención y al Estatuto Marco",
+            "Inexistentes en el ámbito sanitario público",
+            "Solo responsabilidad del Gerente",
+            "Materia exclusiva del Código Penal"
+        ],
+        "respuesta_correcta": "Sancionables conforme a la normativa de prevención y al Estatuto Marco"
+    },
+    {
+        "id": "academia_t5_test6_q20",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "El personal estatutario tiene derecho a percibir:",
+        "opciones": [
+            "Indemnizaciones por gastos de traslado o dietas",
+            "Propinas de los pacientes",
+            "Comisiones por farmacia",
+            "Préstamos sin interés del hospital"
+        ],
+        "respuesta_correcta": "Indemnizaciones por gastos de traslado o dietas"
+    },
+    {
+        "id": "academia_t5_test6_q21",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "La sanción de 'separación del servicio' implica:",
+        "opciones": [
+            "La pérdida definitiva de la condición de personal estatutario",
+            "Un traslado forzoso a otra provincia",
+            "La suspensión de sueldo por 5 años",
+            "La jubilación anticipada forzosa"
+        ],
+        "respuesta_correcta": "La pérdida definitiva de la condición de personal estatutario"
+    },
+    {
+        "id": "academia_t5_test6_q22",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "¿Qué es el 'personal eventual'?",
+        "opciones": [
+            "Aquel nombrado para servicios determinados de naturaleza temporal o extraordinaria",
+            "Personal fijo que trabaja a tiempo parcial",
+            "Médicos en formación MIR",
+            "Personal administrativo contratado por obra y servicio"
+        ],
+        "respuesta_correcta": "Aquel nombrado para servicios determinados de naturaleza temporal o extraordinaria"
+    },
+    {
+        "id": "academia_t5_test6_q23",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "La selección por el sistema de 'oposición' consiste en:",
+        "opciones": [
+            "La celebración de una o varias pruebas para determinar la aptitud de los aspirantes",
+            "La valoración de los méritos aportados",
+            "La suma de exámenes y méritos",
+            "Una entrevista personal con el Gerente"
+        ],
+        "respuesta_correcta": "La celebración de una o varias pruebas para determinar la aptitud de los aspirantes"
+    },
+    {
+        "id": "academia_t5_test6_q24",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "El personal estatutario tiene el deber de participar en:",
+        "opciones": [
+            "Las actividades de formación continuada",
+            "Todas las manifestaciones sindicales",
+            "La limpieza de su área de trabajo",
+            "Las juntas de vecinos del barrio"
+        ],
+        "respuesta_correcta": "Las actividades de formación continuada"
+    },
+    {
+        "id": "academia_t5_test6_q25",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "Las pagas extraordinarias se devengan en los meses de:",
+        "opciones": [
+            "Junio y Diciembre",
+            "Enero y Julio",
+            "Marzo y Septiembre",
+            "Agosto y Enero"
+        ],
+        "respuesta_correcta": "Junio y Diciembre"
+    },
+    {
+        "id": "academia_t5_test6_q26",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "Se entiende por 'trienio':",
+        "opciones": [
+            "Cada tres años de servicios prestados",
+            "Un aumento de sueldo cada dos años",
+            "El tiempo mínimo para pedir traslado",
+            "Un permiso especial de tres meses"
+        ],
+        "respuesta_correcta": "Cada tres años de servicios prestados"
+    },
+    {
+        "id": "academia_t5_test6_q27",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "¿Qué ley establece las bases del régimen estatutario para todo el territorio nacional?",
+        "opciones": [
+            "La Ley 55/2003",
+            "La Ley 8/2000 de Castilla-La Mancha",
+            "El Código del Trabajo",
+            "La Ley de Procedimiento Administrativo"
+        ],
+        "respuesta_correcta": "La Ley 55/2003"
+    },
+    {
+        "id": "academia_t5_test6_q28",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "La situación de 'excedencia voluntaria' no conlleva:",
+        "opciones": [
+            "Derecho a la reserva de la plaza",
+            "Cómputo de trienios",
+            "Ambas son correctas (no conlleva ninguna)",
+            "Derecho a seguir cobrando productividad"
+        ],
+        "respuesta_correcta": "Ambas son correctas (no conlleva ninguna)"
+    },
+    {
+        "id": "academia_t5_test6_q29",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "En un expediente disciplinario, la 'presunción de inocencia':",
+        "opciones": [
+            "Es un derecho fundamental que debe respetarse",
+            "No se aplica al personal estatutario",
+            "Solo se aplica en juicios penales",
+            "Se pierde si el Gerente tiene pruebas visuales"
+        ],
+        "respuesta_correcta": "Es un derecho fundamental que debe respetarse"
+    },
+    {
+        "id": "academia_t5_test6_q30",
+        "tema": "Tema 5: Test 6",
+        "pregunta": "El personal estatutario tiene derecho a la protección de su intimidad en el trabajo:",
+        "opciones": [
+            "Sí, frente al acoso y el trato denigrante",
+            "No, por ser un servicio público",
+            "Solo en las zonas de descanso",
+            "Solo si lo solicita por escrito cada año"
+        ],
+        "respuesta_correcta": "Sí, frente al acoso y el trato denigrante"
     }
 ]
