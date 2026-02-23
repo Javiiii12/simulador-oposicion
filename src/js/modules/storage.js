@@ -81,16 +81,6 @@ export function clearUser() {
 export function getDeviceRegisteredFor() { return localStorage.getItem(KEYS.DEVICE_REGISTERED); }
 export function setDeviceRegisteredFor(val) { localStorage.setItem(KEYS.DEVICE_REGISTERED, val); }
 
-// Device confirmation index for a specific user (handles resets)
-export function getConfirmedIdx(userId) {
-    const normalized = userId.trim().toLowerCase();
-    return parseInt(localStorage.getItem(`ope_confidx_${normalized}`)) || 0;
-}
-export function setConfirmedIdx(userId, idx) {
-    const normalized = userId.trim().toLowerCase();
-    localStorage.setItem(`ope_confidx_${normalized}`, idx.toString());
-}
-
 export function getOrCreateDeviceId() {
     let id = localStorage.getItem(KEYS.DEVICE_ID);
     if (!id) {

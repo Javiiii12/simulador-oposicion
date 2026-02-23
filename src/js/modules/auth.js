@@ -64,32 +64,48 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         Storage.setPrefix(userId.trim()); // Isolate progress data
 
         const { id: deviceId } = Storage.getOrCreateDeviceId();
+        const shortId = deviceId.substring(0, 10);
         let currentDevices = data.dispositivos_usados || 0;
         const exactId = data.id_acceso;
-        const normalizedUserId = userId.trim().toLowerCase();
 
-        // Robust Device Sync: Check if this specific hardware has "confirmed" its slot in the current DB state.
-        const confirmedIdx = Storage.getConfirmedIdx(normalizedUserId);
-        let needsRegistration = false;
+        // LOG-BASED SYNC: Fetch the last successful login for this user to detect hardware switch
+        let needsIncrement = false;
+        try {
+            const { data: lastLogs, error: logError } = await state.supabaseClient
+                .from('access_logs')
+                .select('device_info')
+                .eq('status', 'success')
+                .ilike('device_info', `%(${exactId})%`)
+                .order('created_at', { ascending: false })
+                .limit(1);
 
-        if (confirmedIdx === 0) {
-            // Never registered for this user
-            needsRegistration = true;
-        } else if (currentDevices === 0 || currentDevices < confirmedIdx) {
-            // DB was reset or is inconsistent with our local record
-            console.warn(`Sincronización de dispositivo: El contador (${currentDevices}) es menor que el índice confirmado (${confirmedIdx}). Re-registrando...`);
-            needsRegistration = true;
+            if (logError) throw logError;
+
+            if (currentDevices === 0) {
+                // DB was reset or first login — always claim slot 1
+                needsIncrement = true;
+            } else if (lastLogs && lastLogs.length > 0) {
+                // Check if the last hardware used was different from this one
+                const lastInfo = lastLogs[0].device_info || '';
+                const lastDevMatch = lastInfo.match(/DevId: ([a-z0-9]+)/);
+                const lastDevId = lastDevMatch ? lastDevMatch[1] : '';
+
+                if (lastDevId && lastDevId !== shortId && currentDevices < MAX_DEVICES) {
+                    console.log(`Hardware switch detected (Last: ${lastDevId}, Current: ${shortId}). Incrementing counter...`);
+                    needsIncrement = true;
+                }
+            } else if (currentDevices < MAX_DEVICES) {
+                // No logs found but counter is > 0? Might be legacy or weird state.
+                // If it's the first time we see logs for this exact user, but counter is > 0,
+                // we assume another device already took a slot.
+                needsIncrement = false;
+            }
+        } catch (e) {
+            console.warn('Sync check failed, falling back to safe mode:', e);
         }
 
-        if (needsRegistration) {
-            if (currentDevices >= MAX_DEVICES) {
-                onDenied(`Límite alcanzado: esta licencia ya usa ${MAX_DEVICES} dispositivos.`);
-                Storage.clearUser();
-                Storage.setPrefix(null);
-                return;
-            }
+        if (needsIncrement) {
             currentDevices++;
-
             const { error: updateError } = await state.supabaseClient
                 .from('usuarios_acceso')
                 .update({ dispositivos_usados: currentDevices })
@@ -98,17 +114,16 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             if (updateError) {
                 console.error('Error al actualizar dispositivos_usados:', updateError);
             } else {
-                Storage.setConfirmedIdx(normalizedUserId, currentDevices);
-                console.log(`Dispositivo sincronizado en slot ${currentDevices}/${MAX_DEVICES}`);
+                console.log(`Dispositivo sincronizado. Total: ${currentDevices}/${MAX_DEVICES}`);
             }
         }
 
-        // Log access
+        // Log access with hardware ID
         try {
             await state.supabaseClient.from('access_logs').insert([{
                 created_at: new Date().toISOString(),
                 status: 'success',
-                device_info: `${data.nombre} (${data.id_acceso}) — Disp: ${currentDevices}/${MAX_DEVICES} — DevId: ${deviceId.substring(0, 10)}`
+                device_info: `${data.nombre} (${data.id_acceso}) — Disp: ${currentDevices}/${MAX_DEVICES} — DevId: ${shortId}`
             }]);
         } catch (e) { console.warn('Log access error:', e); }
 
