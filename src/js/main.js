@@ -218,7 +218,12 @@ function triggerGameStart(mode) {
 
 function initRandomView() {
     const selectMix = document.getElementById('select-mix-type');
-    if (selectMix) { selectMix.value = 'general'; onMixTypeChange({ target: selectMix }); }
+    if (selectMix) {
+        selectMix.value = 'general';
+        // Ensure listener is attached (initially or if re-init)
+        selectMix.onchange = onMixTypeChange;
+        onMixTypeChange({ target: selectMix });
+    }
     const selTema = document.getElementById('select-tema-num');
     if (selTema && selTema.options.length === 0) {
         for (let i = 1; i <= 16; i++) {
@@ -227,7 +232,8 @@ function initRandomView() {
             selTema.appendChild(opt);
         }
     }
-    document.getElementById('random-count').value = 20;
+    const countInput = document.getElementById('random-count');
+    if (countInput) countInput.value = 20;
 }
 
 function onMixTypeChange(e) {
@@ -241,29 +247,51 @@ function startRandom() {
     const mixType = document.getElementById('select-mix-type').value;
     let pool = [], desc = '';
 
+    console.log(`Random mode init: mix=${mixType}, count=${count}, total_data=${state.allQuestions.length}`);
+
     if (mixType === 'general') {
         pool = state.allQuestions; desc = 'General Total';
     } else if (mixType === 'origen') {
         const val = document.getElementById('select-origen').value;
-        pool = state.allQuestions.filter(q => q.origen === val); desc = val;
+        pool = state.allQuestions.filter(q => q.origen === val);
+        desc = val;
     } else if (mixType === 'oficial') {
         const val = document.getElementById('select-oficial').value;
-        if (val === 'todos') pool = state.allQuestions.filter(q => q.origen === 'Historico');
-        else if (val === 'SESCAM') pool = state.allQuestions.filter(q => q.origen === 'Historico' && q.tema.includes('SESCAM'));
-        else pool = state.allQuestions.filter(q => q.origen === 'Historico' && !q.tema.includes('SESCAM'));
-        desc = val;
+        if (val === 'todos') {
+            pool = state.allQuestions.filter(q => q.origen === 'Historico');
+        } else if (val === 'SESCAM') {
+            pool = state.allQuestions.filter(q => q.origen === 'Historico' && q.tema && q.tema.includes('SESCAM'));
+        } else {
+            pool = state.allQuestions.filter(q => q.origen === 'Historico' && q.tema && !q.tema.includes('SESCAM'));
+        }
+        desc = `Oficial: ${val}`;
     } else if (mixType === 'tema') {
-        const temaVal = document.getElementById('select-tema-num').value;
-        const fuenteVal = document.getElementById('select-tema-fuente').value;
-        pool = state.allQuestions.filter(q => q.tema && q.tema.includes(temaVal + ':'));
-        if (fuenteVal !== 'todas') pool = pool.filter(q => q.origen === fuenteVal);
+        const temaVal = document.getElementById('select-tema-num').value; // e.g. "Tema 1"
+        const fuenteVal = document.getElementById('select-tema-fuente').value; // e.g. "CSIF", "MAD", "Academia", "todas"
+
+        pool = state.allQuestions.filter(q => {
+            if (!q.tema) return false;
+            // Robust match: "Tema 1: ..." or exactly "Tema 1"
+            const matchesTema = q.tema.startsWith(temaVal + ':') || q.tema.startsWith(temaVal + ' ') || q.tema === temaVal;
+            if (!matchesTema) return false;
+
+            if (fuenteVal !== 'todas') {
+                return q.origen === fuenteVal;
+            }
+            return true;
+        });
         desc = temaVal;
     }
 
-    if (pool.length === 0) return alert('No hay preguntas para este filtro.');
+    if (pool.length === 0) {
+        console.warn(`Random pool empty for type=${mixType}`);
+        return alert('No hay preguntas para este filtro.');
+    }
+
     const selected = [...pool].sort(() => 0.5 - Math.random()).slice(0, Math.min(count, pool.length));
     Topics.prepareModeSelection(`Aleatorio: ${desc} (${selected.length} pregs)`, () => selected);
 }
+
 
 function showProgress() {
     const tbody = document.getElementById('progress-body');
