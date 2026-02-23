@@ -11,7 +11,7 @@ export const TOPIC_TITLES = {
     "Tema 1": "La Constitución Española de 1978",
     "Tema 2": "Estatuto de Autonomía de Castilla-La Mancha",
     "Tema 3": "Ley General de Sanidad y Servicio de Salud de CLM",
-    "Tema 4": "Ley 41/2002: Autonomía del paciente e información",
+    "Tema 4": "Ley de Ordenación Sanitaria de CLM: Competencias AAPP. SESCAM: Funciones, Organización y Estructura",
     "Tema 5": "Igualdad efectiva, Violencia de género y Discapacidad",
     "Tema 6": "Régimen Jurídico del Personal Estatutario",
     "Tema 7": "Plan de autoprotección y prevención de incendios",
