@@ -60,14 +60,19 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             return;
         }
 
-        const { id: deviceId, isNew } = Storage.getOrCreateDeviceId();
+        const { id: deviceId } = Storage.getOrCreateDeviceId();
         let currentDevices = data.dispositivos_usados || 0;
 
         // Use exact id_acceso from DB record to avoid case issues on UPDATE
         const exactId = data.id_acceso;
+        const normalizedUserId = userId.trim().toLowerCase();
+
+        // A device is NEW if it has never successfully registered for THIS user
+        const registeredFor = Storage.getDeviceRegisteredFor();
+        const isNew = registeredFor !== normalizedUserId;
 
         if (isNew) {
-            // New device on this browser for the first time
+            // New device for this user — check limit
             if (currentDevices >= MAX_DEVICES) {
                 onDenied(`Límite alcanzado: esta licencia ya usa ${MAX_DEVICES} dispositivos.`);
                 Storage.clearUser();
@@ -75,7 +80,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             }
             currentDevices++;
 
-            // Use .eq() with the exact key from DB — more reliable than .ilike() for UPDATE
+            // Use .eq() with exact key — more reliable than .ilike() for UPDATE
             const { error: updateError } = await state.supabaseClient
                 .from('usuarios_acceso')
                 .update({ dispositivos_usados: currentDevices })
@@ -84,17 +89,9 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             if (updateError) {
                 console.error('Error al actualizar dispositivos_usados:', updateError);
             } else {
+                // Only mark as registered locally after successful Supabase write
+                Storage.setDeviceRegisteredFor(normalizedUserId);
                 console.log(`Dispositivo registrado. Total: ${currentDevices}/${MAX_DEVICES}`);
-            }
-        } else {
-            // Known device (already in localStorage) — re-check counter is consistent
-            // If somehow the counter is 0 but we have a deviceId, fix it silently
-            if (currentDevices === 0) {
-                const { error: fixError } = await state.supabaseClient
-                    .from('usuarios_acceso')
-                    .update({ dispositivos_usados: 1 })
-                    .eq('id_acceso', exactId);
-                if (!fixError) currentDevices = 1;
             }
         }
 
@@ -105,7 +102,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             await state.supabaseClient.from('access_logs').insert([{
                 created_at: new Date().toISOString(),
                 status: 'success',
-                device_info: `${data.nombre} (${data.id_acceso}) — Disp: ${currentDevices}/${MAX_DEVICES} — DevId: ${deviceId}`
+                device_info: `${data.nombre} (${data.id_acceso}) — Disp: ${currentDevices}/${MAX_DEVICES} — DevId: ${deviceId.substring(0, 10)}`
             }]);
         } catch (e) { console.warn('Log access error:', e); }
 
@@ -116,6 +113,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         onDenied("Error de conexión al validar el acceso.");
     }
 }
+
 
 /**
  * Main entry point — checks URL param → localStorage → denies.

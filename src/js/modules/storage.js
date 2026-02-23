@@ -7,6 +7,7 @@ const KEYS = {
     PROGRESS: 'ope_progress',
     USER_ACCESS: 'ope_user_access',
     DEVICE_ID: 'ope_device_id',
+    DEVICE_REGISTERED: 'ope_device_registered', // userId this device was last registered for
     VERSION_DATA: 'ope_version_data'
 };
 
@@ -56,7 +57,14 @@ export function clearHistory() {
 
 export function getSavedUser() { return localStorage.getItem(KEYS.USER_ACCESS); }
 export function saveUser(id) { localStorage.setItem(KEYS.USER_ACCESS, id); }
-export function clearUser() { localStorage.removeItem(KEYS.USER_ACCESS); localStorage.removeItem(KEYS.DEVICE_ID); }
+export function clearUser() {
+    localStorage.removeItem(KEYS.USER_ACCESS);
+    localStorage.removeItem(KEYS.DEVICE_ID);
+    localStorage.removeItem(KEYS.DEVICE_REGISTERED);
+}
+
+export function getDeviceRegisteredFor() { return localStorage.getItem(KEYS.DEVICE_REGISTERED); }
+export function setDeviceRegisteredFor(userId) { localStorage.setItem(KEYS.DEVICE_REGISTERED, userId); }
 
 export function getOrCreateDeviceId() {
     let id = localStorage.getItem(KEYS.DEVICE_ID);
