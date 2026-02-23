@@ -15,7 +15,7 @@ export const TOPIC_TITLES = {
     "Tema 5": "Estatuto Marco del Personal Estatutario",
     "Tema 6": "Régimen Jurídico del Personal Estatutario",
     "Tema 7": "Plan de autoprotección y prevención de incendios",
-    "Tema 8": "El Celador en el Servicio de Urgencias",
+    "Tema 8": "Ley de Prevención de Riesgos Laborales",
     "Tema 9": "Gestión de residuos sanitarios y medio ambiente",
     "Tema 10": "Distribución del trabajo en cocina",
     "Tema 11": "Los alimentos: clasificación y características",
