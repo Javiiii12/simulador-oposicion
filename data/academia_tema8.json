@@ -646,5 +646,353 @@
             "Un instrumento de producción"
         ],
         "respuesta_correcta": "El equipo de trabajo"
+    },
+    {
+        "id": "academia_t8_test3_q1",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el art. 26 de la Ley 31/1995, si los resultados de la evaluación revelasen un riesgo para la seguridad y la salud de la trabajadora embarazada, el empresario deberá, en primer lugar:",
+        "opciones": [
+            "Proceder a la adaptación de las condiciones o del tiempo de trabajo de la trabajadora afectada",
+            "Hacer que desempeñe un puesto de trabajo o función diferente y compatible con su estado",
+            "Proceder a la suspensión del contrato por riesgo durante el embarazo",
+            "Proceder a la suspensión del contrato y dejar de remunerar a la trabajadora"
+        ],
+        "respuesta_correcta": "Proceder a la adaptación de las condiciones o del tiempo de trabajo de la trabajadora afectada"
+    },
+    {
+        "id": "academia_t8_test3_q2",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, NO es una competencia de los Delegados de Prevención:",
+        "opciones": [
+            "Colaborar con la dirección de la empresa en la mejora de la acción preventiva",
+            "Promover y fomentar la cooperación de los trabajadores en la ejecución de la normativa sobre prevención de riesgos laborales",
+            "Ejercer una labor de vigilancia y control sobre el cumplimiento de la normativa de prevención de riesgos laborales",
+            "Elaborar los Planes de Seguridad y Salud dentro de la empresa"
+        ],
+        "respuesta_correcta": "Elaborar los Planes de Seguridad y Salud dentro de la empresa"
+    },
+    {
+        "id": "academia_t8_test3_q3",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el art. 29 de la Ley 31/1995, el incumplimiento por los trabajadores de las obligaciones en materia de prevención de riesgos:",
+        "opciones": [
+            "Dará lugar a responsabilidades administrativas o penales",
+            "Tendrá la consideración de incumplimiento laboral a los efectos previstos en el Estatuto de los Trabajadores o de falta conforme a la normativa sobre régimen disciplinario del personal al servicio de las Administraciones públicas",
+            "Podrá ser sancionado con el despido disciplinario o la separación del servicio",
+            "No supone ninguna consecuencia para el trabajador"
+        ],
+        "respuesta_correcta": "Tendrá la consideración de incumplimiento laboral a los efectos previstos en el Estatuto de los Trabajadores o de falta conforme a la normativa sobre régimen disciplinario del personal al servicio de las Administraciones públicas"
+    },
+    {
+        "id": "academia_t8_test3_q4",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "De acuerdo con la normativa reguladora de la prevención de riesgos laborales, ¿cuál de los siguientes NO es un principio de la acción preventiva?",
+        "opciones": [
+            "Evaluar los riesgos que no se puedan evitar",
+            "Adoptar medidas que antepongan la protección individual a la colectiva",
+            "Evitar los riesgos como primera medida",
+            "Combatir los riesgos en su origen"
+        ],
+        "respuesta_correcta": "Adoptar medidas que antepongan la protección individual a la colectiva"
+    },
+    {
+        "id": "academia_t8_test3_q5",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Uno de los principios preventivos que establece la Ley 31/1995 de Prevención de Riesgos Laborales es:",
+        "opciones": [
+            "Anteponer la protección individual a la colectiva",
+            "Elaborar un plan de emergencias",
+            "Dar las debidas instrucciones a los trabajadores",
+            "Elaborar un plan de salvamento"
+        ],
+        "respuesta_correcta": "Dar las debidas instrucciones a los trabajadores"
+    },
+    {
+        "id": "academia_t8_test3_q6",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Se considerarán como 'daños derivados del trabajo':",
+        "opciones": [
+            "Los riesgos laborales que resulta probable racionalmente que se materialicen en un futuro inmediato",
+            "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo",
+            "Los riesgos que puedan suponer un daño grave para la salud de los trabajadores",
+            "Cualquier característica que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador"
+        ],
+        "respuesta_correcta": "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo"
+    },
+    {
+        "id": "academia_t8_test3_q7",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud:",
+        "opciones": [
+            "Que podrá prolongarse más allá de la finalización de la relación laboral",
+            "Solamente si la duración de la relación de trabajo temporal es superior a los tres meses",
+            "Solamente si la duración de la relación de trabajo temporal es superior a los seis meses",
+            "Excepto a los contratados por empresas de trabajo temporal"
+        ],
+        "respuesta_correcta": "Que podrá prolongarse más allá de la finalización de la relación laboral"
+    },
+    {
+        "id": "academia_t8_test3_q8",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según la Ley 31/1995, la Comisión Nacional de Seguridad y Salud en el Trabajo es:",
+        "opciones": [
+            "Un órgano del Ministerio de Trabajo y Economía Social",
+            "Un órgano colegiado asesor de las Administraciones públicas en la formulación de las políticas de prevención",
+            "Una entidad público-privada que elabora normativa de prevención de los riesgos laborales",
+            "Una entidad española que representa al Estado español en el Comité Internacional de Seguridad Laboral"
+        ],
+        "respuesta_correcta": "Un órgano colegiado asesor de las Administraciones públicas en la formulación de las políticas de prevención"
+    },
+    {
+        "id": "academia_t8_test3_q9",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "El ámbito de actuación del Plan Perseo comprende:",
+        "opciones": [
+            "Todo el personal sanitario del SESCAM",
+            "Todos los trabajadores del SESCAM",
+            "Todos los trabajadores socio-sanitarios de la Junta de Comunidades de Castilla-La Mancha",
+            "Todos los trabajadores de la Junta de Comunidades de Castilla-La Mancha"
+        ],
+        "respuesta_correcta": "Todos los trabajadores del SESCAM"
+    },
+    {
+        "id": "academia_t8_test3_q10",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "El Plan Perseo incluye en su ámbito de aplicación:",
+        "opciones": [
+            "A los trabajadores del SESCAM",
+            "A los usuarios del Servicio de Salud",
+            "A los bienes y estructuras del SESCAM",
+            "Todas las opciones son correctas"
+        ],
+        "respuesta_correcta": "Todas las opciones son correctas"
+    },
+    {
+        "id": "academia_t8_test3_q11",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "En las relaciones de trabajo a través de empresas de trabajo temporal, será responsable del cumplimiento de las obligaciones en materia de formación y vigilancia de la salud:",
+        "opciones": [
+            "La empresa usuaria",
+            "La Gerencia de Inspección y Coordinación",
+            "La empresa de trabajo temporal",
+            "La Comunidad Autónoma a través de sus órganos competentes"
+        ],
+        "respuesta_correcta": "La empresa de trabajo temporal"
+    },
+    {
+        "id": "academia_t8_test3_q12",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Indique en qué empresa existe la obligación de constituir un Comité de Seguridad y Salud:",
+        "opciones": [
+            "En una empresa que cuente con 25 trabajadores",
+            "En una empresa que cuente con 50 trabajadores",
+            "En una empresa que cuente con 75 trabajadores",
+            "Las respuestas B y C son correctas"
+        ],
+        "respuesta_correcta": "Las respuestas B y C son correctas"
+    },
+    {
+        "id": "academia_t8_test3_q13",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "En una empresa de 31 trabajadores:",
+        "opciones": [
+            "Habrá un Delegado de Prevención",
+            "El Delegado de Prevención será el Delegado de Personal",
+            "Habrá dos Delegados de Prevención elegidos por y entre los Delegados de Personal",
+            "No habrá Delegado de Prevención"
+        ],
+        "respuesta_correcta": "Habrá un Delegado de Prevención"
+    },
+    {
+        "id": "academia_t8_test3_q14",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "La Resolución de 26/03/2024 de la Dirección Gerencia del SESCAM tiene como objeto:",
+        "opciones": [
+            "Dotar los centros sanitarios de la región de áreas exclusivas para la asistencia sanitaria de menores",
+            "Fijar el protocolo para la detección de menores que puedan haber sufrido situaciones de violencia en el entorno familiar",
+            "Canalizar el ejercicio de acciones para poder identificar menores en situaciones de abandono",
+            "Establecer los criterios de gestión para la acreditación de la certificación negativa de los datos inscritos en el Registro de Delincuentes Sexuales relativo al personal del SESCAM"
+        ],
+        "respuesta_correcta": "Establecer los criterios de gestión para la acreditación de la certificación negativa de los datos inscritos en el Registro de Delincuentes Sexuales relativo al personal del SESCAM"
+    },
+    {
+        "id": "academia_t8_test3_q15",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el art. 27 de la Ley 31/1995, ¿quién establecerá las limitaciones a la contratación de jóvenes menores de dieciocho años en trabajos que presenten riesgos específicos?",
+        "opciones": [
+            "La autoridad laboral",
+            "Las Comunidades Autónomas",
+            "El Ministerio de Trabajo",
+            "El Gobierno"
+        ],
+        "respuesta_correcta": "El Gobierno"
+    },
+    {
+        "id": "academia_t8_test3_q16",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el art. 4 de la Ley 31/1995, ¿cómo se denomina 'cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo'?",
+        "opciones": [
+            "Equipo de trabajo",
+            "Equipo de protección individual",
+            "Equipo de seguridad",
+            "Medida preventiva"
+        ],
+        "respuesta_correcta": "Equipo de protección individual"
+    },
+    {
+        "id": "academia_t8_test3_q17",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "El empresario garantizará a los trabajadores la vigilancia periódica de su estado de salud, que tendrá carácter voluntario para el trabajador salvo que:",
+        "opciones": [
+            "El empresario manifieste lo contrario",
+            "El estado de salud del trabajador pueda constituir un peligro para él mismo o para terceros",
+            "Es voluntaria, en cualquier caso",
+            "Es obligatoria, en cualquier caso"
+        ],
+        "respuesta_correcta": "El estado de salud del trabajador pueda constituir un peligro para él mismo o para terceros"
+    },
+    {
+        "id": "academia_t8_test3_q18",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el art. 34 de la Ley 31/1995, la participación de los trabajadores en cuestiones de prevención se canalizará a través de sus representantes cuando la empresa o centro de trabajo cuente:",
+        "opciones": [
+            "Con seis o más trabajadores",
+            "Con diez o más trabajadores",
+            "Con treinta o más trabajadores",
+            "Con cincuenta o más trabajadores"
+        ],
+        "respuesta_correcta": "Con seis o más trabajadores"
+    },
+    {
+        "id": "academia_t8_test3_q19",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Indicar cuál NO es un objetivo específico del Plan Perseo:",
+        "opciones": [
+            "Elaborar, revisar e implantar planes de autoprotección",
+            "Potenciar vías éticas de solución de conflictos asistenciales o interpersonales",
+            "Establecer mecanismos de vigilancia y contratar personal de seguridad",
+            "Elaborar un mapa de riesgo con la información obtenida de las distintas fuentes"
+        ],
+        "respuesta_correcta": "Establecer mecanismos de vigilancia y contratar personal de seguridad"
+    },
+    {
+        "id": "academia_t8_test3_q20",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el art. 20 de la Ley 31/1995, el empresario deberá analizar las posibles situaciones de emergencia. SEÑALAR LO INCORRECTO respecto a las medidas que debe adoptar:",
+        "opciones": [
+            "Primeros auxilios",
+            "Riesgo biológico",
+            "Evacuación de los trabajadores",
+            "Lucha contra incendios"
+        ],
+        "respuesta_correcta": "Riesgo biológico"
+    },
+    {
+        "id": "academia_t8_test3_q21",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "La no presentación de la certificación negativa del Registro Central de Delincuentes Sexuales, cuando resultara obligatorio en los procesos selectivos del SESCAM, determinará:",
+        "opciones": [
+            "La suspensión cautelar de prestar servicios en unidades de pediatría o en cualquier otro servicio con atención directa a menores",
+            "La comunicación de tal incidencia a la autoridad judicial competente en menores",
+            "La imposibilidad del nombramiento correspondiente",
+            "Autorizar al SESCAM para que compruebe y verifique de oficio los datos contenidos en dicho Registro"
+        ],
+        "respuesta_correcta": "La imposibilidad del nombramiento correspondiente"
+    },
+    {
+        "id": "academia_t8_test3_q22",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el art. 23 de la Ley 31/1995, respecto a los daños para la salud de sus trabajadores producidos con motivo del desarrollo de su trabajo, el empresario está obligado a:",
+        "opciones": [
+            "Notificarlo por escrito a la autoridad laboral",
+            "Comunicarlo a la Inspección de Trabajo y Seguridad Social",
+            "Ponerlo en conocimiento de los delegados de prevención para que adopten las medidas oportunas",
+            "Hacerlo saber al Comité de Seguridad y Salud el cual adoptará una decisión al respecto"
+        ],
+        "respuesta_correcta": "Notificarlo por escrito a la autoridad laboral"
+    },
+    {
+        "id": "academia_t8_test3_q23",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "La definición 'cualquier suceso imprevisto que ocurra en el trabajo, con o sin daños a personas, materiales o maquinaria, pero que suponga un riesgo para las personas' corresponde a:",
+        "opciones": [
+            "Una enfermedad profesional",
+            "Un riesgo laboral",
+            "Un accidente de trabajo",
+            "La ergonomía"
+        ],
+        "respuesta_correcta": "Un accidente de trabajo"
+    },
+    {
+        "id": "academia_t8_test3_q24",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el art. 6 de la Ley 31/1995, los requisitos mínimos que deben reunir las condiciones de trabajo para la protección de la seguridad y la salud de los trabajadores:",
+        "opciones": [
+            "Se establecerán por ley",
+            "Serán regulados por el Gobierno a través de normas reglamentarias",
+            "Se establecerán mediante negociación colectiva",
+            "Serán regulados por las Comunidades Autónomas previa consulta a las organizaciones sindicales y empresariales más representativas"
+        ],
+        "respuesta_correcta": "Serán regulados por el Gobierno a través de normas reglamentarias"
+    },
+    {
+        "id": "academia_t8_test3_q25",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el artículo 16 de la Ley 31/1995, los instrumentos esenciales para la gestión y aplicación del plan de prevención de riesgos, que podrán ser llevados a cabo por fases de forma programada, son:",
+        "opciones": [
+            "La evaluación de riesgos laborales y la planificación de la actividad preventiva",
+            "La formación en el puesto",
+            "La implementación de medidas de salud",
+            "La implementación de buenos hábitos de higiene"
+        ],
+        "respuesta_correcta": "La evaluación de riesgos laborales y la planificación de la actividad preventiva"
+    },
+    {
+        "id": "academia_t8_test3_q26",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Según el art. 15 de la Ley 31/1995, el empresario aplicará las medidas que integran el deber general de prevención, con arreglo al principio general de:",
+        "opciones": [
+            "Adaptar la persona al trabajo",
+            "Combatir los riesgos en su destino",
+            "Dar las debidas instrucciones a los trabajadores",
+            "Adoptar medidas que antepongan la protección individual a la colectiva"
+        ],
+        "respuesta_correcta": "Dar las debidas instrucciones a los trabajadores"
+    },
+    {
+        "id": "academia_t8_test3_q27",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "A tenor de lo dispuesto en la Ley 31/1995, las Administraciones Públicas competentes en materia laboral:",
+        "opciones": [
+            "Desarrollarán, entre otras, labores de formación e investigación en materia preventiva",
+            "Dirigirán y coordinarán la defensa jurídica de los empresarios ante los tribunales en todo lo relativo a la prevención de riesgos",
+            "Dirigirán y coordinarán la defensa de los intereses de los empresarios en todo lo relativo a la prevención de riesgos",
+            "Instarán la publicación en el BOE de todas las malas prácticas en materia de prevención de riesgos"
+        ],
+        "respuesta_correcta": "Desarrollarán, entre otras, labores de formación e investigación en materia preventiva"
+    },
+    {
+        "id": "academia_t8_test3_q28",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "El Plan Perseo aporta recomendaciones a los trabajadores de actuación ante una posible situación de riesgo. Señale la recomendación INCORRECTA:",
+        "opciones": [
+            "Restar importancia a las quejas",
+            "Evitar zonas comunes",
+            "Reconocer posibles deficiencias",
+            "Empatizar"
+        ],
+        "respuesta_correcta": "Restar importancia a las quejas"
+    },
+    {
+        "id": "academia_t8_test3_q29",
+        "tema": "Tema 8: Test 3",
+        "pregunta": "Entre los principios de la acción preventiva del artículo 15 de la Ley 31/1995, no se recoge el siguiente:",
+        "opciones": [
+            "Tener en cuenta la evolución de la técnica",
+            "Sustituir lo peligroso por lo que entrañe poco o ningún peligro",
+            "Adoptar medidas que antepongan la protección individual a la colectiva",
+            "Dar las debidas instrucciones a los trabajadores"
+        ],
+        "respuesta_correcta": "Adoptar medidas que antepongan la protección individual a la colectiva"
     }
 ]
