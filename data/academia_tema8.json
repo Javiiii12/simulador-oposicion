@@ -322,5 +322,329 @@
             "Quedarse en el lugar de trabajo hasta que lo diga el delegado de prevención"
         ],
         "respuesta_correcta": "Dejarán de trabajar o abandonarán el lugar de trabajo de inmediato"
+    },
+    {
+        "id": "academia_t8_test2_q1",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según la ley de prevención de riesgos laborales, cuando se haya producido un daño para la salud de los trabajadores, ¿A quién le corresponde llevar una investigación al respecto, a fin de detectar las causas de estos hechos?",
+        "opciones": [
+            "Al Comité de Seguridad y Salud",
+            "A la Mutua de Seguro empresarial",
+            "Al empresario",
+            "A los Delegados de personal"
+        ],
+        "respuesta_correcta": "Al empresario"
+    },
+    {
+        "id": "academia_t8_test2_q2",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Es un objetivo general del Plan Perseo:",
+        "opciones": [
+            "Proteger a los profesionales, usuarios, bienes y servicios de la violencia o agresión mediante los medios materiales y humanos disponibles utilizando las ayudas externas si fuese necesario",
+            "Proporcionar formación acerca de la manera de tratar situaciones de violencia",
+            "Proporcionar asistencia letrada y psicológica a los perjudicados por una situación de violencia",
+            "Acudir a los tribunales para la protección o reposición de los bienes del SESCAM causados por daños ilícitos"
+        ],
+        "respuesta_correcta": "Proteger a los profesionales, usuarios, bienes y servicios de la violencia o agresión mediante los medios materiales y humanos disponibles utilizando las ayudas externas si fuese necesario"
+    },
+    {
+        "id": "academia_t8_test2_q3",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 19 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, el empresario deberá elaborar y conservar a disposición de la autoridad laboral determinada documentación. SEÑALE LO INCORRECTO sobre la documentación que debe conservar:",
+        "opciones": [
+            "Plan de prevención de riesgos laborales",
+            "Relación de accidentes de trabajo y enfermedades profesionales que hayan causado al trabajador una incapacidad laboral superior a una semana",
+            "Evaluación de los riesgos para la seguridad y la salud en el trabajo",
+            "Práctica de los controles del estado de salud de los trabajadores previstos para la vigilancia de la salud en esta Ley y conclusiones obtenidas de los mismos"
+        ],
+        "respuesta_correcta": "Relación de accidentes de trabajo y enfermedades profesionales que hayan causado al trabajador una incapacidad laboral superior a una semana"
+    },
+    {
+        "id": "academia_t8_test2_q4",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 8 de la Ley 31/1995, de Prevención de riesgos laborales, ¿a quién corresponde la función de la vigilancia y control de la normativa sobre prevención de riesgos laborales?",
+        "opciones": [
+            "A la Autoridad laboral",
+            "A la Inspección de Trabajo y Seguridad Social",
+            "Al Ministerio competente en materia de trabajo",
+            "A las Comunidades Autónomas"
+        ],
+        "respuesta_correcta": "A la Inspección de Trabajo y Seguridad Social"
+    },
+    {
+        "id": "academia_t8_test2_q5",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "A tenor de lo previsto en la Ley 31/1995, de Prevención de riesgos laborales, la política en materia de prevención de riesgos laborales tendrá por objeto:",
+        "opciones": [
+            "La promoción de la mejora de las condiciones de trabajo dirigida a elevar el nivel de protección de la seguridad y la salud de los trabajadores en el trabajo",
+            "El establecimiento de un procedimiento para mejorar el bienestar de los trabajadores",
+            "La reducción de las sanciones en materia de prevención de riesgos laborales",
+            "La disminución de las bajas laborales de los trabajadores"
+        ],
+        "respuesta_correcta": "La promoción de la mejora de las condiciones de trabajo dirigida a elevar el nivel de protección de la seguridad y la salud de los trabajadores en el trabajo"
+    },
+    {
+        "id": "academia_t8_test2_q6",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 13 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, ¿cuál es el órgano colegiado asesor de las Administraciones públicas en la formulación de las políticas de prevención?",
+        "opciones": [
+            "El Comité de Seguridad y Salud",
+            "La autoridad laboral",
+            "El Instituto Nacional de Seguridad e Higiene en el Trabajo",
+            "La Comisión Nacional de Seguridad y Salud en el Trabajo"
+        ],
+        "respuesta_correcta": "La Comisión Nacional de Seguridad y Salud en el Trabajo"
+    },
+    {
+        "id": "academia_t8_test2_q7",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el Plan Perseo de procedimiento de actuación ante una situación de violencia en el centro de trabajo, la primera medida a tomar es:",
+        "opciones": [
+            "Solicitud de ayuda interna",
+            "Solicitud de ayuda externa",
+            "Interposición de denuncia",
+            "Comunicación a la dirección gerencia"
+        ],
+        "respuesta_correcta": "Solicitud de ayuda interna"
+    },
+    {
+        "id": "academia_t8_test2_q8",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "De conformidad con el artículo 36 de la Ley de prevención de riesgos laborales, es competencia de los delegados de prevención:",
+        "opciones": [
+            "Colaborar con la dirección de la empresa en la mejora de la acción preventiva",
+            "Vigilar y controlar el cumplimiento de la normativa de prevención de riesgos laborales",
+            "Fomentar la cooperación de los trabajadores en la ejecución de la normativa sobre prevención de riesgos laborales",
+            "Todas las respuestas anteriores son correctas"
+        ],
+        "respuesta_correcta": "Todas las respuestas anteriores son correctas"
+    },
+    {
+        "id": "academia_t8_test2_q9",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el artículo 4 de la Ley 31/1995, de prevención de riesgos laborales, se entenderá como 'condición de trabajo':",
+        "opciones": [
+            "Cualquier peculiaridad de la actividad laboral con influencia relevante en la salud del trabajador",
+            "Cualquier peculiaridad de la actividad laboral específicamente prevista en la normativa reglamentaria",
+            "Cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador",
+            "Cualquier característica de los locales, instalaciones y equipos del lugar de trabajo"
+        ],
+        "respuesta_correcta": "Cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador"
+    },
+    {
+        "id": "academia_t8_test2_q10",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según la Ley de Prevención de Riesgos Laborales, una empresa de 1.001 a 2.000 trabajadores deberá tener:",
+        "opciones": [
+            "5 Delegados de Prevención",
+            "6 Delegados de Prevención",
+            "7 Delegados de Prevención",
+            "8 Delegados de Prevención"
+        ],
+        "respuesta_correcta": "5 Delegados de Prevención"
+    },
+    {
+        "id": "academia_t8_test2_q11",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el artículo 16 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, los instrumentos esenciales para la gestión y aplicación del plan de prevención de riesgos laborales en las empresas son:",
+        "opciones": [
+            "Los equipos de trabajo y medios de protección individual",
+            "Las medidas de emergencia y la formación de los trabajadores",
+            "La evaluación de riesgos laborales y la planificación de la actividad preventiva",
+            "La información, consulta y participación de los trabajadores"
+        ],
+        "respuesta_correcta": "La evaluación de riesgos laborales y la planificación de la actividad preventiva"
+    },
+    {
+        "id": "academia_t8_test2_q12",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 17 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, indicar LO INCORRECTO acerca de los equipos de protección individual:",
+        "opciones": [
+            "El empresario deberá proporcionar a sus trabajadores y velar por su uso efectivo",
+            "Son cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos",
+            "Constituyen los medios más idóneos para evitar los riesgos en el trabajo",
+            "Deberán utilizarse cuando los riesgos no se puedan evitar o no puedan limitarse suficientemente por medios técnicos de protección colectiva"
+        ],
+        "respuesta_correcta": "Constituyen los medios más idóneos para evitar los riesgos en el trabajo"
+    },
+    {
+        "id": "academia_t8_test2_q13",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 26 de la Ley 31/1995, cuando la adaptación de las condiciones de trabajo no fuese posible para la trabajadora embarazada, ésta:",
+        "opciones": [
+            "Deberá desempeñar un puesto de trabajo o función diferente y compatible con su estado",
+            "Verá suspendido su contrato de trabajo, percibiendo únicamente las retribuciones básicas",
+            "Verá suspendido su contrato de trabajo, sin merma de sus retribuciones",
+            "Podrá optar entre desempeñar un puesto diferente o la suspensión de su contrato sin retribuciones"
+        ],
+        "respuesta_correcta": "Deberá desempeñar un puesto de trabajo o función diferente y compatible con su estado"
+    },
+    {
+        "id": "academia_t8_test2_q14",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el Plan Director de Seguridad Corporativa y Protección del Patrimonio del SESCAM (PERSEO), ante el riesgo manifiesto de sufrir una agresión, el profesional procederá primeramente a:",
+        "opciones": [
+            "Abandonar el puesto de trabajo y notificar a la Gerencia el incidente",
+            "Cumplimentar el Anexo 1 de notificación de incidentes violentos",
+            "Solicitar la presencia de otros compañeros, del personal de seguridad o de los Cuerpos y Fuerzas de Seguridad del Estado",
+            "Solicitar apoyo jurídico al correspondiente colegio oficial"
+        ],
+        "respuesta_correcta": "Solicitar la presencia de otros compañeros, del personal de seguridad o de los Cuerpos y Fuerzas de Seguridad del Estado"
+    },
+    {
+        "id": "academia_t8_test2_q15",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 4 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales ¿Cómo se llaman las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo?",
+        "opciones": [
+            "Daños derivados del trabajo",
+            "Accidente",
+            "Accidente laboral",
+            "Enfermedad profesional"
+        ],
+        "respuesta_correcta": "Daños derivados del trabajo"
+    },
+    {
+        "id": "academia_t8_test2_q16",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "El empresario deberá elaborar y conservar a disposición de la autoridad laboral la relación de accidentes de trabajo y enfermedades profesionales que hayan causado al trabajador una incapacidad laboral superior a:",
+        "opciones": [
+            "Cinco días de trabajo",
+            "Dos días de trabajo",
+            "Un día de trabajo",
+            "Una semana de trabajo"
+        ],
+        "respuesta_correcta": "Un día de trabajo"
+    },
+    {
+        "id": "academia_t8_test2_q17",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "'Establecer un sistema de prevención, protección y reacción que permita optimizar la utilización de los recursos técnicos y humanos disponibles, con el fin de prevenir, proteger y controlar cualquier situación de violencia, peligro o emergencia y minimizar sus consecuencias' es el objetivo general de:",
+        "opciones": [
+            "El Plan General de Prevención de Riesgos Laborales del SESCAM",
+            "El Plan Director Seguridad Corporativa y Protección Patrimonio del SESCAM",
+            "La Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales",
+            "La Resolución de 26/10/2016, de la Dirección-Gerencia del SESCAM"
+        ],
+        "respuesta_correcta": "El Plan Director Seguridad Corporativa y Protección Patrimonio del SESCAM"
+    },
+    {
+        "id": "academia_t8_test2_q18",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 21 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en el caso de riesgo grave e inminente:",
+        "opciones": [
+            "El Comité de Seguridad y Salud adoptará las medidas e instrucciones necesarias",
+            "Los representantes legales de los trabajadores podrán acordar, por mayoría de dos tercios, la paralización de la actividad",
+            "Los trabajadores deberán esperar a que el empresario les dé instrucciones y no podrán abandonar el lugar de trabajo",
+            "En caso de que los representantes legales de los trabajadores acuerden la paralización, tal acuerdo será comunicado de inmediato a la empresa y a la autoridad laboral, la cual, en el plazo de veinticuatro horas, anulará o ratificará la paralización acordada"
+        ],
+        "respuesta_correcta": "En caso de que los representantes legales de los trabajadores acuerden la paralización, tal acuerdo será comunicado de inmediato a la empresa y a la autoridad laboral, la cual, en el plazo de veinticuatro horas, anulará o ratificará la paralización acordada"
+    },
+    {
+        "id": "academia_t8_test2_q19",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 35 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en una empresa de 3.500 trabajadores se elegirá:",
+        "opciones": [
+            "5 Delegados de Prevención",
+            "6 Delegados de Prevención",
+            "7 Delegados de Prevención",
+            "8 Delegados de Prevención"
+        ],
+        "respuesta_correcta": "7 Delegados de Prevención"
+    },
+    {
+        "id": "academia_t8_test2_q20",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según la Ley de Prevención de Riesgos laborales, se constituirá un Comité de Seguridad y Salud en las empresas o centros de trabajo que cuenten con:",
+        "opciones": [
+            "25 o más trabajadores",
+            "50 o más trabajadores",
+            "100 o más trabajadores",
+            "250 o más trabajadores"
+        ],
+        "respuesta_correcta": "50 o más trabajadores"
+    },
+    {
+        "id": "academia_t8_test2_q21",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "En relación con los objetivos de la política en materia de prevención de riesgos establecidos en la Ley 31/1995, indique la respuesta correcta:",
+        "opciones": [
+            "Las Administraciones públicas no podrán adoptar programas específicos dirigidos a promover la mejora del ambiente de trabajo",
+            "En la adopción de políticas no podrá tenerse en cuenta las necesidades específicas de las pequeñas y medianas empresas",
+            "La política en materia de prevención de riesgos laborales deberá promover la integración eficaz de la prevención en el sistema de gestión de la empresa",
+            "La elaboración de la política preventiva se llevará a cabo con la participación de los empresarios, trabajadores y la inspección laboral"
+        ],
+        "respuesta_correcta": "La política en materia de prevención de riesgos laborales deberá promover la integración eficaz de la prevención en el sistema de gestión de la empresa"
+    },
+    {
+        "id": "academia_t8_test2_q22",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "El Plan Perseo es la expresión con que se conoce:",
+        "opciones": [
+            "El Plan Director Seguridad Corporativa y Protección Patrimonio del SESCAM",
+            "El Plan de Seguridad y Salud del SESCAM",
+            "El Plan de prevención de riesgos laborales del SESCAM",
+            "El Plan de Humanización del SESCAM"
+        ],
+        "respuesta_correcta": "El Plan Director Seguridad Corporativa y Protección Patrimonio del SESCAM"
+    },
+    {
+        "id": "academia_t8_test2_q23",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "En atención al número de trabajadores y a la naturaleza y peligrosidad de las actividades, las empresas podrán realizar de forma simplificada:",
+        "opciones": [
+            "La evaluación de riesgos y la planificación de la acción preventiva pero no el plan de prevención",
+            "El plan de prevención de riesgos laborales, la evaluación de riesgos y la planificación de la acción preventiva",
+            "Únicamente la planificación de la acción preventiva",
+            "La evaluación de riesgos siempre que existe unanimidad en el seno del Comité de Seguridad y salud"
+        ],
+        "respuesta_correcta": "El plan de prevención de riesgos laborales, la evaluación de riesgos y la planificación de la acción preventiva"
+    },
+    {
+        "id": "academia_t8_test2_q24",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "El ámbito de aplicación de la Resolución de 26/03/2024, del procedimiento para la certificación negativa del Registro Central de Delincuentes Sexuales del personal del SESCAM, podrá ampliarse mediante:",
+        "opciones": [
+            "Acuerdo del Consejo de Gobierno",
+            "Orden de la Consejería de Sanidad",
+            "Resolución de la Dirección-Gerencia del SESCAM",
+            "Modificación de la Ley Orgánica de Protección Jurídica del Menor"
+        ],
+        "respuesta_correcta": "Resolución de la Dirección-Gerencia del SESCAM"
+    },
+    {
+        "id": "academia_t8_test2_q25",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 15 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, entre los principios generales de la acción preventiva NO está:",
+        "opciones": [
+            "Combatir los riesgos en su origen",
+            "Sustituir lo peligroso por lo que entrañe poco o ningún peligro",
+            "Dar las debidas instrucciones a los trabajadores",
+            "Adoptar medidas que antepongan la protección individual a la colectiva"
+        ],
+        "respuesta_correcta": "Adoptar medidas que antepongan la protección individual a la colectiva"
+    },
+    {
+        "id": "academia_t8_test2_q26",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "En relación con la coordinación de actividades empresariales (art. 24 de la Ley 31/1995), cuando en un mismo centro de trabajo desarrollen actividades trabajadores de dos o más empresas, indique la respuesta correcta:",
+        "opciones": [
+            "Se establecerán los medios de coordinación que sean necesarios en cuanto a la protección y prevención de riesgos laborales",
+            "Cada una de las empresas adoptará su propio sistema de prevención, con independencia de las otras",
+            "Cada empresa tiene que evaluar los riesgos sin que sea necesaria la intervención del titular del centro",
+            "La empresa que tenga más tiempo de actividad en el lugar de trabajo debe realizar la evaluación de riesgos del mismo"
+        ],
+        "respuesta_correcta": "Se establecerán los medios de coordinación que sean necesarios en cuanto a la protección y prevención de riesgos laborales"
+    },
+    {
+        "id": "academia_t8_test2_q27",
+        "tema": "Tema 8: Test 2",
+        "pregunta": "Según el art. 4 de la Ley 31/1995, de Prevención de riesgos laborales, es definido como cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo:",
+        "opciones": [
+            "La condición de trabajo",
+            "El equipo de protección individual",
+            "El equipo de trabajo",
+            "Un instrumento de producción"
+        ],
+        "respuesta_correcta": "El equipo de trabajo"
     }
 ]
