@@ -60,51 +60,36 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             return;
         }
 
+        Storage.saveUser(userId.trim());
+        Storage.setPrefix(userId.trim()); // Isolate progress data
+
         const { id: deviceId } = Storage.getOrCreateDeviceId();
         let currentDevices = data.dispositivos_usados || 0;
-
-        // Use exact id_acceso from DB record to avoid case issues on UPDATE
         const exactId = data.id_acceso;
         const normalizedUserId = userId.trim().toLowerCase();
 
-        // A device is NEW if it has never successfully registered for THIS user,
-        // OR if the registration seems stale (e.g. counter reset in DB)
-        const registeredInfo = Storage.getDeviceRegisteredFor() || "";
-        let isNew = false;
-        let localRegIndex = 0;
+        // Robust Device Sync: Check if this specific hardware has "confirmed" its slot in the current DB state.
+        const confirmedIdx = Storage.getConfirmedIdx(normalizedUserId);
+        let needsRegistration = false;
 
-        if (registeredInfo.includes('|')) {
-            const [regUserId, regIdxStr] = registeredInfo.split('|');
-            if (regUserId === normalizedUserId) {
-                localRegIndex = parseInt(regIdxStr) || 0;
-            } else {
-                isNew = true; // Different user registered here
-            }
-        } else if (registeredInfo === normalizedUserId) {
-            // Legacy support (old version only stored userId)
-            localRegIndex = 1; // Assume it was the first
-        } else {
-            isNew = true; // No registration info
+        if (confirmedIdx === 0) {
+            // Never registered for this user
+            needsRegistration = true;
+        } else if (currentDevices === 0 || currentDevices < confirmedIdx) {
+            // DB was reset or is inconsistent with our local record
+            console.warn(`Sincronización de dispositivo: El contador (${currentDevices}) es menor que el índice confirmado (${confirmedIdx}). Re-registrando...`);
+            needsRegistration = true;
         }
 
-        // SELF-CORRECTION: If DB says 0, everyone must re-register.
-        // If DB counter < our local index, it means a reset happened.
-        // If we are legacy (no localRegIndex) but DB is < MAX_DEVICES, claim a slot to be sure.
-        if (!isNew && (currentDevices === 0 || currentDevices < localRegIndex || (localRegIndex === 0 && currentDevices < MAX_DEVICES))) {
-            console.warn(`Sincronización de dispositivo: Re-registrando para asegurar contador exacto...`);
-            isNew = true;
-        }
-
-        if (isNew) {
-            // New or re-syncing device — check limit
+        if (needsRegistration) {
             if (currentDevices >= MAX_DEVICES) {
                 onDenied(`Límite alcanzado: esta licencia ya usa ${MAX_DEVICES} dispositivos.`);
                 Storage.clearUser();
+                Storage.setPrefix(null);
                 return;
             }
             currentDevices++;
 
-            // Use .eq() with exact key — more reliable than .ilike() for UPDATE
             const { error: updateError } = await state.supabaseClient
                 .from('usuarios_acceso')
                 .update({ dispositivos_usados: currentDevices })
@@ -113,13 +98,10 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             if (updateError) {
                 console.error('Error al actualizar dispositivos_usados:', updateError);
             } else {
-                // Save composite registration: userId|index
-                Storage.setDeviceRegisteredFor(`${normalizedUserId}|${currentDevices}`);
-                console.log(`Dispositivo registrado en slot ${currentDevices}/${MAX_DEVICES}`);
+                Storage.setConfirmedIdx(normalizedUserId, currentDevices);
+                console.log(`Dispositivo sincronizado en slot ${currentDevices}/${MAX_DEVICES}`);
             }
         }
-
-        Storage.saveUser(userId.trim());
 
         // Log access
         try {
