@@ -16,7 +16,7 @@ export const TOPIC_TITLES = {
     "Tema 6": "Régimen Jurídico del Personal Estatutario",
     "Tema 7": "Plan de autoprotección y prevención de incendios",
     "Tema 8": "Ley de Prevención de Riesgos Laborales",
-    "Tema 9": "Gestión de residuos sanitarios y medio ambiente",
+    "Tema 9": "La Atención Primaria de Salud",
     "Tema 10": "Distribución del trabajo en cocina",
     "Tema 11": "Los alimentos: clasificación y características",
     "Tema 12": "Autocontrol y Seguridad Alimentaria (APPCC)",

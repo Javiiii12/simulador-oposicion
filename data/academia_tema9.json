@@ -1,0 +1,182 @@
+[
+    {
+        "id": "academia_t9_test1_q1",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "La atención primaria es el nivel básico e inicial de atención, comprende:",
+        "opciones": [
+            "Actividades de promoción de la salud, educación sanitaria",
+            "Prevención de la enfermedad, asistencia sanitaria, mantenimiento y recuperación de la salud",
+            "Urgencias vitales",
+            "A y B son correctas"
+        ],
+        "respuesta_correcta": "A y B son correctas"
+    },
+    {
+        "id": "academia_t9_test1_q2",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "El equipo de atención primaria tiene como ámbito territorial de actuación la zona de salud y como localización física principal el:",
+        "opciones": [
+            "Hospital",
+            "Centro de especialidades",
+            "Centro de Salud",
+            "Ninguna es correcta"
+        ],
+        "respuesta_correcta": "Centro de Salud"
+    },
+    {
+        "id": "academia_t9_test1_q3",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "La delimitación de las zonas básicas la realizará cada comunidad autónoma y deberán tenerse en cuenta algunos aspectos, señala la correcta:",
+        "opciones": [
+            "Las distancias máximas de grupos de poblaciones más alejadas de los servicios y el tiempo normal a invertir en su recorrido usando los medios ordinarios",
+            "Las características epidemiológicas de la población",
+            "Las instalaciones y recursos sanitarios de la zona",
+            "Todas las anteriores son correctas"
+        ],
+        "respuesta_correcta": "Todas las anteriores son correctas"
+    },
+    {
+        "id": "academia_t9_test1_q4",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "Los servicios y las personas que integran la atención primaria deben conseguir que ésta sea:",
+        "opciones": [
+            "Integral, global, continua, permanente, y descentralizada",
+            "Integral y global",
+            "Permanente y descentralizada",
+            "Continua"
+        ],
+        "respuesta_correcta": "Integral, global, continua, permanente, y descentralizada"
+    },
+    {
+        "id": "academia_t9_test1_q5",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "Cuando nos referimos a que la Atención primaria es integral, significa que:",
+        "opciones": [
+            "La salud es un todo y por lo tanto los cuidados se deben realizar en el mismo centro, siempre que sea posible, o en su caso se derivará al paciente al siguiente nivel de atención sanitaria",
+            "Se debe entender al individuo como un ser psicológico, sociocultural y socioeconómico",
+            "La atención sanitaria incluye, no solo la consulta, sino también el seguimiento del paciente hasta su curación o desaparición de la patología",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta_correcta": "La salud es un todo y por lo tanto los cuidados se deben realizar en el mismo centro, siempre que sea posible, o en su caso se derivará al paciente al siguiente nivel de atención sanitaria"
+    },
+    {
+        "id": "academia_t9_test1_q6",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "La primera normativa sobre atención primaria es el Real Decreto 137/84, de 11 de enero, sobre Estructuras básicas de salud. Señala la respuesta correcta:",
+        "opciones": [
+            "En el art. 1 se define la zona de salud como el marco territorial de la atención primaria de salud, la poblacional (entre 2500 y 25.000 habitantes) y geográfica fundamental",
+            "El art. 3 define el centro de salud como la estructura física y funcional que posibilita la atención primaria de salud",
+            "El art. 4 define al equipo de atención primaria como el conjunto de profesionales sanitarios y no sanitarios que actúan en la zona de salud",
+            "Ninguna es correcta"
+        ],
+        "respuesta_correcta": "Ninguna es correcta"
+    },
+    {
+        "id": "academia_t9_test1_q7",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "¿Qué Ley distingue dentro de la asistencia sanitaria dos modalidades: la atención primaria y la atención especializada?",
+        "opciones": [
+            "La Ley 12/1996, de 25 de abril, General de Sanidad",
+            "La Ley 14/1996, de 25 de abril, General de Sanidad",
+            "La Ley 14/1986, de 25 de abril, General de Sanidad",
+            "La Ley 12/1986, de 25 de abril, General de Sanidad"
+        ],
+        "respuesta_correcta": "La Ley 14/1986, de 25 de abril, General de Sanidad"
+    },
+    {
+        "id": "academia_t9_test1_q8",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "El Punto de Atención Continuada (PAC) es:",
+        "opciones": [
+            "Una unidad de urgencias hospitalaria",
+            "Una unidad de urgencias extrahospitalaria",
+            "A y B son correctas",
+            "Ninguna es correcta"
+        ],
+        "respuesta_correcta": "Una unidad de urgencias extrahospitalaria"
+    },
+    {
+        "id": "academia_t9_test1_q9",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "El SUAP es:",
+        "opciones": [
+            "Una unidad de urgencias hospitalaria",
+            "Una unidad de urgencias extrahospitalaria",
+            "A y B son correctas",
+            "Ninguna es correcta"
+        ],
+        "respuesta_correcta": "Una unidad de urgencias extrahospitalaria"
+    },
+    {
+        "id": "academia_t9_test1_q10",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "En relación con el PAC, señala la respuesta incorrecta:",
+        "opciones": [
+            "Son centros de salud abiertos al público cuyo horario de funcionamiento comienza cuando finaliza el horario del propio centro de salud en días laborables",
+            "Son centros de salud cerrados al público en días laborables",
+            "Los domingos y festivos los PAC funcionan las 24 horas en la zona básica de salud correspondiente para la asistencia de urgencia",
+            "B y C son correctas"
+        ],
+        "respuesta_correcta": "B y C son correctas"
+    },
+    {
+        "id": "academia_t9_test1_q11",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "El nivel de acceso ordinario de la población al sistema sanitario, que se caracteriza por prestar atención integral a la salud mediante el trabajo colectivo de profesionales del Equipo, es:",
+        "opciones": [
+            "Centro de Salud",
+            "Atención Primaria",
+            "Atención Especializada",
+            "Zona Básica"
+        ],
+        "respuesta_correcta": "Atención Primaria"
+    },
+    {
+        "id": "academia_t9_test1_q12",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "La AP debe prestar atención:",
+        "opciones": [
+            "Integrada",
+            "Integral",
+            "Especializada",
+            "Todas son ciertas"
+        ],
+        "respuesta_correcta": "Integral"
+    },
+    {
+        "id": "academia_t9_test1_q13",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "La AP desarrolla su actividad en:",
+        "opciones": [
+            "Los Centros de Salud",
+            "La Atención Primaria",
+            "La Atención Especializada",
+            "La Zona Básica de Salud"
+        ],
+        "respuesta_correcta": "Los Centros de Salud"
+    },
+    {
+        "id": "academia_t9_test1_q14",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "Con carácter general la Atención Primaria comprenderá:",
+        "opciones": [
+            "La asistencia sanitaria en consultas y Hospitales",
+            "La asistencia sanitaria en el domicilio del enfermo/a",
+            "La administración de tratamientos parenterales, curas y cirugía mayor ambulatoria",
+            "La asistencia sanitaria en consultas, Hospitales y CDTS"
+        ],
+        "respuesta_correcta": "La asistencia sanitaria en el domicilio del enfermo/a"
+    },
+    {
+        "id": "academia_t9_test1_q15",
+        "tema": "Tema 9: Test 1",
+        "pregunta": "La conferencia de la OMS-Unicef de Alma-Ata, estableció la definición de Atención Primaria de Salud en:",
+        "opciones": [
+            "1987",
+            "1992",
+            "1978",
+            "2000"
+        ],
+        "respuesta_correcta": "1978"
+    }
+]
