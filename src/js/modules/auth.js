@@ -43,7 +43,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
     }
 
     try {
-        // Try both exact and case-insensitive match
+        // Fetch user record (case-insensitive read)
         const { data, error } = await state.supabaseClient
             .from('usuarios_acceso')
             .select('*')
@@ -63,17 +63,39 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         const { id: deviceId, isNew } = Storage.getOrCreateDeviceId();
         let currentDevices = data.dispositivos_usados || 0;
 
+        // Use exact id_acceso from DB record to avoid case issues on UPDATE
+        const exactId = data.id_acceso;
+
         if (isNew) {
+            // New device on this browser for the first time
             if (currentDevices >= MAX_DEVICES) {
                 onDenied(`Límite alcanzado: esta licencia ya usa ${MAX_DEVICES} dispositivos.`);
                 Storage.clearUser();
                 return;
             }
             currentDevices++;
-            await state.supabaseClient
+
+            // Use .eq() with the exact key from DB — more reliable than .ilike() for UPDATE
+            const { error: updateError } = await state.supabaseClient
                 .from('usuarios_acceso')
                 .update({ dispositivos_usados: currentDevices })
-                .ilike('id_acceso', userId.trim());
+                .eq('id_acceso', exactId);
+
+            if (updateError) {
+                console.error('Error al actualizar dispositivos_usados:', updateError);
+            } else {
+                console.log(`Dispositivo registrado. Total: ${currentDevices}/${MAX_DEVICES}`);
+            }
+        } else {
+            // Known device (already in localStorage) — re-check counter is consistent
+            // If somehow the counter is 0 but we have a deviceId, fix it silently
+            if (currentDevices === 0) {
+                const { error: fixError } = await state.supabaseClient
+                    .from('usuarios_acceso')
+                    .update({ dispositivos_usados: 1 })
+                    .eq('id_acceso', exactId);
+                if (!fixError) currentDevices = 1;
+            }
         }
 
         Storage.saveUser(userId.trim());
@@ -83,7 +105,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             await state.supabaseClient.from('access_logs').insert([{
                 created_at: new Date().toISOString(),
                 status: 'success',
-                device_info: `${data.nombre} (${data.id_acceso}) — Disp: ${currentDevices}/${MAX_DEVICES}`
+                device_info: `${data.nombre} (${data.id_acceso}) — Disp: ${currentDevices}/${MAX_DEVICES} — DevId: ${deviceId}`
             }]);
         } catch (e) { console.warn('Log access error:', e); }
 
