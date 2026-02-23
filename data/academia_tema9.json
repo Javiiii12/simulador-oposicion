@@ -178,5 +178,365 @@
             "2000"
         ],
         "respuesta_correcta": "1978"
+    },
+    {
+        "id": "academia_t9_test3_q1",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "Entre las funciones de los celadores se incluye:",
+        "opciones": [
+            "Hacer las camas de los enfermos siempre, exceptuando las que correspondan a Enfermería",
+            "Tramitarán o conducirán sin tardanza las comunicaciones verbales, documentos, correspondencia u objetos que les sean confiados por sus superiores, así como trasladar de unos servicios a otros los aparatos o mobiliario que se requiera",
+            "Reponer material desde los almacenes a las diferentes unidades, no siendo de su cometido ordenar dicho material en las unidades",
+            "B y C son correctas"
+        ],
+        "respuesta_correcta": "B y C son correctas"
+    },
+    {
+        "id": "academia_t9_test3_q2",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "Al definir la Atención Primaria como universal, ¿a qué hace referencia este término?",
+        "opciones": [
+            "Forma un nivel primario que atiende los problemas más frecuentes, sin la necesidad de utilizar técnicas sofisticadas ni un nivel especializado de asistencia sanitaria",
+            "Contribuyendo a que la asistencia sanitaria fundamental llegue a la totalidad de la población. Para ello, es necesaria una accesibilidad, tanto geográfica como funcional, para responder a las necesidades de la población",
+            "Hace referencia a los costes que supone proporcionar atención sanitaria primaria",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta_correcta": "Contribuyendo a que la asistencia sanitaria fundamental llegue a la totalidad de la población. Para ello, es necesaria una accesibilidad, tanto geográfica como funcional, para responder a las necesidades de la población"
+    },
+    {
+        "id": "academia_t9_test3_q3",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "Entre los objetivos de la atención primaria no se encuentra:",
+        "opciones": [
+            "Participar en la reinserción social de los pacientes en riesgo de exclusión",
+            "Vacunación preventiva de la población",
+            "Diagnosticar y tratar de manera preventiva y temprana las enfermedades de los pacientes con el fin de evitar una hospitalización innecesaria",
+            "Ninguna de las anteriores es correcta"
+        ],
+        "respuesta_correcta": "Ninguna de las anteriores es correcta"
+    },
+    {
+        "id": "academia_t9_test3_q4",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "¿En qué actividad específica englobarías una charla sobre anticonceptivos en el Instituto impartida por una enfermera de esa área de salud?",
+        "opciones": [
+            "Atención a la adolescencia",
+            "Atención a la mujer",
+            "Atención a la infancia",
+            "Atención al anciano"
+        ],
+        "respuesta_correcta": "Atención a la adolescencia"
+    },
+    {
+        "id": "academia_t9_test3_q5",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "Cuando nos referimos a 'global' como característica de la Atención Primaria, nos referimos a:",
+        "opciones": [
+            "La salud es un todo y por lo tanto los cuidados se deben realizar en el mismo centro",
+            "Se debe entender al individuo como un ser psicológico, sociocultural y socioeconómico",
+            "La atención sanitaria incluye, no solo la consulta, sino también el seguimiento del paciente hasta su curación",
+            "Se situará lo más próximo a la población que atiende y nunca superará los 15 minutos desde cualquier lugar de residencia"
+        ],
+        "respuesta_correcta": "Se debe entender al individuo como un ser psicológico, sociocultural y socioeconómico"
+    },
+    {
+        "id": "academia_t9_test3_q6",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "El número de profesionales sanitarios y no sanitarios que integrará cada Centro de Atención Primaria es:",
+        "opciones": [
+            "Un mínimo de 3 enfermeras, 2 TCAE, 1 celador y 4 médicos de familia",
+            "Un mínimo de 2 enfermeras, 2 TCAE, 2 celadores y 3 médicos de familia",
+            "Un mínimo de 2 enfermeras, 1 TCAE, 1 celador y 2 médicos de familia",
+            "Dependerá de la población a atender y de las características y necesidades de la Zona Básica de Salud"
+        ],
+        "respuesta_correcta": "Dependerá de la población a atender y de las características y necesidades de la Zona Básica de Salud"
+    },
+    {
+        "id": "academia_t9_test3_q7",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "Señala cuál de los siguientes no forma parte del servicio básico de Atención Primaria en un Centro de Salud:",
+        "opciones": [
+            "Farmacia",
+            "Odontólogo",
+            "Salud mental",
+            "Todas son correctas"
+        ],
+        "respuesta_correcta": "Todas son correctas"
+    },
+    {
+        "id": "academia_t9_test3_q8",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "¿Cuál es un objetivo de la Atención Primaria?",
+        "opciones": [
+            "Diagnosticar y tratar de manera preventiva y temprana las enfermedades de los pacientes con el fin de evitar una hospitalización innecesaria",
+            "Elevar el nivel de calidad del sistema sanitario y por lo tanto de la satisfacción de los pacientes y profesionales de la Atención Primaria",
+            "Fomentar la investigación y docencia",
+            "Todas son correctas"
+        ],
+        "respuesta_correcta": "Todas son correctas"
+    },
+    {
+        "id": "academia_t9_test3_q9",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "Una urgencia es:",
+        "opciones": [
+            "La aparición inesperada de un problema de salud de causa diversa y gravedad variable, que genera la conciencia de una necesidad inminente de atención por parte del sujeto que la sufre o de su familia (OMS)",
+            "La aparición esperada de un problema de salud de causa diversa y de gran gravedad, que pone en peligro inmediato la vida del paciente",
+            "Situación urgente que pone en peligro inmediato la vida del paciente o la función de algún órgano",
+            "B y C son correctas"
+        ],
+        "respuesta_correcta": "La aparición inesperada de un problema de salud de causa diversa y gravedad variable, que genera la conciencia de una necesidad inminente de atención por parte del sujeto que la sufre o de su familia (OMS)"
+    },
+    {
+        "id": "academia_t9_test3_q10",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "Los Servicios de Atención Continuada o PAC. Señala la respuesta correcta:",
+        "opciones": [
+            "Son dispositivos de urgencia que prestan servicio en horario fijo de atención entre las 17:00 y 09:00 horas en días laborales",
+            "Son dispositivos de urgencia que prestan servicio las 24 horas del día",
+            "Este tipo de urgencias solo incluye régimen ambulatorio y domiciliario, no internamiento hospitalario",
+            "Se ubican en instalaciones propias o en los Centros de Salud y Centros de Especialidades a partir de las 17 horas"
+        ],
+        "respuesta_correcta": "Son dispositivos de urgencia que prestan servicio las 24 horas del día"
+    },
+    {
+        "id": "academia_t9_test3_q11",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "¿Cuál es la estructura fundamental del sistema sanitario español?",
+        "opciones": [
+            "Área de Salud",
+            "Centro de Salud",
+            "Hospital",
+            "Zona Básica de Salud"
+        ],
+        "respuesta_correcta": "Área de Salud"
+    },
+    {
+        "id": "academia_t9_test3_q12",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "¿De quién dependerá funcionalmente el personal del equipo de AP?",
+        "opciones": [
+            "Director Médico",
+            "Responsable del Equipo",
+            "Jefe de Equipo",
+            "Coordinador Médico"
+        ],
+        "respuesta_correcta": "Coordinador Médico"
+    },
+    {
+        "id": "academia_t9_test3_q13",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "¿Qué unidad territorial sanitaria dispondrá de, al menos, un hospital de referencia?",
+        "opciones": [
+            "La Comunidad Autónoma",
+            "La Zona Básica de Salud",
+            "La Provincia",
+            "El Área Sanitaria"
+        ],
+        "respuesta_correcta": "El Área Sanitaria"
+    },
+    {
+        "id": "academia_t9_test3_q14",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "La población a atender en cada Zona de Salud será de:",
+        "opciones": [
+            "Entre 5.000 y 25.000 habitantes",
+            "Entre 5.000 y 20.000 habitantes",
+            "Entre 5.000 y 25.500 habitantes",
+            "Entre 15.000 y 25.000 habitantes"
+        ],
+        "respuesta_correcta": "Entre 5.000 y 25.000 habitantes"
+    },
+    {
+        "id": "academia_t9_test3_q15",
+        "tema": "Tema 9: Test 3",
+        "pregunta": "La delimitación de las Zonas Básicas de Salud es competencia de:",
+        "opciones": [
+            "La Consejería competente en materia de salud",
+            "El Consejo de Gobierno de la Comunidad Autónoma",
+            "El Servicio de Salud de la Comunidad Autónoma",
+            "El Consejero de Salud"
+        ],
+        "respuesta_correcta": "El Consejo de Gobierno de la Comunidad Autónoma"
+    },
+    {
+        "id": "academia_t9_test4_q1",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "En consultas externas el régimen en el que se atiende al paciente es:",
+        "opciones": [
+            "Régimen Ambulatorio",
+            "Ingreso hospitalario",
+            "Ambas son correctas, dependiendo del estado de salud del paciente",
+            "Ninguna es correcta"
+        ],
+        "respuesta_correcta": "Régimen Ambulatorio"
+    },
+    {
+        "id": "academia_t9_test4_q2",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "Las funciones del celador en la Atención Primaria son similares a las de celadores de Puertas en un hospital. Entre otras son:",
+        "opciones": [
+            "Tramitarán o conducirán sin tardanza las comunicaciones verbales, documentos, correspondencia u objetos que les sean confiados por sus superiores, así como trasladar de unos servicios a otros los aparatos o mobiliario que se requiera",
+            "Cuidarán el orden en todas las dependencias, vigilando el comportamiento de los enfermos y acompañantes, para alcanzar el silencio, orden y tranquilidad adecuados a un espacio sanitario",
+            "Tendrán a su cargo el traslado de los enfermos, tanto dentro de la Institución como en el servicio de ambulancias",
+            "Todas son correctas"
+        ],
+        "respuesta_correcta": "Todas son correctas"
+    },
+    {
+        "id": "academia_t9_test4_q3",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "Reponer material desde los almacenes a las diferentes unidades, no siendo de su cometido ordenar dicho material en las unidades, es función de:",
+        "opciones": [
+            "Celador",
+            "TCAE",
+            "Enfermería",
+            "Supervisión"
+        ],
+        "respuesta_correcta": "Celador"
+    },
+    {
+        "id": "academia_t9_test4_q4",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "La población tiene derecho a:",
+        "opciones": [
+            "Elegir libremente dentro de la Zona Básica de Salud el médico que lo va a atender",
+            "Elegir libremente cualquier médico de cualquier zona básica",
+            "Escoger el centro al que desee ir en cada momento",
+            "Ninguna es correcta"
+        ],
+        "respuesta_correcta": "Elegir libremente dentro de la Zona Básica de Salud el médico que lo va a atender"
+    },
+    {
+        "id": "academia_t9_test4_q5",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "La Atención Primaria de salud cuenta con una serie de objetivos, señala la correcta:",
+        "opciones": [
+            "Promoción de la salud, prevención de la enfermedad y asistencia sanitaria",
+            "Ofrecer una asistencia sanitaria individual, colectiva, ambulatoria, domiciliaria y de urgencia",
+            "Realizar educación para la salud a los pacientes y a toda la población",
+            "Todas son correctas"
+        ],
+        "respuesta_correcta": "Todas son correctas"
+    },
+    {
+        "id": "academia_t9_test4_q6",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "Indica cuál de los siguientes no forma parte del equipo básico de Atención Primaria en el Centro de Salud:",
+        "opciones": [
+            "Enfermería",
+            "Asistente social",
+            "Odontología",
+            "Todos forman parte del equipo básico de Atención Primaria"
+        ],
+        "respuesta_correcta": "Odontología"
+    },
+    {
+        "id": "academia_t9_test4_q7",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "¿Cuál de las siguientes es una función general y asistencial de los Centros de Salud?",
+        "opciones": [
+            "Albergan las estructuras físicas de las consultas",
+            "Albergan los recursos materiales necesarios para dichas consultas",
+            "Sirven como centros de reunión de los usuarios de dicho Centro de Salud",
+            "Todas son correctas"
+        ],
+        "respuesta_correcta": "Todas son correctas"
+    },
+    {
+        "id": "academia_t9_test4_q8",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "Señala cuál de las siguientes NO se corresponde con una función que desempeña el celador en un Centro de Salud:",
+        "opciones": [
+            "Cuidarán el orden en todas las dependencias, vigilando el comportamiento de los enfermos y acompañantes",
+            "Tendrán a su cargo el traslado de los enfermos, salvo en el servicio de ambulancias",
+            "Informarán a las personas que lo pregunten del lugar, día y hora a la que tiene que acudir a una consulta",
+            "Todas son correctas"
+        ],
+        "respuesta_correcta": "Tendrán a su cargo el traslado de los enfermos, salvo en el servicio de ambulancias"
+    },
+    {
+        "id": "academia_t9_test4_q9",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "En las Unidades de Urgencias Extra-hospitalarias, señala cuál de las siguientes NO se corresponde con una función que debe desempeñar el celador:",
+        "opciones": [
+            "Tomar los datos a los pacientes que acudan así como anotar el motivo de consulta",
+            "Contestar las urgencias domiciliarias telefónicas",
+            "Facilitar las hojas de reclamaciones a los usuarios que la pidan",
+            "Todas son correctas"
+        ],
+        "respuesta_correcta": "Todas son correctas"
+    },
+    {
+        "id": "academia_t9_test4_q10",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "¿Cuál de las siguientes no es una característica de la Atención Primaria?",
+        "opciones": [
+            "Descentralizada",
+            "Temporal",
+            "Integrada",
+            "Todas son correctas"
+        ],
+        "respuesta_correcta": "Temporal"
+    },
+    {
+        "id": "academia_t9_test4_q11",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "Indica qué Ley regula en CLM la ordenación sanitaria:",
+        "opciones": [
+            "Real Decreto 137/1984",
+            "Ley 26/2002",
+            "Ley 8/2000",
+            "Ley 39/2010"
+        ],
+        "respuesta_correcta": "Ley 8/2000"
+    },
+    {
+        "id": "academia_t9_test4_q12",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "La forma de trabajo de los profesionales de AP será:",
+        "opciones": [
+            "Individual sin tener en cuenta el resto de compañeros",
+            "En equipo",
+            "Atendiendo al individuo en su condición física",
+            "Todas las opciones son correctas"
+        ],
+        "respuesta_correcta": "En equipo"
+    },
+    {
+        "id": "academia_t9_test4_q13",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "La atención de urgencia en AP los fines de semana en el ámbito rural se realizará en:",
+        "opciones": [
+            "Consultorio Local",
+            "Ambulatorio",
+            "Centro de Salud al que pertenezca el consultorio",
+            "Todas son ciertas"
+        ],
+        "respuesta_correcta": "Centro de Salud al que pertenezca el consultorio"
+    },
+    {
+        "id": "academia_t9_test4_q14",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "Indica cuál de los siguientes centros no es propio de la Atención Primaria:",
+        "opciones": [
+            "Centro de Salud",
+            "Ambulatorio",
+            "Consultorio Local",
+            "Todos son centros de AP"
+        ],
+        "respuesta_correcta": "Ambulatorio"
+    },
+    {
+        "id": "academia_t9_test4_q15",
+        "tema": "Tema 9: Test 4",
+        "pregunta": "¿Qué profesionales no integran el equipo de Atención Primaria?",
+        "opciones": [
+            "Médicos de Familia",
+            "Diplomados/as en enfermería",
+            "Médicos especialistas",
+            "Trabajadores/as sociales"
+        ],
+        "respuesta_correcta": "Médicos especialistas"
     }
 ]
