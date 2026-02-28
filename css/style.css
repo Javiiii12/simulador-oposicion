@@ -18,7 +18,8 @@
     --text: #263238;
     --text-light: #546E7A;
     --success: #43A047;
-    --error: #E53935;
+    --error: #b91c1c;
+    /* Rojo oscuro de alto contraste */
     --radius: 12px;
     --shadow: 0 4px 20px rgba(0, 137, 123, 0.08);
 }
@@ -393,12 +394,18 @@ input[type="number"] {
     background-color: #e8f5e9;
     border-color: var(--success);
     color: #2e7d32;
+    font-weight: bold;
 }
 
 .btn-option.incorrect {
-    background-color: #ffebee;
-    border-color: var(--error);
-    color: #c62828;
+    background-color: #b91c1c;
+    /* Rojo fuerte y oscuro */
+    border-color: #7f1d1d;
+    /* Borde aún más oscuro */
+    color: white;
+    /* Texto blanco para máximo contraste */
+    font-weight: bold;
+    /* Negrita para resaltar */
 }
 
 .feedback {

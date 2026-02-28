@@ -291,8 +291,8 @@ function handleAnswer(selected, q) {
             feedbackDiv.style.borderLeftColor = '#4caf50';
         } else {
             explicacionP.innerHTML = `<strong>❌ Incorrecto</strong><br>La respuesta correcta es la <strong>${q.correcta.toUpperCase()}</strong>.`;
-            feedbackDiv.style.backgroundColor = '#fff3cd';
-            feedbackDiv.style.borderLeftColor = '#ffc107';
+            feedbackDiv.style.backgroundColor = '#ffebee'; /* Light Red background */
+            feedbackDiv.style.borderLeftColor = '#b91c1c';   /* Dark Red border */
         }
     }
 
