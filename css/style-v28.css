@@ -30,13 +30,20 @@
     --shadow-lg: 0 12px 24px -3px rgb(0 0 0 / 0.15);
 }
 
+html,
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    width: 100%;
+}
+
 body {
     font-family: 'Inter', system-ui, -apple-system, sans-serif;
     background: var(--bg-gradient) !important;
     background-attachment: fixed !important;
+    background-size: cover !important;
     color: var(--text);
-    margin: 0;
-    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,15 +56,20 @@ body {
 .container {
     width: 100%;
     max-width: 900px;
-    /* Móvil primero, pero limitado en desktop a una lectura cómoda */
     padding: 20px;
     margin: 0 auto;
+    background: transparent !important;
+    /* Reveal the body gradient */
+    position: relative;
+    z-index: 1;
 }
 
 /* VISTAS (SPA Manage) */
 .view {
     display: none;
     animation: fadeIn 0.3s ease;
+    background: transparent !important;
+    /* Ensure views don't have solid backgrounds */
 }
 
 .view.active {
