@@ -119,8 +119,18 @@ function createBaseTopicButton(baseTema, questionsSubset) {
     `;
     btn.addEventListener('click', () => {
         const subTemas = [...new Set(temaQ.map(q => q.tema))];
-        if (hasBlocks && subTemas.length > 1) showBlocksMenu(baseTema, subTemas, temaQ);
-        else prepareModeSelection(baseTema, () => temaQ);
+        if (hasBlocks && subTemas.length > 1) {
+            showBlocksMenu(baseTema, subTemas, temaQ);
+        } else {
+            if (temaQ.length > 20) {
+                showChunksMenu(baseTema, temaQ, () => {
+                    const n = baseTema.match(/\d+/);
+                    showTopics(n && parseInt(n[0]) <= 6 ? 'GENERAL' : 'ESPECIFICA');
+                });
+            } else {
+                prepareModeSelection(baseTema, () => temaQ);
+            }
+        }
     });
     return btn;
 }
@@ -168,12 +178,58 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
     const numberedSubTemas = subTemas.filter(t => /(?:bloque|test)\s*\d+/i.test(t));
 
     numberedSubTemas.forEach(subTema => {
-        const qCount = temaQ.filter(q => q.tema === subTema).length;
+        const chunkQ = temaQ.filter(q => q.tema === subTema);
+        const qCount = chunkQ.length;
         let displayTitle = subTema.replace(baseTema, '').replace(':', '').trim() || subTema;
         const btn = document.createElement('button');
         btn.className = 'btn-topic';
         btn.innerHTML = `<strong>${displayTitle}</strong><br><small>${qCount} preguntas</small>`;
-        btn.addEventListener('click', () => prepareModeSelection(subTema, () => temaQ.filter(q => q.tema === subTema)));
+        btn.addEventListener('click', () => {
+            if (chunkQ.length > 20) {
+                showChunksMenu(subTema, chunkQ, () => showBlocksMenu(baseTema, subTemas, temaQ));
+            } else {
+                prepareModeSelection(subTema, () => chunkQ);
+            }
+        });
         container.appendChild(btn);
     });
+}
+
+function showChunksMenu(title, qArray, backCallback) {
+    const container = document.getElementById('topics-container');
+    const titleEl = document.getElementById('topic-title');
+    container.innerHTML = '';
+    if (titleEl) titleEl.innerText = `${title} — Partes`;
+
+    // Back button
+    const btnBack = document.createElement('button');
+    btnBack.className = 'btn-secondary';
+    btnBack.style.marginBottom = '20px';
+    btnBack.innerHTML = '⬅ Volver';
+    btnBack.addEventListener('click', backCallback);
+    container.appendChild(btnBack);
+
+    // Full test button
+    const btnAll = document.createElement('button');
+    btnAll.className = 'btn-topic';
+    btnAll.style.background = '#e3f2fd';
+    btnAll.innerHTML = `<strong>Test Completo</strong><br><small>Todas las preguntas (${qArray.length})</small>`;
+    btnAll.addEventListener('click', () => prepareModeSelection(`${title} (Completo)`, () => qArray));
+    container.appendChild(btnAll);
+
+    // Chunks
+    const chunkSize = 20;
+    const numChunks = Math.ceil(qArray.length / chunkSize);
+
+    for (let i = 0; i < numChunks; i++) {
+        const start = i * chunkSize;
+        const end = Math.min(start + chunkSize, qArray.length);
+        const chunk = qArray.slice(start, end);
+
+        const btn = document.createElement('button');
+        btn.className = 'btn-topic';
+        btn.innerHTML = `<strong>Parte ${i + 1}</strong><br><small>Preguntas ${start + 1} a ${end}</small>`;
+        btn.addEventListener('click', () => prepareModeSelection(`${title} (Parte ${i + 1})`, () => chunk));
+        container.appendChild(btn);
+    }
 }
