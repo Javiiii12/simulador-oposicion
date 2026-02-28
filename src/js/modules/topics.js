@@ -113,8 +113,8 @@ function createBaseTopicButton(baseTema, questionsSubset) {
     const btn = document.createElement('button');
     btn.className = 'btn-topic';
     btn.innerHTML = `
-        <strong>${baseTema}</strong><br>
-        <span style="font-size:0.9em; color:#555;">${titulo}</span><br>
+        <strong>${baseTema}</strong>
+        <span class="topic-title-sub">${titulo}</span>
         <small>${temaQ.length} preguntas ${hasBlocks ? '(Contiene Bloques 📂)' : ''}</small>
     `;
     btn.addEventListener('click', () => {
@@ -169,7 +169,7 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
     const btnAll = document.createElement('button');
     btnAll.className = 'btn-topic';
     btnAll.style.background = '#e3f2fd';
-    btnAll.innerHTML = `<strong>${baseTema} COMPLETO</strong><br><small>Mezclar todos los bloques (${completoQ.length} pregs)</small>`;
+    btnAll.innerHTML = `<strong>${baseTema} COMPLETO</strong><small>Mezclar todos los bloques (${completoQ.length} pregs)</small>`;
     btnAll.addEventListener('click', () => prepareModeSelection(`${baseTema} (Todos)`, () => completoQ));
     container.appendChild(btnAll);
 
@@ -183,7 +183,7 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
         let displayTitle = subTema.replace(baseTema, '').replace(':', '').trim() || subTema;
         const btn = document.createElement('button');
         btn.className = 'btn-topic';
-        btn.innerHTML = `<strong>${displayTitle}</strong><br><small>${qCount} preguntas</small>`;
+        btn.innerHTML = `<strong>${displayTitle}</strong><small>${qCount} preguntas</small>`;
         btn.addEventListener('click', () => {
             if (chunkQ.length > 20) {
                 showChunksMenu(subTema, chunkQ, () => showBlocksMenu(baseTema, subTemas, temaQ));
@@ -213,7 +213,7 @@ function showChunksMenu(title, qArray, backCallback) {
     const btnAll = document.createElement('button');
     btnAll.className = 'btn-topic';
     btnAll.style.background = '#e3f2fd';
-    btnAll.innerHTML = `<strong>Test Completo</strong><br><small>Todas las preguntas (${qArray.length})</small>`;
+    btnAll.innerHTML = `<strong>Test Completo</strong><small>Todas las preguntas (${qArray.length})</small>`;
     btnAll.addEventListener('click', () => prepareModeSelection(`${title} (Completo)`, () => qArray));
     container.appendChild(btnAll);
 
@@ -228,7 +228,7 @@ function showChunksMenu(title, qArray, backCallback) {
 
         const btn = document.createElement('button');
         btn.className = 'btn-topic';
-        btn.innerHTML = `<strong>Parte ${i + 1}</strong><br><small>Preguntas ${start + 1} a ${end}</small>`;
+        btn.innerHTML = `<strong>Parte ${i + 1}</strong><small>Preguntas ${start + 1} a ${end}</small>`;
         btn.addEventListener('click', () => prepareModeSelection(`${title} (Parte ${i + 1})`, () => chunk));
         container.appendChild(btn);
     }

@@ -89,29 +89,43 @@ h1 {
     font-weight: 800;
 }
 
-.menu-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    margin-top: 30px;
+.menu-grid,
+.topics-wrapper,
+.options-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+    align-items: stretch;
 }
 
 .btn-menu {
     background: var(--surface);
     border: 1px solid rgba(0, 0, 0, 0.05);
-    padding: 24px;
+    padding: 1.5rem;
     border-radius: var(--radius);
     text-align: left;
-    font-size: 1.15rem;
-    font-weight: 700;
-    /* Bold titles */
     cursor: pointer;
     box-shadow: var(--shadow-md);
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    flex-direction: column;
+    height: 100%;
     color: var(--text);
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-sizing: border-box;
+}
+
+.btn-menu strong {
+    font-size: 1.25rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.btn-menu .badge,
+.btn-menu small {
+    margin-top: auto;
+    align-self: flex-start;
 }
 
 .btn-menu:hover {
@@ -170,16 +184,41 @@ h1 {
 
 .btn-topic {
     background: var(--surface);
-    padding: 24px;
+    padding: 1.5rem;
     border: 1px solid rgba(0, 0, 0, 0.05);
     border-left: 6px solid var(--primary);
     border-radius: var(--radius);
     text-align: left;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     box-shadow: var(--shadow-md);
     color: var(--text);
+    box-sizing: border-box;
+}
+
+.btn-topic strong {
     font-size: 1.1rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.btn-topic .topic-title-sub {
+    font-size: 0.95rem;
+    color: var(--text-light);
+    margin-bottom: 1.5rem;
+    display: block;
+}
+
+.btn-topic small {
+    margin-top: auto;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--primary);
+    display: block;
 }
 
 .btn-topic:hover {
@@ -333,9 +372,10 @@ input[type="number"] {
 }
 
 .options-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin-top: 1.5rem;
 }
 
 .btn-option {
@@ -513,12 +553,7 @@ input[type="number"] {
 /* RESPONSIVE */
 @media (min-width: 768px) {
     .container {
-        max-width: 800px;
-    }
-
-    .menu-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
+        max-width: 900px;
     }
 }
 
