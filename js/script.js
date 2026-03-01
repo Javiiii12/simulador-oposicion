@@ -87,23 +87,33 @@ async function validateUserAccess(userId) {
         }
 
         let currentDevices = data.dispositivos_usados || 0;
+        let needsIncrement = false;
 
         if (isNewDevice) {
+            // It's a brand new device
             if (currentDevices >= MAX_DEVICES) {
                 showAccessDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
                 localStorage.removeItem('ope_user_access');
                 localStorage.removeItem('ope_device_id');
                 return;
-            } else {
-                // Increment device count in Supabase
-                currentDevices++;
-                try {
-                    await supabaseClient
-                        .from('usuarios_acceso')
-                        .update({ dispositivos_usados: currentDevices })
-                        .eq('id_acceso', userId);
-                } catch (e) { console.error('Error updating devices:', e); }
             }
+            needsIncrement = true;
+        } else {
+            // It's an existing registered device
+            if (currentDevices === 0) {
+                // DB was reset, claim a slot
+                needsIncrement = true;
+            }
+        }
+
+        if (needsIncrement) {
+            currentDevices++;
+            try {
+                await supabaseClient
+                    .from('usuarios_acceso')
+                    .update({ dispositivos_usados: currentDevices })
+                    .eq('id_acceso', userId);
+            } catch (e) { console.error('Error updating devices:', e); }
         }
 
         // Si es correcto
