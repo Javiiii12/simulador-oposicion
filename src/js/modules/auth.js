@@ -63,45 +63,28 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         Storage.saveUser(userId.trim());
         Storage.setPrefix(userId.trim()); // Isolate progress data
 
-        const { id: deviceId } = Storage.getOrCreateDeviceId();
+        const { id: deviceId, isNew: isNewLocally } = Storage.getOrCreateDeviceId();
         const shortId = deviceId.substring(0, 10);
         let currentDevices = data.dispositivos_usados || 0;
         const exactId = data.id_acceso;
 
-        // LOG-BASED SYNC: Fetch the last successful login for this user to detect hardware switch
         let needsIncrement = false;
-        try {
-            const { data: lastLogs, error: logError } = await state.supabaseClient
-                .from('access_logs')
-                .select('device_info')
-                .eq('status', 'success')
-                .ilike('device_info', `%(${exactId})%`)
-                .order('created_at', { ascending: false })
-                .limit(1);
 
-            if (logError) throw logError;
-
-            if (currentDevices === 0) {
-                // DB was reset or first login — always claim slot 1
-                needsIncrement = true;
-            } else if (lastLogs && lastLogs.length > 0) {
-                // Check if the last hardware used was different from this one
-                const lastInfo = lastLogs[0].device_info || '';
-                const lastDevMatch = lastInfo.match(/DevId: ([a-z0-9]+)/);
-                const lastDevId = lastDevMatch ? lastDevMatch[1] : '';
-
-                if (lastDevId && lastDevId !== shortId && currentDevices < MAX_DEVICES) {
-                    console.log(`Hardware switch detected (Last: ${lastDevId}, Current: ${shortId}). Incrementing counter...`);
-                    needsIncrement = true;
-                }
-            } else if (currentDevices < MAX_DEVICES) {
-                // No logs found but counter is > 0? Might be legacy or weird state.
-                // If it's the first time we see logs for this exact user, but counter is > 0,
-                // we assume another device already took a slot.
-                needsIncrement = false;
+        if (isNewLocally) {
+            // It's a brand new device
+            if (currentDevices >= MAX_DEVICES) {
+                onDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
+                Storage.clearUser();
+                return;
             }
-        } catch (e) {
-            console.warn('Sync check failed, falling back to safe mode:', e);
+            needsIncrement = true;
+        } else {
+            // It's an existing registered device
+            if (currentDevices === 0) {
+                // DB was reset, claim a slot
+                needsIncrement = true;
+            }
+            // If currentDevices > 0, we assume it's one of the allowed ones.
         }
 
         if (needsIncrement) {
