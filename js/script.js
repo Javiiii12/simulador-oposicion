@@ -77,84 +77,33 @@ async function validateUserAccess(userId) {
 
         // Logic for tracking devices
         const MAX_DEVICES = 2; // Allow up to 2 devices per license
+        let localDeviceId = localStorage.getItem('ope_device_id');
+        let isNewDevice = false;
 
-        // Generar un "fingerprint" de dispositivo basado en el navegador y pantalla
-        // Es mucho más estable en móviles que pierden el localStorage.
-        const nav = window.navigator;
-        const screen = window.screen;
-        const rawFingerprint = `${nav.userAgent}-${nav.language}-${screen.colorDepth}-${screen.width}x${screen.height}-${new Date().getTimezoneOffset()}`;
-
-        // Simple hash function para hacerlo más corto
-        let hash = 0;
-        for (let i = 0; i < rawFingerprint.length; i++) {
-            const char = rawFingerprint.charCodeAt(i);
-            hash = ((hash << 5) - hash) + char;
-            hash = hash & hash; // Convert to 32bit integer
+        if (!localDeviceId) {
+            localDeviceId = 'dev_' + Math.random().toString(36).substr(2, 9);
+            localStorage.setItem('ope_device_id', localDeviceId);
+            isNewDevice = true;
         }
-        const stableDeviceId = 'dev_' + Math.abs(hash).toString(36);
-        const shortId = stableDeviceId.substring(0, 10);
 
         let currentDevices = data.dispositivos_usados || 0;
-        let needsIncrement = false;
 
-        // Comprobación basada en los logs históricos reales de Supabase
-        try {
-            const { data: logs, error: logError } = await supabaseClient
-                .from('access_logs')
-                .select('device_info')
-                .eq('status', 'success')
-                .ilike('device_info', `%(${userId})%`)
-                .order('created_at', { ascending: false })
-                .limit(20);
-
-            if (!logError && logs && logs.length > 0) {
-                // Extraer los DevId únicos que han usado esta licencia recientemente
-                const uniqueDevIds = new Set();
-                logs.forEach(log => {
-                    const match = log.device_info.match(/DevId: ([a-z0-9_]+)/);
-                    if (match && match[1]) {
-                        uniqueDevIds.add(match[1]);
-                    }
-                });
-
-                if (uniqueDevIds.has(shortId)) {
-                    // Es un dispositivo ya usado y registrado, adelante.
-                    needsIncrement = false;
-                } else {
-                    // Es un dispositivo NUEVO que no está en el historial reciente
-                    if (currentDevices >= MAX_DEVICES || uniqueDevIds.size >= MAX_DEVICES) {
-                        showAccessDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
-                        localStorage.removeItem('ope_user_access');
-                        return;
-                    } else {
-                        needsIncrement = true;
-                    }
-                }
-            } else {
-                // No hay logs, primer uso o BD reseteada
-                needsIncrement = true;
-            }
-        } catch (e) {
-            console.warn('Sync check failed:', e);
-            // Fallback: si falla la comprobación de logs, fiarnos del contador numérico
-            if (currentDevices >= MAX_DEVICES && !localStorage.getItem('ope_device_id_stable')) {
-                showAccessDenied(`Acceso denegado. Límite de ${MAX_DEVICES} dispositivos alcanzado.`);
+        if (isNewDevice) {
+            if (currentDevices >= MAX_DEVICES) {
+                showAccessDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
                 localStorage.removeItem('ope_user_access');
+                localStorage.removeItem('ope_device_id');
                 return;
+            } else {
+                // Increment device count in Supabase
+                currentDevices++;
+                try {
+                    await supabaseClient
+                        .from('usuarios_acceso')
+                        .update({ dispositivos_usados: currentDevices })
+                        .eq('id_acceso', userId);
+                } catch (e) { console.error('Error updating devices:', e); }
             }
-        }
-
-        // Guardar marca local para acelerar el fallback
-        localStorage.setItem('ope_device_id_stable', stableDeviceId);
-
-        if (needsIncrement) {
-            currentDevices++;
-            try {
-                await supabaseClient
-                    .from('usuarios_acceso')
-                    .update({ dispositivos_usados: currentDevices })
-                    .eq('id_acceso', userId);
-            } catch (e) { console.error('Error updating devices:', e); }
         }
 
         // Si es correcto
