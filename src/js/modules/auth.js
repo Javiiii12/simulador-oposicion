@@ -65,27 +65,27 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
 
         const exactId = data.id_acceso;
 
-        const { id: deviceId, isNew: isNewLocally } = Storage.getOrCreateDeviceId();
+        // Keep local ID just for diagnostics/logs
+        const { id: deviceId } = Storage.getOrCreateDeviceId();
         const shortId = deviceId.substring(0, 10);
         let currentDevices = data.dispositivos_usados || 0;
 
+        let isRegisteredForThisUser = localStorage.getItem('ope_reg_' + exactId) === 'true';
+
+        if (currentDevices === 0) {
+            // Database reset: force claim a new slot
+            isRegisteredForThisUser = false;
+        }
+
         let needsIncrement = false;
 
-        if (isNewLocally) {
-            // It's a brand new device
+        if (!isRegisteredForThisUser) {
             if (currentDevices >= MAX_DEVICES) {
                 onDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
                 Storage.clearUser();
                 return;
             }
             needsIncrement = true;
-        } else {
-            // It's an existing registered device
-            if (currentDevices === 0) {
-                // DB was reset, claim a slot
-                needsIncrement = true;
-            }
-            // If currentDevices > 0, we assume it's one of the allowed ones.
         }
 
         if (needsIncrement) {
@@ -99,6 +99,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
                 console.error('Error al actualizar dispositivos_usados:', updateError);
             } else {
                 console.log(`Dispositivo sincronizado. Total: ${currentDevices}/${MAX_DEVICES}`);
+                localStorage.setItem('ope_reg_' + exactId, 'true');
             }
         }
 

@@ -77,22 +77,26 @@ async function validateUserAccess(userId) {
 
         // Logic for tracking devices
         const MAX_DEVICES = 2; // Allow up to 2 devices per license
-        let localDeviceId = localStorage.getItem('ope_device_id');
-        let isNewDevice = false;
 
+        // Conservamos un ID local solo para los logs de diagnóstico
+        let localDeviceId = localStorage.getItem('ope_device_id');
         if (!localDeviceId) {
             localDeviceId = 'dev_' + Math.random().toString(36).substr(2, 9);
             localStorage.setItem('ope_device_id', localDeviceId);
-            isNewDevice = true;
         }
 
         let currentDevices = data.dispositivos_usados || 0;
+        let isRegisteredForThisUser = localStorage.getItem('ope_reg_' + userId) === 'true';
 
-        if (isNewDevice) {
+        if (currentDevices === 0) {
+            // Database reset: force claim a new slot
+            isRegisteredForThisUser = false;
+        }
+
+        if (!isRegisteredForThisUser) {
             if (currentDevices >= MAX_DEVICES) {
                 showAccessDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
                 localStorage.removeItem('ope_user_access');
-                localStorage.removeItem('ope_device_id');
                 return;
             } else {
                 // Increment device count in Supabase
@@ -102,6 +106,9 @@ async function validateUserAccess(userId) {
                         .from('usuarios_acceso')
                         .update({ dispositivos_usados: currentDevices })
                         .eq('id_acceso', userId);
+
+                    // Mark this browser as authorized specifically for THIS user
+                    localStorage.setItem('ope_reg_' + userId, 'true');
                 } catch (e) { console.error('Error updating devices:', e); }
             }
         }
