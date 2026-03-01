@@ -233,7 +233,7 @@ async function loadAdminLogs() {
         if (licensesData && licensesData.length > 0) {
             htmlContent += licensesData.map(lic => `
                 <tr>
-                    <td><strong>${lic.nombre}</strong><br><small style="color:#666;">ID: ${lic.id_acceso} ${lic.bloqueado ? '🚫 Bloqueado' : ''}</small></td>
+                    <td><strong>${lic.nombre}</strong><br><small style="color:#666;">ID: *** ${lic.bloqueado ? '🚫 Bloqueado' : ''}</small></td>
                     <td style="text-align:center; font-weight:bold; color:${lic.dispositivos_usados >= 2 ? 'red' : 'green'}">${lic.dispositivos_usados} / 2 Disp.</td>
                 </tr>
             `).join('');
@@ -253,7 +253,7 @@ async function loadAdminLogs() {
             htmlContent += logsData.map(log => `
                 <tr>
                     <td>${new Date(log.created_at).toLocaleString('es-ES')}</td>
-                    <td style="font-size: 0.8rem; word-break: break-all;">${log.device_info}</td>
+                    <td style="font-size: 0.8rem; word-break: break-all;">${(log.device_info || '').replace(/\\([^)]+\\)/, '(***)')}</td>
                 </tr>
             `).join('');
         } else {

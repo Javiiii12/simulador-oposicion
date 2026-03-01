@@ -320,12 +320,12 @@ async function loadAdminLogs() {
         ]);
         let html = `<tr style="background:#f4f6f8"><td colspan="2" style="font-weight:bold;text-align:center;color:var(--primary);padding:10px">Estado de Licencias</td></tr>`;
         html += (lics || []).map(l => `<tr>
-            <td><strong>${l.nombre}</strong><br><small>ID: ${l.id_acceso} ${l.bloqueado ? '🚫 Bloqueado' : ''}</small></td>
+            <td><strong>${l.nombre}</strong><br><small>ID: *** ${l.bloqueado ? '🚫 Bloqueado' : ''}</small></td>
             <td style="text-align:center;font-weight:bold;color:${l.dispositivos_usados >= 2 ? 'red' : 'green'}">${l.dispositivos_usados} / 2</td></tr>`).join('');
         html += `<tr style="background:#f4f6f8"><td colspan="2" style="font-weight:bold;text-align:center;color:var(--primary);padding:10px">Últimas Conexiones</td></tr>`;
         html += (logs || []).map(l => `<tr>
             <td>${new Date(l.created_at).toLocaleString('es-ES')}</td>
-            <td style="font-size:0.8rem">${l.device_info}</td></tr>`).join('');
+            <td style="font-size:0.8rem">${(l.device_info || '').replace(/\\([^)]+\\)/, '(***)')}</td></tr>`).join('');
         tbody.innerHTML = html;
     } catch (e) {
         tbody.innerHTML = `<tr><td colspan="2" style="color:red;text-align:center">Error: ${e.message}</td></tr>`;
