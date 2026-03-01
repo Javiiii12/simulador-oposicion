@@ -289,6 +289,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Global state for origin tracking
 let currentSource = null;
+let currentCategory = null;
 
 function setupEventListeners() {
     // Selección de Rol
@@ -617,6 +618,7 @@ function showExamsList() {
 }
 
 function showTopics(part) {
+    currentCategory = part;
     const category = part;
     // Update Title
     const titleEl = document.getElementById('topic-title');
@@ -770,12 +772,16 @@ function showBlocksMenu(baseTema, subTemas, temaQuestions) {
     btnVolver.style.marginBottom = '20px';
     btnVolver.innerHTML = '⬅ Volver a Temas';
     btnVolver.onclick = () => {
-        // Hacky way to go back to previous view - assume general if tema is <= 6
-        const numMatch = baseTema.match(/\d+/);
-        if (numMatch && parseInt(numMatch[0]) <= 6) {
-            showTopics('GENERAL');
+        if (currentCategory) {
+            showTopics(currentCategory);
         } else {
-            showTopics('ESPECIFICA');
+            // Hacky way to go back to previous view - assume general if tema is <= 6
+            const numMatch = baseTema.match(/\d+/);
+            if (numMatch && parseInt(numMatch[0]) <= 6) {
+                showTopics('GENERAL');
+            } else {
+                showTopics('ESPECIFICA');
+            }
         }
     };
     container.appendChild(btnVolver);

@@ -7,6 +7,7 @@ export const state = {
     currentMode: 'training', // 'training', 'exam', 'failures', 'review'
     originalMode: 'training',
     currentSource: null,
+    currentCategory: null,
     currentTopicName: "",
     supabaseClient: null
 };

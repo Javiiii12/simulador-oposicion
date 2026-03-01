@@ -16,6 +16,7 @@ export function showParts(source) {
 }
 
 export function showTopics(part) {
+    state.currentCategory = part;
     const titleEl = document.getElementById('topic-title');
 
     if (titleEl) {
@@ -124,8 +125,12 @@ function createBaseTopicButton(baseTema, questionsSubset) {
         } else {
             if (temaQ.length > 20) {
                 showChunksMenu(baseTema, temaQ, () => {
-                    const n = baseTema.match(/\d+/);
-                    showTopics(n && parseInt(n[0]) <= 6 ? 'GENERAL' : 'ESPECIFICA');
+                    if (state.currentCategory) {
+                        showTopics(state.currentCategory);
+                    } else {
+                        const n = baseTema.match(/\d+/);
+                        showTopics(n && parseInt(n[0]) <= 6 ? 'GENERAL' : 'ESPECIFICA');
+                    }
                 });
             } else {
                 prepareModeSelection(baseTema, () => temaQ);
@@ -155,8 +160,12 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
     btnBack.style.marginBottom = '20px';
     btnBack.innerHTML = '⬅ Volver a Temas';
     btnBack.addEventListener('click', () => {
-        const n = baseTema.match(/\d+/);
-        showTopics(n && parseInt(n[0]) <= 6 ? 'GENERAL' : 'ESPECIFICA');
+        if (state.currentCategory) {
+            showTopics(state.currentCategory);
+        } else {
+            const n = baseTema.match(/\d+/);
+            showTopics(n && parseInt(n[0]) <= 6 ? 'GENERAL' : 'ESPECIFICA');
+        }
     });
     container.appendChild(btnBack);
 
