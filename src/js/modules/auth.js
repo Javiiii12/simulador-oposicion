@@ -63,29 +63,73 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         Storage.saveUser(userId.trim());
         Storage.setPrefix(userId.trim()); // Isolate progress data
 
-        const { id: deviceId, isNew: isNewLocally } = Storage.getOrCreateDeviceId();
-        const shortId = deviceId.substring(0, 10);
-        let currentDevices = data.dispositivos_usados || 0;
         const exactId = data.id_acceso;
 
+        // Generar un "fingerprint" de dispositivo basado en el navegador y pantalla
+        const nav = window.navigator;
+        const screen = window.screen;
+        const rawFingerprint = `${nav.userAgent}-${nav.language}-${screen.colorDepth}-${screen.width}x${screen.height}-${new Date().getTimezoneOffset()}`;
+
+        let hash = 0;
+        for (let i = 0; i < rawFingerprint.length; i++) {
+            const char = rawFingerprint.charCodeAt(i);
+            hash = ((hash << 5) - hash) + char;
+            hash = hash & hash; // Convert to 32bit integer
+        }
+        const stableDeviceId = 'dev_' + Math.abs(hash).toString(36);
+        const shortId = stableDeviceId.substring(0, 10);
+
+        let currentDevices = data.dispositivos_usados || 0;
         let needsIncrement = false;
 
-        if (isNewLocally) {
-            // It's a brand new device
-            if (currentDevices >= MAX_DEVICES) {
-                onDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
+        // Comprobación basada en los logs históricos reales de Supabase
+        try {
+            const { data: logs, error: logError } = await state.supabaseClient
+                .from('access_logs')
+                .select('device_info')
+                .eq('status', 'success')
+                .ilike('device_info', `%(${exactId})%`)
+                .order('created_at', { ascending: false })
+                .limit(20);
+
+            if (!logError && logs && logs.length > 0) {
+                // Extraer los DevId únicos que han usado esta licencia recientemente
+                const uniqueDevIds = new Set();
+                logs.forEach(log => {
+                    const match = log.device_info.match(/DevId: ([a-z0-9_]+)/);
+                    if (match && match[1]) {
+                        uniqueDevIds.add(match[1]);
+                    }
+                });
+
+                if (uniqueDevIds.has(shortId)) {
+                    // Es un dispositivo ya usado y registrado, adelante.
+                    needsIncrement = false;
+                } else {
+                    // Es un dispositivo NUEVO que no está en el historial reciente
+                    if (currentDevices >= MAX_DEVICES || uniqueDevIds.size >= MAX_DEVICES) {
+                        onDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
+                        Storage.clearUser();
+                        return;
+                    } else {
+                        needsIncrement = true;
+                    }
+                }
+            } else {
+                // No hay logs, primer uso o BD reseteada
+                needsIncrement = true;
+            }
+        } catch (e) {
+            console.warn('Sync check failed:', e);
+            // Fallback
+            if (currentDevices >= MAX_DEVICES && !localStorage.getItem('ope_device_id_stable')) {
+                onDenied(`Acceso denegado. Límite de ${MAX_DEVICES} dispositivos alcanzado.`);
                 Storage.clearUser();
                 return;
             }
-            needsIncrement = true;
-        } else {
-            // It's an existing registered device
-            if (currentDevices === 0) {
-                // DB was reset, claim a slot
-                needsIncrement = true;
-            }
-            // If currentDevices > 0, we assume it's one of the allowed ones.
         }
+
+        localStorage.setItem('ope_device_id_stable', stableDeviceId);
 
         if (needsIncrement) {
             currentDevices++;
