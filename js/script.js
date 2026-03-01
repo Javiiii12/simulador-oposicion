@@ -393,10 +393,7 @@ function setupEventListeners() {
     });
     document.getElementById('btn-back-random').addEventListener('click', () => showView('menu'));
     document.getElementById('btn-back-mode').addEventListener('click', () => {
-        // Volver depende... normalmente a Topics o Menu.
-        // Simplificación: Volver a Topics si venimos de ahí, o Menu si venimos de Random (aunque random va directo).
-        // Por ahora, volver a Menu es seguro.
-        showView('menu');
+        showView(lastViewBeforeMode);
     });
     document.getElementById('btn-back-progress').addEventListener('click', () => showView('menu'));
     document.getElementById('btn-quit-game').addEventListener('click', () => {
@@ -884,8 +881,12 @@ function createTopicButton(tema) {
 // --- SELECTOR DE MODO ---
 let pendingGameGenerator = null; // Función que devuelve las preguntas
 let pendingTopicTitle = "";
+let lastViewBeforeMode = 'menu';
 
 function prepareModeSelection(title, generatorFn) {
+    const activeEntry = Object.entries(views).find(([name, el]) => el && el.classList.contains('active'));
+    if (activeEntry) lastViewBeforeMode = activeEntry[0];
+
     pendingTopicTitle = title;
     pendingGameGenerator = generatorFn;
 

@@ -72,6 +72,17 @@ export function showTopics(part) {
 }
 
 export function prepareModeSelection(title, generatorFn) {
+    const VIEW_IDS = {
+        roleSelection: 'view-role-selection', menu: 'view-menu', parts: 'view-parts',
+        topics: 'view-topics', random: 'view-random', examsMenu: 'view-exams-menu',
+        modeSelection: 'view-mode-selection', progress: 'view-progress', game: 'view-game', results: 'view-results'
+    };
+    const activeKey = Object.keys(VIEW_IDS).find(key => {
+        const el = document.getElementById(VIEW_IDS[key]);
+        return el && el.classList.contains('active');
+    });
+    if (activeKey) state.lastViewBeforeMode = activeKey;
+
     state.pendingTopicTitle = title;
     state.pendingGameGenerator = generatorFn;
     const el = document.getElementById('mode-topic-title');

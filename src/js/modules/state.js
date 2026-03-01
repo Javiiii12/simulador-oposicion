@@ -9,6 +9,7 @@ export const state = {
     currentSource: null,
     currentCategory: null,
     currentTopicName: "",
+    lastViewBeforeMode: 'menu',
     supabaseClient: null
 };
 

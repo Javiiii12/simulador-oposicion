@@ -147,7 +147,7 @@ function setupEventListeners() {
 
     // ── Mode selection ──
     document.getElementById('btn-back-mode')
-        .addEventListener('click', () => UI.showView('menu'));
+        .addEventListener('click', () => UI.showView(state.lastViewBeforeMode || 'menu'));
     document.getElementById('btn-mode-training')
         .addEventListener('click', () => triggerGameStart('training'));
     document.getElementById('btn-mode-exam')
