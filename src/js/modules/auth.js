@@ -118,7 +118,8 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         try {
             const rawDB = data.dispositivos_usados || 0;
             const regFlag = isRegisteredForThisUser ? 'Y' : 'N';
-            const trace = `[DB:${rawDB},Reg:${regFlag},Inc:${needsIncrement ? 'Y' : 'N'}]`;
+            const ver = CONFIG.APP_VERSION.split(' ')[0]; // e.g. v1.15.6
+            const trace = `${ver} [DB:${rawDB},Reg:${regFlag},Inc:${needsIncrement ? 'Y' : 'N'}]`;
             
             await state.supabaseClient.from(CONFIG.TABLE_LOGS).insert([{
                 created_at: new Date().toISOString(),
