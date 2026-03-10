@@ -63,6 +63,8 @@ function showRoleSelection() {
 // ── Event Listeners ────────────────────────────────────────────────────────
 
 function setupEventListeners() {
+    checkAndInjectSessionButton();
+
     // ── Role selection ──
     document.getElementById('btn-role-pinche')
         .addEventListener('click', () => UI.showView('menu'));
@@ -169,7 +171,10 @@ function setupEventListeners() {
 
     // ── Game controls ──
     document.getElementById('btn-quit-game').addEventListener('click', () => {
-        if (confirm('¿Salir? Se perderá el progreso actual.')) UI.showView('menu');
+        if (confirm('¿Salir al menú? Tu test actual quedará guardado automáticamente.')) {
+            checkAndInjectSessionButton(); // Refresca UI
+            UI.showView('menu');
+        }
     });
     document.getElementById('btn-next').addEventListener('click', () => Game.nextQuestion());
     document.getElementById('btn-prev').addEventListener('click', () => Game.prevQuestion());
@@ -179,7 +184,10 @@ function setupEventListeners() {
 
     // ── Results ──
     document.getElementById('btn-home-results')
-        .addEventListener('click', () => UI.showView('menu'));
+        .addEventListener('click', () => {
+            checkAndInjectSessionButton(); // Al llegar a results se ha borrado storage, así que limpiará el botón
+            UI.showView('menu');
+        });
     document.getElementById('btn-retry').addEventListener('click', () => {
         if (state.pendingGameGenerator) triggerGameStart(state.originalMode || 'training');
     });
@@ -329,5 +337,44 @@ async function loadAdminLogs() {
         tbody.innerHTML = html;
     } catch (e) {
         tbody.innerHTML = `<tr><td colspan="2" style="color:red;text-align:center">Error: ${e.message}</td></tr>`;
+    }
+}
+
+export function checkAndInjectSessionButton() {
+    const session = Storage.getSuspendedSession();
+    const oldBtn = document.getElementById('btn-continue-session');
+    if (oldBtn) oldBtn.remove(); // Limpiar previo
+
+    if (session && session.currentQuestions && session.currentQuestions.length > 0) {
+        const menuGrid = document.querySelector('#view-menu .menu-grid');
+        
+        const btn = document.createElement('button');
+        btn.id = 'btn-continue-session';
+        // Heredar clases premium "Sanidad Teal" usando flex box integrado en la app
+        btn.className = 'btn-menu special';
+        btn.style.gridColumn = '1 / -1'; 
+        btn.style.background = 'linear-gradient(135deg, #0d9488 0%, #0f766e 100%)';
+        btn.style.color = '#fff';
+        btn.style.boxShadow = '0 6px 15px rgba(13, 148, 136, 0.4)';
+        
+        const total = session.currentQuestions.length;
+        const current = session.currentIndex + 1;
+        const pct = Math.round((current / total) * 100);
+
+        btn.innerHTML = `
+            <strong>▶️ Continuar Test en Pausa</strong>
+            <div style="font-size: 0.85rem; margin-top: 5px; opacity: 0.9;">
+                ${session.currentTopicName} - Pregunta ${current} de ${total}
+            </div>
+            <div style="width: 100%; background: rgba(255,255,255,0.3); height: 6px; border-radius: 3px; margin-top: 8px; overflow: hidden;">
+                <div style="width: ${pct}%; background: #fff; height: 100%;"></div>
+            </div>
+        `;
+        
+        btn.addEventListener('click', () => {
+            Game.restoreSession(session);
+        });
+
+        if (menuGrid) menuGrid.insertBefore(btn, menuGrid.firstChild);
     }
 }

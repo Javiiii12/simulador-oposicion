@@ -4,7 +4,7 @@
  */
 import { state, resetGameState } from './state.js';
 import { showView, toggleEl, updateFailureBadge } from './ui.js';
-import { addFailedId, removeFailedId, getFailedIds, addHistoryEntry } from './storage.js';
+import { addFailedId, removeFailedId, getFailedIds, addHistoryEntry, saveSuspendedSession, clearSuspendedSession } from './storage.js';
 
 // ── Public API ────────────────────────────────────────────────────────────────
 
@@ -32,6 +32,7 @@ export function startGame(questions, mode, topicName) {
 
     showView('game');
     renderQuestion();
+    saveCurrentSession();
 }
 
 /**
@@ -84,12 +85,14 @@ export function nextQuestion() {
         if (state.currentMode === 'review') showView('results');
         else finishGame();
     }
+    saveCurrentSession();
 }
 
 export function prevQuestion() {
     if (state.currentIndex > 0) {
         state.currentIndex--;
         renderQuestion();
+        saveCurrentSession();
     }
 }
 
@@ -120,6 +123,7 @@ export function showGrid() {
             state.currentIndex = index;
             renderQuestion();
             overlay.classList.add('hidden');
+            saveCurrentSession();
         });
         container.appendChild(btn);
     });
@@ -301,9 +305,12 @@ function handleAnswer(selected, q) {
     btnNext.classList.remove('hidden');
     btnNext.innerHTML = buildNextButtonLabel();
     setTimeout(() => btnNext.scrollIntoView({ behavior: 'smooth', block: 'center' }), 100);
+    
+    saveCurrentSession();
 }
 
 function finishGame() {
+    clearSuspendedSession();
     const total = state.currentQuestions.length;
     let aciertos = 0, fallos = 0, blancos = 0;
 
@@ -414,4 +421,34 @@ function finishGame() {
 
     updateFailureBadge(getFailedIds().length);
     showView('results');
+}
+
+export function saveCurrentSession() {
+    if (state.currentMode === 'review') return; // No guardamos los repasos
+    const sessionData = {
+        currentMode: state.currentMode,
+        originalMode: state.originalMode,
+        currentTopicName: state.currentTopicName,
+        currentQuestions: state.currentQuestions,
+        currentIndex: state.currentIndex,
+        score: state.score,
+        userAnswers: state.userAnswers
+    };
+    saveSuspendedSession(sessionData);
+}
+
+export function restoreSession(savedState) {
+    state.currentMode = savedState.currentMode;
+    state.originalMode = savedState.originalMode;
+    state.currentTopicName = savedState.currentTopicName;
+    state.currentQuestions = savedState.currentQuestions;
+    state.currentIndex = savedState.currentIndex;
+    state.score = savedState.score;
+    state.userAnswers = savedState.userAnswers || {};
+
+    toggleEl('btn-clear-failures-header', state.currentMode === 'failures');
+    showView('game');
+    
+    // Forzamos el render exacto
+    renderQuestion();
 }

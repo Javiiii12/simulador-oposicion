@@ -93,3 +93,20 @@ export function getOrCreateDeviceId() {
 
 export function getVersionData() { return localStorage.getItem(KEYS.VERSION_DATA); }
 export function setVersionData(val) { localStorage.setItem(KEYS.VERSION_DATA, val); }
+
+// ── Guardado de Sesión Suspendida ──────────────────────────────────────────
+export function saveSuspendedSession(sessionData) {
+    localStorage.setItem('estado_test_suspendido', JSON.stringify(sessionData));
+}
+
+export function getSuspendedSession() {
+    try { 
+        return JSON.parse(localStorage.getItem('estado_test_suspendido')); 
+    } catch { 
+        return null; 
+    }
+}
+
+export function clearSuspendedSession() {
+    localStorage.removeItem('estado_test_suspendido');
+}
