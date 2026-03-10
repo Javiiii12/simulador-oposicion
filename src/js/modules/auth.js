@@ -45,7 +45,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
     try {
         // Fetch user record (case-insensitive read)
         const { data, error } = await state.supabaseClient
-            .from('usuarios_acceso')
+            .from(CONFIG.TABLE_USERS)
             .select('*')
             .ilike('id_acceso', userId.trim())
             .single();
@@ -90,13 +90,23 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
 
         if (needsIncrement) {
             currentDevices++;
-            const { error: updateError } = await state.supabaseClient
-                .from('usuarios_acceso')
+            const { data: updateData, error: updateError } = await state.supabaseClient
+                .from(CONFIG.TABLE_USERS)
                 .update({ dispositivos_usados: currentDevices })
-                .eq('id_acceso', exactId);
+                .eq('id_acceso', exactId)
+                .select();
 
             if (updateError) {
                 console.error('Error al actualizar dispositivos_usados:', updateError);
+            } else if (!updateData || updateData.length === 0) {
+                console.warn(`Advertencia: No se encontró la fila para '${exactId}' durante la actualización.`);
+                // Log negative result
+                try {
+                    await state.supabaseClient.from(CONFIG.TABLE_LOGS).insert([{
+                        status: 'warning',
+                        device_info: `Sync Fail: ${exactId} no encontrado al subir a ${currentDevices}. (Check Table Names)`
+                    }]);
+                } catch(e){}
             } else {
                 console.log(`Dispositivo sincronizado. Total: ${currentDevices}/${MAX_DEVICES}`);
                 localStorage.setItem('ope_reg_' + exactId, 'true');
@@ -105,7 +115,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
 
         // Log access with hardware ID
         try {
-            await state.supabaseClient.from('access_logs').insert([{
+            await state.supabaseClient.from(CONFIG.TABLE_LOGS).insert([{
                 created_at: new Date().toISOString(),
                 status: 'success',
                 device_info: `${data.nombre} (${data.id_acceso}) — Disp: ${currentDevices}/${MAX_DEVICES} — DevId: ${shortId}`
@@ -146,7 +156,7 @@ export async function checkAuth({ onSuccess, onDenied }) {
 export async function logAccess(userId, detail) {
     if (!state.supabaseClient) return;
     try {
-        await state.supabaseClient.from('access_logs').insert([{
+        await state.supabaseClient.from('registros de acceso').insert([{
             created_at: new Date().toISOString(),
             status: 'success',
             device_info: detail

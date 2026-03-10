@@ -331,8 +331,8 @@ async function loadAdminLogs() {
     UI.toggleEl('admin-modal', true);
     try {
         const [{ data: lics }, { data: logs }] = await Promise.all([
-            state.supabaseClient.from('usuarios_acceso').select('*').order('dispositivos_usados', { ascending: false }),
-            state.supabaseClient.from('access_logs').select('*').order('created_at', { ascending: false }).limit(30)
+            state.supabaseClient.from(CONFIG.TABLE_USERS).select('*').order('dispositivos_usados', { ascending: false }),
+            state.supabaseClient.from(CONFIG.TABLE_LOGS).select('*').order('created_at', { ascending: false }).limit(30)
         ]);
         let html = `<tr style="background:#f4f6f8"><td colspan="2" style="font-weight:bold;text-align:center;color:var(--primary);padding:10px">Estado de Licencias</td></tr>`;
         html += (lics || []).map(l => `<tr>
@@ -341,7 +341,7 @@ async function loadAdminLogs() {
         html += `<tr style="background:#f4f6f8"><td colspan="2" style="font-weight:bold;text-align:center;color:var(--primary);padding:10px">Últimas Conexiones</td></tr>`;
         html += (logs || []).map(l => `<tr>
             <td>${new Date(l.created_at).toLocaleString('es-ES')}</td>
-            <td style="font-size:0.8rem">${(l.device_info || '').replace(/\\([^)]+\\)/, '(***)')}</td></tr>`).join('');
+            <td style="font-size:0.8rem">${(l.device_info || '').replace(/\([^)]+\)/, '(***)')}</td></tr>`).join('');
         tbody.innerHTML = html;
     } catch (e) {
         tbody.innerHTML = `<tr><td colspan="2" style="color:red;text-align:center">Error: ${e.message}</td></tr>`;
