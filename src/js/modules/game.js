@@ -188,8 +188,8 @@ function renderQuestion() {
         optContainer.appendChild(btn);
     });
 
-    // Exam / review: always show Next button
-    if (mode === 'exam' || mode === 'review') {
+    // Exam / review / already answered: always show Next button
+    if (mode === 'exam' || mode === 'review' || state.userAnswers[state.currentIndex]) {
         btnNext.classList.remove('hidden');
         btnNext.innerHTML = buildNextButtonLabel();
     }

@@ -199,7 +199,11 @@ function setupEventListeners() {
     if (btnClearHeader) btnClearHeader.addEventListener('click', () => {
         if (confirm('¿Vaciar historial de fallos?')) {
             Storage.clearFailures();
-            Storage.clearSuspendedSession(); // Sincronizar
+            // Only clear the suspended session if it was a failure recap
+            const session = Storage.getSuspendedSession();
+            if (session && session.currentMode === 'failures') {
+                Storage.clearSuspendedSession();
+            }
             UI.updateFailureBadge(0);
             checkAndInjectSessionButton(); // Refrescar UI
             UI.showView('menu');
