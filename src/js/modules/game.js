@@ -381,15 +381,35 @@ function finishGame() {
     const pctEl = document.getElementById('resultado-porcentaje');
     const txtEl = document.getElementById('resultado-texto');
     pctEl.textContent = `${percentage}% de Aciertos`;
-    if (percentage >= 80) {
-        pctEl.style.color = 'var(--success)';
-        txtEl.textContent = '¡Excelente! Tienes nivel de plaza asegurada. Sigue así. 🏆';
-    } else if (percentage >= 50) {
-        pctEl.style.color = 'var(--primary)';
-        txtEl.textContent = '¡Buen trabajo! Estás en el buen camino. 🚀';
-    } else {
-        pctEl.style.color = 'var(--error)';
+
+    // Calculamos la nota sobre 10 oficial (Aciertos - Fallos/3) para el feedback
+    const rawScoreFeed = aciertos - (fallos / 3);
+    const notaFinalFeed = Math.max(0, rawScoreFeed) * (10 / total);
+
+    // Limpiar colores inline por si existían, para que actúen las clases CSS
+    pctEl.style.color = '';
+    txtEl.style.color = '';
+
+    if (notaFinalFeed >= 9) {
+        pctEl.className = 'texto-exito-teal';
+        txtEl.className = 'texto-exito-teal';
+        txtEl.textContent = '¡Excelente! Plaza casi asegurada. 🏆';
+    } else if (notaFinalFeed >= 7) {
+        pctEl.className = 'texto-bien-teal';
+        txtEl.className = 'texto-bien-teal';
+        txtEl.textContent = '¡Muy buen trabajo! Vas por el buen camino. 🚀';
+    } else if (notaFinalFeed >= 5) {
+        pctEl.className = 'texto-aviso-naranja';
+        txtEl.className = 'texto-aviso-naranja';
+        txtEl.textContent = '¡Aprobado! Pero hay margen de mejora, repasa los fallos. 📚';
+    } else if (notaFinalFeed >= 3) {
+        pctEl.className = 'texto-peligro-rojo';
+        txtEl.className = 'texto-peligro-rojo';
         txtEl.textContent = '¡No te rindas! De los errores se aprende. Revisa los fallos. 💪';
+    } else {
+        pctEl.className = 'texto-peligro-rojo';
+        txtEl.className = 'texto-peligro-rojo';
+        txtEl.textContent = 'Duro golpe, pero es solo un simulacro. ¡A seguir estudiando! ☕';
     }
 
     // Review buttons
