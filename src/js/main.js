@@ -2,7 +2,7 @@
  * main.js — Application entry point.
  * Orchestrates: auth → data load → UI init → ALL event listeners.
  */
-import * as Auth from './modules/auth.js';
+import * as Auth from './modules/auth.js?v=1.15.7';
 import * as Data from './modules/data.js';
 import * as UI from './modules/ui.js';
 import * as Storage from './modules/storage.js';

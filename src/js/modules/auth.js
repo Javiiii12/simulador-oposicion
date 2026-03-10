@@ -70,7 +70,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         const shortId = deviceId.substring(0, 10);
         let currentDevices = data.dispositivos_usados || 0;
 
-        const registeredDeviceId = localStorage.getItem('ope_reg_' + exactId);
+        const registeredDeviceId = localStorage.getItem('ope_reg_v2_' + exactId);
         let isRegisteredForThisUser = (registeredDeviceId === deviceId);
 
         if (currentDevices === 0) {
@@ -110,7 +110,7 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
                 } catch(e){}
             } else {
                 console.log(`Dispositivo sincronizado. Total: ${currentDevices}/${MAX_DEVICES}`);
-                localStorage.setItem('ope_reg_' + exactId, deviceId);
+                localStorage.setItem('ope_reg_v2_' + exactId, deviceId);
             }
         }
 
