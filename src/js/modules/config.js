@@ -2,7 +2,7 @@ export const CONFIG = {
     SUPABASE_URL: 'https://eykwcwgplldapzjnxuym.supabase.co',
     SUPABASE_KEY: 'sb_publishable_Ds016pgeKw5Z3j-Icu0SUA_wdKEoIyx',
     VALID_HASH: "6df795bb7e73343384fb90ff03841e6f7b0a585ab9f50e2e6e7ec398b722f508",
-    APP_VERSION: 'v1.15.4 (Admin Fix)',
+    APP_VERSION: 'v1.15.5 (Multi-Device Fix)',
     MAX_HISTORY_LENGTH: 50,
     MAX_RANDOM_QUESTIONS: 100,
     TABLE_USERS: 'usuarios_acceso',
