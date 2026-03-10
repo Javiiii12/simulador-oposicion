@@ -198,7 +198,9 @@ function setupEventListeners() {
     if (btnClearHeader) btnClearHeader.addEventListener('click', () => {
         if (confirm('¿Vaciar historial de fallos?')) {
             Storage.clearFailures();
+            Storage.clearSuspendedSession(); // Sincronizar
             UI.updateFailureBadge(0);
+            checkAndInjectSessionButton(); // Refrescar UI
             UI.showView('menu');
         }
     });
@@ -206,9 +208,15 @@ function setupEventListeners() {
     if (btnClearRes) btnClearRes.addEventListener('click', () => {
         if (confirm('¿Borrar todos los fallos guardados?')) {
             Storage.clearFailures();
+            // Si la sesión actual en pausa era de fallos, la limpiamos tb
+            const session = Storage.getSuspendedSession();
+            if (session && session.currentMode === 'failures') {
+                Storage.clearSuspendedSession();
+            }
             UI.updateFailureBadge(0);
             UI.toggleEl('btn-review-failed', false);
             UI.toggleEl('btn-clear-failures', false);
+            checkAndInjectSessionButton();
         }
     });
 }
