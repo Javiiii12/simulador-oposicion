@@ -9,6 +9,7 @@ import * as Storage from './modules/storage.js';
 import * as Topics from './modules/topics.js';
 import * as Game from './modules/game.js';
 import { state } from './modules/state.js';
+import { CONFIG } from './modules/config.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     // ── Anti-copy protections ──────────────────────────────────────────────
