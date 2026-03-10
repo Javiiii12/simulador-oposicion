@@ -113,12 +113,16 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
             }
         }
 
-        // Log access with hardware ID
+        // Log access with hardware ID and debug traces
         try {
+            const rawDB = data.dispositivos_usados || 0;
+            const regFlag = isRegisteredForThisUser ? 'Y' : 'N';
+            const trace = `[DB:${rawDB},Reg:${regFlag},Inc:${needsIncrement ? 'Y' : 'N'}]`;
+            
             await state.supabaseClient.from(CONFIG.TABLE_LOGS).insert([{
                 created_at: new Date().toISOString(),
                 status: 'success',
-                device_info: `${data.nombre} (${data.id_acceso}) — Disp: ${currentDevices}/${MAX_DEVICES} — DevId: ${shortId}`
+                device_info: `${data.nombre} (${data.id_acceso}) — ${currentDevices}/${MAX_DEVICES} — ${trace} — ${shortId}`
             }]);
         } catch (e) { console.warn('Log access error:', e); }
 
@@ -156,7 +160,7 @@ export async function checkAuth({ onSuccess, onDenied }) {
 export async function logAccess(userId, detail) {
     if (!state.supabaseClient) return;
     try {
-        await state.supabaseClient.from('registros de acceso').insert([{
+        await state.supabaseClient.from(CONFIG.TABLE_LOGS).insert([{
             created_at: new Date().toISOString(),
             status: 'success',
             device_info: detail
