@@ -20,6 +20,11 @@ export function startGame(questions, mode, topicName) {
         return;
     }
 
+    // ── Auto-limpieza: si había un test en pausa, se descarta al iniciar uno nuevo ──
+    if (mode !== 'review') {
+        clearSuspendedSession();
+    }
+
     state.currentQuestions = questions;
     state.currentMode = mode;
     state.currentTopicName = topicName;

@@ -360,16 +360,21 @@ export function checkAndInjectSessionButton() {
 
     if (session && session.currentQuestions && session.currentQuestions.length > 0) {
         const menuGrid = document.querySelector('#view-menu .menu-grid');
-        
+
+        const wrapper = document.createElement('div');
+        wrapper.id = 'btn-continue-session';
+        wrapper.style.gridColumn = '1 / -1';
+        wrapper.style.position = 'relative';
+        wrapper.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+
         const btn = document.createElement('button');
-        btn.id = 'btn-continue-session';
-        // Heredar clases premium "Sanidad Teal" usando flex box integrado en la app
         btn.className = 'btn-menu special';
-        btn.style.gridColumn = '1 / -1'; 
+        btn.style.width = '100%';
         btn.style.background = 'linear-gradient(135deg, #0d9488 0%, #0f766e 100%)';
         btn.style.color = '#fff';
         btn.style.boxShadow = '0 6px 15px rgba(13, 148, 136, 0.4)';
-        
+        btn.style.paddingRight = '3rem'; // Space for discard btn
+
         const total = session.currentQuestions.length;
         const current = session.currentIndex + 1;
         const pct = Math.round((current / total) * 100);
@@ -383,11 +388,49 @@ export function checkAndInjectSessionButton() {
                 <div style="width: ${pct}%; background: #fff; height: 100%;"></div>
             </div>
         `;
-        
+
         btn.addEventListener('click', () => {
             Game.restoreSession(session);
         });
 
-        if (menuGrid) menuGrid.insertBefore(btn, menuGrid.firstChild);
+        // ── Discard button ──────────────────────────────────────────────────
+        const discardBtn = document.createElement('button');
+        discardBtn.title = 'Descartar test en pausa';
+        discardBtn.innerHTML = '🗑️';
+        discardBtn.style.cssText = `
+            position: absolute;
+            top: 50%;
+            right: 12px;
+            transform: translateY(-50%);
+            background: rgba(255,255,255,0.2);
+            border: 1px solid rgba(255,255,255,0.4);
+            border-radius: 6px;
+            color: #fff;
+            font-size: 1.1rem;
+            cursor: pointer;
+            padding: 4px 8px;
+            line-height: 1;
+            transition: background 0.2s;
+            z-index: 2;
+        `;
+        discardBtn.addEventListener('mouseenter', () => {
+            discardBtn.style.background = 'rgba(255,255,255,0.35)';
+        });
+        discardBtn.addEventListener('mouseleave', () => {
+            discardBtn.style.background = 'rgba(255,255,255,0.2)';
+        });
+        discardBtn.addEventListener('click', (e) => {
+            e.stopPropagation(); // No disparar el "Continuar"
+            Storage.clearSuspendedSession();
+            // Transición suave antes de eliminar
+            wrapper.style.opacity = '0';
+            wrapper.style.transform = 'scaleY(0.8)';
+            wrapper.style.overflow = 'hidden';
+            setTimeout(() => wrapper.remove(), 300);
+        });
+
+        wrapper.appendChild(btn);
+        wrapper.appendChild(discardBtn);
+        if (menuGrid) menuGrid.insertBefore(wrapper, menuGrid.firstChild);
     }
 }
