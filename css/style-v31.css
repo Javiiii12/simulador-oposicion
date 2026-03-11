@@ -93,7 +93,7 @@ body {
     }
 }
 
-/* MEN√? PRINCIPAL */
+/* MEN√É? PRINCIPAL */
 h1 {
     font-size: 2rem;
     text-align: center;
@@ -274,7 +274,7 @@ h1 {
     background: linear-gradient(135deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.3) 100%);
 }
 
-/* CONFIGURACI√?N ALEATORIA */
+/* CONFIGURACI√É?N ALEATORIA */
 .config-box {
     background: var(--surface);
     padding: 30px;
@@ -344,7 +344,7 @@ input[type="number"] {
     margin-bottom: 20px;
 }
 
-/* ‚??‚?? Cron√≥metro de Examen ‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚?? */
+/* √¢??√¢?? Cron√É¬≥metro de Examen √¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢?? */
 .game-timer {
     background: linear-gradient(135deg, #e53935, #b71c1c);
     color: #fff;
@@ -863,7 +863,7 @@ input[type="number"] {
     }
 }
 
-/* ‚??‚?? FULL EXAM SCROLL VIEW ‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚?? */
+/* √¢??√¢?? FULL EXAM SCROLL VIEW √¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢?? */
 
 .full-exam-view {
     display: flex;
@@ -881,7 +881,7 @@ input[type="number"] {
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     border-radius: var(--radius);
-    /* Mobile-first: padding m√°s ajustado. Se aumenta en desktop */
+    /* Mobile-first: padding m√É¬°s ajustado. Se aumenta en desktop */
     padding: 16px;
     border: 1px solid rgba(255,255,255,0.5);
     border-left: 5px solid var(--primary);
@@ -911,7 +911,7 @@ input[type="number"] {
     align-items: center;
     gap: 8px;
     margin-bottom: 10px;
-    flex-wrap: wrap;   /* El tag de tema puede bajar de l√≠nea en pantallas muy estrechas */
+    flex-wrap: wrap;   /* El tag de tema puede bajar de l√É¬≠nea en pantallas muy estrechas */
 }
 
 .full-view-q-num {
@@ -949,13 +949,13 @@ input[type="number"] {
 
 .full-view-opt {
     font-size: 0.95rem;
-    /* √?rea t√°ctil m√≠nima de 48px de alto para dedos */
+    /* √É?rea t√É¬°ctil m√É¬≠nima de 48px de alto para dedos */
     min-height: 48px;
     padding: 12px 14px;
-    /* Evita textos de opci√≥n muy largos que desborden */
+    /* Evita textos de opci√É¬≥n muy largos que desborden */
     word-break: break-word;
     overflow-wrap: break-word;
-    /* Alineaci√≥n del texto cuando la opci√≥n tiene varias l√≠neas */
+    /* Alineaci√É¬≥n del texto cuando la opci√É¬≥n tiene varias l√É¬≠neas */
     align-items: flex-start;
     text-align: left;
     white-space: normal;
@@ -972,7 +972,7 @@ input[type="number"] {
 /* Finalizar button at bottom of full view */
 .full-view-finish-btn {
     margin-top: 0.5rem;
-    min-height: 52px;   /* √?rea t√°ctil c√≥moda en m√≥vil */
+    min-height: 52px;   /* √É?rea t√É¬°ctil c√É¬≥moda en m√É¬≥vil */
     background: linear-gradient(135deg, var(--primary), var(--secondary));
     box-shadow: 0 6px 20px rgba(0,137,123,0.35);
     font-size: 1.1rem;
@@ -985,7 +985,7 @@ input[type="number"] {
     box-shadow: 0 10px 28px rgba(0,137,123,0.45);
 }
 
-/* Toggle button ‚?∞ ‚?? √°rea t√°ctil garantizada */
+/* Toggle button √¢?¬∞ √¢?? √É¬°rea t√É¬°ctil garantizada */
 #btn-toggle-fullview {
     min-width: 44px;
     min-height: 44px;
@@ -1001,7 +1001,7 @@ input[type="number"] {
     box-shadow: 0 2px 8px rgba(0,137,123,0.4);
 }
 
-/* ‚??‚?? Desktop: m√°s espacio en tarjetas de la vista completa ‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚??‚?? */
+/* √¢??√¢?? Desktop: m√É¬°s espacio en tarjetas de la vista completa √¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢??√¢?? */
 @media (min-width: 540px) {
     .full-view-question-card {
         padding: 22px 24px;
@@ -1015,29 +1015,8 @@ input[type="number"] {
     }
 }
 
-/* Badge de RÈcord (High Score) */
-.badge-record {
-    position: absolute;
-    top: 8px;
-    right: 8px;
-    background: linear-gradient(135deg, #10b981 0%, #34d399 100%);
-    color: #fff;
-    font-size: 0.7rem;
-    font-weight: 700;
-    padding: 4px 10px;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    z-index: 5;
-    animation: badgeAppear 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    white-space: nowrap;
-    pointer-events: none;
-}
+/* Badge de R√©cord (High Score) */
+
 
 @keyframes badgeAppear {
     from { opacity: 0; transform: scale(0.5) translateY(-5px); }
@@ -1061,4 +1040,26 @@ input[type="number"] {
 .card-has-record {
     border-left: 5px solid #4CAF50 !important;
     transition: border-left 0.3s ease;
+}\n
+.badge-record {
+    position: absolute;
+    bottom: 5px;
+    right: 8px;
+    background: rgba(16, 185, 129, 0.9);
+    color: white;
+    font-size: 0.65rem;
+    font-weight: bold;
+    padding: 2px 6px;
+    border-radius: 4px;
+    pointer-events: none;
+    z-index: 10;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.card-has-record {
+    border-left: 4px solid #10b981 !important;
+}
+
+.btn-topic, .btn-menu {
+    position: relative !important;
 }

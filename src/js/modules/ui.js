@@ -103,30 +103,29 @@ export function updateFailureBadge(count) {
 }
 
 /**
- * Recorre todos los botones con data-testid e inyecta el badge del récord si existe.
+ * Recorre los récords e inyecta badges de forma discreta usando los IDs de los botones.
  */
 export function renderizarRecordsMenu() {
     const records = Storage.getRecords();
-    const buttons = document.querySelectorAll('[data-testid], .btn-topic');
+    
+    // Limpiar todos los badges y estilos previos primero
+    document.querySelectorAll('.badge-record').forEach(b => b.remove());
+    document.querySelectorAll('.card-has-record').forEach(c => c.classList.remove('card-has-record'));
 
-    buttons.forEach(btn => {
-        const testId = btn.getAttribute('data-testid') || 
-                      (btn.querySelector('strong') ? slugify(`${state.currentSource || ''}_${btn.querySelector('strong').innerText}`) : null);
-        
-        if (!testId) return;
+    // Iterar sobre los récords guardados
+    Object.keys(records).forEach(testId => {
+        const score = records[testId];
+        // Buscar el botón por su ID generado
+        const btnId = `btn-topic-${testId}`;
+        const btn = document.getElementById(btnId);
 
-        // Limpiar estilos previos
-        btn.classList.remove('card-has-record');
-        const oldBadge = btn.querySelector('.badge-record');
-        if (oldBadge) oldBadge.remove();
-
-        if (records[testId]) {
-            btn.classList.add('card-has-record'); // Green border indicator
-
+        if (btn) {
+            btn.classList.add('card-has-record');
+            
+            // Inyectar badge discreto
             const badge = document.createElement('span');
             badge.className = 'badge-record';
-            badge.innerHTML = `✅ Completado | 🏆 ${records[testId].toFixed(1)}`;
-            btn.style.position = 'relative'; 
+            badge.innerText = `✅ ${score.toFixed(1)}`;
             btn.appendChild(badge);
         }
     });
