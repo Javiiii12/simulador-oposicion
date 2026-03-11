@@ -103,7 +103,7 @@ export function updateFailureBadge(count) {
 }
 
 /**
- * Recorre los récords e inyecta badges de forma discreta usando los IDs de los botones.
+ * Recorre los récords e inyecta badges de forma discreta.
  */
 export function renderizarRecordsMenu() {
     const records = Storage.getRecords();
@@ -115,9 +115,14 @@ export function renderizarRecordsMenu() {
     // Iterar sobre los récords guardados
     Object.keys(records).forEach(testId => {
         const score = records[testId];
-        // Buscar el botón por su ID generado
-        const btnId = `btn-topic-${testId}`;
-        const btn = document.getElementById(btnId);
+        
+        // Estrategia 1: Buscar por ID directo o ID generado
+        let btn = document.getElementById(`btn-topic-${testId}`) || document.getElementById(testId);
+        
+        // Estrategia 2: Buscar por atributo data-testid
+        if (!btn) {
+            btn = document.querySelector(`[data-testid="${testId}"]`);
+        }
 
         if (btn) {
             btn.classList.add('card-has-record');
