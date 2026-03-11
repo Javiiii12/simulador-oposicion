@@ -218,11 +218,19 @@ function createOptionButton(q, letter) {
 
     const answered = state.userAnswers[state.currentIndex];
 
-    if (answered) {
-        // Restore state (user navigated back)
+    if (answered && state.currentMode !== 'exam') {
+        // Training/failures: restore locked state with colour feedback
         applyAnswerStyle(btn, letter, q.correcta, answered, state.currentMode);
     } else {
-        // Fresh — allow answering
+        // Exam mode (even if already answered) OR fresh — allow (re)answering
+        if (answered && state.currentMode === 'exam') {
+            // Pre-highlight stored selection without locking
+            if (letter === answered) {
+                btn.style.border = '2px solid var(--primary)';
+                btn.style.background = 'rgba(79,70,229,0.12)';
+                btn.classList.add('selected');
+            }
+        }
         btn.addEventListener('click', () => handleAnswer(letter, q));
     }
 
@@ -262,22 +270,28 @@ function handleAnswer(selected, q) {
         updateFailureBadge(getFailedIds().length);
     }
 
-    // Exam mode: just highlight selected, keep buttons active
+    // Exam mode: highlight selected, keep ALL buttons re-clickable
     const optContainer = document.getElementById('opciones-container');
     const buttons = [...optContainer.children];
 
     if (state.currentMode === 'exam') {
         buttons.forEach(b => {
-            b.style.border = ''; b.style.background = '';
+            // Reset visual state on all options
+            b.style.border = '';
+            b.style.background = '';
             b.classList.remove('selected');
-            if (b.innerHTML.includes(`${selected.toUpperCase()})`)) {
+            // Highlight only the newly selected one
+            const ltr = b.innerHTML.charAt(b.innerHTML.indexOf(')') - 1).toLowerCase();
+            if (ltr === selected) {
                 b.style.border = '2px solid var(--primary)';
-                b.style.background = '#eef';
+                b.style.background = 'rgba(79,70,229,0.12)';
                 b.classList.add('selected');
             }
-            // Replace click listener so every re-click re-records the answer
+            // Always re-attach listener so the user can change their answer
             const newBtn = b.cloneNode(true);
-            const ltr = newBtn.innerHTML.charAt(newBtn.innerHTML.indexOf(')') - 1).toLowerCase();
+            newBtn.style.border = b.style.border;
+            newBtn.style.background = b.style.background;
+            if (b.classList.contains('selected')) newBtn.classList.add('selected');
             newBtn.addEventListener('click', () => handleAnswer(ltr, q));
             b.replaceWith(newBtn);
         });
@@ -473,7 +487,123 @@ export function restoreSession(savedState) {
 
     toggleEl('btn-clear-failures-header', state.currentMode === 'failures');
     showView('game');
-    
+
     // Forzamos el render exacto
     renderQuestion();
+}
+
+// ── Vista Completa (Scroll Continuo) ──────────────────────────────────────────
+
+let _fullViewActive = false;
+
+export function toggleFullView() {
+    _fullViewActive = !_fullViewActive;
+
+    const singleCard = document.querySelector('#view-game .question-card');
+    const controls   = document.querySelector('#view-game .controls');
+    const fullView   = document.getElementById('full-exam-view');
+    const toggleBtn  = document.getElementById('btn-toggle-fullview');
+
+    if (_fullViewActive) {
+        // Ocultar vista individual
+        if (singleCard) singleCard.classList.add('hidden');
+        if (controls)   controls.classList.add('hidden');
+        if (toggleBtn)  toggleBtn.classList.add('active-view-btn');
+        renderFullView(fullView);
+        fullView.classList.remove('hidden');
+    } else {
+        // Volver a vista individual
+        fullView.classList.add('hidden');
+        if (singleCard) singleCard.classList.remove('hidden');
+        if (controls)   controls.classList.remove('hidden');
+        if (toggleBtn)  toggleBtn.classList.remove('active-view-btn');
+        // Sincronizar: re-renderizar la pregunta actual con las respuestas dadas en la vista completa
+        renderQuestion();
+    }
+}
+
+function renderFullView(container) {
+    container.innerHTML = '';
+    container.className = 'full-exam-view';
+
+    state.currentQuestions.forEach((q, idx) => {
+        const card = document.createElement('div');
+        card.className = 'full-view-question-card';
+        card.dataset.idx = idx;
+
+        const header = document.createElement('div');
+        header.className = 'full-view-q-header';
+        header.innerHTML = `<span class="full-view-q-num">${idx + 1}</span><span class="tag" style="font-size:0.75rem;">${(q.tema || '').match(/Tema \d+/)?.[0] || 'General'}</span>`;
+        card.appendChild(header);
+
+        const qText = document.createElement('p');
+        qText.className = 'full-view-q-text';
+        qText.textContent = q.pregunta;
+        card.appendChild(qText);
+
+        const optsDiv = document.createElement('div');
+        optsDiv.className = 'full-view-opts';
+
+        ['a', 'b', 'c', 'd'].forEach(letter => {
+            if (!q.opciones?.[letter]) return;
+            const btn = document.createElement('button');
+            btn.className = 'btn-option full-view-opt';
+            btn.innerHTML = `<strong>${letter.toUpperCase()})</strong> ${q.opciones[letter]}`;
+
+            // Highlight if already answered
+            const chosen = state.userAnswers[idx];
+            if (chosen === letter) {
+                btn.classList.add('exam-selected');
+            }
+
+            btn.addEventListener('click', () => {
+                // Update global answer state
+                state.userAnswers[idx] = letter;
+
+                // Score tracking for training/failures (not exam)
+                if (state.currentMode !== 'exam') {
+                    if (letter === q.correcta) {
+                        btn.classList.add('correct');
+                    } else {
+                        btn.classList.add('incorrect');
+                        addFailedId(q.id);
+                        updateFailureBadge(getFailedIds().length);
+                    }
+                    // Lock all siblings
+                    [...optsDiv.children].forEach(b => { b.disabled = true; });
+                } else {
+                    // Exam: move highlight
+                    [...optsDiv.children].forEach(b => b.classList.remove('exam-selected'));
+                    btn.classList.add('exam-selected');
+                }
+
+                // Persist session
+                saveCurrentSession();
+            });
+
+            optsDiv.appendChild(btn);
+        });
+
+        card.appendChild(optsDiv);
+        container.appendChild(card);
+    });
+
+    // Botón Finalizar al final
+    const finishBtn = document.createElement('button');
+    finishBtn.className = 'btn-primary full-view-finish-btn';
+    finishBtn.innerHTML = 'Finalizar Test 🏁';
+    finishBtn.addEventListener('click', () => {
+        // Salir de la vista completa antes de calcular resultados
+        _fullViewActive = false;
+        const singleCard = document.querySelector('#view-game .question-card');
+        const controls   = document.querySelector('#view-game .controls');
+        const fullView   = document.getElementById('full-exam-view');
+        const toggleBtn  = document.getElementById('btn-toggle-fullview');
+        if (singleCard) singleCard.classList.remove('hidden');
+        if (controls)   controls.classList.remove('hidden');
+        if (toggleBtn)  toggleBtn.classList.remove('active-view-btn');
+        fullView.classList.add('hidden');
+        finishGame();
+    });
+    container.appendChild(finishBtn);
 }

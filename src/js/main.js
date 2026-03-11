@@ -180,6 +180,7 @@ function setupEventListeners() {
     document.getElementById('btn-next').addEventListener('click', () => Game.nextQuestion());
     document.getElementById('btn-prev').addEventListener('click', () => Game.prevQuestion());
     document.getElementById('btn-show-grid').addEventListener('click', () => Game.showGrid());
+    document.getElementById('btn-toggle-fullview').addEventListener('click', () => Game.toggleFullView());
     document.getElementById('btn-close-grid').addEventListener('click', () =>
         UI.toggleEl('nav-grid-overlay', false));
 

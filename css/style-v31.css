@@ -824,3 +824,110 @@ input[type="number"] {
         gap: 20px;
     }
 }
+
+/* ── FULL EXAM SCROLL VIEW ─────────────────────────────────────────────────── */
+
+.full-exam-view {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding-bottom: 2rem;
+    animation: fadeIn 0.3s ease;
+}
+
+.full-view-question-card {
+    background: linear-gradient(135deg, rgba(255,255,255,0.45) 0%, rgba(255,255,255,0.15) 100%);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: var(--radius);
+    padding: 24px;
+    border: 1px solid rgba(255,255,255,0.5);
+    border-left: 6px solid var(--primary);
+    border-top: 4px solid var(--accent);
+    box-shadow: 0 8px 32px 0 rgba(31,38,135,0.12),
+                inset 1px 1px 2px rgba(255,255,255,0.8),
+                inset -1px -1px 2px rgba(0,0,0,0.04);
+    position: relative;
+    overflow: hidden;
+}
+
+.full-view-question-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.3) 0%, rgba(255,255,255,0) 50%);
+    pointer-events: none;
+    border-radius: inherit;
+}
+
+.full-view-q-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+}
+
+.full-view-q-num {
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    color: white;
+    font-weight: 800;
+    font-size: 0.85rem;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    box-shadow: 0 2px 6px rgba(0,137,123,0.3);
+}
+
+.full-view-q-text {
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--text);
+    margin: 0 0 16px 0;
+}
+
+.full-view-opts {
+    display: flex;
+    flex-direction: column;
+    gap: 0.65rem;
+}
+
+.full-view-opt {
+    font-size: 1rem;
+    padding: 14px 18px;
+}
+
+/* Exam selection highlight in full view */
+.btn-option.exam-selected {
+    border: 2px solid var(--primary) !important;
+    background: rgba(79, 70, 229, 0.10) !important;
+    box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.15);
+    font-weight: 700;
+}
+
+/* Finalizar button at bottom of full view */
+.full-view-finish-btn {
+    margin-top: 0.5rem;
+    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    box-shadow: 0 6px 20px rgba(0,137,123,0.35);
+    font-size: 1.15rem;
+    border-radius: 16px;
+}
+
+.full-view-finish-btn:hover {
+    background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+    transform: translateY(-2px);
+    box-shadow: 0 10px 28px rgba(0,137,123,0.45);
+}
+
+/* Toggle button active state */
+.btn-small.active-view-btn {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary-dark);
+    box-shadow: 0 2px 8px rgba(0,137,123,0.4);
+}
