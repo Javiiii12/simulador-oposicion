@@ -163,7 +163,12 @@ export function nextQuestion() {
         if (state.currentMode === 'review') {
             showView('results');
         } else {
-            finishGame();
+            try {
+                finishGame();
+            } catch (err) {
+                console.error('Error finishing game from nextQuestion:', err);
+                alert('Error al finalizar el examen. Por favor intenta de nuevo.');
+            }
         }
     }
 }
@@ -699,7 +704,9 @@ function renderFullView(container) {
     const finishBtn = document.createElement('button');
     finishBtn.className = 'btn-primary full-view-finish-btn';
     finishBtn.innerHTML = 'Finalizar Test 🏁';
-    finishBtn.addEventListener('click', () => {
+
+    const handleFinish = () => {
+        console.log('Finalizar button clicked in Full View');
         // Salir de la vista completa antes de calcular resultados
         _fullViewActive = false;
         const singleCard = document.querySelector('#view-game .question-card');
@@ -710,7 +717,23 @@ function renderFullView(container) {
         if (controls)   controls.classList.remove('hidden');
         if (toggleBtn)  toggleBtn.classList.remove('active-view-btn');
         fullView.classList.add('hidden');
-        finishGame();
-    });
+        
+        try {
+            finishGame();
+        } catch (err) {
+            console.error('Error finishing game:', err);
+            alert('Hubo un error al finalizar el test. Por favor, intenta de nuevo o contacta con soporte.');
+        }
+    };
+
+    finishBtn.addEventListener('click', handleFinish);
+    // Add touch support just in case click is being blocked/delayed on mobile
+    finishBtn.addEventListener('touchend', (e) => {
+        if (_fullViewActive) {
+            e.preventDefault();
+            handleFinish();
+        }
+    }, { passive: false });
+
     container.appendChild(finishBtn);
 }

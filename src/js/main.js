@@ -68,10 +68,18 @@ function setupEventListeners() {
     checkAndInjectSessionButton();
 
     // ── Role selection ──
-    document.getElementById('btn-role-pinche')
-        .addEventListener('click', () => UI.showView('menu'));
-    document.getElementById('btn-role-celador')
-        .addEventListener('click', () => alert('🚧 Celador: ¡Próximamente!'));
+    const btnPinche = document.getElementById('btn-role-pinche');
+    if (btnPinche) {
+        btnPinche.addEventListener('click', (e) => {
+            console.log('Pinche button clicked');
+            UI.showView('menu');
+        });
+    }
+
+    const btnCelador = document.getElementById('btn-role-celador');
+    if (btnCelador) {
+        btnCelador.addEventListener('click', () => alert('🚧 Celador: ¡Próximamente!'));
+    }
 
     // ── Admin ──
     const btnAdmin = document.getElementById('btn-admin-panel');
