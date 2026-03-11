@@ -421,6 +421,7 @@ export function checkAndInjectSessionButton() {
             discardBtn.style.background = 'rgba(255,255,255,0.2)';
         });
         discardBtn.addEventListener('click', (e) => {
+            e.preventDefault();
             e.stopPropagation(); // No disparar el "Continuar"
             Storage.clearSuspendedSession();
             // Transición suave antes de eliminar

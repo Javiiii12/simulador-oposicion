@@ -86,11 +86,14 @@ export function nextQuestion() {
     if (state.currentIndex < state.currentQuestions.length - 1) {
         state.currentIndex++;
         renderQuestion();
+        saveCurrentSession();
     } else {
-        if (state.currentMode === 'review') showView('results');
-        else finishGame();
+        if (state.currentMode === 'review') {
+            showView('results');
+        } else {
+            finishGame();
+        }
     }
-    saveCurrentSession();
 }
 
 export function prevQuestion() {
@@ -193,8 +196,9 @@ function renderQuestion() {
         optContainer.appendChild(btn);
     });
 
-    // Exam / review / already answered: always show Next button
-    if (mode === 'exam' || mode === 'review' || state.userAnswers[state.currentIndex]) {
+    // Exam / review / already answered / paused restoration: check visibility
+    const alreadyAnswered = state.userAnswers && state.userAnswers[state.currentIndex];
+    if (mode === 'exam' || mode === 'review' || alreadyAnswered) {
         btnNext.classList.remove('hidden');
         btnNext.innerHTML = buildNextButtonLabel();
     }
@@ -477,18 +481,21 @@ export function saveCurrentSession() {
 }
 
 export function restoreSession(savedState) {
-    state.currentMode = savedState.currentMode;
-    state.originalMode = savedState.originalMode;
-    state.currentTopicName = savedState.currentTopicName;
+    if (!savedState || !savedState.currentQuestions) return;
+
+    state.currentMode = savedState.currentMode || 'training';
+    state.originalMode = savedState.originalMode || state.currentMode;
+    state.currentTopicName = savedState.currentTopicName || 'Test Rescatado';
     state.currentQuestions = savedState.currentQuestions;
-    state.currentIndex = savedState.currentIndex;
-    state.score = savedState.score;
+    state.currentIndex = savedState.currentIndex || 0;
+    state.score = savedState.score || 0;
     state.userAnswers = savedState.userAnswers || {};
 
+    // Sincronizar UI
     toggleEl('btn-clear-failures-header', state.currentMode === 'failures');
     showView('game');
 
-    // Forzamos el render exacto
+    // Forzar el render para actualizar contadores y botones basados en la longitud real
     renderQuestion();
 }
 
