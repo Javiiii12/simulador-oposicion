@@ -14,7 +14,8 @@ export const state = {
     lastViewBeforeMode: 'menu',
     supabaseClient: null,
     timeRemaining: 0,       // Segundos restantes del cronómetro
-    timerInterval: null     // Referencia al setInterval activo
+    timerInterval: null,    // Referencia al setInterval activo
+    viewHistory: []         // Historial de navegación por vistas
 };
 
 export function resetGameState() {

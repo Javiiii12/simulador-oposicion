@@ -22,8 +22,27 @@ const VIEW_IDS = {
 /**
  * Show a named view and hide all others.
  * @param {string} viewName - key from VIEW_IDS
+ * @param {boolean} addToHistory - whether to record this in navigation history
  */
-export function showView(viewName) {
+export function showView(viewName, addToHistory = true) {
+    const targetId = VIEW_IDS[viewName] || viewName;
+    const target = document.getElementById(targetId);
+    if (!target) {
+        console.warn(`showView: no element found for "${viewName}" (id: "${targetId}")`);
+        return;
+    }
+
+    // Capture current view before switching if adding to history
+    if (addToHistory) {
+        const currentActive = Object.values(VIEW_IDS).find(id => {
+            const el = document.getElementById(id);
+            return el && el.classList.contains('active');
+        });
+        if (currentActive && currentActive !== targetId) {
+            state.viewHistory.push(currentActive);
+        }
+    }
+
     // Hide all views
     Object.values(VIEW_IDS).forEach(id => {
         const el = document.getElementById(id);
@@ -34,14 +53,23 @@ export function showView(viewName) {
     });
 
     // Show the target view
-    const targetId = VIEW_IDS[viewName] || viewName;
-    const target = document.getElementById(targetId);
-    if (target) {
-        target.classList.remove('hidden');
-        target.classList.add('active');
-        window.scrollTo(0, 0);
+    target.classList.remove('hidden');
+    target.classList.add('active');
+    window.scrollTo(0, 0);
+}
+
+/**
+ * Navega a la vista anterior en el historial.
+ */
+export function goBack() {
+    if (state.viewHistory.length > 0) {
+        const prevViewId = state.viewHistory.pop();
+        // search the key for the ID
+        const viewKey = Object.keys(VIEW_IDS).find(key => VIEW_IDS[key] === prevViewId) || prevViewId;
+        showView(viewKey, false);
     } else {
-        console.warn(`showView: no element found for "${viewName}" (id: "${targetId}")`);
+        // Fallback safety
+        showView('menu');
     }
 }
 
@@ -87,15 +115,18 @@ export function renderizarRecordsMenu() {
         
         if (!testId) return;
 
-        // Limpiar badge anterior si existe
+        // Limpiar estilos previos
+        btn.classList.remove('card-has-record');
         const oldBadge = btn.querySelector('.badge-record');
         if (oldBadge) oldBadge.remove();
 
         if (records[testId]) {
+            btn.classList.add('card-has-record'); // Green border indicator
+
             const badge = document.createElement('span');
             badge.className = 'badge-record';
-            badge.innerHTML = `🏆 ${records[testId].toFixed(1)}`;
-            btn.style.position = 'relative'; // Asegurar que el badge se posicione bien
+            badge.innerHTML = `✅ Completado | 🏆 ${records[testId].toFixed(1)}`;
+            btn.style.position = 'relative'; 
             btn.appendChild(badge);
         }
     });

@@ -89,7 +89,7 @@ function setupEventListeners() {
 
     // ── Main menu ──
     document.getElementById('btn-back-menu')
-        .addEventListener('click', () => UI.showView('roleSelection'));
+        .addEventListener('click', () => UI.goBack());
     document.getElementById('btn-source-mad')
         .addEventListener('click', () => Topics.showParts('MAD'));
     document.getElementById('btn-source-csif')
@@ -117,7 +117,7 @@ function setupEventListeners() {
 
     // ── Parts ──
     document.getElementById('btn-back-parts')
-        .addEventListener('click', () => UI.showView('menu'));
+        .addEventListener('click', () => UI.goBack());
     document.getElementById('btn-part-general')
         .addEventListener('click', () => Topics.showTopics('GENERAL'));
     document.getElementById('btn-part-especifica')
@@ -125,13 +125,12 @@ function setupEventListeners() {
 
     // ── Topics ──
     document.getElementById('btn-back-topics').addEventListener('click', () => {
-        if (state.currentSource === 'Historico') UI.showView('examsMenu');
-        else UI.showView('menu');
+        UI.goBack();
     });
 
     // ── Exams ──
     document.getElementById('btn-back-exams')
-        .addEventListener('click', () => UI.showView('menu'));
+        .addEventListener('click', () => UI.goBack());
     // Exámenes específicos
     document.getElementById('btn-2024-cel').addEventListener('click', () => {
         const qs = state.allQuestions.filter(q => q.tema === 'Examen Oficial Celador/a SESCAM 2024');
@@ -166,7 +165,7 @@ function setupEventListeners() {
 
     // ── Mode selection ──
     document.getElementById('btn-back-mode')
-        .addEventListener('click', () => UI.showView(state.lastViewBeforeMode || 'menu'));
+        .addEventListener('click', () => UI.goBack());
     document.getElementById('btn-mode-training')
         .addEventListener('click', () => triggerGameStart('training'));
     document.getElementById('btn-mode-exam')
@@ -174,14 +173,14 @@ function setupEventListeners() {
 
     // ── Random config ──
     document.getElementById('btn-back-random')
-        .addEventListener('click', () => UI.showView('menu'));
+        .addEventListener('click', () => UI.goBack());
     document.getElementById('btn-start-random').addEventListener('click', startRandom);
     const selectMix = document.getElementById('select-mix-type');
     if (selectMix) selectMix.addEventListener('change', onMixTypeChange);
 
     // ── Progress ──
     document.getElementById('btn-back-progress')
-        .addEventListener('click', () => UI.showView('menu'));
+        .addEventListener('click', () => UI.goBack());
     document.getElementById('btn-clear-history').addEventListener('click', () => {
         if (confirm('¿Borrar todo el historial?')) { Storage.clearHistory(); showProgress(); }
     });
