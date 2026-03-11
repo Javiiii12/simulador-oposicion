@@ -163,6 +163,7 @@ export function nextQuestion() {
         if (state.currentMode === 'review') {
             showView('results');
         } else {
+            console.log('Final step: calling finishGame from nextQuestion');
             try {
                 finishGame();
             } catch (err) {
@@ -410,8 +411,11 @@ function handleAnswer(selected, q) {
 }
 
 function finishGame() {
-    stopTimer(); // Limpiar timer antes de mostrar resultados
+    console.log('finishGame started');
+    stopTimer();
+    console.log('Timer stopped');
     clearSuspendedSession();
+    console.log('Suspended session cleared');
     const total = state.currentQuestions.length;
     let aciertos = 0, fallos = 0, blancos = 0;
 
@@ -421,8 +425,10 @@ function finishGame() {
         else if (ans === q.correcta) aciertos++;
         else fallos++;
     });
+    console.log('Counters calculated:', { aciertos, fallos, blancos, total });
 
     const percentage = Math.round((aciertos / total) * 100);
+    console.log('Percentage:', percentage);
 
     // ── Exam: penalised score ──
     if (state.currentMode === 'exam') {
