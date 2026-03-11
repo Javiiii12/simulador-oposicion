@@ -93,7 +93,7 @@ body {
     }
 }
 
-/* MENÃ? PRINCIPAL */
+/* MENÃ? PRINCIPAL */
 h1 {
     font-size: 2rem;
     text-align: center;
@@ -274,7 +274,7 @@ h1 {
     background: linear-gradient(135deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.3) 100%);
 }
 
-/* CONFIGURACIÃ?N ALEATORIA */
+/* CONFIGURACIÃ?N ALEATORIA */
 .config-box {
     background: var(--surface);
     padding: 30px;
@@ -344,7 +344,7 @@ input[type="number"] {
     margin-bottom: 20px;
 }
 
-/* â??â?? CronÃ³metro de Examen â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â?? */
+/* Ã¢??Ã¢?? CronÃÂ³metro de Examen Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢?? */
 .game-timer {
     background: linear-gradient(135deg, #e53935, #b71c1c);
     color: #fff;
@@ -863,7 +863,7 @@ input[type="number"] {
     }
 }
 
-/* â??â?? FULL EXAM SCROLL VIEW â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â?? */
+/* Ã¢??Ã¢?? FULL EXAM SCROLL VIEW Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢?? */
 
 .full-exam-view {
     display: flex;
@@ -881,7 +881,7 @@ input[type="number"] {
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     border-radius: var(--radius);
-    /* Mobile-first: padding mÃ¡s ajustado. Se aumenta en desktop */
+    /* Mobile-first: padding mÃÂ¡s ajustado. Se aumenta en desktop */
     padding: 16px;
     border: 1px solid rgba(255,255,255,0.5);
     border-left: 5px solid var(--primary);
@@ -911,7 +911,7 @@ input[type="number"] {
     align-items: center;
     gap: 8px;
     margin-bottom: 10px;
-    flex-wrap: wrap;   /* El tag de tema puede bajar de lÃ­nea en pantallas muy estrechas */
+    flex-wrap: wrap;   /* El tag de tema puede bajar de lÃÂ­nea en pantallas muy estrechas */
 }
 
 .full-view-q-num {
@@ -949,13 +949,13 @@ input[type="number"] {
 
 .full-view-opt {
     font-size: 0.95rem;
-    /* Ã?rea tÃ¡ctil mÃ­nima de 48px de alto para dedos */
+    /* Ã?rea tÃÂ¡ctil mÃÂ­nima de 48px de alto para dedos */
     min-height: 48px;
     padding: 12px 14px;
-    /* Evita textos de opciÃ³n muy largos que desborden */
+    /* Evita textos de opciÃÂ³n muy largos que desborden */
     word-break: break-word;
     overflow-wrap: break-word;
-    /* AlineaciÃ³n del texto cuando la opciÃ³n tiene varias lÃ­neas */
+    /* AlineaciÃÂ³n del texto cuando la opciÃÂ³n tiene varias lÃÂ­neas */
     align-items: flex-start;
     text-align: left;
     white-space: normal;
@@ -972,7 +972,7 @@ input[type="number"] {
 /* Finalizar button at bottom of full view */
 .full-view-finish-btn {
     margin-top: 0.5rem;
-    min-height: 52px;   /* Ã?rea tÃ¡ctil cÃ³moda en mÃ³vil */
+    min-height: 52px;   /* Ã?rea tÃÂ¡ctil cÃÂ³moda en mÃÂ³vil */
     background: linear-gradient(135deg, var(--primary), var(--secondary));
     box-shadow: 0 6px 20px rgba(0,137,123,0.35);
     font-size: 1.1rem;
@@ -985,7 +985,7 @@ input[type="number"] {
     box-shadow: 0 10px 28px rgba(0,137,123,0.45);
 }
 
-/* Toggle button â?° â?? Ã¡rea tÃ¡ctil garantizada */
+/* Toggle button Ã¢?Â° Ã¢?? ÃÂ¡rea tÃÂ¡ctil garantizada */
 #btn-toggle-fullview {
     min-width: 44px;
     min-height: 44px;
@@ -1001,7 +1001,7 @@ input[type="number"] {
     box-shadow: 0 2px 8px rgba(0,137,123,0.4);
 }
 
-/* â??â?? Desktop: mÃ¡s espacio en tarjetas de la vista completa â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â??â?? */
+/* Ã¢??Ã¢?? Desktop: mÃÂ¡s espacio en tarjetas de la vista completa Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢??Ã¢?? */
 @media (min-width: 540px) {
     .full-view-question-card {
         padding: 22px 24px;
@@ -1015,7 +1015,7 @@ input[type="number"] {
     }
 }
 
-/* Badge de Récord (High Score) */
+/* Badge de RÃ©cord (High Score) */
 
 
 @keyframes badgeAppear {
@@ -1041,23 +1041,29 @@ input[type="number"] {
     border-left: 5px solid #4CAF50 !important;
     transition: border-left 0.3s ease;
 }\n
-.badge-record {
-    position: absolute;
-    bottom: 5px;
-    right: 8px;
-    background: rgba(16, 185, 129, 0.9);
-    color: white;
-    font-size: 0.65rem;
-    font-weight: bold;
-    padding: 2px 6px;
-    border-radius: 4px;
-    pointer-events: none;
-    z-index: 10;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-}
+
 
 .card-has-record {
     border-left: 4px solid #10b981 !important;
+}\n
+.badge-record {
+    position: absolute;
+    bottom: 6px;
+    right: 10px;
+    background: rgba(16, 185, 129, 0.1);
+    color: #065f46;
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 2px 8px;
+    border-radius: 6px;
+    pointer-events: none;
+    z-index: 10;
+    border: 1px solid rgba(16, 185, 129, 0.2);
+}
+
+.card-has-record {
+    border-left: 5px solid #10b981 !important;
+    padding-bottom: 30px !important; /* Spacing for the badge */
 }
 
 .btn-topic, .btn-menu {

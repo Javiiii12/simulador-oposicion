@@ -130,7 +130,7 @@ export function renderizarRecordsMenu() {
             // Inyectar badge discreto
             const badge = document.createElement('span');
             badge.className = 'badge-record';
-            badge.innerText = `✅ ${score.toFixed(1)}`;
+            badge.innerHTML = `✅ 🏆 ${score.toFixed(1)}`;
             btn.appendChild(badge);
         }
     });
