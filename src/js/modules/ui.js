@@ -70,3 +70,40 @@ export function updateFailureBadge(count) {
         if (btnFail) { btnFail.disabled = true; btnFail.style.opacity = '0.5'; }
     }
 }
+
+/**
+ * Recorre todos los botones con data-testid e inyecta el badge del récord si existe.
+ */
+export function renderizarRecordsMenu() {
+    const records = Storage.getRecords();
+    const buttons = document.querySelectorAll('[data-testid], .btn-topic');
+
+    buttons.forEach(btn => {
+        const testId = btn.getAttribute('data-testid') || 
+                      (btn.querySelector('strong') ? slugify(`${state.currentSource || ''}_${btn.querySelector('strong').innerText}`) : null);
+        
+        if (!testId) return;
+
+        // Limpiar badge anterior si existe
+        const oldBadge = btn.querySelector('.badge-record');
+        if (oldBadge) oldBadge.remove();
+
+        if (records[testId]) {
+            const badge = document.createElement('span');
+            badge.className = 'badge-record';
+            badge.innerHTML = `🏆 ${records[testId].toFixed(1)}`;
+            btn.style.position = 'relative'; // Asegurar que el badge se posicione bien
+            btn.appendChild(badge);
+        }
+    });
+}
+
+export function slugify(text) {
+    if (!text) return '';
+    return text.toString().toLowerCase().trim()
+        .replace(/\s+/g, '_')
+        .replace(/[^\w-]+/g, '')
+        .replace(/--+/g, '_')
+        .replace(/^-+/, '')
+        .replace(/-+$/, '');
+}

@@ -9,6 +9,8 @@ export const state = {
     currentSource: null,
     currentCategory: null,
     currentTopicName: "",
+    currentTestId: null,    // ID único del test activo para récords
+    pendingTestId: null,    // ID temporal del test seleccionado
     lastViewBeforeMode: 'menu',
     supabaseClient: null,
     timeRemaining: 0,       // Segundos restantes del cronómetro

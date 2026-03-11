@@ -4,7 +4,7 @@
  */
 import { state } from './state.js';
 import { TOPIC_TITLES } from './config.js';
-import { showView } from './ui.js';
+import { showView, renderizarRecordsMenu, slugify } from './ui.js';
 
 // ── Public API ────────────────────────────────────────────────────────────────
 
@@ -68,10 +68,11 @@ export function showTopics(part) {
     const container = document.getElementById('topics-container');
     container.innerHTML = '';
     baseTemas.forEach(baseTema => container.appendChild(createBaseTopicButton(baseTema, relevantQ)));
+    renderizarRecordsMenu();
     showView('topics');
 }
 
-export function prepareModeSelection(title, generatorFn) {
+export function prepareModeSelection(title, generatorFn, testId = null) {
     const VIEW_IDS = {
         roleSelection: 'view-role-selection', menu: 'view-menu', parts: 'view-parts',
         topics: 'view-topics', random: 'view-random', examsMenu: 'view-exams-menu',
@@ -82,7 +83,8 @@ export function prepareModeSelection(title, generatorFn) {
         return el && el.classList.contains('active');
     });
     if (activeKey) state.lastViewBeforeMode = activeKey;
-
+    
+    state.pendingTestId = testId;
     state.pendingTopicTitle = title;
     state.pendingGameGenerator = generatorFn;
     const el = document.getElementById('mode-topic-title');
@@ -90,7 +92,9 @@ export function prepareModeSelection(title, generatorFn) {
     showView('modeSelection');
 }
 
-// ── Private helpers ───────────────────────────────────────────────────────────
+/**
+ * Private helpers
+ */
 
 function createBaseTopicButton(baseTema, questionsSubset) {
     const temaQ = questionsSubset.filter(q =>
@@ -144,7 +148,8 @@ function createBaseTopicButton(baseTema, questionsSubset) {
                     }
                 });
             } else {
-                prepareModeSelection(baseTema, () => temaQ);
+                const testId = slugify(`${state.currentSource || ''}_${baseTema}`);
+                prepareModeSelection(baseTema, () => temaQ, testId);
             }
         }
     });
@@ -190,7 +195,8 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
     btnAll.className = 'btn-topic';
     btnAll.style.background = '#e3f2fd';
     btnAll.innerHTML = `<strong>${baseTema} COMPLETO</strong><small>Mezclar todos los bloques (${completoQ.length} pregs)</small>`;
-    btnAll.addEventListener('click', () => prepareModeSelection(`${baseTema} (Todos)`, () => completoQ));
+    const testIdAll = slugify(`${state.currentSource || ''}_${baseTema}_completo`);
+    btnAll.addEventListener('click', () => prepareModeSelection(`${baseTema} (Todos)`, () => completoQ, testIdAll));
     container.appendChild(btnAll);
 
     // Only render blocks that have an explicit number (Bloque N / Test N).
@@ -208,11 +214,13 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
             if (chunkQ.length > 20) {
                 showChunksMenu(subTema, chunkQ, () => showBlocksMenu(baseTema, subTemas, temaQ));
             } else {
-                prepareModeSelection(subTema, () => chunkQ);
+                const testIdSub = slugify(`${state.currentSource || ''}_${subTema}`);
+                prepareModeSelection(subTema, () => chunkQ, testIdSub);
             }
         });
         container.appendChild(btn);
     });
+    renderizarRecordsMenu();
 }
 
 function showChunksMenu(title, qArray, backCallback) {
@@ -234,7 +242,8 @@ function showChunksMenu(title, qArray, backCallback) {
     btnAll.className = 'btn-topic';
     btnAll.style.background = '#e3f2fd';
     btnAll.innerHTML = `<strong>Test Completo</strong><small>Todas las preguntas (${qArray.length})</small>`;
-    btnAll.addEventListener('click', () => prepareModeSelection(`${title} (Completo)`, () => qArray));
+    const testIdFull = slugify(`${state.currentSource || ''}_${title}_full`);
+    btnAll.addEventListener('click', () => prepareModeSelection(`${title} (Completo)`, () => qArray, testIdFull));
     container.appendChild(btnAll);
 
     // Chunks
@@ -249,7 +258,9 @@ function showChunksMenu(title, qArray, backCallback) {
         const btn = document.createElement('button');
         btn.className = 'btn-topic';
         btn.innerHTML = `<strong>Parte ${i + 1}</strong><small>Preguntas ${start + 1} a ${end}</small>`;
-        btn.addEventListener('click', () => prepareModeSelection(`${title} (Parte ${i + 1})`, () => chunk));
+        const testIdChunk = slugify(`${state.currentSource || ''}_${title}_parte_${i + 1}`);
+        btn.addEventListener('click', () => prepareModeSelection(`${title} (Parte ${i + 1})`, () => chunk, testIdChunk));
         container.appendChild(btn);
     }
+    renderizarRecordsMenu();
 }

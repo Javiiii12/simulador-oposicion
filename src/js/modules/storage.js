@@ -1,6 +1,9 @@
 /**
  * storage.js — LocalStorage helpers for failures and progress history.
  */
+/**
+ * storage.js — LocalStorage helpers for failures and progress history.
+ */
 
 const KEYS = {
     FAILED_IDS: 'ope_failed_ids',
@@ -8,7 +11,8 @@ const KEYS = {
     USER_ACCESS: 'ope_user_access',
     DEVICE_ID: 'ope_device_id',
     DEVICE_REGISTERED: 'ope_device_registered', // Legacy
-    VERSION_DATA: 'ope_version_data'
+    VERSION_DATA: 'ope_version_data',
+    RECORDS: 'simulador_sescam_records'
 };
 
 let currentPrefix = '';
@@ -109,4 +113,35 @@ export function getSuspendedSession() {
 
 export function clearSuspendedSession() {
     localStorage.removeItem('estado_test_suspendido');
+}
+
+// ── Récords (High Scores) ──────────────────────────────────────────────────
+
+/**
+ * Obtiene el objeto de récords de localStorage.
+ */
+export function getRecords() {
+    try {
+        return JSON.parse(localStorage.getItem(KEYS.RECORDS)) || {};
+    } catch {
+        return {};
+    }
+}
+
+/**
+ * Guarda un récord si la nota es mayor a la anterior.
+ * @param {string} testId 
+ * @param {number} score 
+ */
+export function saveRecord(testId, score) {
+    if (!testId) return;
+    const records = getRecords();
+    const currentRecord = records[testId] || 0;
+
+    if (score > currentRecord) {
+        records[testId] = parseFloat(score.toFixed(2));
+        localStorage.setItem(KEYS.RECORDS, JSON.stringify(records));
+        return true; // Récord actualizado
+    }
+    return false;
 }

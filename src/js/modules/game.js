@@ -76,8 +76,9 @@ export function stopTimer() {
  * @param {Array}  questions  The question set to play.
  * @param {string} mode       'training' | 'exam' | 'failures' | 'review'
  * @param {string} topicName  Display name for the session.
+ * @param {string} testId     Unique ID for records.
  */
-export function startGame(questions, mode, topicName) {
+export function startGame(questions, mode, topicName, testId = null) {
     if (!questions || questions.length === 0) {
         alert('No hay preguntas para iniciar este test.');
         return;
@@ -91,6 +92,7 @@ export function startGame(questions, mode, topicName) {
     state.currentQuestions = questions;
     state.currentMode = mode;
     state.currentTopicName = topicName;
+    state.currentTestId = testId;
     resetGameState();
 
     if (mode !== 'review') state.originalMode = mode;
@@ -471,6 +473,18 @@ function finishGame() {
         }
     }
 
+    // ── Guardar Récord (High Score) ──
+    const score0to10 = (state.currentMode === 'exam')
+        ? Math.max(0, aciertos - fallos / 3) * (10 / total)
+        : (aciertos / total) * 10;
+
+    if (state.currentTestId && state.currentMode !== 'review') {
+        const isNewRecord = Storage.saveRecord(state.currentTestId, score0to10);
+        if (isNewRecord) {
+            console.log(`¡Nuevo récord para ${state.currentTestId}: ${score0to10.toFixed(2)}!`);
+        }
+    }
+
     // Motivational feedback
     const pctEl = document.getElementById('resultado-porcentaje');
     const txtEl = document.getElementById('resultado-texto');
@@ -547,7 +561,8 @@ export function saveCurrentSession() {
         currentIndex: state.currentIndex,
         score: state.score,
         userAnswers: state.userAnswers,
-        timeRemaining: state.timeRemaining  // Persistir tiempo restante
+        timeRemaining: state.timeRemaining,
+        currentTestId: state.currentTestId
     };
     saveSuspendedSession(sessionData);
 }
@@ -562,6 +577,7 @@ export function restoreSession(savedState) {
     state.currentIndex = savedState.currentIndex || 0;
     state.score = savedState.score || 0;
     state.userAnswers = savedState.userAnswers || {};
+    state.currentTestId = savedState.currentTestId || null;
 
     // ── Restaurar cronómetro si era un examen ──
     if (state.currentMode === 'exam') {

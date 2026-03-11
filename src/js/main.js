@@ -43,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
 
                 UI.updateFailureBadge(Storage.getFailedIds().length);
+                UI.renderizarRecordsMenu();
                 setupEventListeners();
                 showRoleSelection();
             });
@@ -123,19 +124,26 @@ function setupEventListeners() {
     // ── Exams ──
     document.getElementById('btn-back-exams')
         .addEventListener('click', () => UI.showView('menu'));
+    // Exámenes específicos
+    document.getElementById('btn-2024-cel').addEventListener('click', () => {
+        const qs = state.allQuestions.filter(q => q.tema === 'Examen Oficial Celador/a SESCAM 2024');
+        if (!qs.length) return alert('Examen no cargado.');
+        Topics.prepareModeSelection('Examen Celador SESCAM 2024', () => qs, 'ope_2024_cel');
+    });
+
     document.getElementById('btn-2020-ord').addEventListener('click', () => {
         const qs = state.allQuestions
             .filter(q => q.tema === 'Examen 2020 (Ordinario)')
             .sort((a, b) => (parseInt(a.id?.split('_')[1]) || 0) - (parseInt(b.id?.split('_')[1]) || 0));
         if (!qs.length) return alert('Examen no cargado.');
-        Topics.prepareModeSelection('Examen OPE 2020 (Ordinario)', () => qs);
+        Topics.prepareModeSelection('Examen OPE 2020 (Ordinario)', () => qs, 'ope_2020_ord');
     });
     document.getElementById('btn-2020-extra').addEventListener('click', () => {
         const qs = state.allQuestions
             .filter(q => q.tema === 'Examen 2020 (Extraordinario)')
             .sort((a, b) => (parseInt(a.id?.split('_')[1]) || 0) - (parseInt(b.id?.split('_')[1]) || 0));
         if (!qs.length) return alert('🚧 Examen aún no disponible.');
-        Topics.prepareModeSelection('Examen OPE 2020 (Extraordinario)', () => qs);
+        Topics.prepareModeSelection('Examen OPE 2020 (Extraordinario)', () => qs, 'ope_2020_extra');
     });
     const btnCCAA = document.getElementById('btn-examenes-ccaa');
     if (btnCCAA) btnCCAA.addEventListener('click', () => {
@@ -189,6 +197,7 @@ function setupEventListeners() {
     document.getElementById('btn-home-results')
         .addEventListener('click', () => {
             checkAndInjectSessionButton(); // Al llegar a results se ha borrado storage, así que limpiará el botón
+            UI.renderizarRecordsMenu();
             UI.showView('menu');
         });
     document.getElementById('btn-retry').addEventListener('click', () => {
@@ -236,7 +245,7 @@ function triggerGameStart(mode) {
     if (!qs || qs.length === 0) { alert('No hay preguntas para este test.'); return; }
     state.currentMode = mode;
     state.originalMode = mode;
-    Game.startGame(qs, mode, state.pendingTopicTitle || 'Test');
+    Game.startGame(qs, mode, state.pendingTopicTitle || 'Test', state.pendingTestId);
 }
 
 function initRandomView() {
@@ -436,4 +445,8 @@ export function checkAndInjectSessionButton() {
         wrapper.appendChild(discardBtn);
         if (menuGrid) menuGrid.insertBefore(wrapper, menuGrid.firstChild);
     }
+}
+
+function slugify(text) {
+    return UI.slugify(text);
 }
