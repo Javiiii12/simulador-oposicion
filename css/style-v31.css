@@ -830,8 +830,11 @@ input[type="number"] {
 .full-exam-view {
     display: flex;
     flex-direction: column;
-    gap: 1.5rem;
+    gap: 1.25rem;
     padding-bottom: 2rem;
+    /* Evita scroll horizontal por desbordamiento de texto largo */
+    overflow-x: hidden;
+    width: 100%;
     animation: fadeIn 0.3s ease;
 }
 
@@ -840,15 +843,20 @@ input[type="number"] {
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     border-radius: var(--radius);
-    padding: 24px;
+    /* Mobile-first: padding más ajustado. Se aumenta en desktop */
+    padding: 16px;
     border: 1px solid rgba(255,255,255,0.5);
-    border-left: 6px solid var(--primary);
+    border-left: 5px solid var(--primary);
     border-top: 4px solid var(--accent);
     box-shadow: 0 8px 32px 0 rgba(31,38,135,0.12),
                 inset 1px 1px 2px rgba(255,255,255,0.8),
                 inset -1px -1px 2px rgba(0,0,0,0.04);
     position: relative;
+    /* Contiene el pseudoelemento decorativo sin desbordar */
     overflow: hidden;
+    /* Asegura que el contenido (texto+opciones) no salga del card */
+    box-sizing: border-box;
+    width: 100%;
 }
 
 .full-view-question-card::before {
@@ -863,17 +871,19 @@ input[type="number"] {
 .full-view-q-header {
     display: flex;
     align-items: center;
-    gap: 10px;
-    margin-bottom: 12px;
+    gap: 8px;
+    margin-bottom: 10px;
+    flex-wrap: wrap;   /* El tag de tema puede bajar de línea en pantallas muy estrechas */
 }
 
 .full-view-q-num {
     background: linear-gradient(135deg, var(--primary), var(--secondary));
     color: white;
     font-weight: 800;
-    font-size: 0.85rem;
-    width: 28px;
-    height: 28px;
+    font-size: 0.8rem;
+    width: 26px;
+    height: 26px;
+    min-width: 26px;   /* Evita que se encoja con flex */
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -883,22 +893,34 @@ input[type="number"] {
 }
 
 .full-view-q-text {
-    font-size: 1.05rem;
+    font-size: 1rem;
     font-weight: 600;
     line-height: 1.5;
     color: var(--text);
-    margin: 0 0 16px 0;
+    margin: 0 0 14px 0;
+    /* Evita que palabras largas (URL, siglas) causen scroll horizontal */
+    word-break: break-word;
+    overflow-wrap: break-word;
 }
 
 .full-view-opts {
     display: flex;
     flex-direction: column;
-    gap: 0.65rem;
+    gap: 0.6rem;
 }
 
 .full-view-opt {
-    font-size: 1rem;
-    padding: 14px 18px;
+    font-size: 0.95rem;
+    /* Área táctil mínima de 48px de alto para dedos */
+    min-height: 48px;
+    padding: 12px 14px;
+    /* Evita textos de opción muy largos que desborden */
+    word-break: break-word;
+    overflow-wrap: break-word;
+    /* Alineación del texto cuando la opción tiene varias líneas */
+    align-items: flex-start;
+    text-align: left;
+    white-space: normal;
 }
 
 /* Exam selection highlight in full view */
@@ -912,9 +934,10 @@ input[type="number"] {
 /* Finalizar button at bottom of full view */
 .full-view-finish-btn {
     margin-top: 0.5rem;
+    min-height: 52px;   /* Área táctil cómoda en móvil */
     background: linear-gradient(135deg, var(--primary), var(--secondary));
     box-shadow: 0 6px 20px rgba(0,137,123,0.35);
-    font-size: 1.15rem;
+    font-size: 1.1rem;
     border-radius: 16px;
 }
 
@@ -924,10 +947,32 @@ input[type="number"] {
     box-shadow: 0 10px 28px rgba(0,137,123,0.45);
 }
 
+/* Toggle button ☰ — área táctil garantizada */
+#btn-toggle-fullview {
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0 10px;
+    flex-shrink: 0;
+}
+
 /* Toggle button active state */
 .btn-small.active-view-btn {
     background: var(--primary);
     color: white;
     border-color: var(--primary-dark);
     box-shadow: 0 2px 8px rgba(0,137,123,0.4);
+}
+
+/* ── Desktop: más espacio en tarjetas de la vista completa ─────────────────── */
+@media (min-width: 540px) {
+    .full-view-question-card {
+        padding: 22px 24px;
+    }
+    .full-view-opt {
+        font-size: 1rem;
+        padding: 13px 18px;
+    }
+    .full-view-q-text {
+        font-size: 1.05rem;
+    }
 }
