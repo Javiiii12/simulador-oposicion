@@ -1,3 +1,6 @@
+import * as Storage from './storage.js';
+import { state } from './state.js';
+
 /**
  * ui.js — View navigation and DOM helpers
  * All view IDs must match what exists in index.html.
