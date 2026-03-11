@@ -4,7 +4,7 @@
  */
 import { state, resetGameState } from './state.js';
 import { showView, toggleEl, updateFailureBadge } from './ui.js';
-import { addFailedId, removeFailedId, getFailedIds, addHistoryEntry, saveSuspendedSession, clearSuspendedSession } from './storage.js';
+import * as Storage from './storage.js';
 
 // ── Timer helpers ─────────────────────────────────────────────────────────────
 
@@ -86,7 +86,7 @@ export function startGame(questions, mode, topicName, testId = null) {
 
     // ── Auto-limpieza: si había un test en pausa, se descarta al iniciar uno nuevo ──
     if (mode !== 'review') {
-        clearSuspendedSession();
+        Storage.clearSuspendedSession();
     }
 
     state.currentQuestions = questions;
@@ -163,7 +163,6 @@ export function nextQuestion() {
         if (state.currentMode === 'review') {
             showView('results');
         } else {
-            console.log('Final step: calling finishGame from nextQuestion');
             try {
                 finishGame();
             } catch (err) {
@@ -344,12 +343,12 @@ function handleAnswer(selected, q) {
     if (isCorrect) {
         state.score++;
         if (state.currentMode === 'failures') {
-            removeFailedId(q.id);
-            updateFailureBadge(getFailedIds().length);
+            Storage.removeFailedId(q.id);
+            updateFailureBadge(Storage.getFailedIds().length);
         }
     } else {
-        addFailedId(q.id);
-        updateFailureBadge(getFailedIds().length);
+        Storage.addFailedId(q.id);
+        updateFailureBadge(Storage.getFailedIds().length);
     }
 
     // Exam mode: highlight selected, keep ALL buttons re-clickable
@@ -411,11 +410,8 @@ function handleAnswer(selected, q) {
 }
 
 function finishGame() {
-    console.log('finishGame started');
-    stopTimer();
-    console.log('Timer stopped');
-    clearSuspendedSession();
-    console.log('Suspended session cleared');
+    stopTimer(); // Limpiar timer antes de mostrar resultados
+    Storage.clearSuspendedSession();
     const total = state.currentQuestions.length;
     let aciertos = 0, fallos = 0, blancos = 0;
 
@@ -425,10 +421,8 @@ function finishGame() {
         else if (ans === q.correcta) aciertos++;
         else fallos++;
     });
-    console.log('Counters calculated:', { aciertos, fallos, blancos, total });
 
     const percentage = Math.round((aciertos / total) * 100);
-    console.log('Percentage:', percentage);
 
     // ── Exam: penalised score ──
     if (state.currentMode === 'exam') {
@@ -459,7 +453,7 @@ function finishGame() {
               <p style="font-size:0.85em;color:#777;">* Fórmula oficial: Aciertos − (Errores / 3)</p>
             </div>`;
 
-        addHistoryEntry({
+        Storage.addHistoryEntry({
             date: new Date().toLocaleDateString('es-ES'),
             topic: state.currentTopicName + ' [Examen]',
             score: notaNumerica.toFixed(2),
@@ -474,7 +468,7 @@ function finishGame() {
         document.getElementById('exam-feedback-container').classList.add('hidden');
 
         if (state.currentMode !== 'failures') {
-            addHistoryEntry({
+            Storage.addHistoryEntry({
                 date: new Date().toLocaleDateString('es-ES'),
                 topic: state.currentTopicName + ' [Entrenamiento]',
                 score: aciertos,
@@ -556,9 +550,9 @@ function finishGame() {
 
     // Show "Borrar Fallos" if there are any stored
     const btnClearFail = document.getElementById('btn-clear-failures');
-    if (btnClearFail) toggleEl('btn-clear-failures', getFailedIds().length > 0);
+    if (btnClearFail) toggleEl('btn-clear-failures', Storage.getFailedIds().length > 0);
 
-    updateFailureBadge(getFailedIds().length);
+    updateFailureBadge(Storage.getFailedIds().length);
     showView('results');
 }
 
@@ -575,7 +569,7 @@ export function saveCurrentSession() {
         timeRemaining: state.timeRemaining,
         currentTestId: state.currentTestId
     };
-    saveSuspendedSession(sessionData);
+    Storage.saveSuspendedSession(sessionData);
 }
 
 export function restoreSession(savedState) {
@@ -684,8 +678,8 @@ function renderFullView(container) {
                         btn.classList.add('correct');
                     } else {
                         btn.classList.add('incorrect');
-                        addFailedId(q.id);
-                        updateFailureBadge(getFailedIds().length);
+                        Storage.addFailedId(q.id);
+                        updateFailureBadge(Storage.getFailedIds().length);
                     }
                     // Lock all siblings
                     [...optsDiv.children].forEach(b => { b.disabled = true; });
