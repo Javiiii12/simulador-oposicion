@@ -6,6 +6,69 @@ import { state, resetGameState } from './state.js';
 import { showView, toggleEl, updateFailureBadge } from './ui.js';
 import { addFailedId, removeFailedId, getFailedIds, addHistoryEntry, saveSuspendedSession, clearSuspendedSession } from './storage.js';
 
+// ── Timer helpers ─────────────────────────────────────────────────────────────
+
+/**
+ * Formatea segundos → 'MM:SS'.
+ */
+function formatTime(secs) {
+    const m = Math.floor(secs / 60);
+    const s = secs % 60;
+    return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`;
+}
+
+/**
+ * Actualiza el badge del cronómetro en la UI.
+ */
+function updateTimerUI() {
+    const el = document.getElementById('game-timer');
+    if (!el) return;
+    const secs = state.timeRemaining;
+    el.textContent = `⏱️ ${formatTime(secs)}`;
+    el.classList.toggle('warning', secs > 0 && secs <= 300);  // ≤ 5 min
+    el.classList.toggle('urgent',  secs > 0 && secs <= 60);   // ≤ 1 min
+}
+
+/**
+ * Inicia el cronómetro inverso para el modo examen.
+ * @param {number} seconds  Tiempo inicial en segundos.
+ */
+export function startTimer(seconds) {
+    stopTimer(); // Limpia cualquier timer previo
+    state.timeRemaining = seconds;
+
+    const el = document.getElementById('game-timer');
+    if (el) el.classList.remove('hidden');
+    updateTimerUI();
+
+    state.timerInterval = setInterval(() => {
+        state.timeRemaining--;
+        updateTimerUI();
+        saveCurrentSession(); // Persistir tiempo restante en cada tick
+
+        if (state.timeRemaining <= 0) {
+            stopTimer();
+            alert('⏰ ¡Tiempo agotado! El examen se ha finalizado automáticamente.');
+            finishGame();
+        }
+    }, 1000);
+}
+
+/**
+ * Detiene el cronómetro y oculta el badge de la UI.
+ */
+export function stopTimer() {
+    if (state.timerInterval) {
+        clearInterval(state.timerInterval);
+        state.timerInterval = null;
+    }
+    const el = document.getElementById('game-timer');
+    if (el) {
+        el.classList.add('hidden');
+        el.classList.remove('warning', 'urgent');
+    }
+}
+
 // ── Public API ────────────────────────────────────────────────────────────────
 
 /**
@@ -34,6 +97,13 @@ export function startGame(questions, mode, topicName) {
 
     // Show / hide the "Vaciar Fallos" button in the game header
     toggleEl('btn-clear-failures-header', mode === 'failures');
+
+    // ── Iniciar cronómetro solo en modo Examen ──
+    if (mode === 'exam') {
+        startTimer(questions.length * 60); // 1 minuto por pregunta
+    } else {
+        stopTimer(); // Asegurar que no queda ningún timer activo de antes
+    }
 
     showView('game');
     renderQuestion();
@@ -333,6 +403,7 @@ function handleAnswer(selected, q) {
 }
 
 function finishGame() {
+    stopTimer(); // Limpiar timer antes de mostrar resultados
     clearSuspendedSession();
     const total = state.currentQuestions.length;
     let aciertos = 0, fallos = 0, blancos = 0;
@@ -475,7 +546,8 @@ export function saveCurrentSession() {
         currentQuestions: state.currentQuestions,
         currentIndex: state.currentIndex,
         score: state.score,
-        userAnswers: state.userAnswers
+        userAnswers: state.userAnswers,
+        timeRemaining: state.timeRemaining  // Persistir tiempo restante
     };
     saveSuspendedSession(sessionData);
 }
@@ -490,6 +562,18 @@ export function restoreSession(savedState) {
     state.currentIndex = savedState.currentIndex || 0;
     state.score = savedState.score || 0;
     state.userAnswers = savedState.userAnswers || {};
+
+    // ── Restaurar cronómetro si era un examen ──
+    if (state.currentMode === 'exam') {
+        const savedTime = savedState.timeRemaining;
+        // Si había tiempo guardado y es válido, lo retomamos; si no, recalculamos
+        const seconds = (typeof savedTime === 'number' && savedTime > 0)
+            ? savedTime
+            : state.currentQuestions.length * 60;
+        startTimer(seconds);
+    } else {
+        stopTimer();
+    }
 
     // Sincronizar UI
     toggleEl('btn-clear-failures-header', state.currentMode === 'failures');

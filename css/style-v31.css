@@ -344,6 +344,44 @@ input[type="number"] {
     margin-bottom: 20px;
 }
 
+/* ── Cronómetro de Examen ───────────────────────────────────── */
+.game-timer {
+    background: linear-gradient(135deg, #e53935, #b71c1c);
+    color: #fff;
+    font-size: 0.95rem;
+    font-weight: 800;
+    padding: 5px 11px;
+    border-radius: 8px;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+    box-shadow: 0 2px 8px rgba(229,57,53,0.4);
+    transition: background 0.5s;
+    flex-shrink: 0;
+    margin: 0 10px;
+}
+
+.game-timer.warning {
+    background: linear-gradient(135deg, #ff6f00, #e65100);
+    box-shadow: 0 2px 8px rgba(255,111,0,0.5);
+    animation: timerPulse 1.2s ease-in-out infinite;
+}
+
+.game-timer.urgent {
+    background: linear-gradient(135deg, #c62828, #7f0000);
+    box-shadow: 0 2px 8px rgba(198,40,40,0.7);
+    animation: timerBlink 0.5s ease-in-out infinite;
+}
+
+@keyframes timerPulse {
+    0%, 100% { transform: scale(1); }
+    50%       { transform: scale(1.06); }
+}
+
+@keyframes timerBlink {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0.35; }
+}
+
 .progress-container {
     flex-grow: 1;
     margin: 0 15px;

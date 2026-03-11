@@ -173,6 +173,7 @@ function setupEventListeners() {
     // ── Game controls ──
     document.getElementById('btn-quit-game').addEventListener('click', () => {
         if (confirm('¿Salir al menú? Tu test actual quedará guardado automáticamente.')) {
+            Game.stopTimer(); // Detener cronómetro (sin borrar el tiempo guardado)
             checkAndInjectSessionButton(); // Refresca UI
             UI.showView('menu');
         }
