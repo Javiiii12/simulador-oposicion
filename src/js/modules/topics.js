@@ -144,6 +144,7 @@ function createBaseTopicButton(baseTema, questionsSubset) {
     const btn = document.createElement('button');
     btn.className = 'btn-topic';
     btn.id = `btn-topic-${testId}`;
+    btn.setAttribute('data-testid', testId); // ID Base para agregación de este tema
     btn.innerHTML = `
         <strong>${baseTema}</strong>
         <span class="topic-title-sub">${titulo}</span>
@@ -213,10 +214,12 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
     const btnAll = document.createElement('button');
     btnAll.className = 'btn-topic';
     btnAll.style.background = '#e3f2fd';
-    btnAll.innerHTML = `<strong>${baseTema} COMPLETO</strong><small>Mezclar todos los bloques (${completoQ.length} pregs)</small>`;
-    const testIdAll = slugify(`${state.currentSource || ''}_${baseTema}_completo`);
     btnAll.id = `btn-topic-${testIdAll}`;
+    btnAll.setAttribute('data-testid', testIdAll); // ID único para el test completo
     btnAll.addEventListener('click', () => prepareModeSelection(`${baseTema} (Todos)`, () => completoQ, testIdAll));
+    
+    // El filtro para este botón de "Mezcla" es todo el subtema
+    renderizarProgresoEnCard(btnAll, q => numbered.includes(q.tema));
     container.appendChild(btnAll);
 
     // Only render blocks that have an explicit number (Bloque N / Test N).

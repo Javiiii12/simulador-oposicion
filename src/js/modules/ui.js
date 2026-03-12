@@ -235,7 +235,19 @@ export function renderizarProgresoEnCard(element, questionsFilter) {
 
     if (filteredQs.length === 0) return;
 
-    // Temas únicos en este subconjunto
+    // ── NIVEL INDIVIDUAL (Test/Parte) ──
+    const testId = element.getAttribute('data-testid') || (element.id && element.id.replace('btn-topic-', ''));
+    
+    // Si el elemento representa un TEST INDIVIDUAL (tiene un ID que existe directo en records), 
+    // forzamos Coincidencia Exacta y no hacemos agregación.
+    if (testId && records[testId] !== undefined) {
+        const score = records[testId];
+        injectProgressHTML(element, 100, score.toFixed(1));
+        return;
+    }
+
+    // ── NIVEL AGREGADO (Tema, Bloque, Fuente) ──
+    // Si llegamos aquí, es una tarjeta que agrupa múltiples tests
     const uniqueTemas = [...new Set(filteredQs.map(q => {
         const m = q.tema && q.tema.match(/(Tema \d+)/i);
         return m ? m[1] : q.tema;
@@ -247,8 +259,12 @@ export function renderizarProgresoEnCard(element, questionsFilter) {
 
     uniqueTemas.forEach(baseTema => {
         const themeSlug = slugify(baseTema);
-        // Buscamos récords que pertenezcan a este tema
-        const relatedKeys = Object.keys(records).filter(k => k.includes(themeSlug));
+        // Buscamos récords: 
+        // 1. Coincidencia exacta con el slug (ej. "mad_tema_1")
+        // 2. O récords que EMPIECEN por el slug + separador para evitar colisiones (ej. "mad_tema_1_parte_1")
+        const relatedKeys = Object.keys(records).filter(k => 
+            k === themeSlug || k.startsWith(themeSlug + '_')
+        );
         
         if (relatedKeys.length > 0) {
             completedCount++;
@@ -257,17 +273,6 @@ export function renderizarProgresoEnCard(element, questionsFilter) {
             countWithScore++;
         }
     });
-
-    // Si es un Examen Oficial (Nivel 3 específico)
-    // Buscamos si el propio element tiene un testId y si ese testId está en records
-    const testId = element.getAttribute('data-testid') || (element.id && element.id.replace('btn-topic-', ''));
-    if (testId && records[testId] !== undefined) {
-        // Si es un botón individual, el progreso es binario (o nota directa)
-        // Pero para mantener la consistencia de la barra:
-        const score = records[testId];
-        injectProgressHTML(element, 100, score.toFixed(1));
-        return;
-    }
 
     const pct = uniqueTemas.length > 0 ? Math.round((completedCount / uniqueTemas.length) * 100) : 0;
     const avg = countWithScore > 0 ? (totalScore / countWithScore).toFixed(1) : "0.0";
