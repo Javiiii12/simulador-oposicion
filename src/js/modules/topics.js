@@ -4,7 +4,7 @@
  */
 import { state } from './state.js';
 import { TOPIC_TITLES } from './config.js';
-import { showView, renderizarRecordsMenu, slugify, renderizarProgresoGlobal } from './ui.js';
+import { showView, renderizarRecordsMenu, slugify, renderizarProgresoGlobal, renderizarProgresoEnCard } from './ui.js';
 
 // ── Public API ────────────────────────────────────────────────────────────────
 
