@@ -187,99 +187,158 @@ export function renderizarProgresoGlobal() {
 
     // 1. Identificar contenedores de categorías/bloques (Nivel 1 y 2)
     const categories = [
-        { id: 'btn-source-mad', filter: q => q.origen === 'MAD' },
-        { id: 'btn-source-csif', filter: q => q.origen === 'CSIF' },
-        { id: 'btn-source-academia', filter: q => q.origen === 'Academia' },
-        { id: 'btn-source-examenes', filter: q => q.source === 'Histo' || q.origen === 'Historico' },
+        { id: 'btn-source-mad', filter: q => q.origen === 'MAD', aggregate: true },
+        { id: 'btn-source-csif', filter: q => q.origen === 'CSIF', aggregate: true },
+        { id: 'btn-source-academia', filter: q => q.origen === 'Academia', aggregate: true },
+        { id: 'btn-source-examenes', filter: q => q.source === 'Histo' || q.origen === 'Historico', aggregate: true },
         { id: 'btn-part-general', filter: q => {
             const m = q.tema && q.tema.match(/tema\s+(\d+)/i);
             return m && parseInt(m[1]) >= 1 && parseInt(m[1]) <= 6;
-        }},
+        }, aggregate: true },
         { id: 'btn-part-especifica', filter: q => {
             const m = q.tema && q.tema.match(/tema\s+(\d+)/i);
             return m && parseInt(m[1]) >= 7 && parseInt(m[1]) <= 16;
-        }}
+        }, aggregate: true }
     ];
 
     categories.forEach(cat => {
         const btn = document.getElementById(cat.id);
-        if (btn) renderizarProgresoEnCard(btn, cat.filter);
+        if (btn) {
+            btn.setAttribute('data-aggregate', 'true'); // Niveles 1 y 2 son siempre agregados
+            renderizarProgresoEnCard(btn, cat.filter);
+        }
     });
 }
 
 /**
  * Inyecta una barra de progreso y nota media en un elemento basado en un filtro de preguntas.
- * Se usa para Niveles 1, 2 y 3 (Granularidad total).
+ * REGLA DE ORO: Aislamiento total entre fuentes y partes mediante matching estricto.
  */
 export function renderizarProgresoEnCard(element, questionsFilter) {
     if (!element) return;
     const records = Storage.getRecords();
     const allQuestions = state.allQuestions;
 
-    // Quitar previo
+    // Limpiar previo
     const oldWrap = element.querySelector('.global-progress-wrapper');
     if (oldWrap) oldWrap.remove();
 
-    let filteredQs = [];
-    if (questionsFilter) {
-        filteredQs = allQuestions.filter(questionsFilter);
-    } else {
-        // Intentar inferir filtro del testId (útil para refrescos al volver de resultados)
-        const testId = element.getAttribute('data-testid') || (element.id && element.id.replace('btn-topic-', ''));
-        if (testId) {
-            // Buscamos preguntas que coincidan con este testId (aproximación por tema)
-            // Esto es necesario para que al "Volver a Selección" se actualice la barra
-            filteredQs = allQuestions.filter(q => slugify(q.tema).includes(testId) || slugify(q.origen).includes(testId));
-        }
-    }
-
-    if (filteredQs.length === 0) return;
-
-    // ── NIVEL INDIVIDUAL (Test/Parte) ──
     const testId = element.getAttribute('data-testid') || (element.id && element.id.replace('btn-topic-', ''));
-    
-    // Si el elemento representa un TEST INDIVIDUAL (tiene un ID que existe directo en records), 
-    // forzamos Coincidencia Exacta y no hacemos agregación.
-    if (testId && records[testId] !== undefined) {
+    const isAggregate = element.getAttribute('data-aggregate') === 'true';
+
+    // ── REGLA 1: TEST ATÓMICO (Sin herencia, sin prefijos laxos) ──
+    if (!isAggregate && testId) {
+        // En botones de nivel 3 (Partes/Bloques), buscamos EXACTAMENTE la clave.
         const score = records[testId];
-        injectProgressHTML(element, 100, score.toFixed(1));
+        if (score !== undefined) {
+            injectProgressHTML(element, 100, score.toFixed(1));
+        }
         return;
     }
 
-    // ── NIVEL AGREGADO (Tema, Bloque, Fuente) ──
-    // Si llegamos aquí, es una tarjeta que agrupa múltiples tests
-    const uniqueTemas = [...new Set(filteredQs.map(q => {
-        const m = q.tema && q.tema.match(/(Tema \d+)/i);
-        return m ? m[1] : q.tema;
-    }))].filter(t => t && !t.startsWith('Examen'));
+    // ── REGLA 2: AGREGACIÓN (Padres, Fuentes) ──
+    let targetQs = [];
+    if (questionsFilter) {
+        targetQs = allQuestions.filter(questionsFilter);
+    } else if (testId && !isAggregate) {
+        // Fallback seguridad
+        const score = records[testId];
+        if (score !== undefined) injectProgressHTML(element, 100, score.toFixed(1));
+        return;
+    }
 
-    let completedCount = 0;
-    let totalScore = 0;
-    let countWithScore = 0;
+    if (targetQs.length === 0) return;
 
-    uniqueTemas.forEach(baseTema => {
-        const themeSlug = slugify(baseTema);
-        // Buscamos récords: 
-        // 1. Coincidencia exacta con el slug (ej. "mad_tema_1")
-        // 2. O récords que EMPIECEN por el slug + separador para evitar colisiones (ej. "mad_tema_1_parte_1")
-        const relatedKeys = Object.keys(records).filter(k => 
-            k === themeSlug || k.startsWith(themeSlug + '_')
-        );
+    // Prefijo de seguridad: si tenemos testId (ej. mad_tema_1), buscamos ese prefijo EXACTO + '_'
+    // para evitar que "tema_1" pille datos de "tema_11".
+    const prefix = testId ? testId : '';
+
+    // Calculamos cuántos tests atómicos hay en este subconjunto REAL de preguntas
+    const totalAtomicTests = countTotalAtomicTests(targetQs);
+    
+    // Filtramos los récords que pertenecen a este ámbito
+    const matchingKeys = Object.keys(records).filter(k => {
+        if (!prefix) {
+            // Nivel 1 (Fuente): Filtramos por el origen de las preguntas para aislar MAD/CSIF
+            const sourcePrefix = inferSourcePrefixFromQuestions(targetQs);
+            return sourcePrefix && k.startsWith(sourcePrefix + '_');
+        }
+        // Nivel 2 (Temas/Bloques): Coincidencia exacta o prefijo real con delimitador
+        return k === prefix || k.startsWith(prefix + '_');
+    });
+
+    if (totalAtomicTests > 0) {
+        const completedCount = matchingKeys.length;
+        const totalScore = matchingKeys.reduce((acc, k) => acc + records[k], 0);
         
-        if (relatedKeys.length > 0) {
-            completedCount++;
-            const maxInTheme = Math.max(...relatedKeys.map(k => records[k]));
-            totalScore += maxInTheme;
-            countWithScore++;
+        // El porcentaje es relativo al total de tests que el usuario PUEDE ver en este contenedor
+        const pct = Math.round((completedCount / totalAtomicTests) * 100);
+        const avg = completedCount > 0 ? (totalScore / completedCount).toFixed(1) : "0.0";
+
+        if (pct > 0 || completedCount > 0) {
+            injectProgressHTML(element, pct, avg);
+        }
+    }
+}
+
+/**
+ * Determina cuántos tests atómicos (botones finales) genera un set de preguntas dado.
+ * Reclculo dinámico del denominador para evitar inconsistencias.
+ */
+function countTotalAtomicTests(questions) {
+    if (questions.length === 0) return 0;
+
+    const groups = {};
+    questions.forEach(q => {
+        const source = q.origen || q.source || 'UNK';
+        const rawTema = q.tema || 'UNK';
+        
+        // Agrupar por Test Unitario
+        if (rawTema.toLowerCase().includes('bloque') || rawTema.toLowerCase().includes('test')) {
+            const key = `${source}_${rawTema}`;
+            groups[key] = (groups[key] || 0) + 1;
+        } else {
+            const m = rawTema.match(/(Tema \d+)/i);
+            const base = m ? m[1] : rawTema;
+            const key = `${source}_${base}`;
+            groups[key] = (groups[key] || 0) + 1;
         }
     });
 
-    const pct = uniqueTemas.length > 0 ? Math.round((completedCount / uniqueTemas.length) * 100) : 0;
-    const avg = countWithScore > 0 ? (totalScore / countWithScore).toFixed(1) : "0.0";
+    let total = 0;
+    Object.keys(groups).forEach(key => {
+        const count = groups[key];
+        if (key.toLowerCase().includes('bloque') || key.toLowerCase().includes('test')) {
+            // Un bloque individual no suele tener subpartes si es < 20, pero el código actual 
+            // permite trocear bloques también. Si > 20, genera Full + Partes.
+            if (count > 20) {
+                const numParts = Math.ceil(count / 20);
+                total += (1 + numParts);
+            } else {
+                total += 1;
+            }
+        } else {
+            // Tema base: Botón Completo + N Partes
+            const numParts = Math.ceil(count / 20);
+            total += (1 + numParts); 
+        }
+    });
 
-    if (pct > 0 || countWithScore > 0) {
-        injectProgressHTML(element, pct, avg);
-    }
+    return total;
+}
+
+/**
+ * Helper para aislar fuentes en Nivel 1
+ */
+function inferSourcePrefixFromQuestions(qs) {
+    if (qs.length === 0) return null;
+    const first = qs[0];
+    const source = first.origen || first.source;
+    if (source === 'MAD') return 'mad';
+    if (source === 'CSIF') return 'csif';
+    if (source === 'Academia') return 'academia';
+    if (source === 'Historico' || first.source === 'Histo') return 'ope';
+    return null;
 }
 
 function injectProgressHTML(element, pct, avg) {

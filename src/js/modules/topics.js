@@ -144,7 +144,8 @@ function createBaseTopicButton(baseTema, questionsSubset) {
     const btn = document.createElement('button');
     btn.className = 'btn-topic';
     btn.id = `btn-topic-${testId}`;
-    btn.setAttribute('data-testid', testId); // ID Base para agregación de este tema
+    btn.setAttribute('data-testid', testId); 
+    btn.setAttribute('data-aggregate', 'true'); // AGGREGATE
     btn.innerHTML = `
         <strong>${baseTema}</strong>
         <span class="topic-title-sub">${titulo}</span>
@@ -211,11 +212,14 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
     const completoQ = numbered.length > 0 ? temaQ.filter(q => numbered.includes(q.tema)) : temaQ;
 
     // "All blocks" button
+    const testIdAll = slugify(`${state.currentSource || ''}_${baseTema}_completo`);
     const btnAll = document.createElement('button');
     btnAll.className = 'btn-topic';
     btnAll.style.background = '#e3f2fd';
     btnAll.id = `btn-topic-${testIdAll}`;
-    btnAll.setAttribute('data-testid', testIdAll); // ID único para el test completo
+    btnAll.setAttribute('data-testid', testIdAll); 
+    btnAll.setAttribute('data-aggregate', 'false'); // ATOMIC
+    btnAll.innerHTML = `<strong>${baseTema} COMPLETO</strong><small>Mezclar todos los bloques (${completoQ.length} pregs)</small>`;
     btnAll.addEventListener('click', () => prepareModeSelection(`${baseTema} (Todos)`, () => completoQ, testIdAll));
     
     // El filtro para este botón de "Mezcla" es todo el subtema
@@ -234,7 +238,8 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
         const btn = document.createElement('button');
         btn.className = 'btn-topic';
         btn.id = `btn-topic-${testIdSub}`;
-        btn.setAttribute('data-testid', testIdSub); // Para renderizarProgresoEnCard
+        btn.setAttribute('data-testid', testIdSub); 
+        btn.setAttribute('data-aggregate', 'false'); // ATOMIC
         btn.innerHTML = `<strong>${displayTitle}</strong><small>${qCount} preguntas</small>`;
         btn.addEventListener('click', () => {
             if (chunkQ.length > 20) {
@@ -266,16 +271,17 @@ function showChunksMenu(title, qArray, backCallback) {
     container.appendChild(btnBack);
 
     // Full test button
+    const testIdFull = slugify(`${state.currentSource || ''}_${title}_full`);
     const btnAll = document.createElement('button');
     btnAll.className = 'btn-topic';
     btnAll.style.background = '#e3f2fd';
-    btnAll.innerHTML = `<strong>Test Completo</strong><small>Todas las preguntas (${qArray.length})</small>`;
-    const testIdFull = slugify(`${state.currentSource || ''}_${title}_full`);
     btnAll.id = `btn-topic-${testIdFull}`;
     btnAll.setAttribute('data-testid', testIdFull);
+    btnAll.setAttribute('data-aggregate', 'false'); // ATOMIC
+    btnAll.innerHTML = `<strong>Test Completo</strong><small>Todas las preguntas (${qArray.length})</small>`;
     btnAll.addEventListener('click', () => prepareModeSelection(`${title} (Completo)`, () => qArray, testIdFull));
     
-    renderizarProgresoEnCard(btnAll, q => true); // It's a full test of already filtered questions
+    renderizarProgresoEnCard(btnAll, q => true); 
     container.appendChild(btnAll);
 
     // Chunks
@@ -291,11 +297,12 @@ function showChunksMenu(title, qArray, backCallback) {
         const btn = document.createElement('button');
         btn.className = 'btn-topic';
         btn.id = `btn-topic-${testIdChunk}`;
-        btn.setAttribute('data-testid', testIdChunk);
+        btn.setAttribute('data-testid', testIdChunk); 
+        btn.setAttribute('data-aggregate', 'false'); // ATOMIC
         btn.innerHTML = `<strong>Parte ${i + 1}</strong><small>Preguntas ${start + 1} a ${end}</small>`;
         btn.addEventListener('click', () => prepareModeSelection(`${title} (Parte ${i + 1})`, () => chunk, testIdChunk));
         
-        // Progress for this specific part
+        // Progreso para esta parte específica (Nivel 3 Estricto)
         renderizarProgresoEnCard(btn, q => chunk.includes(q));
         container.appendChild(btn);
     }
