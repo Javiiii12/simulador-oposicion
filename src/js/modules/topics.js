@@ -4,7 +4,7 @@
  */
 import { state } from './state.js';
 import { TOPIC_TITLES } from './config.js';
-import { showView, renderizarRecordsMenu, slugify } from './ui.js';
+import { showView, renderizarRecordsMenu, slugify, renderizarProgresoGlobal } from './ui.js';
 
 // ── Public API ────────────────────────────────────────────────────────────────
 
@@ -69,6 +69,19 @@ export function showTopics(part) {
     const container = document.getElementById('topics-container');
     container.innerHTML = '';
     baseTemas.forEach(baseTema => container.appendChild(createBaseTopicButton(baseTema, relevantQ)));
+    
+    // Inyectar progreso en botones de filtro (Nivel 2)
+    const btnGen = document.getElementById('btn-part-general');
+    const btnEsp = document.getElementById('btn-part-especifica');
+    if (btnGen) renderizarProgresoEnCard(btnGen, q => {
+        const m = q.tema && q.tema.match(/tema\s+(\d+)/i);
+        return m && parseInt(m[1]) >= 1 && parseInt(m[1]) <= 6;
+    });
+    if (btnEsp) renderizarProgresoEnCard(btnEsp, q => {
+        const m = q.tema && q.tema.match(/tema\s+(\d+)/i);
+        return m && parseInt(m[1]) >= 7 && parseInt(m[1]) <= 16;
+    });
+
     renderizarRecordsMenu();
     showView('topics');
 }
@@ -155,6 +168,10 @@ function createBaseTopicButton(baseTema, questionsSubset) {
             }
         }
     });
+
+    // Inyectar progreso granular (Nivel 3)
+    renderizarProgresoEnCard(btn, q => q.tema.startsWith(baseTema));
+
     return btn;
 }
 
@@ -214,6 +231,7 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
         const btn = document.createElement('button');
         btn.className = 'btn-topic';
         btn.id = `btn-topic-${testIdSub}`;
+        btn.setAttribute('data-testid', testIdSub); // Para renderizarProgresoEnCard
         btn.innerHTML = `<strong>${displayTitle}</strong><small>${qCount} preguntas</small>`;
         btn.addEventListener('click', () => {
             if (chunkQ.length > 20) {
@@ -222,6 +240,9 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
                 prepareModeSelection(subTema, () => chunkQ, testIdSub);
             }
         });
+        
+        // Progreso individual del bloque
+        renderizarProgresoEnCard(btn, q => q.tema === subTema);
         container.appendChild(btn);
     });
     renderizarRecordsMenu();
@@ -248,7 +269,10 @@ function showChunksMenu(title, qArray, backCallback) {
     btnAll.innerHTML = `<strong>Test Completo</strong><small>Todas las preguntas (${qArray.length})</small>`;
     const testIdFull = slugify(`${state.currentSource || ''}_${title}_full`);
     btnAll.id = `btn-topic-${testIdFull}`;
+    btnAll.setAttribute('data-testid', testIdFull);
     btnAll.addEventListener('click', () => prepareModeSelection(`${title} (Completo)`, () => qArray, testIdFull));
+    
+    renderizarProgresoEnCard(btnAll, q => true); // It's a full test of already filtered questions
     container.appendChild(btnAll);
 
     // Chunks
@@ -264,8 +288,12 @@ function showChunksMenu(title, qArray, backCallback) {
         const btn = document.createElement('button');
         btn.className = 'btn-topic';
         btn.id = `btn-topic-${testIdChunk}`;
+        btn.setAttribute('data-testid', testIdChunk);
         btn.innerHTML = `<strong>Parte ${i + 1}</strong><small>Preguntas ${start + 1} a ${end}</small>`;
         btn.addEventListener('click', () => prepareModeSelection(`${title} (Parte ${i + 1})`, () => chunk, testIdChunk));
+        
+        // Progress for this specific part
+        renderizarProgresoEnCard(btn, q => chunk.includes(q));
         container.appendChild(btn);
     }
     renderizarRecordsMenu();

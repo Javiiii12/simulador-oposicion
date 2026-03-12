@@ -44,7 +44,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 UI.updateFailureBadge(Storage.getFailedIds().length);
                 UI.renderizarRecordsMenu();
-                UI.renderizarProgresoGlobal(); // <-- NUEVO
+                UI.renderizarProgresoGlobal();
+                UI.renderizarProgresoExamenes(); // <-- NUEVO
                 setupEventListeners();
                 showRoleSelection();
             });
@@ -98,7 +99,10 @@ function setupEventListeners() {
     const btnAcademia = document.getElementById('btn-source-academia');
     if (btnAcademia) btnAcademia.addEventListener('click', () => Topics.showParts('Academia'));
     document.getElementById('btn-source-examenes')
-        .addEventListener('click', () => UI.showView('examsMenu'));
+        .addEventListener('click', () => {
+            UI.renderizarProgresoExamenes();
+            UI.showView('examsMenu');
+        });
 
     // ── Failures ──
     document.getElementById('btn-failures').addEventListener('click', () => {
@@ -225,7 +229,8 @@ function setupEventListeners() {
         .addEventListener('click', () => {
             checkAndInjectSessionButton(); // Al llegar a results se ha borrado storage, así que limpiará el botón
             UI.renderizarRecordsMenu();
-            UI.renderizarProgresoGlobal(); // <-- NUEVO
+            UI.renderizarProgresoGlobal();
+            UI.renderizarProgresoExamenes(); // <-- NUEVO
             UI.showView('menu');
         });
     document.getElementById('btn-retry').addEventListener('click', () => {

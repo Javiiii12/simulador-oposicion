@@ -60,6 +60,9 @@ export function showView(viewName, addToHistory = true) {
     if (viewName === 'menu' || viewName === 'parts') {
         renderizarProgresoGlobal();
     }
+    if (viewName === 'examsMenu') {
+        renderizarProgresoExamenes();
+    }
 
     window.scrollTo(0, 0);
 }
@@ -166,12 +169,12 @@ export function renderizarProgresoGlobal() {
     const records = Storage.getRecords();
     const allQuestions = state.allQuestions;
 
-    // 1. Identificar contenedores de categorías/bloques
-    // Mapeo: ID del botón -> Filtro de temas/origen
+    // 1. Identificar contenedores de categorías/bloques (Nivel 1 y 2)
     const categories = [
         { id: 'btn-source-mad', filter: q => q.origen === 'MAD' },
         { id: 'btn-source-csif', filter: q => q.origen === 'CSIF' },
         { id: 'btn-source-academia', filter: q => q.origen === 'Academia' },
+        { id: 'btn-source-examenes', filter: q => q.source === 'Histo' || q.origen === 'Historico' },
         { id: 'btn-part-general', filter: q => {
             const m = q.tema && q.tema.match(/tema\s+(\d+)/i);
             return m && parseInt(m[1]) >= 1 && parseInt(m[1]) <= 6;
@@ -184,57 +187,97 @@ export function renderizarProgresoGlobal() {
 
     categories.forEach(cat => {
         const btn = document.getElementById(cat.id);
-        if (!btn) return;
+        if (btn) renderizarProgresoEnCard(btn, cat.filter);
+    });
+}
 
-        // Limpiar progreso previo si existe
-        const oldWrap = btn.querySelector('.global-progress-wrapper');
-        if (oldWrap) oldWrap.remove();
+/**
+ * Inyecta una barra de progreso y nota media en un elemento basado en un filtro de preguntas.
+ * Se usa para Niveles 1, 2 y 3 (Granularidad total).
+ */
+export function renderizarProgresoEnCard(element, questionsFilter) {
+    if (!element) return;
+    const records = Storage.getRecords();
+    const allQuestions = state.allQuestions;
 
-        const catQuestions = allQuestions.filter(cat.filter);
-        if (catQuestions.length === 0) return;
+    // Quitar previo
+    const oldWrap = element.querySelector('.global-progress-wrapper');
+    if (oldWrap) oldWrap.remove();
 
-        // Obtener temas únicos dentro de esta categoría
-        const uniqueTemas = [...new Set(catQuestions.map(q => {
-            const m = q.tema && q.tema.match(/(Tema \d+)/i);
-            return m ? m[1] : q.tema;
-        }))].filter(t => t && !t.startsWith('Examen'));
+    const filteredQs = allQuestions.filter(questionsFilter);
+    if (filteredQs.length === 0) return;
 
-        // Calcular cuántos de estos temas tienen algún récord > 0
-        let completedCount = 0;
-        let totalScore = 0;
-        let countWithScore = 0;
+    // Temas únicos en este subconjunto
+    const uniqueTemas = [...new Set(filteredQs.map(q => {
+        const m = q.tema && q.tema.match(/(Tema \d+)/i);
+        return m ? m[1] : q.tema;
+    }))].filter(t => t && !t.startsWith('Examen'));
 
-        // Para cada tema base, buscamos si hay algún récord guardado que empiece por ese slug
-        uniqueTemas.forEach(baseTema => {
-            // Nota: Aquí asumimos que el testId empieza por "fuente_temaX"
-            // Buscamos en records cualquier key que contenga este tema
-            // Es una aproximación, lo ideal sería tener un mapeo más estricto
-            const themeSlug = slugify(baseTema);
-            const relatedRecords = Object.keys(records).filter(k => k.includes(themeSlug));
-            
-            if (relatedRecords.length > 0) {
-                completedCount++;
-                const maxInTheme = Math.max(...relatedRecords.map(k => records[k]));
-                totalScore += maxInTheme;
-                countWithScore++;
-            }
-        });
+    let completedCount = 0;
+    let totalScore = 0;
+    let countWithScore = 0;
 
-        const pct = uniqueTemas.length > 0 ? Math.round((completedCount / uniqueTemas.length) * 100) : 0;
-        const avg = countWithScore > 0 ? (totalScore / countWithScore).toFixed(1) : "0.0";
+    uniqueTemas.forEach(baseTema => {
+        const themeSlug = slugify(baseTema);
+        // Buscamos récords que pertenezcan a este tema
+        const relatedKeys = Object.keys(records).filter(k => k.includes(themeSlug));
+        
+        if (relatedKeys.length > 0) {
+            completedCount++;
+            const maxInTheme = Math.max(...relatedKeys.map(k => records[k]));
+            totalScore += maxInTheme;
+            countWithScore++;
+        }
+    });
 
-        // Inyectar UI
-        const wrapper = document.createElement('div');
-        wrapper.className = 'global-progress-wrapper';
-        wrapper.innerHTML = `
-            <div class="global-progress-info">
-                <span>Progreso: ${pct}%</span>
-                <span>Media: ${avg}</span>
-            </div>
-            <div class="global-progress-bar-bg">
-                <div class="global-progress-bar-fill" style="width: ${pct}%"></div>
-            </div>
-        `;
-        btn.appendChild(wrapper);
+    // Si es un Examen Oficial (Nivel 3 específico)
+    // Buscamos si el propio element tiene un testId y si ese testId está en records
+    const testId = element.getAttribute('data-testid') || (element.id && element.id.replace('btn-topic-', ''));
+    if (testId && records[testId] !== undefined) {
+        // Si es un botón individual, el progreso es binario (o nota directa)
+        // Pero para mantener la consistencia de la barra:
+        const score = records[testId];
+        injectProgressHTML(element, 100, score.toFixed(1));
+        return;
+    }
+
+    const pct = uniqueTemas.length > 0 ? Math.round((completedCount / uniqueTemas.length) * 100) : 0;
+    const avg = countWithScore > 0 ? (totalScore / countWithScore).toFixed(1) : "0.0";
+
+    if (pct > 0 || countWithScore > 0) {
+        injectProgressHTML(element, pct, avg);
+    }
+}
+
+function injectProgressHTML(element, pct, avg) {
+    const wrapper = document.createElement('div');
+    wrapper.className = 'global-progress-wrapper';
+    wrapper.innerHTML = `
+        <div class="global-progress-info">
+            <span>Progreso: ${pct}%</span>
+            <span>Media: ${avg}</span>
+        </div>
+        <div class="global-progress-bar-bg">
+            <div class="global-progress-bar-fill" style="width: ${pct}%"></div>
+        </div>
+    `;
+    element.appendChild(wrapper);
+}
+
+/**
+ * Renderiza progreso específico para la sección de exámenes.
+ */
+export function renderizarProgresoExamenes() {
+    const exams = [
+        { id: 'btn-topic-ope_2024_cel', filter: q => q.tema === 'Examen Oficial Celador/a SESCAM 2024' },
+        { id: 'btn-topic-ope_2020_ord', filter: q => q.tema === 'Examen 2020 (Ordinario)' },
+        { id: 'btn-topic-ope_2020_extra', filter: q => q.tema === 'Examen 2020 (Extraordinario)' },
+        { id: 'btn-examenes-ccaa', filter: q => q.tema && q.tema.includes('Otras Comunidades') },
+        { id: 'btn-examenes-historico', filter: q => q.tema && !q.tema.includes('Otras Comunidades') && !q.tema.includes('Examen 2020') && !q.tema.includes('SESCAM 2024') }
+    ];
+
+    exams.forEach(ex => {
+        const btn = document.getElementById(ex.id);
+        if (btn) renderizarProgresoEnCard(btn, ex.filter);
     });
 }
