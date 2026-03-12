@@ -1,36 +1,47 @@
-# 🍳 Simulador OPE Pinche - SESCAM (v1.13.x)
+# 🍳 Simulador OPE - SESCAM (v1.16.x)
 
-Aplicación web avanzada para preparar las oposiciones de **Pinche de Cocina (SESCAM)**. Diseño *Mobile-First* con estética *Premium Sanidad Teal*.
-
----
-
-## ✨ Características Principales
-
-- **Estética "Sanatorio Teal"**: colores institucionales, glassmorphism, sombras dinámicas.
-- **100% Responsivo**: una columna en móvil, rejilla en PC.
-- **Gamificación**: feedback verde/rojo instantáneo, mensajes motivacionales, barra de progreso.
-- **Modos de juego**: Entrenamiento, Examen (con penalización -1/3), Repaso de Fallos, Revisión.
-- **Aleatorio global**: combina preguntas de todas las fuentes con filtros por origen, examen oficial o tema concreto.
-- **Historial de fallos persistente**: se guarda en `localStorage` entre sesiones.
-- **Acceso seguro**: control de licencias, logs de acceso con encriptación SHA-256.
+Aplicación web avanzada y gamificada para preparar las oposiciones del **SESCAM** (Ayudante de Cocina / Pinche y futuras categorías). Diseño *Mobile-First* con estética *Premium Sanidad Teal* y un motor de evaluación en tiempo real.
 
 ---
 
-## 📚 Fuentes de Preguntas
+## ✨ Características Principales y UX/UI
+
+- **Estética "Sanatorio Teal"**: Colores institucionales, glassmorphism, sombras dinámicas y diseño 100% responsivo (optimizado para una columna en móvil y rejilla en PC).
+- **Sistema de Progreso en Cascada**: Barras de progreso y nota media calculadas dinámicamente en 3 niveles de profundidad (Fuentes > Bloques > Temas/Partes) sin colisión de datos.
+- **Gamificación y Récords Premium**: 
+  - Sellos de completado estéticos (`✅ Completado | 🏆 Nota`).
+  - Iconos dinámicos según el rendimiento: ❌ (<5), ✅ (5-6.9), 🎖️ (7-8.9), 🏆 (9-10).
+- **Navegación Inteligente**: Historial de vistas integrado. El botón "Atrás" siempre devuelve al submenú exacto, evitando frustraciones de usabilidad.
+- **Almacenamiento Persistente y Aislado**: Uso de `localStorage` con trazabilidad estricta. Historial de fallos y récords guardados entre sesiones sin mezclar partes de tests.
+
+---
+
+## 🛠 Modos de Estudio y Herramientas
+
+| Modo / Herramienta | Descripción |
+|-------------------|-------------|
+| ⏱️ **Cronómetro Opcional** | *Modo Examen* (cuenta atrás y cierre) vs *Modo Zen/Repaso* (sin límite de tiempo). |
+| 🏋️ **Entrenamiento** | Feedback inmediato en cada pregunta. Sin penalización. |
+| 📝 **Examen Oficial** | Sin feedback hasta el final. Penalización oficial: **-1/3 por error**. |
+| ❌ **Repaso de Fallos** | Banco de preguntas falladas históricamente. Posibilidad de borrar el historial. |
+| 🔄 **Revisión** | Repaso visual de un test completado (con o sin filtro de fallos). |
+
+---
+
+## 📚 Fuentes de Preguntas y Temario
+
+El motor separa el contenido por fuentes para un estudio estructurado:
 
 | Fuente | Descripción |
 |--------|-------------|
-| **MAD** | Temario oficial editado (preguntas clásicas) |
-| **CSIF** | Banco de preguntas sindicales |
-| **Academia** | Preguntas desglosadas por tema (ver tabla abajo) |
-| **Exámenes** | OPE SESCAM 2020 (ordinario y extraordinario), CCAA, Histórico |
+| **MAD** | Temario oficial editado (preguntas clásicas de legislación y específicas). |
+| **CSIF** | Banco de preguntas sindicales enfocadas al SESCAM. |
+| **Academia** | Preguntas desglosadas al detalle por tema. |
+| **Exámenes Oficiales** | OPE SESCAM 2020 (ordinario y extraordinario), CCAA, Histórico. |
 
----
+### Estado Actual del Temario (Ejemplo: Pinche de Cocina)
 
-## 📋 Temario Academia — Estado Actual
-
-### PARTE GENERAL (Temas 1–6)
-
+#### PARTE GENERAL (Temas 1–6)
 | Tema | Título | Estado |
 |------|--------|--------|
 | Tema 1 | La Constitución Española de 1978 | ✅ |
@@ -40,26 +51,14 @@ Aplicación web avanzada para preparar las oposiciones de **Pinche de Cocina (SE
 | Tema 5 | Estatuto Marco del Personal Estatutario | ✅ |
 | Tema 6 | Régimen Jurídico del Personal Estatutario | 🔜 |
 
-### PARTE ESPECÍFICA (Temas 7–16)
-
+#### PARTE ESPECÍFICA (Temas 7–16)
 | Tema | Título | Estado |
 |------|--------|--------|
-| Tema 7 | Plan de autoprotección y prevención de incendios | 🔜 |
 | Tema 8 | Ley de Prevención de Riesgos Laborales | ✅ (83 prev.) |
 | Tema 9 | La Atención Primaria de Salud | ✅ (60 prev.) |
 | Tema 10 | La Asistencia Especializada | ✅ (65 prev.) |
-| Tema 11–16 | Cocina, Alimentación, APPCC… | 🔜 |
+| Resto | Cocina, Alimentación, APPCC, Autoprotección… | 🔜 |
 
 ---
-
-## 🛠 Modos de Juego
-
-| Modo | Descripción |
-|------|-------------|
-| 🏋️ **Entrenamiento** | Feedback inmediato en cada pregunta. Sin penalización. |
-| 📝 **Examen** | Sin feedback hasta el final. Penalización oficial: -1/3 por error. |
-| ❌ **Repaso de Fallos** | Banco de preguntas falladas históricamente. |
-| 🔄 **Revisión** | Repaso de un test completado (con o sin filtro de fallos). |
-| 🎲 **Aleatorio** | Selecciona N preguntas de toda la base o filtradas por tema/origen. |
 
 *Desarrollado con ❤️ y código limpio para dar el salto a la codiciada plaza blanca.*
