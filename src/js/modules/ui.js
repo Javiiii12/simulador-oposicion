@@ -127,10 +127,16 @@ export function renderizarRecordsMenu() {
         if (btn) {
             btn.classList.add('card-has-record');
             
+            // Determinar icono según nota
+            let icon = '❌';
+            if (score >= 9) icon = '🏆';
+            else if (score >= 7) icon = '🎖️';
+            else if (score >= 5) icon = '✅';
+
             // Inyectar badge discreto
             const badge = document.createElement('span');
             badge.className = 'badge-record';
-            badge.innerHTML = `✅ 🏆 ${score.toFixed(1)}`;
+            badge.innerHTML = `${icon} 🏆 ${score.toFixed(1)}`;
             btn.appendChild(badge);
         }
     });

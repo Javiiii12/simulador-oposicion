@@ -145,3 +145,10 @@ export function saveRecord(testId, score) {
     }
     return false;
 }
+
+/**
+ * Borra todos los récords de localStorage.
+ */
+export function clearRecords() {
+    localStorage.removeItem(KEYS.RECORDS);
+}

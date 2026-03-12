@@ -188,6 +188,13 @@ function setupEventListeners() {
     document.getElementById('btn-clear-history').addEventListener('click', () => {
         if (confirm('¿Borrar todo el historial?')) { Storage.clearHistory(); showProgress(); }
     });
+    document.getElementById('btn-clear-records').addEventListener('click', () => {
+        if (confirm('¿Estás seguro de que quieres borrar todos tus récords y medallas? Esta acción no se puede deshacer.')) {
+            Storage.clearRecords();
+            UI.renderizarRecordsMenu();
+            alert('¡Progreso limpiado correctamente!');
+        }
+    });
 
     // ── Game controls ──
     document.getElementById('btn-quit-game').addEventListener('click', () => {
