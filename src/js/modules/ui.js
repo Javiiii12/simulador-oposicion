@@ -133,9 +133,10 @@ export function renderizarRecordsMenu() {
             else if (score >= 7) icon = '🎖️';
             else if (score >= 5) icon = '✅';
 
-            // Inyectar badge discreto
+            // Inyectar badge discreto (Sello de completado)
             const badge = document.createElement('span');
             badge.className = 'badge-record';
+            // Formato: Icono dinámico + Trofeo fijo + Nota
             badge.innerHTML = `${icon} 🏆 ${score.toFixed(1)}`;
             btn.appendChild(badge);
         }

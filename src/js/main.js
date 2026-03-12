@@ -200,8 +200,8 @@ function setupEventListeners() {
     document.getElementById('btn-quit-game').addEventListener('click', () => {
         if (confirm('¿Salir al menú? Tu test actual quedará guardado automáticamente.')) {
             Game.stopTimer(); // Detener cronómetro (sin borrar el tiempo guardado)
-            checkAndInjectSessionButton(); // Refresca UI
-            UI.showView('menu');
+            if (typeof checkAndInjectSessionButton === 'function') checkAndInjectSessionButton(); // Refresca UI
+            UI.goBack(); 
         }
     });
     document.getElementById('btn-next').addEventListener('click', () => Game.nextQuestion());
