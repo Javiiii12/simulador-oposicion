@@ -230,8 +230,15 @@ function setupEventListeners() {
             checkAndInjectSessionButton(); // Al llegar a results se ha borrado storage, así que limpiará el botón
             UI.renderizarRecordsMenu();
             UI.renderizarProgresoGlobal();
-            UI.renderizarProgresoExamenes(); // <-- NUEVO
+            UI.renderizarProgresoExamenes();
             UI.showView('menu');
+        });
+    document.getElementById('btn-back-selection')
+        .addEventListener('click', () => {
+            UI.renderizarRecordsMenu();
+            UI.renderizarProgresoGlobal();
+            UI.renderizarProgresoExamenes();
+            UI.showView(state.lastViewBeforeMode || 'topics');
         });
     document.getElementById('btn-retry').addEventListener('click', () => {
         if (state.pendingGameGenerator) triggerGameStart(state.originalMode || 'training');

@@ -63,6 +63,22 @@ export function showView(viewName, addToHistory = true) {
     if (viewName === 'examsMenu') {
         renderizarProgresoExamenes();
     }
+    if (viewName === 'topics') {
+        // Al volver a temas, refrescar todos los progress bars que haya en el contenedor
+        document.querySelectorAll('#topics-container .btn-topic').forEach(btn => {
+            const testId = btn.getAttribute('data-testid');
+            if (testId) {
+                // El filtro es complejo de recuperar, así que usamos la lógica de slugify
+                // Para temas base, q.tema.startsWith(baseTema). 
+                // Para chunks, q.tema === chunkQ.
+                // En topics.js ya inyectamos el progreso. Aquí solo queremos que se ACTUALICE.
+                // Para simplificar, si el botón tiene data-testid, renderizarProgresoEnCard lo puede manejar
+                // si le pasamos un filtro genérico basado en el testId.
+                // Pero es mejor que la propia función renderizarProgresoEnCard lo detecte.
+                renderizarProgresoEnCard(btn, null); 
+            }
+        });
+    }
 
     window.scrollTo(0, 0);
 }
@@ -204,7 +220,19 @@ export function renderizarProgresoEnCard(element, questionsFilter) {
     const oldWrap = element.querySelector('.global-progress-wrapper');
     if (oldWrap) oldWrap.remove();
 
-    const filteredQs = allQuestions.filter(questionsFilter);
+    let filteredQs = [];
+    if (questionsFilter) {
+        filteredQs = allQuestions.filter(questionsFilter);
+    } else {
+        // Intentar inferir filtro del testId (útil para refrescos al volver de resultados)
+        const testId = element.getAttribute('data-testid') || (element.id && element.id.replace('btn-topic-', ''));
+        if (testId) {
+            // Buscamos preguntas que coincidan con este testId (aproximación por tema)
+            // Esto es necesario para que al "Volver a Selección" se actualice la barra
+            filteredQs = allQuestions.filter(q => slugify(q.tema).includes(testId) || slugify(q.origen).includes(testId));
+        }
+    }
+
     if (filteredQs.length === 0) return;
 
     // Temas únicos en este subconjunto
