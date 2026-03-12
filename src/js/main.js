@@ -44,6 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 UI.updateFailureBadge(Storage.getFailedIds().length);
                 UI.renderizarRecordsMenu();
+                UI.renderizarProgresoGlobal(); // <-- NUEVO
                 setupEventListeners();
                 showRoleSelection();
             });
@@ -175,6 +176,14 @@ function setupEventListeners() {
     document.getElementById('btn-mode-exam')
         .addEventListener('click', () => triggerGameStart('exam'));
 
+    // ── Timer Toggle ──
+    const toggleTimer = document.getElementById('toggle-timer');
+    if (toggleTimer) {
+        toggleTimer.addEventListener('change', (e) => {
+            state.timerEnabled = e.target.checked;
+        });
+    }
+
     // ── Random config ──
     document.getElementById('btn-back-random')
         .addEventListener('click', () => UI.goBack());
@@ -216,6 +225,7 @@ function setupEventListeners() {
         .addEventListener('click', () => {
             checkAndInjectSessionButton(); // Al llegar a results se ha borrado storage, así que limpiará el botón
             UI.renderizarRecordsMenu();
+            UI.renderizarProgresoGlobal(); // <-- NUEVO
             UI.showView('menu');
         });
     document.getElementById('btn-retry').addEventListener('click', () => {

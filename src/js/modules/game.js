@@ -23,10 +23,17 @@ function formatTime(secs) {
 function updateTimerUI() {
     const el = document.getElementById('game-timer');
     if (!el) return;
-    const secs = state.timeRemaining;
-    el.textContent = `⏱️ ${formatTime(secs)}`;
-    el.classList.toggle('warning', secs > 0 && secs <= 300);  // ≤ 5 min
-    el.classList.toggle('urgent',  secs > 0 && secs <= 60);   // ≤ 1 min
+
+    if (state.timerEnabled) {
+        const secs = state.timeRemaining;
+        el.textContent = `⏱️ ${formatTime(secs)}`;
+        el.classList.toggle('warning', secs > 0 && secs <= 300);  // ≤ 5 min
+        el.classList.toggle('urgent',  secs > 0 && secs <= 60);   // ≤ 1 min
+    } else {
+        const secs = state.timeElapsed || 0;
+        el.textContent = `⏱️ ${formatTime(secs)}`;
+        el.classList.remove('warning', 'urgent');
+    }
 }
 
 /**
@@ -42,15 +49,25 @@ export function startTimer(seconds) {
     updateTimerUI();
 
     state.timerInterval = setInterval(() => {
-        state.timeRemaining--;
-        updateTimerUI();
-        saveCurrentSession(); // Persistir tiempo restante en cada tick
-
-        if (state.timeRemaining <= 0) {
-            stopTimer();
-            alert('⏰ ¡Tiempo agotado! El examen se ha finalizado automáticamente.');
-            finishGame();
+        // Only decrement if timer is enabled
+        if (state.timerEnabled) {
+            state.timeRemaining--;
+            updateTimerUI();
+            
+            if (state.timeRemaining <= 0) {
+                stopTimer();
+                alert('⏰ ¡Tiempo agotado! El examen se ha finalizado automáticamente.');
+                finishGame();
+            }
+        } else {
+            // If disabled, we could count UP (optional) or just do nothing.
+            // Requirement says "clock doesn't appear or counts up without limit".
+            // Let's count up for review/informational purposes if enabled.
+            state.timeElapsed = (state.timeElapsed || 0) + 1;
+            updateTimerUI();
         }
+        
+        saveCurrentSession(); // Persistir tiempo restante en cada tick
     }, 1000);
 }
 
@@ -102,7 +119,15 @@ export function startGame(questions, mode, topicName, testId = null) {
 
     // ── Iniciar cronómetro solo en modo Examen ──
     if (mode === 'exam') {
-        startTimer(questions.length * 60); // 1 minuto por pregunta
+        const seconds = questions.length * 60; // 1 minuto por pregunta
+        startTimer(seconds);
+        
+        // If timer is disabled, hide it or change its behavior
+        const el = document.getElementById('game-timer');
+        if (el && !state.timerEnabled) {
+            el.textContent = "⏱️ Sin límite";
+            el.classList.remove('warning', 'urgent');
+        }
     } else {
         stopTimer(); // Asegurar que no queda ningún timer activo de antes
     }

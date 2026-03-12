@@ -12,6 +12,7 @@ export function showParts(source) {
     state.currentSource = source;
     const titleEl = document.getElementById('parts-title');
     if (titleEl) titleEl.innerText = `Fuente: ${source}`;
+    renderizarProgresoGlobal();
     showView('parts');
 }
 

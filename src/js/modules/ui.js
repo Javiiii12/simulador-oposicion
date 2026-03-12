@@ -55,6 +55,12 @@ export function showView(viewName, addToHistory = true) {
     // Show the target view
     target.classList.remove('hidden');
     target.classList.add('active');
+
+    // ACTUALIZACIÓN: Renderizar progreso global si estamos en vistas que lo muestran
+    if (viewName === 'menu' || viewName === 'parts') {
+        renderizarProgresoGlobal();
+    }
+
     window.scrollTo(0, 0);
 }
 
@@ -136,8 +142,8 @@ export function renderizarRecordsMenu() {
             // Inyectar badge discreto (Sello de completado)
             const badge = document.createElement('span');
             badge.className = 'badge-record';
-            // Formato: Icono dinámico + Trofeo fijo + Nota
-            badge.innerHTML = `${icon} 🏆 ${score.toFixed(1)}`;
+            // NUEVO FORMATO: ✅ Completado | 🏆 8.5
+            badge.innerHTML = `${icon} <span style="margin-left:2px;">Completado</span> <span style="margin:0 4px; opacity:0.5;">|</span> 🏆 ${score.toFixed(1)}`;
             btn.appendChild(badge);
         }
     });
@@ -151,4 +157,84 @@ export function slugify(text) {
         .replace(/--+/g, '_')
         .replace(/^-+/, '')
         .replace(/-+$/, '');
+}
+
+/**
+ * Calcula y renderiza barras de progreso en tarjetas que agrupan temas.
+ */
+export function renderizarProgresoGlobal() {
+    const records = Storage.getRecords();
+    const allQuestions = state.allQuestions;
+
+    // 1. Identificar contenedores de categorías/bloques
+    // Mapeo: ID del botón -> Filtro de temas/origen
+    const categories = [
+        { id: 'btn-source-mad', filter: q => q.origen === 'MAD' },
+        { id: 'btn-source-csif', filter: q => q.origen === 'CSIF' },
+        { id: 'btn-source-academia', filter: q => q.origen === 'Academia' },
+        { id: 'btn-part-general', filter: q => {
+            const m = q.tema && q.tema.match(/tema\s+(\d+)/i);
+            return m && parseInt(m[1]) >= 1 && parseInt(m[1]) <= 6;
+        }},
+        { id: 'btn-part-especifica', filter: q => {
+            const m = q.tema && q.tema.match(/tema\s+(\d+)/i);
+            return m && parseInt(m[1]) >= 7 && parseInt(m[1]) <= 16;
+        }}
+    ];
+
+    categories.forEach(cat => {
+        const btn = document.getElementById(cat.id);
+        if (!btn) return;
+
+        // Limpiar progreso previo si existe
+        const oldWrap = btn.querySelector('.global-progress-wrapper');
+        if (oldWrap) oldWrap.remove();
+
+        const catQuestions = allQuestions.filter(cat.filter);
+        if (catQuestions.length === 0) return;
+
+        // Obtener temas únicos dentro de esta categoría
+        const uniqueTemas = [...new Set(catQuestions.map(q => {
+            const m = q.tema && q.tema.match(/(Tema \d+)/i);
+            return m ? m[1] : q.tema;
+        }))].filter(t => t && !t.startsWith('Examen'));
+
+        // Calcular cuántos de estos temas tienen algún récord > 0
+        let completedCount = 0;
+        let totalScore = 0;
+        let countWithScore = 0;
+
+        // Para cada tema base, buscamos si hay algún récord guardado que empiece por ese slug
+        uniqueTemas.forEach(baseTema => {
+            // Nota: Aquí asumimos que el testId empieza por "fuente_temaX"
+            // Buscamos en records cualquier key que contenga este tema
+            // Es una aproximación, lo ideal sería tener un mapeo más estricto
+            const themeSlug = slugify(baseTema);
+            const relatedRecords = Object.keys(records).filter(k => k.includes(themeSlug));
+            
+            if (relatedRecords.length > 0) {
+                completedCount++;
+                const maxInTheme = Math.max(...relatedRecords.map(k => records[k]));
+                totalScore += maxInTheme;
+                countWithScore++;
+            }
+        });
+
+        const pct = uniqueTemas.length > 0 ? Math.round((completedCount / uniqueTemas.length) * 100) : 0;
+        const avg = countWithScore > 0 ? (totalScore / countWithScore).toFixed(1) : "0.0";
+
+        // Inyectar UI
+        const wrapper = document.createElement('div');
+        wrapper.className = 'global-progress-wrapper';
+        wrapper.innerHTML = `
+            <div class="global-progress-info">
+                <span>Progreso: ${pct}%</span>
+                <span>Media: ${avg}</span>
+            </div>
+            <div class="global-progress-bar-bg">
+                <div class="global-progress-bar-fill" style="width: ${pct}%"></div>
+            </div>
+        `;
+        btn.appendChild(wrapper);
+    });
 }
