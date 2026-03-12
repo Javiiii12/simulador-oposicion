@@ -132,20 +132,24 @@ function setupEventListeners() {
     document.getElementById('btn-back-exams')
         .addEventListener('click', () => UI.goBack());
     // Exámenes específicos
-    document.getElementById('btn-2024-cel').addEventListener('click', () => {
+    const btn2024 = document.getElementById('btn-topic-ope_2024_cel');
+    if (btn2024) btn2024.addEventListener('click', () => {
         const qs = state.allQuestions.filter(q => q.tema === 'Examen Oficial Celador/a SESCAM 2024');
         if (!qs.length) return alert('Examen no cargado.');
         Topics.prepareModeSelection('Examen Celador SESCAM 2024', () => qs, 'ope_2024_cel');
     });
 
-    document.getElementById('btn-2020-ord').addEventListener('click', () => {
+    const btn2020Ord = document.getElementById('btn-topic-ope_2020_ord');
+    if (btn2020Ord) btn2020Ord.addEventListener('click', () => {
         const qs = state.allQuestions
             .filter(q => q.tema === 'Examen 2020 (Ordinario)')
             .sort((a, b) => (parseInt(a.id?.split('_')[1]) || 0) - (parseInt(b.id?.split('_')[1]) || 0));
         if (!qs.length) return alert('Examen no cargado.');
         Topics.prepareModeSelection('Examen OPE 2020 (Ordinario)', () => qs, 'ope_2020_ord');
     });
-    document.getElementById('btn-2020-extra').addEventListener('click', () => {
+
+    const btn2020Extra = document.getElementById('btn-topic-ope_2020_extra');
+    if (btn2020Extra) btn2020Extra.addEventListener('click', () => {
         const qs = state.allQuestions
             .filter(q => q.tema === 'Examen 2020 (Extraordinario)')
             .sort((a, b) => (parseInt(a.id?.split('_')[1]) || 0) - (parseInt(b.id?.split('_')[1]) || 0));
