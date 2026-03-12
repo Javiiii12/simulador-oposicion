@@ -45,9 +45,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 UI.updateFailureBadge(Storage.getFailedIds().length);
                 UI.renderizarRecordsMenu();
                 UI.renderizarProgresoGlobal();
-                UI.renderizarProgresoExamenes(); // <-- NUEVO
+                UI.renderizarProgresoExamenes();
                 setupEventListeners();
-                showRoleSelection();
+                UI.showView('roleSelection', false); // Usar el sistema de navegación real
             });
         }
     });
@@ -55,14 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // ── Helpers ────────────────────────────────────────────────────────────────
 
-function showRoleSelection() {
-    document.querySelectorAll('.view').forEach(v => {
-        v.classList.remove('active');
-        v.classList.add('hidden');
-    });
-    const v = document.getElementById('view-role-selection');
-    if (v) { v.classList.remove('hidden'); v.classList.add('active'); }
-}
+// showRoleSelection borrado por redundancia con UI.showView('roleSelection')
 
 // ── Event Listeners ────────────────────────────────────────────────────────
 
@@ -227,11 +220,11 @@ function setupEventListeners() {
     // ── Results ──
     document.getElementById('btn-home-results')
         .addEventListener('click', () => {
-            checkAndInjectSessionButton(); // Al llegar a results se ha borrado storage, así que limpiará el botón
+            checkAndInjectSessionButton();
             UI.renderizarRecordsMenu();
             UI.renderizarProgresoGlobal();
             UI.renderizarProgresoExamenes();
-            UI.showView('menu');
+            UI.showView('menu'); // Esto limpiará el historial si fuera necesario o se manejará en ui.js
         });
     document.getElementById('btn-back-selection')
         .addEventListener('click', () => {

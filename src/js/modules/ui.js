@@ -32,12 +32,15 @@ export function showView(viewName, addToHistory = true) {
         return;
     }
 
-    // Capture current view before switching if adding to history
-    if (addToHistory) {
+    // ── GESTIÓN DE HISTORIAL ──
+    if (viewName === 'roleSelection') {
+        state.viewHistory = []; // Reset total al volver a la raíz
+    } else if (addToHistory) {
         const currentActive = Object.values(VIEW_IDS).find(id => {
             const el = document.getElementById(id);
             return el && el.classList.contains('active');
         });
+        // Solo guardamos si es una vista distinta para evitar bucles
         if (currentActive && currentActive !== targetId) {
             state.viewHistory.push(currentActive);
         }
@@ -93,8 +96,8 @@ export function goBack() {
         const viewKey = Object.keys(VIEW_IDS).find(key => VIEW_IDS[key] === prevViewId) || prevViewId;
         showView(viewKey, false);
     } else {
-        // Fallback safety
-        showView('menu');
+        // Fallback: Si no hay historial, volver a la selección de rol
+        showView('roleSelection', false);
     }
 }
 
