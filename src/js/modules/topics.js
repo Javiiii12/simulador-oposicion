@@ -145,7 +145,7 @@ function createBaseTopicButton(baseTema, questionsSubset) {
     btn.className = 'btn-topic';
     btn.id = `btn-topic-${testId}`;
     btn.setAttribute('data-testid', testId); 
-    btn.setAttribute('data-aggregate', 'true'); // AGGREGATE
+    btn.setAttribute('data-aggregate', temaQ.length > 20 || hasBlocks ? 'true' : 'false'); 
     btn.innerHTML = `
         <strong>${baseTema}</strong>
         <span class="topic-title-sub">${titulo}</span>
@@ -239,7 +239,7 @@ function showBlocksMenu(baseTema, subTemas, temaQ) {
         btn.className = 'btn-topic';
         btn.id = `btn-topic-${testIdSub}`;
         btn.setAttribute('data-testid', testIdSub); 
-        btn.setAttribute('data-aggregate', 'false'); // ATOMIC
+        btn.setAttribute('data-aggregate', chunkQ.length > 20 ? 'true' : 'false'); 
         btn.innerHTML = `<strong>${displayTitle}</strong><small>${qCount} preguntas</small>`;
         btn.addEventListener('click', () => {
             if (chunkQ.length > 20) {

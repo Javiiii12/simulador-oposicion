@@ -223,7 +223,12 @@ export function renderizarProgresoEnCard(element, questionsFilter) {
     const oldWrap = element.querySelector('.global-progress-wrapper');
     if (oldWrap) oldWrap.remove();
 
-    const testId = element.getAttribute('data-testid') || (element.id && element.id.replace('btn-topic-', ''));
+    const isTopicBtn = element.id && element.id.startsWith('btn-topic-');
+    let testId = element.getAttribute('data-testid') || (isTopicBtn ? element.id.replace('btn-topic-', '') : '');
+    
+    // Ignorar testId si no tiene formato de slug (pasa en botones de nivel 1 como btn-source-mad)
+    if (testId && testId.startsWith('btn-')) testId = '';
+
     const isAggregate = element.getAttribute('data-aggregate') === 'true';
 
     // ── REGLA 1: TEST ATÓMICO (Sin herencia, sin prefijos laxos) ──
@@ -258,13 +263,47 @@ export function renderizarProgresoEnCard(element, questionsFilter) {
     
     // Filtramos los récords que pertenecen a este ámbito
     const matchingKeys = Object.keys(records).filter(k => {
-        if (!prefix) {
-            // Nivel 1 (Fuente): Filtramos por el origen de las preguntas para aislar MAD/CSIF
-            const sourcePrefix = inferSourcePrefixFromQuestions(targetQs);
-            return sourcePrefix && k.startsWith(sourcePrefix + '_');
+        // A) Si hay un prefijo definido (Nivel Tema/Bloque): Coincidencia exacta o prefijo real con delimitador
+        if (prefix) {
+            return k === prefix || k.startsWith(prefix + '_');
         }
-        // Nivel 2 (Temas/Bloques): Coincidencia exacta o prefijo real con delimitador
-        return k === prefix || k.startsWith(prefix + '_');
+
+        // B) Si NO hay prefijo (Nivel Fuente o Bloque Global Home):
+        // 1. Intentar inferir por Fuente (mad_, csif_...)
+        const sourcePrefix = inferSourcePrefixFromQuestions(targetQs);
+        
+        // Si las preguntas pertenecen a una sola fuente, usamos ese prefijo
+        if (sourcePrefix) {
+            // Pero CUIDADO: si es un bloque global (General), solo queremos los temas 1-6 de esa fuente
+            const isGeneral = element.id === 'btn-part-general';
+            const isEspecifica = element.id === 'btn-part-especifica';
+            
+            if (isGeneral || isEspecifica) {
+                // Comprobamos si la clave k contiene un tema que entra en el rango
+                const temaMatch = k.match(/tema_(\d+)/i);
+                if (temaMatch) {
+                    const n = parseInt(temaMatch[1]);
+                    if (isGeneral && n >= 1 && n <= 6) return k.startsWith(sourcePrefix + '_');
+                    if (isEspecifica && n >= 7 && n <= 16) return k.startsWith(sourcePrefix + '_');
+                }
+                return false;
+            }
+            return k.startsWith(sourcePrefix + '_');
+        }
+
+        // 2. Si es un bloque global multifuente (General Home)
+        const isGeneralGlobal = element.id === 'btn-part-general';
+        const isEspecificaGlobal = element.id === 'btn-part-especifica';
+        if (isGeneralGlobal || isEspecificaGlobal) {
+            const temaMatch = k.match(/tema_(\d+)/i);
+            if (temaMatch) {
+                const n = parseInt(temaMatch[1]);
+                if (isGeneralGlobal) return n >= 1 && n <= 6;
+                if (isEspecificaGlobal) return n >= 7 && n <= 16;
+            }
+        }
+
+        return false;
     });
 
     if (totalAtomicTests > 0) {
