@@ -23,6 +23,8 @@ document.addEventListener('DOMContentLoaded', () => {
         onDenied: (msg) => {
             const titleEl = document.getElementById('access-title');
             const msgEl = document.getElementById('access-msg');
+            const overlay = document.getElementById('access-overlay');
+            if (overlay) overlay.classList.remove('hidden'); // Ensure it's visible on denial
             if (titleEl) { titleEl.innerText = 'Acceso Denegado'; titleEl.style.color = 'red'; }
             if (msgEl) msgEl.innerText = msg;
         },

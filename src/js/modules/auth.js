@@ -70,18 +70,21 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         const shortId = deviceId.substring(0, 10);
         let currentDevices = data.dispositivos_usados || 0;
 
+        // VERIFICACIÓN ESTRICTA: ¿Este dispositivo ya está registrado para ESTE usuario?
         const registeredDeviceId = localStorage.getItem('ope_reg_v2_' + exactId);
         let isRegisteredForThisUser = (registeredDeviceId === deviceId);
 
         if (currentDevices === 0) {
-            // Database reset: force claim a new slot
+            // Si la DB dice 0, forzamos registro aunque haya basura en localStorage
             isRegisteredForThisUser = false;
         }
 
         let needsIncrement = false;
 
         if (!isRegisteredForThisUser) {
+            // El dispositivo es NUEVO para este usuario
             if (currentDevices >= MAX_DEVICES) {
+                console.warn(`Bloqueo: ${exactId} intentando usar 3er dispositivo. (Actual: ${currentDevices})`);
                 onDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
                 Storage.clearUser();
                 return;
@@ -99,17 +102,13 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
 
             if (updateError) {
                 console.error('Error al actualizar dispositivos_usados:', updateError);
+                onDenied("Error al sincronizar tu dispositivo. Inténtalo de nuevo.");
+                return;
             } else if (!updateData || updateData.length === 0) {
-                console.warn(`Advertencia: No se encontró la fila para '${exactId}' durante la actualización.`);
-                // Log negative result
-                try {
-                    await state.supabaseClient.from(CONFIG.TABLE_LOGS).insert([{
-                        status: 'warning',
-                        device_info: `Sync Fail: ${exactId} no encontrado al subir a ${currentDevices}. (Check Table Names)`
-                    }]);
-                } catch(e){}
+                onDenied("Error de integridad de datos. Contacta con soporte.");
+                return;
             } else {
-                console.log(`Dispositivo sincronizado. Total: ${currentDevices}/${MAX_DEVICES}`);
+                console.log(`Nuevo dispositivo registrado: ${currentDevices}/${MAX_DEVICES}`);
                 localStorage.setItem('ope_reg_v2_' + exactId, deviceId);
             }
         }
