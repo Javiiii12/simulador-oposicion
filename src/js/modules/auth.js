@@ -79,32 +79,59 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
 
         let needsIncrement = !isRegisteredLocally;
 
+        // --- LÓGICA DE AUTO-RECUPERACIÓN (Self-Healing) ---
+        // Si el dispositivo cree que está registrado pero la DB dice 1, 
+        // comprobamos si el ÚLTIMO log exitoso era de un dispositivo DISTINTO.
+        if (isRegisteredLocally && currentDBCount < MAX_DEVICES) {
+            try {
+                const { data: lastLogs } = await state.supabaseClient
+                    .from(CONFIG.TABLE_LOGS)
+                    .select('device_info')
+                    .ilike('device_info', `%(${exactId})%`)
+                    .order('created_at', { ascending: false })
+                    .limit(1);
+
+                if (lastLogs && lastLogs.length > 0) {
+                    const lastInfo = lastLogs[0].device_info || '';
+                    // Extraer shortId del log (está al final tras el último " — ")
+                    const lastDevId = lastInfo.split(' — ').pop().trim();
+                    
+                    if (lastDevId && lastDevId !== shortId) {
+                        console.log(`[AUTH] Swich de dispositivo detectado (${lastDevId} -> ${shortId}). Reparando contador...`);
+                        needsIncrement = true;
+                    }
+                }
+            } catch (e) {
+                console.warn('[AUTH] Error en self-healing check:', e);
+            }
+        }
+
         if (needsIncrement) {
-            if (currentDBCount >= MAX_DEVICES) {
+            if (currentDBCount >= MAX_DEVICES && !isRegisteredLocally) {
+                // Solo bloqueamos si el dispositivo es REALMENTE nuevo (no registrado localmente)
+                // y ya hemos alcanzado el límite.
                 console.warn(`[AUTH] Bloqueo: ${exactId} Supera límite (${currentDBCount}/${MAX_DEVICES}). Dev: ${shortId}`);
                 onDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
                 Storage.clearUser();
                 return;
             }
             
-            // Proceder a incrementar
-            const newCount = currentDBCount + 1;
-            const { data: updateData, error: updateError } = await state.supabaseClient
-                .from(CONFIG.TABLE_USERS)
-                .update({ dispositivos_usados: newCount })
-                .eq('id_acceso', exactId)
-                .select();
+            // Proceder a incrementar (solo si estamos por debajo del límite o si es una reparación)
+            if (currentDBCount < MAX_DEVICES) {
+                const newCount = currentDBCount + 1;
+                const { data: updateData, error: updateError } = await state.supabaseClient
+                    .from(CONFIG.TABLE_USERS)
+                    .update({ dispositivos_usados: newCount })
+                    .eq('id_acceso', exactId)
+                    .select();
 
-            if (updateError) {
-                console.error('[AUTH] Error Update:', updateError);
-                onDenied("Error al sincronizar tu dispositivo. Inténtalo de nuevo.");
-                return;
-            }
-            
-            if (updateData && updateData.length > 0) {
-                currentDBCount = updateData[0].dispositivos_usados;
-                localStorage.setItem('ope_reg_v2_' + exactId, deviceId);
-                console.log(`[AUTH] Registro exitoso: ${currentDBCount}/${MAX_DEVICES}`);
+                if (updateError) {
+                    console.error('[AUTH] Error Update:', updateError);
+                } else if (updateData && updateData.length > 0) {
+                    currentDBCount = updateData[0].dispositivos_usados;
+                    localStorage.setItem('ope_reg_v2_' + exactId, deviceId);
+                    console.log(`[AUTH] DB Reparada/Incrementada: ${currentDBCount}/${MAX_DEVICES}`);
+                }
             }
         }
 
