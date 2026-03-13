@@ -68,66 +68,59 @@ async function validateUserAccess(userId, { onSuccess, onDenied }) {
         // Keep local ID just for diagnostics/logs
         const { id: deviceId } = Storage.getOrCreateDeviceId();
         const shortId = deviceId.substring(0, 10);
-        let currentDevices = data.dispositivos_usados || 0;
+        let currentDBCount = data.dispositivos_usados || 0;
 
-        // VERIFICACIÓN ESTRICTA: ¿Este dispositivo ya está registrado para ESTE usuario?
+        // VERIFICACIÓN ESTRICTA
         const registeredDeviceId = localStorage.getItem('ope_reg_v2_' + exactId);
-        let isRegisteredForThisUser = (registeredDeviceId === deviceId);
+        let isRegisteredLocally = (registeredDeviceId === deviceId);
 
-        if (currentDevices === 0) {
-            // Si la DB dice 0, forzamos registro aunque haya basura en localStorage
-            isRegisteredForThisUser = false;
-        }
+        // Sanity check: si la DB dice 0, el local no puede ser válido
+        if (currentDBCount === 0) isRegisteredLocally = false;
 
-        let needsIncrement = false;
+        let needsIncrement = !isRegisteredLocally;
 
-        if (!isRegisteredForThisUser) {
-            // El dispositivo es NUEVO para este usuario
-            if (currentDevices >= MAX_DEVICES) {
-                console.warn(`Bloqueo: ${exactId} intentando usar 3er dispositivo. (Actual: ${currentDevices})`);
+        if (needsIncrement) {
+            if (currentDBCount >= MAX_DEVICES) {
+                console.warn(`[AUTH] Bloqueo: ${exactId} Supera límite (${currentDBCount}/${MAX_DEVICES}). Dev: ${shortId}`);
                 onDenied(`Acceso denegado. Esta licencia ya ha alcanzado el límite máximo de ${MAX_DEVICES} dispositivos permitidos.`);
                 Storage.clearUser();
                 return;
             }
-            needsIncrement = true;
-        }
-
-        if (needsIncrement) {
-            currentDevices++;
+            
+            // Proceder a incrementar
+            const newCount = currentDBCount + 1;
             const { data: updateData, error: updateError } = await state.supabaseClient
                 .from(CONFIG.TABLE_USERS)
-                .update({ dispositivos_usados: currentDevices })
+                .update({ dispositivos_usados: newCount })
                 .eq('id_acceso', exactId)
                 .select();
 
             if (updateError) {
-                console.error('Error al actualizar dispositivos_usados:', updateError);
+                console.error('[AUTH] Error Update:', updateError);
                 onDenied("Error al sincronizar tu dispositivo. Inténtalo de nuevo.");
                 return;
-            } else if (!updateData || updateData.length === 0) {
-                onDenied("Error de integridad de datos. Contacta con soporte.");
-                return;
-            } else {
-                console.log(`Nuevo dispositivo registrado: ${currentDevices}/${MAX_DEVICES}`);
+            }
+            
+            if (updateData && updateData.length > 0) {
+                currentDBCount = updateData[0].dispositivos_usados;
                 localStorage.setItem('ope_reg_v2_' + exactId, deviceId);
+                console.log(`[AUTH] Registro exitoso: ${currentDBCount}/${MAX_DEVICES}`);
             }
         }
 
-        // Log access with hardware ID and debug traces
+        // Log Final en Supabase
         try {
-            const rawDB = data.dispositivos_usados || 0;
-            const regFlag = isRegisteredForThisUser ? 'Y' : 'N';
-            const ver = CONFIG.APP_VERSION.split(' ')[0]; // e.g. v1.15.6
-            const trace = `${ver} [DB:${rawDB},Reg:${regFlag},Inc:${needsIncrement ? 'Y' : 'N'}]`;
+            const regStatus = isRegisteredLocally ? 'Old' : 'NEW';
+            const trace = `V:${CONFIG.APP_VERSION.split(' ')[0]} [DB:${data.dispositivos_usados},Reg:${regStatus},Inc:${needsIncrement?'Y':'N'}]`;
             
             await state.supabaseClient.from(CONFIG.TABLE_LOGS).insert([{
                 created_at: new Date().toISOString(),
                 status: 'success',
-                device_info: `${data.nombre} (${data.id_acceso}) — ${currentDevices}/${MAX_DEVICES} — ${trace} — ${shortId}`
+                device_info: `${data.nombre} (${data.id_acceso}) — ${currentDBCount}/${MAX_DEVICES} — ${trace} — ${shortId}`
             }]);
-        } catch (e) { console.warn('Log access error:', e); }
+        } catch (e) { console.warn('Log error:', e); }
 
-        onSuccess(data, currentDevices, MAX_DEVICES);
+        onSuccess(data, currentDBCount, MAX_DEVICES);
 
     } catch (err) {
         console.error("validateUserAccess error:", err);
