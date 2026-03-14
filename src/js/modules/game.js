@@ -90,12 +90,13 @@ export function stopTimer() {
 
 /**
  * Start a game session.
- * @param {Array}  questions  The question set to play.
- * @param {string} mode       'training' | 'exam' | 'failures' | 'review'
- * @param {string} topicName  Display name for the session.
- * @param {string} testId     Unique ID for records.
+ * @param {Array}  questions     The question set to play.
+ * @param {string} mode          'training' | 'exam' | 'failures' | 'review'
+ * @param {string} topicName     Display name for the session.
+ * @param {string} testId        Unique ID for records.
+ * @param {number} customSeconds Optional custom time in seconds.
  */
-export function startGame(questions, mode, topicName, testId = null) {
+export function startGame(questions, mode, topicName, testId = null, customSeconds = null) {
     if (!questions || questions.length === 0) {
         alert('No hay preguntas para iniciar este test.');
         return;
@@ -119,7 +120,7 @@ export function startGame(questions, mode, topicName, testId = null) {
 
     // ── Iniciar cronómetro solo en modo Examen ──
     if (mode === 'exam') {
-        const seconds = questions.length * 60; // 1 minuto por pregunta
+        const seconds = customSeconds || (questions.length * 60); // 1 minuto por pregunta si no se indica
         startTimer(seconds);
         
         // If timer is disabled, hide it or change its behavior
@@ -129,7 +130,7 @@ export function startGame(questions, mode, topicName, testId = null) {
             el.classList.remove('warning', 'urgent');
         }
     } else {
-        stopTimer(); // Asegurar que no queda ningún timer activo de antes
+        stopTimer();
     }
 
     showView('game');

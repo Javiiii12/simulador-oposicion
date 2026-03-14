@@ -199,8 +199,30 @@ function setupEventListeners() {
     document.getElementById('btn-back-random')
         .addEventListener('click', () => UI.goBack());
     document.getElementById('btn-start-random').addEventListener('click', startRandom);
-    const selectMix = document.getElementById('select-mix-type');
-    if (selectMix) selectMix.addEventListener('change', onMixTypeChange);
+
+    // Click en Segmentos (Delegación)
+    document.querySelectorAll('.segmented-control').forEach(container => {
+        container.addEventListener('click', (e) => {
+            const btn = e.target.closest('.segment');
+            if (!btn) return;
+            
+            // Activar visualmente
+            container.querySelectorAll('.segment').forEach(s => s.classList.remove('active'));
+            btn.classList.add('active');
+
+            // Lógica específica para Cronómetro
+            if (container.id === 'list-timer-mode') {
+                UI.toggleEl('timer-minutes-selector', btn.dataset.value === 'on');
+            }
+        });
+    });
+
+    // Click en Tarjetas de Fuente
+    document.querySelectorAll('.source-card').forEach(card => {
+        card.addEventListener('click', () => {
+            card.classList.toggle('active');
+        });
+    });
 
     // ── Progress ──
     document.getElementById('btn-back-progress')
@@ -301,79 +323,72 @@ function triggerGameStart(mode) {
 }
 
 function initRandomView() {
-    const selectMix = document.getElementById('select-mix-type');
-    if (selectMix) {
-        selectMix.value = 'general';
-        // Ensure listener is attached (initially or if re-init)
-        selectMix.onchange = onMixTypeChange;
-        onMixTypeChange({ target: selectMix });
-    }
-    const selTema = document.getElementById('select-tema-num');
-    if (selTema && selTema.options.length === 0) {
-        for (let i = 1; i <= 16; i++) {
-            const opt = document.createElement('option');
-            opt.value = `Tema ${i}`; opt.text = `Tema ${i}`;
-            selTema.appendChild(opt);
-        }
-    }
-    const countInput = document.getElementById('random-count');
-    if (countInput) countInput.value = 20;
-}
-
-function onMixTypeChange(e) {
-    UI.toggleEl('filter-group-origen', e.target.value === 'origen');
-    UI.toggleEl('filter-group-oficial', e.target.value === 'oficial');
-    UI.toggleEl('filter-group-tema', e.target.value === 'tema');
+    // Resetear a valores por defecto si fuera necesario
+    const segments = document.querySelectorAll('.segment[data-value="20"], .segment[data-value="off"], .segment[data-value="mix"]');
+    segments.forEach(s => s.classList.add('active'));
 }
 
 function startRandom() {
-    const count = Math.min(100, Math.max(1, parseInt(document.getElementById('random-count').value) || 20));
-    const mixType = document.getElementById('select-mix-type').value;
-    let pool = [], desc = '';
+    // 1. Obtener cantidad
+    const countBtn = document.querySelector('#list-random-count .segment.active');
+    const count = parseInt(countBtn ? countBtn.dataset.value : 20);
 
-    console.log(`Random mode init: mix=${mixType}, count=${count}, total_data=${state.allQuestions.length}`);
+    // 2. Obtener Timer
+    const timerModeBtn = document.querySelector('#list-timer-mode .segment.active');
+    const timerOn = timerModeBtn && timerModeBtn.dataset.value === 'on';
+    const timerMins = parseInt(document.getElementById('select-random-time').value) || 15;
 
-    if (mixType === 'general') {
-        pool = state.allQuestions; desc = 'General Total';
-    } else if (mixType === 'origen') {
-        const val = document.getElementById('select-origen').value;
-        pool = state.allQuestions.filter(q => q.origen === val);
-        desc = val;
-    } else if (mixType === 'oficial') {
-        const val = document.getElementById('select-oficial').value;
-        if (val === 'todos') {
-            pool = state.allQuestions.filter(q => q.origen === 'Historico');
-        } else if (val === 'SESCAM') {
-            pool = state.allQuestions.filter(q => q.origen === 'Historico' && q.tema && q.tema.includes('SESCAM'));
-        } else {
-            pool = state.allQuestions.filter(q => q.origen === 'Historico' && q.tema && !q.tema.includes('SESCAM'));
-        }
-        desc = `Oficial: ${val}`;
-    } else if (mixType === 'tema') {
-        const temaVal = document.getElementById('select-tema-num').value; // e.g. "Tema 1"
-        const fuenteVal = document.getElementById('select-tema-fuente').value; // e.g. "CSIF", "MAD", "Academia", "todas"
+    // 3. Obtener Fuentes activas
+    const activeSources = Array.from(document.querySelectorAll('.source-card.active'))
+                               .map(c => c.dataset.source);
 
-        pool = state.allQuestions.filter(q => {
-            if (!q.tema) return false;
-            // Robust match: "Tema 1: ..." or exactly "Tema 1"
-            const matchesTema = q.tema.startsWith(temaVal + ':') || q.tema.startsWith(temaVal + ' ') || q.tema === temaVal;
-            if (!matchesTema) return false;
+    // 4. Obtener Filtro Temario
+    const scopeBtn = document.querySelector('#list-random-scope .segment.active');
+    const scope = scopeBtn ? scopeBtn.dataset.value : 'mix'; // general, especifica, mix
 
-            if (fuenteVal !== 'todas') {
-                return q.origen === fuenteVal;
+    let pool = state.allQuestions;
+
+    // Filtrar por fuentes
+    if (activeSources.length > 0) {
+        pool = pool.filter(q => activeSources.includes(q.origen));
+    }
+
+    // Filtrar por temario (si q.categoria existe o derivado del Tema)
+    if (scope !== 'mix') {
+        pool = pool.filter(q => {
+            // Priority 1: Explicit categoria
+            if (q.categoria) return q.categoria.toLowerCase() === scope;
+            
+            // Priority 2: Derive from Tema title (Tema X)
+            const m = q.tema && q.tema.match(/tema\s+(\d+)/i);
+            if (m) {
+                const num = parseInt(m[1]);
+                if (scope === 'general') return num >= 1 && num <= 6;
+                if (scope === 'especifica') return num >= 7 && num <= 16;
             }
-            return true;
+            return true; // No pudimos clasificarla, la mantenemos
         });
-        desc = temaVal;
     }
 
     if (pool.length === 0) {
-        console.warn(`Random pool empty for type=${mixType}`);
-        return alert('No hay preguntas para este filtro.');
+        return alert('No hay preguntas con los filtros seleccionados.');
     }
 
+    // Mezclar y recortar
     const selected = [...pool].sort(() => 0.5 - Math.random()).slice(0, Math.min(count, pool.length));
-    Topics.prepareModeSelection(`Aleatorio: ${desc} (${selected.length} pregs)`, () => selected);
+    
+    // Iniciar directamente 🚀
+    const mode = timerOn ? 'exam' : 'training';
+    state.timerEnabled = true; // Siempre habilitamos el cronómetro (si timerOn=false actuará como count-up)
+    
+    if (timerOn) {
+        Game.startGame(selected, mode, `Test Aleatorio (${selected.length} pregs)`, null, timerMins * 60);
+    } else {
+        // En training mode / sin tiempo, simplemente empezamos sin pasar customSeconds
+        // para que Game.startGame sepa que no hay limite de cuenta atrás.
+        state.timerEnabled = false; 
+        Game.startGame(selected, mode, `Test Aleatorio (${selected.length} pregs)`);
+    }
 }
 
 

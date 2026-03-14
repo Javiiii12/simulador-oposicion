@@ -283,82 +283,85 @@
                     style="margin-top:15px; background:#ffeba7; color:#555;">Borrar Historial</button>
                 <button id="btn-clear-records" class="btn-small"
                     style="margin-top:15px; background:#ffcdd2; color:#c62828;">Limpiar Progreso</button>
-            </div>
-        </div>
-
-        <!-- VISTA: CONFIGURACIÓN ALEATORIA -->
-        <div id="view-random" class="view hidden">
             <header class="view-header">
-                <button id="btn-back-random" class="btn-icon"><svg width="24" height="24" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
-                        stroke-linejoin="round">
+                <button id="btn-back-random" class="btn-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M19 12H5M12 19l-7-7 7-7" />
-                    </svg></button>
-                <h2>Modo Aleatorio Avanzado</h2>
+                    </svg>
+                </button>
+                <h2>Modo Aleatorio Premium</h2>
             </header>
-            <div class="config-box" style="text-align: left;">
-                <label style="font-weight:bold; display:block; margin-bottom:5px;">1. Tipo de Mezcla Principal:</label>
-                <select id="select-mix-type" class="form-control"
-                    style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px; border:2px solid var(--primary);">
-                    <option value="general">🌍 General Total (Toda la base de datos)</option>
-                    <option value="origen">📚 Filtrar por Editorial (Origen)</option>
-                    <option value="oficial">🏛️ Exámenes Oficiales e Históricos</option>
-                    <option value="tema">🏷️ Por Tema Individual</option>
-                </select>
 
-                <!-- Sub-filtro Origen -->
-                <div id="filter-group-origen" class="filter-group hidden">
-                    <label style="font-weight:bold; display:block; margin-bottom:5px;">Selecciona la Editorial:</label>
-                    <select id="select-origen" class="form-control"
-                        style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px;">
-                        <option value="CSIF">CSIF</option>
-                        <option value="MAD">MAD</option>
-                        <option value="Academia">Academia</option>
-                    </select>
+            <div class="config-container-premium">
+                <!-- SECCIÓN 1: NÚMERO DE PREGUNTAS -->
+                <div class="config-section">
+                    <label class="section-label">1. ¿Cuántas preguntas quieres?</label>
+                    <div class="segmented-control" id="list-random-count">
+                        <button class="segment" data-value="10">10</button>
+                        <button class="segment active" data-value="20">20</button>
+                        <button class="segment" data-value="30">30</button>
+                    </div>
                 </div>
 
-                <!-- Sub-filtro Oficial -->
-                <div id="filter-group-oficial" class="filter-group hidden">
-                    <label style="font-weight:bold; display:block; margin-bottom:5px;">Selecciona Tipo de
-                        Examen:</label>
-                    <select id="select-oficial" class="form-control"
-                        style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px;">
-                        <option value="todos">Todos los Oficiales</option>
-                        <option value="SESCAM">OPE SESCAM</option>
-                        <option value="Otras">Otras Comunidades</option>
-                    </select>
+                <!-- SECCIÓN 2: CRONÓMETRO -->
+                <div class="config-section">
+                    <label class="section-label">2. Configuración del Tiempo</label>
+                    <div class="timer-config-wrapper">
+                        <div class="segmented-control" id="list-timer-mode">
+                            <button class="segment active" data-value="off">Sin Tiempo</button>
+                            <button class="segment" data-value="on">Con Tiempo ⏱️</button>
+                        </div>
+                        <div id="timer-minutes-selector" class="hidden">
+                            <select id="select-random-time" class="form-control-premium">
+                                <option value="5">5 min</option>
+                                <option value="10">10 min</option>
+                                <option value="15" selected>15 min</option>
+                                <option value="20">20 min</option>
+                                <option value="30">30 min</option>
+                            </select>
+                        </div>
+                    </div>
                 </div>
 
-                <!-- Sub-filtro Tema -->
-                <div id="filter-group-tema" class="filter-group hidden">
-                    <label style="font-weight:bold; display:block; margin-bottom:5px;">Elige el Tema:</label>
-                    <select id="select-tema-num" class="form-control"
-                        style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px;">
-                        <!-- JS fills options 1 to 16 -->
-                    </select>
-
-                    <label style="font-weight:bold; display:block; margin-bottom:5px;">Filtro de Fuente
-                        (Opcional):</label>
-                    <select id="select-tema-fuente" class="form-control"
-                        style="width:100%; padding:10px; margin-bottom:15px; border-radius:8px;">
-                        <option value="todas">Todas las fuentes</option>
-                        <option value="CSIF">CSIF</option>
-                        <option value="MAD">MAD</option>
-                        <option value="Academia">Academia</option>
-                    </select>
+                <!-- SECCIÓN 3: FUENTES -->
+                <div class="config-section">
+                    <label class="section-label">3. Fuentes de Preguntas</label>
+                    <div class="source-grid-premium">
+                        <div class="source-card active" data-source="MAD">
+                            <span class="source-icon">📚</span>
+                            <span class="source-name">MAD</span>
+                        </div>
+                        <div class="source-card active" data-source="CSIF">
+                            <span class="source-icon">🏥</span>
+                            <span class="source-name">CSIF</span>
+                        </div>
+                        <div class="source-card active" data-source="Academia">
+                            <span class="source-icon">🎓</span>
+                            <span class="source-name">Academia</span>
+                        </div>
+                        <div class="source-card active" data-source="Historico">
+                            <span class="source-icon">📅</span>
+                            <span class="source-name">Exámenes</span>
+                        </div>
+                    </div>
                 </div>
 
-                <div style="border-top: 1px solid #ddd; margin-top: 10px; padding-top: 15px; text-align:center;">
-                    <label style="font-weight:bold; display:block;">¿Cuántas preguntas?</label>
-                    <input type="number" id="random-count" min="1" max="100" value="20">
-                    <p style="font-size:0.8rem; color:#777; margin-top:0;">Máximo 100.</p>
+                <!-- SECCIÓN 4: FILTRO TEMARIO -->
+                <div class="config-section">
+                    <label class="section-label">4. Filtro de Temario</label>
+                    <div class="segmented-control" id="list-random-scope">
+                        <button class="segment" data-value="general">General</button>
+                        <button class="segment" data-value="especifica">Específica</button>
+                        <button class="segment active" data-value="mix">Mixto</button>
+                    </div>
                 </div>
-                <br>
-                <button id="btn-start-random" class="btn-primary">Comenzar Test Aleatorio <svg width="24" height="24"
-                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M5 12h14M12 5l7 7-7 7" />
-                    </svg></button>
+
+                <!-- BOTÓN ACCIÓN -->
+                <div style="margin-top: 40px;">
+                    <button id="btn-start-random" class="btn-primary-premium">
+                        ¡EMPEZAR TEST ALEATORIO! 🚀
+                    </button>
+                </div>
             </div>
         </div>
 
