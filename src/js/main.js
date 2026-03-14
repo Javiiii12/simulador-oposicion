@@ -323,9 +323,18 @@ function triggerGameStart(mode) {
 }
 
 function initRandomView() {
-    // Resetear a valores por defecto si fuera necesario
-    const segments = document.querySelectorAll('.segment[data-value="20"], .segment[data-value="off"], .segment[data-value="mix"]');
-    segments.forEach(s => s.classList.add('active'));
+    // 1. Resetear todos los segmentos primero
+    document.querySelectorAll('.segmented-control .segment').forEach(s => s.classList.remove('active'));
+    
+    // 2. Activar por defecto [20 preguntas], [Sin Tiempo], [Mixto]
+    const defaults = document.querySelectorAll('.segment[data-value="20"], .segment[data-value="off"], .segment[data-value="mix"]');
+    defaults.forEach(s => s.classList.add('active'));
+
+    // 3. Activar todas las fuentes por defecto
+    document.querySelectorAll('.source-card').forEach(c => c.classList.add('active'));
+
+    // 4. Ocultar selector de minutos (ya que el default es 'off')
+    UI.toggleEl('timer-minutes-selector', false);
 }
 
 function startRandom() {
