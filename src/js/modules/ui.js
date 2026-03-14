@@ -170,20 +170,35 @@ export function renderizarRecordsMenu() {
         if (btn) {
             btn.classList.add('card-has-record');
             
-            // Determinar icono según nota
-            let icon = '❌';
-            if (score >= 9) icon = '🏆';
-            else if (score >= 7) icon = '🎖️';
-            else if (score >= 5) icon = '✅';
-
-            // Inyectar badge discreto (Sello de completado)
+            // Inyectar badge discreto (Sello Premium)
             const badge = document.createElement('span');
             badge.className = 'badge-record';
-            // NUEVO FORMATO: ✅ Completado | 🏆 8.5
-            badge.innerHTML = `${icon} <span style="margin-left:2px;">Completado</span> <span style="margin:0 4px; opacity:0.5;">|</span> 🏆 ${score.toFixed(1)}`;
+            badge.innerHTML = getRecordBadgeHTML(score);
             btn.appendChild(badge);
         }
     });
+}
+
+/**
+ * Genera el HTML para el badge de récord con estética Premium.
+ * @param {number} score - Nota de 0 a 10.
+ */
+function getRecordBadgeHTML(score) {
+    const isPass = score >= 5;
+    const statusIcon = isPass ? '✅' : '❌';
+    const statusText = isPass ? 'Completado' : 'Suspenso';
+    
+    let scoreIcon = '⚠️';
+    if (score >= 10) scoreIcon = '👑';
+    else if (score >= 9) scoreIcon = '💎';
+    else if (score >= 7) scoreIcon = '🏆';
+    else if (score >= 5) scoreIcon = '🎖️';
+
+    return `
+        ${statusIcon} <span style="margin-left:2px;">${statusText}</span>
+        <span style="margin:0 6px; opacity:0.4;">|</span>
+        ${scoreIcon} <span style="font-weight:bold;">${score.toFixed(1)}</span>
+    `.trim();
 }
 
 export function slugify(text) {
