@@ -32,6 +32,11 @@ document.addEventListener('DOMContentLoaded', () => {
             const overlay = document.getElementById('access-overlay');
             if (overlay) overlay.classList.add('hidden');
 
+            // ── Role Control ──
+            const isAdmin = (_userData.id_acceso === 'PichonJefe');
+            UI.toggleEl('btn-admin-panel', isAdmin);
+            console.log(`[AUTH] User: ${_userData.id_acceso} | Admin: ${isAdmin}`);
+
             const licEl = document.getElementById('licencia-activa');
             if (licEl) licEl.style.display = 'inline-block';
 
@@ -388,6 +393,13 @@ function showProgress() {
 // ── Admin panel ────────────────────────────────────────────────────────────
 
 async function loadAdminLogs() {
+    // ── Security Check ──
+    const userId = Storage.getSavedUser();
+    if (userId !== 'PichonJefe') {
+        alert('Acceso no autorizado.');
+        return;
+    }
+    
     if (!state.supabaseClient) return;
     const tbody = document.getElementById('admin-table-body');
     tbody.innerHTML = '<tr><td colspan="2" style="text-align:center">Cargando...</td></tr>';
