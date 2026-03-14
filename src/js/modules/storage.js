@@ -39,7 +39,8 @@ export function getFailedIds() {
 
 export function addFailedId(id) {
     const ids = getFailedIds();
-    if (!ids.includes(id)) {
+    const set = new Set(ids);
+    if (!set.has(id)) {
         ids.push(id);
         localStorage.setItem(pk(KEYS.FAILED_IDS), JSON.stringify(ids));
     }

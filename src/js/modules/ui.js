@@ -35,6 +35,7 @@ export function showView(viewName, addToHistory = true) {
     // ── GESTIÓN DE HISTORIAL ──
     if (viewName === 'roleSelection') {
         state.viewHistory = []; // Reset total al volver a la raíz
+        history.replaceState({ view: 'roleSelection' }, '');
     } else if (addToHistory) {
         const currentActive = Object.values(VIEW_IDS).find(id => {
             const el = document.getElementById(id);
@@ -43,6 +44,18 @@ export function showView(viewName, addToHistory = true) {
         // Solo guardamos si es una vista distinta para evitar bucles
         if (currentActive && currentActive !== targetId) {
             state.viewHistory.push(currentActive);
+            // Sincronizar con el historial del navegador
+            history.pushState({ view: viewName }, '');
+        }
+    }
+
+    // Gestionar visibilidad del botón "Volver" en el menú raíz
+    if (viewName === 'menu') {
+        // Si venimos de un lugar que reinicia historial, u ocultamos si no hay vuelta atrás útil
+        const btnBack = document.getElementById('btn-back-menu');
+        if (btnBack) {
+            // Si el historial está vacío (salto directo o reset), ocultamos el botón de volver
+            btnBack.style.visibility = (state.viewHistory.length === 0) ? 'hidden' : 'visible';
         }
     }
 
@@ -95,6 +108,8 @@ export function goBack() {
         // search the key for the ID
         const viewKey = Object.keys(VIEW_IDS).find(key => VIEW_IDS[key] === prevViewId) || prevViewId;
         showView(viewKey, false);
+        // También quitamos la entrada del historial del navegador (popstate se encargará si es el botón del navegador)
+        history.back();
     } else {
         // Fallback: Si no hay historial, volver a la selección de rol
         showView('roleSelection', false);

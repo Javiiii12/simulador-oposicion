@@ -61,4 +61,14 @@ El motor separa el contenido por fuentes para un estudio estructurado:
 
 ---
 
+## 🔒 Reglas de Oro (Seguridad y Sincronización)
+
+Para evitar regresiones en futuras actualizaciones, se deben respetar estos pilares:
+
+1.  **Validación de Dispositivo Obligatoria**: No se debe ocultar el `access-overlay` hasta que `Auth.checkAuth` devuelva `onSuccess`.
+2.  **Lógica de Auto-Recuperación (Self-Healing)**: El sistema no confía solo en el `localStorage`. Si el contador de la DB es incoherente (ej. tras un reseteo manual), el código consulta el historial de `access_logs` para detectar cambios de hardware y reparar el contador automáticamente.
+3.  **Aislamiento de Progreso**: Las claves de `localStorage` para resultados deben seguir el patrón `{prefijo}_{tema}_{bloque}` para asegurar que el "Progreso en Cascada" funcione por agregación de prefijos.
+
+---
+
 *Desarrollado con ❤️ y código limpio para dar el salto a la codiciada plaza blanca.*

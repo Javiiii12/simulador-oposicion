@@ -367,10 +367,10 @@ function handleAnswer(selected, q) {
     // Score + failure tracking
     if (isCorrect) {
         state.score++;
-        if (state.currentMode === 'failures') {
-            Storage.removeFailedId(q.id);
-            updateFailureBadge(Storage.getFailedIds().length);
-        }
+        // BUG FIX: AUTO-PERDÓN
+        // Si el usuario ACERTA, eliminamos el ID del histórico de fallos
+        Storage.removeFailedId(q.id);
+        updateFailureBadge(Storage.getFailedIds().length);
     } else {
         Storage.addFailedId(q.id);
         updateFailureBadge(Storage.getFailedIds().length);

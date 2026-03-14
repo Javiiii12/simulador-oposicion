@@ -53,6 +53,13 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
     });
+
+    // ── Browsing History Fix ──
+    window.onpopstate = (event) => {
+        if (event.state && event.state.view) {
+            UI.showView(event.state.view, false);
+        }
+    };
 });
 
 // ── Helpers ────────────────────────────────────────────────────────────────
@@ -226,7 +233,12 @@ function setupEventListeners() {
             UI.renderizarRecordsMenu();
             UI.renderizarProgresoGlobal();
             UI.renderizarProgresoExamenes();
-            UI.showView('menu'); // Esto limpiará el historial si fuera necesario o se manejará en ui.js
+            
+            // BUG FIX: Reset navigation when going home from results
+            state.viewHistory = []; 
+            UI.showView('menu', false);
+            // Replace state to avoid going back to results
+            history.replaceState({ view: 'menu' }, '');
         });
     document.getElementById('btn-back-selection')
         .addEventListener('click', () => {
