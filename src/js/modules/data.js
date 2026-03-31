@@ -73,7 +73,7 @@ export async function loadAllData() {
         console.log("Fetching question data...");
 
         const bust = `?v=${Date.now()}`;
-        const [resMad, resCsif, resAcad1, resAcad2, resAcad3, resAcad4, resAcad5, resAcad8, resAcad9, resAcad10, resCel2024] = await Promise.all([
+        const [resMad, resCsif, resAcad1, resAcad2, resAcad3, resAcad4, resAcad5, resAcad8, resAcad9, resAcad10, resCel2024, resCocinero2026] = await Promise.all([
             fetch(`data/preguntas.json${bust}`),
             fetch(`data/csif_questions.json${bust}`),
             fetch(`data/academia_tema1.json${bust}`),
@@ -84,7 +84,8 @@ export async function loadAllData() {
             fetch(`data/academia_tema8.json${bust}`),
             fetch(`data/academia_tema9.json${bust}`),
             fetch(`data/academia_tema10.json${bust}`),
-            fetch(`data/sescam_2024_celador.json${bust}`)
+            fetch(`data/sescam_2024_celador.json${bust}`),
+            fetch(`data/sescam_2026_cocinero.json${bust}`)
         ]);
 
         if (!resMad.ok) throw new Error(`HTTP ${resMad.status} al cargar preguntas.json`);
@@ -100,6 +101,7 @@ export async function loadAllData() {
         const textAcad9 = resAcad9.ok ? await resAcad9.text() : '[]';
         const textAcad10 = resAcad10.ok ? await resAcad10.text() : '[]';
         const textCel2024 = resCel2024.ok ? await resCel2024.text() : '[]';
+        const textCocinero2026 = resCocinero2026.ok ? await resCocinero2026.text() : '[]';
 
         // Sanitize BOM (Byte Order Mark) that corrupts JSON.parse()
         const sanitize = (str) => str.replace(/^\uFEFF/, '').trim();
@@ -115,6 +117,7 @@ export async function loadAllData() {
         const acadData9 = JSON.parse(sanitize(textAcad9));
         const acadData10 = JSON.parse(sanitize(textAcad10));
         const cel2024Data = JSON.parse(sanitize(textCel2024));
+        const cocinero2026Data = JSON.parse(sanitize(textCocinero2026));
 
         // Tag standard format sources
         const madWithSource = madData.map(q => ({ ...q, source: q.origen || 'MAD', origen: q.origen || 'MAD' }));
@@ -133,9 +136,10 @@ export async function loadAllData() {
         ];
 
         const cel2024WithSource = cel2024Data.map(q => ({ ...q, source: 'Histo', origen: 'Examen Oficial Celador 2024' }));
+        const cocinero2026WithSource = cocinero2026Data.map(q => ({ ...q, source: 'Histo', origen: 'OPE SESCAM Cocinero 2026' }));
 
-        state.allQuestions = [...madWithSource, ...csifWithSource, ...acadNormalized, ...cel2024WithSource];
-        console.log(`Loaded ${state.allQuestions.length} questions. (MAD: ${madWithSource.length}, CSIF: ${csifWithSource.length}, Academia: ${acadNormalized.length}, Celador 2024: ${cel2024WithSource.length})`);
+        state.allQuestions = [...madWithSource, ...csifWithSource, ...acadNormalized, ...cel2024WithSource, ...cocinero2026WithSource];
+        console.log(`Loaded ${state.allQuestions.length} questions. (MAD: ${madWithSource.length}, CSIF: ${csifWithSource.length}, Academia: ${acadNormalized.length}, Celador 2024: ${cel2024WithSource.length}, Cocinero 2026: ${cocinero2026WithSource.length})`);
         return state.allQuestions;
 
     } catch (err) {

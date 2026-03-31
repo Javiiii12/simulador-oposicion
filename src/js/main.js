@@ -144,6 +144,13 @@ function setupEventListeners() {
     document.getElementById('btn-back-exams')
         .addEventListener('click', () => UI.goBack());
     // Exámenes específicos
+    const btn2026Cocinero = document.getElementById('btn-topic-ope_2026_cocinero');
+    if (btn2026Cocinero) btn2026Cocinero.addEventListener('click', () => {
+        const qs = state.allQuestions.filter(q => q.origen === 'OPE SESCAM Cocinero 2026');
+        if (!qs.length) return alert('Examen no cargado.');
+        Topics.prepareModeSelection('Examen OPE 2026 (Cocinero/a)', () => qs, 'ope_2026_cocinero');
+    });
+
     const btn2024 = document.getElementById('btn-topic-ope_2024_cel');
     if (btn2024) btn2024.addEventListener('click', () => {
         const qs = state.allQuestions.filter(q => q.tema === 'Examen Oficial Celador/a SESCAM 2024');
