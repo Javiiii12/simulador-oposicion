@@ -2,14 +2,14 @@
  * main.js — Application entry point.
  * Orchestrates: auth → data load → UI init → ALL event listeners.
  */
-import * as Auth from './modules/auth.js?v=1.16.2';
-import * as Data from './modules/data.js?v=1.16.2';
-import * as UI from './modules/ui.js?v=1.16.2';
-import * as Storage from './modules/storage.js?v=1.16.2';
-import * as Topics from './modules/topics.js?v=1.16.2';
-import * as Game from './modules/game.js?v=1.16.2';
-import { state } from './modules/state.js?v=1.16.2';
-import { CONFIG } from './modules/config.js?v=1.16.2';
+import * as Auth from './modules/auth.js';
+import * as Data from './modules/data.js';
+import * as UI from './modules/ui.js';
+import * as Storage from './modules/storage.js';
+import * as Topics from './modules/topics.js';
+import * as Game from './modules/game.js';
+import { state } from './modules/state.js';
+import { CONFIG } from './modules/config.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     // ── Anti-copy protections ──────────────────────────────────────────────
