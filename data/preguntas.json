@@ -387,7 +387,7 @@
       "c": "Siete por ciento.",
       "d": "Diez por ciento."
     },
-    "correcta": "b",
+    "correcta": "a",
     "explicacion": "",
     "origen": "MAD"
   },
@@ -443,7 +443,7 @@
       "c": "Procedimientos que permitan la máxima objetividad en la selección.",
       "d": "Procedimientos que permitan la máxima celeridad y seguridad."
     },
-    "correcta": "c",
+    "correcta": "b",
     "explicacion": "",
     "origen": "MAD"
   },
@@ -10321,7 +10321,7 @@
       "c": "Cocinar al vapor.",
       "d": "Triturar alimentos."
     },
-    "correcta": "c",
+    "correcta": "b",
     "explicacion": ""
   },
   {
@@ -13024,7 +13024,7 @@
       "c": "Seguridad jurídica.",
       "d": "Jerarquía normativa."
     },
-    "correcta": "c",
+    "correcta": "a,b",
     "explicacion": "",
     "origen": "MAD"
   },
