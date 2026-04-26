@@ -1,6 +1,6 @@
 export const CONFIG = {
-    SUPABASE_URL: 'https://eykwcwgplldapzjnxuym.supabase.co',
-    SUPABASE_KEY: 'sb_publishable_Ds016pgeKw5Z3j-Icu0SUA_wdKEoIyx',
+    SUPABASE_URL: 'https://ictintjdebutsjkbexpc.supabase.co',
+    SUPABASE_KEY: 'sb_publishable_ZBq95C7iXJxI4wkltK5YCA_45_zGPEW',
     VALID_HASH: "6df795bb7e73343384fb90ff03841e6f7b0a585ab9f50e2e6e7ec398b722f508",
     APP_VERSION: 'v1.15.7 (Force)',
     MAX_HISTORY_LENGTH: 50,

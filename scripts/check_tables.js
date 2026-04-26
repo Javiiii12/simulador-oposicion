@@ -1,8 +1,8 @@
 
 const { createClient } = require('@supabase/supabase-js');
 
-const SUPABASE_URL = 'https://eykwcwgplldapzjnxuym.supabase.co';
-const SUPABASE_KEY = 'sb_publishable_Ds016pgeKw5Z3j-Icu0SUA_wdKEoIyx';
+const SUPABASE_URL = 'https://ictintjdebutsjkbexpc.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_ZBq95C7iXJxI4wkltK5YCA_45_zGPEW';
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
